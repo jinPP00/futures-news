@@ -1,11 +1,8 @@
 name: 해외선물 뉴스 크롤링
 on:
   schedule:
-    - cron: '*/30 * * * *'  # 30분마다
-  workflow_dispatch:
-  push:  # 푸시할 때도 실행 (테스트용)
-    branches:
-      - main
+    - cron: '*/20 * * * *'  # 20분마다 실행
+  workflow_dispatch:  # 수동 실행 가능
 
 jobs:
   crawl:
@@ -34,16 +31,12 @@ jobs:
         python-version: '3.11'
     
     - name: 의존성 설치
-      run: |
-        pip install playwright feedparser
-        playwright install chromium
-        playwright install-deps chromium
+      run: pip install feedparser
     
     - name: 뉴스 크롤링 실행
       run: python futures_news_crawler.py
       env:
         TZ: Asia/Seoul
-      continue-on-error: true
     
     - name: Git 설정
       run: |
