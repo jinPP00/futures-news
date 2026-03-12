@@ -2,38 +2,15 @@
 
 from playwright.async_api import async_playwright
 import json
-from datetime import datetime
+from datetime import datetime, timedelta  # 👈 timedelta 추가
 import feedparser
 import asyncio
 
 
 def should_crawl_now():
     """크롤링 실행 여부 - 테스트용"""
-    return True, "테스트 모드 - 항상 실행"  # 👈 전체를 이렇게
+    return True, "테스트 모드 - 항상 실행"
 
-
-# def should_crawl_now():
-#     """
-#     크롤링 실행 여부 결정
-#     - 밤 9시(21시) ~ 새벽 4시: 항상 실행 (5분마다)
-#     - 오전 4시 ~ 밤 9시: 정각 근처에만 실행 (1시간마다)
-#     """
-#     now = datetime.now()
-#     hour = now.hour
-#     minute = now.minute
-    
-#     # 밤 9시 ~ 새벽 4시: 항상 실행
-#     if hour >= 21 or hour < 4:
-#         return True, f"밤 시간대 ({hour}시) - 5분마다 실행"
-    
-#     # 오전 4시 ~ 밤 9시: 정각 근처(0~4분)에만 실행
-#     if 4 <= hour < 21:
-#         if minute < 5:
-#             return True, f"낮 시간대 ({hour}시 정각) - 1시간마다 실행"
-#         else:
-#             return False, f"낮 시간대 ({hour}:{minute:02d}) - 스킵"
-    
-#     return False, "알 수 없는 시간"
 
 def classify_category(title):
     """카테고리 자동 분류"""
@@ -54,34 +31,28 @@ def classify_category(title):
     else:
         return '기타'
 
+
 def extract_symbols(title):
     """제목에서 종목 코드 추출"""
     symbols = []
     title_lower = title.lower()
     
-    # 금속
     if '금' in title or 'gold' in title_lower:
         symbols.append('GC')
     if '은' in title or 'silver' in title_lower:
         symbols.append('SI')
     if '구리' in title or 'copper' in title_lower:
         symbols.append('HG')
-    
-    # 에너지
     if '원유' in title or 'crude' in title_lower or 'wti' in title_lower or 'brent' in title_lower:
         symbols.append('CL')
     if '천연가스' in title or 'natural gas' in title_lower:
         symbols.append('NG')
-    
-    # 곡물
     if '옥수수' in title or 'corn' in title_lower:
         symbols.append('ZC')
     if '대두' in title or 'soybean' in title_lower:
         symbols.append('ZS')
     if '밀' in title or 'wheat' in title_lower:
         symbols.append('ZW')
-    
-    # 지수
     if 's&p' in title_lower or 's&p 500' in title_lower:
         symbols.append('ES')
     if '나스닥' in title or 'nasdaq' in title_lower:
@@ -91,17 +62,58 @@ def extract_symbols(title):
     
     return symbols
 
-async def fetch_google_news_rss():
-    """Google News 한글 뉴스 (원자재/선물)"""
+
+async def fetch_google_news_topics():
+    """Google News 토픽 RSS (실시간 큐레이션)"""
     news_items = []
     
-    # 검색어별 Google News RSS
+    topic_urls = {
+        '비즈니스': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtdHZHZ0pMVWlnQVAB?hl=ko&gl=KR&ceid=KR:ko',
+        '경제': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=ko&gl=KR&ceid=KR:ko',
+    }
+    
+    try:
+        for topic_name, url in topic_urls.items():
+            try:
+                feed = feedparser.parse(url)
+                
+                for entry in feed.entries:
+                    title = entry.title
+                    
+                    keywords = [
+                        '금', '은', '원유', '달러', '환율', '선물', '구리', 
+                        '천연가스', '옥수수', '대두', '밀', 'WTI', '브렌트',
+                        '나스닥', 'S&P', '다우', '코스피', '비트코인', '이더리움'
+                    ]
+                    
+                    if any(keyword in title for keyword in keywords):
+                        news_items.append({
+                            'title': title,
+                            'time': entry.published if hasattr(entry, 'published') else '최근',
+                            'link': entry.link,
+                            'category': classify_category(title),
+                            'symbols': extract_symbols(title),
+                            'source': 'Google News',
+                            'lang': 'ko'
+                        })
+                        
+            except Exception as e:
+                continue
+                
+    except Exception as e:
+        print(f"❌ Google News 토픽 오류: {e}")
+    
+    return news_items
+
+
+async def fetch_google_news_rss():
+    """Google News 검색 RSS (보충용)"""
+    news_items = []
+    
     search_queries = {
-        '금 선물': 'https://news.google.com/rss/search?q=금+선물+when:7d&hl=ko&gl=KR&ceid=KR:ko',
-        '원유 가격': 'https://news.google.com/rss/search?q=원유+가격+when:7d&hl=ko&gl=KR&ceid=KR:ko',
-        '달러 환율': 'https://news.google.com/rss/search?q=달러+환율+when:7d&hl=ko&gl=KR&ceid=KR:ko',
-        '천연가스': 'https://news.google.com/rss/search?q=천연가스+when:7d&hl=ko&gl=KR&ceid=KR:ko',
-        '구리 가격': 'https://news.google.com/rss/search?q=구리+가격+when:7d&hl=ko&gl=KR&ceid=KR:ko',
+        '금 선물': 'https://news.google.com/rss/search?q=금+선물+when:1d&hl=ko&gl=KR&ceid=KR:ko',
+        '원유 가격': 'https://news.google.com/rss/search?q=원유+가격+when:1d&hl=ko&gl=KR&ceid=KR:ko',
+        '달러 환율': 'https://news.google.com/rss/search?q=달러+환율+when:1d&hl=ko&gl=KR&ceid=KR:ko',
     }
     
     try:
@@ -109,10 +121,9 @@ async def fetch_google_news_rss():
             try:
                 feed = feedparser.parse(url)
                 
-                for entry in feed.entries[:3]:  # 각 검색어당 3개씩
+                for entry in feed.entries[:2]:
                     title = entry.title
                     
-                    # 중복 방지: 너무 짧은 제목 제외
                     if len(title.strip()) < 10:
                         continue
                     
@@ -134,6 +145,7 @@ async def fetch_google_news_rss():
     
     return news_items
 
+
 async def crawl_naver_finance():
     """네이버 금융 원자재 뉴스"""
     async with async_playwright() as p:
@@ -142,11 +154,9 @@ async def crawl_naver_finance():
         news_items = []
         
         try:
-            # 네이버 금융 국제 시장 뉴스
             await page.goto('https://finance.naver.com/news/news_list.naver?mode=LSS3D&section_id=101&section_id2=258&section_id3=402')
             await page.wait_for_timeout(3000)
             
-            # 뉴스 제목 목록
             items = await page.query_selector_all('.articleSubject a')
             
             for item in items[:10]:
@@ -157,7 +167,6 @@ async def crawl_naver_finance():
                     if link and not link.startswith('http'):
                         link = f"https://finance.naver.com{link}"
                     
-                    # 원자재 관련 뉴스만 필터링
                     if any(keyword in title for keyword in [
                         '금', '은', '원유', '달러', '환율', '선물', 
                         '구리', '천연가스', '옥수수', '대두', '밀', 'WTI', '브렌트'
@@ -180,6 +189,7 @@ async def crawl_naver_finance():
         
         await browser.close()
         return news_items
+
 
 async def fetch_cnbc_rss():
     """CNBC 원자재 RSS (영문)"""
@@ -206,8 +216,9 @@ async def fetch_cnbc_rss():
     
     return news_items
 
+
 async def crawl_all_sources():
-    """모든 소스 통합 크롤링 (누적 방식 + 3일 자동 삭제)"""
+    """모든 소스 통합 크롤링 (누적 + 3일 삭제)"""
     print("=" * 50)
     print("🚀 해외선물 뉴스 크롤링 시작")
     print("=" * 50)
@@ -227,32 +238,37 @@ async def crawl_all_sources():
     # 2. 새 뉴스 크롤링
     new_news = []
     
-    # Google News RSS (한글)
-    print("\n📰 Google News 수집 중...")
-    google_news = await fetch_google_news_rss()
-    new_news.extend(google_news)
-    print(f"✅ {len(google_news)}개 수집")
+    # Google News 토픽
+    print("\n📰 Google News 토픽 수집 중...")
+    google_topics = await fetch_google_news_topics()
+    new_news.extend(google_topics)
+    print(f"✅ {len(google_topics)}개 수집")
     
-    # 네이버 금융 (한글)
+    # Google News 검색
+    print("\n📰 Google News 검색 수집 중...")
+    google_search = await fetch_google_news_rss()
+    new_news.extend(google_search)
+    print(f"✅ {len(google_search)}개 수집")
+    
+    # 네이버 금융
     print("\n📰 네이버 금융 크롤링 중...")
     naver_news = await crawl_naver_finance()
     new_news.extend(naver_news)
     print(f"✅ {len(naver_news)}개 수집")
     
-    # CNBC RSS (영문)
+    # CNBC RSS
     print("\n📰 CNBC RSS 수집 중...")
     cnbc_news = await fetch_cnbc_rss()
     new_news.extend(cnbc_news)
     print(f"✅ {len(cnbc_news)}개 수집")
     
-    # 3. 새 뉴스에 크롤링 시간 추가
+    # 3. 크롤링 시간 추가
     current_time = datetime.now()
     for news in new_news:
         news['crawled_at'] = current_time.isoformat()
     
-    # 4. 기존 뉴스 + 새 뉴스 합치기
+    # 4. 기존 + 새 뉴스 합치기
     all_news = new_news + existing_news
-    
     print(f"\n📊 합계: {len(all_news)}개 (신규 {len(new_news)}개 + 기존 {len(existing_news)}개)")
     
     # 5. 3일 지난 뉴스 삭제
@@ -261,13 +277,10 @@ async def crawl_all_sources():
     deleted_count = 0
     
     for news in all_news:
-        # crawled_at 필드가 있는지 확인
         if 'crawled_at' not in news:
-            # 기존 뉴스 중 crawled_at 없는 것은 현재 시간으로 설정
             news['crawled_at'] = current_time.isoformat()
             filtered_news.append(news)
         else:
-            # 크롤링 시간 확인
             try:
                 crawled_time = datetime.fromisoformat(news['crawled_at'])
                 if crawled_time > cutoff_time:
@@ -275,19 +288,17 @@ async def crawl_all_sources():
                 else:
                     deleted_count += 1
             except:
-                # 날짜 파싱 실패시 유지
                 filtered_news.append(news)
     
     if deleted_count > 0:
         print(f"🗑️  3일 지난 뉴스 {deleted_count}개 삭제")
     
-    # 6. 중복 제거 (제목 + 링크 기준)
+    # 6. 중복 제거
     seen = set()
     unique_news = []
     duplicates = 0
     
     for news in filtered_news:
-        # 제목 50자 + 링크로 고유 키 생성
         title_key = news['title'][:50].lower().strip()
         link_key = news.get('link', '')
         unique_key = (title_key, link_key)
@@ -301,27 +312,24 @@ async def crawl_all_sources():
     if duplicates > 0:
         print(f"🔄 중복 제거: {duplicates}개")
     
-    # 7. 최신순 정렬 (crawled_at 기준)
+    # 7. 최신순 정렬
     unique_news.sort(key=lambda x: x.get('crawled_at', ''), reverse=True)
     
-    # 8. 최대 200개로 제한 (안전장치)
+    # 8. 200개 제한
     if len(unique_news) > 200:
         unique_news = unique_news[:200]
-        print(f"⚠️ 200개로 제한 (너무 많음)")
+        print(f"⚠️ 200개로 제한")
     
-    # 9. 통계 계산
+    # 9. 통계
     total_count = len(unique_news)
-    
-    # 언어별 카운트
     korean_count = sum(1 for n in unique_news if n.get('lang') == 'ko')
     english_count = sum(1 for n in unique_news if n.get('lang') == 'en')
     
-    # 소스별 카운트 (새 뉴스만)
-    new_google = sum(1 for n in new_news if n.get('source') == 'Google News')
-    new_naver = sum(1 for n in new_news if n.get('source') == '네이버 금융')
-    new_cnbc = sum(1 for n in new_news if n.get('source') == 'CNBC')
+    new_google = len(google_topics) + len(google_search)
+    new_naver = len(naver_news)
+    new_cnbc = len(cnbc_news)
     
-    # 10. 결과 JSON 생성
+    # 10. JSON 생성
     result = {
         'updated_at': current_time.isoformat(),
         'update_time_kr': current_time.strftime('%Y년 %m월 %d일 %H:%M'),
@@ -342,41 +350,40 @@ async def crawl_all_sources():
         'retention_policy': '3일 보관'
     }
     
-    # 11. JSON 파일 저장
+    # 11. 저장
     with open('futures_news.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
-    # 12. 최종 요약
+    # 12. 요약
     print("\n" + "=" * 50)
     print(f"✅ 크롤링 완료!")
-    print(f"📊 최종 뉴스: {total_count}개")
-    print(f"📊 신규 추가: {len(new_news)}개")
-    print(f"📊 3일 삭제: {deleted_count}개")
-    print(f"📊 중복 제거: {duplicates}개")
-    print(f"📊 한글/영문: {korean_count}개 / {english_count}개")
-    print(f"📊 소스별 - Google: {new_google}개 | 네이버: {new_naver}개 | CNBC: {new_cnbc}개")
+    print(f"📊 최종: {total_count}개")
+    print(f"📊 신규: {len(new_news)}개")
+    print(f"📊 삭제: {deleted_count}개")
+    print(f"📊 중복: {duplicates}개")
+    print(f"📊 한글/영문: {korean_count}/{english_count}개")
+    print(f"📊 소스 - Google: {new_google} | 네이버: {new_naver} | CNBC: {new_cnbc}")
     print("=" * 50)
     
     return result
 
+
 async def main():
-    """메인 실행 함수"""
+    """메인 실행"""
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
-    # 시간대별 실행 여부 체크
     should_run, reason = should_crawl_now()
     
     print(f"\n[{current_time}]")
     print(f"⏰ {reason}")
     
     if not should_run:
-        print("⏭️  다음 크롤링 시간까지 대기 중...")
+        print("⏭️  대기 중...")
         return
     
     print("🎯 크롤링 시작!\n")
-    
-    # 실제 크롤링 실행
     await crawl_all_sources()
+
 
 if __name__ == '__main__':
     asyncio.run(main())
