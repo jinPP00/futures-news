@@ -45,9 +45,9 @@ def classify_category(title):
         return '에너지'
     elif any(word in title_lower for word in ['옥수수', 'corn', '대두', 'soybean', '밀', 'wheat', '곡물']):
         return '곡물'
-    elif any(word in title_lower for word in ['s&p', 'nasdaq', '나스닥', 'dow', '다우', '니케이', 'nikkei']):
+    elif any(word in title_lower for word in ['s&p', 'nasdaq', '나스닥', 'dow', '다우', '니케이', 'nikkei', '코스피', '코스닥']):
         return '지수'
-    elif any(word in title_lower for word in ['달러', 'dollar', '엔', 'yen', '유로', 'euro', '파운드', 'pound']):
+    elif any(word in title_lower for word in ['달러', 'dollar', '엔', 'yen', '유로', 'euro', '파운드', 'pound', '위안', '환율']):
         return '통화'
     elif any(word in title_lower for word in ['비트코인', 'bitcoin', '이더리움', 'ethereum', '암호화폐', 'crypto']):
         return '암호화폐'
@@ -68,7 +68,7 @@ def extract_symbols(title):
         symbols.append('HG')
     
     # 에너지
-    if '원유' in title or 'crude' in title_lower or 'wti' in title_lower:
+    if '원유' in title or 'crude' in title_lower or 'wti' in title_lower or 'brent' in title_lower:
         symbols.append('CL')
     if '천연가스' in title or 'natural gas' in title_lower:
         symbols.append('NG')
@@ -82,7 +82,7 @@ def extract_symbols(title):
         symbols.append('ZW')
     
     # 지수
-    if 's&p' in title_lower:
+    if 's&p' in title_lower or 's&p 500' in title_lower:
         symbols.append('ES')
     if '나스닥' in title or 'nasdaq' in title_lower:
         symbols.append('NQ')
@@ -91,147 +91,92 @@ def extract_symbols(title):
     
     return symbols
 
-async def crawl_kr_investing():
-    """kr.investing.com 한글 뉴스 크롤링 (디버그 버전)"""
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-        news_items = []
-        
-        try:
-            print("\n=== kr.investing.com 디버깅 시작 ===")
-            
-            # 여러 URL 시도
-            urls = [
-                'https://kr.investing.com/news/commodities-news',
-                'https://kr.investing.com/commodities/real-time-futures',
-                'https://kr.investing.com/news/latest-news'
-            ]
-            
-            for url in urls:
-                print(f"\n시도 중: {url}")
+async def fetch_google_news_rss():
+    """Google News 한글 뉴스 (원자재/선물)"""
+    news_items = []
+    
+    # 검색어별 Google News RSS
+    search_queries = {
+        '금 선물': 'https://news.google.com/rss/search?q=금+선물+when:7d&hl=ko&gl=KR&ceid=KR:ko',
+        '원유 가격': 'https://news.google.com/rss/search?q=원유+가격+when:7d&hl=ko&gl=KR&ceid=KR:ko',
+        '달러 환율': 'https://news.google.com/rss/search?q=달러+환율+when:7d&hl=ko&gl=KR&ceid=KR:ko',
+        '천연가스': 'https://news.google.com/rss/search?q=천연가스+when:7d&hl=ko&gl=KR&ceid=KR:ko',
+        '구리 가격': 'https://news.google.com/rss/search?q=구리+가격+when:7d&hl=ko&gl=KR&ceid=KR:ko',
+    }
+    
+    try:
+        for keyword, url in search_queries.items():
+            try:
+                feed = feedparser.parse(url)
                 
-                try:
-                    await page.goto(url, wait_until='domcontentloaded', timeout=30000)
-                    await page.wait_for_timeout(5000)
+                for entry in feed.entries[:3]:  # 각 검색어당 3개씩
+                    title = entry.title
                     
-                    # 페이지 HTML 일부 출력
-                    content = await page.content()
-                    print(f"페이지 로드됨 (길이: {len(content)})")
-                    
-                    # 여러 셀렉터 시도
-                    selectors = [
-                        'article.js-article-item',
-                        'article',
-                        '.largeTitle',
-                        '.textDiv',
-                        '[data-test="article-title-link"]',
-                        '.articleItem'
-                    ]
-                    
-                    for selector in selectors:
-                        elements = await page.query_selector_all(selector)
-                        print(f"  셀렉터 '{selector}': {len(elements)}개 발견")
-                        
-                        if len(elements) > 0:
-                            print(f"  ✅ 사용 가능! 첫 번째 요소 확인 중...")
-                            
-                            # 첫 번째 요소에서 텍스트 추출 시도
-                            try:
-                                first = elements[0]
-                                text = await first.inner_text()
-                                print(f"  텍스트: {text[:100]}...")
-                                
-                                # 링크 찾기
-                                link_elem = await first.query_selector('a')
-                                if link_elem:
-                                    href = await link_elem.get_attribute('href')
-                                    print(f"  링크: {href}")
-                                    
-                                    # 실제 뉴스 수집 시작
-                                    print(f"\n  이 셀렉터로 수집 시작: {selector}")
-                                    
-                                    for elem in elements[:15]:
-                                        try:
-                                            a_tag = await elem.query_selector('a')
-                                            if not a_tag:
-                                                continue
-                                            
-                                            title = await a_tag.inner_text()
-                                            link = await a_tag.get_attribute('href')
-                                            
-                                            if link and not link.startswith('http'):
-                                                link = f"https://kr.investing.com{link}"
-                                            
-                                            if title and len(title.strip()) > 5:
-                                                news_items.append({
-                                                    'title': title.strip(),
-                                                    'time': '최근',
-                                                    'link': link,
-                                                    'category': classify_category(title),
-                                                    'symbols': extract_symbols(title),
-                                                    'source': 'Investing.com KR',
-                                                    'lang': 'ko'
-                                                })
-                                        except:
-                                            continue
-                                    
-                                    if len(news_items) > 0:
-                                        print(f"\n✅ 성공! {len(news_items)}개 수집")
-                                        break
-                                    
-                            except Exception as e:
-                                print(f"  요소 처리 오류: {e}")
-                    
-                    if len(news_items) > 0:
-                        break
-                        
-                except Exception as e:
-                    print(f"URL 접근 오류: {e}")
-                    continue
-            
-            print(f"\n=== 최종 결과: {len(news_items)}개 수집 ===\n")
-                    
-        except Exception as e:
-            print(f"❌ 전체 오류: {e}")
-        
-        await browser.close()
-        return news_items
-
-
-async def crawl_hankyung():
-    """한국경제 선물 뉴스"""
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-        news_items = []
-        
-        try:
-            await page.goto('https://www.hankyung.com/finance/futures')
-            await page.wait_for_timeout(3000)
-            
-            articles = await page.query_selector_all('.news-list article')
-            
-            for article in articles[:10]:
-                try:
-                    title_elem = await article.query_selector('a')
-                    title = await title_elem.inner_text()
-                    link = await title_elem.get_attribute('href')
+                    # 중복 방지: 너무 짧은 제목 제외
+                    if len(title.strip()) < 10:
+                        continue
                     
                     news_items.append({
-                        'title': title.strip(),
-                        'time': '최근',
-                        'link': link if link.startswith('http') else f"https://www.hankyung.com{link}",
+                        'title': title,
+                        'time': entry.published if hasattr(entry, 'published') else '최근',
+                        'link': entry.link,
                         'category': classify_category(title),
                         'symbols': extract_symbols(title),
-                        'source': '한국경제',
+                        'source': 'Google News',
                         'lang': 'ko'
                     })
+                    
+            except Exception as e:
+                continue
+                
+    except Exception as e:
+        print(f"❌ Google News RSS 오류: {e}")
+    
+    return news_items
+
+async def crawl_naver_finance():
+    """네이버 금융 원자재 뉴스"""
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
+        news_items = []
+        
+        try:
+            # 네이버 금융 국제 시장 뉴스
+            await page.goto('https://finance.naver.com/news/news_list.naver?mode=LSS3D&section_id=101&section_id2=258&section_id3=402')
+            await page.wait_for_timeout(3000)
+            
+            # 뉴스 제목 목록
+            items = await page.query_selector_all('.articleSubject a')
+            
+            for item in items[:10]:
+                try:
+                    title = await item.inner_text()
+                    link = await item.get_attribute('href')
+                    
+                    if link and not link.startswith('http'):
+                        link = f"https://finance.naver.com{link}"
+                    
+                    # 원자재 관련 뉴스만 필터링
+                    if any(keyword in title for keyword in [
+                        '금', '은', '원유', '달러', '환율', '선물', 
+                        '구리', '천연가스', '옥수수', '대두', '밀', 'WTI', '브렌트'
+                    ]):
+                        news_items.append({
+                            'title': title.strip(),
+                            'time': '최근',
+                            'link': link,
+                            'category': classify_category(title),
+                            'symbols': extract_symbols(title),
+                            'source': '네이버 금융',
+                            'lang': 'ko'
+                        })
+                        
                 except:
                     continue
                     
         except Exception as e:
-            print(f"❌ 한국경제 오류: {e}")
+            print(f"❌ 네이버 금융 오류: {e}")
         
         await browser.close()
         return news_items
@@ -269,43 +214,55 @@ async def crawl_all_sources():
     
     all_news = []
     
-    # kr.investing.com (한글)
-    print("\n📰 Investing.com KR 크롤링 중...")
-    kr_news = await crawl_kr_investing()
-    all_news.extend(kr_news)
-    print(f"✅ {len(kr_news)}개 수집")
+    # 1. Google News RSS (한글)
+    print("\n📰 Google News 수집 중...")
+    google_news = await fetch_google_news_rss()
+    all_news.extend(google_news)
+    print(f"✅ {len(google_news)}개 수집")
     
-    # CNBC RSS (영문)
+    # 2. 네이버 금융 (한글)
+    print("\n📰 네이버 금융 크롤링 중...")
+    naver_news = await crawl_naver_finance()
+    all_news.extend(naver_news)
+    print(f"✅ {len(naver_news)}개 수집")
+    
+    # 3. CNBC RSS (영문)
     print("\n📰 CNBC RSS 수집 중...")
     cnbc_news = await fetch_cnbc_rss()
     all_news.extend(cnbc_news)
     print(f"✅ {len(cnbc_news)}개 수집")
     
-    # 중복 제거
+    # 중복 제거 (제목 기준)
     seen_titles = set()
     unique_news = []
     
     for news in all_news:
+        # 제목 앞 30자로 중복 체크
         title_key = news['title'][:30].lower().strip()
+        
         if title_key not in seen_titles:
             seen_titles.add(title_key)
             unique_news.append(news)
     
+    # 최신 25개만
     unique_news = unique_news[:25]
     
+    # 결과 JSON
     result = {
         'updated_at': datetime.now().isoformat(),
         'update_time_kr': datetime.now().strftime('%Y년 %m월 %d일 %H:%M'),
         'news': unique_news,
         'total_count': len(unique_news),
         'sources': {
-            'kr_investing': len(kr_news),
+            'google_news': len(google_news),
+            'naver': len(naver_news),
             'cnbc': len(cnbc_news),
             'total_before_dedup': len(all_news),
             'duplicates_removed': len(all_news) - len(unique_news)
         }
     }
     
+    # JSON 파일 저장
     with open('futures_news.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
@@ -313,7 +270,7 @@ async def crawl_all_sources():
     print(f"✅ 크롤링 완료!")
     print(f"📊 총 수집: {len(all_news)}개")
     print(f"📊 중복 제거 후: {len(unique_news)}개")
-    print(f"📊 소스별 - KR: {len(kr_news)}개 | CNBC: {len(cnbc_news)}개")
+    print(f"📊 소스별 - Google: {len(google_news)}개 | 네이버: {len(naver_news)}개 | CNBC: {len(cnbc_news)}개")
     print("=" * 50)
     
     return result
@@ -322,6 +279,7 @@ async def main():
     """메인 실행 함수"""
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
+    # 시간대별 실행 여부 체크
     should_run, reason = should_crawl_now()
     
     print(f"\n[{current_time}]")
@@ -332,6 +290,8 @@ async def main():
         return
     
     print("🎯 크롤링 시작!\n")
+    
+    # 실제 크롤링 실행
     await crawl_all_sources()
 
 if __name__ == '__main__':
