@@ -6,14 +6,17 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 
-# 카테고리별 검색 키워드 (이전 코드 참조)
+# 카테고리별 검색 키워드 (금속 키워드 대폭 추가)
 CATEGORIES = {
-    '지수': ['나스닥', 'S&P500'],
-    '에너지': ['원유', 'WTI', '천연가스'],
-    '금속': ['금 선물', '은 가격', '구리 가격'],
-    '채권': ['미국채', '국채 금리', '10년물'],
-    '외환': ['달러 환율', '엔화', '유로'],
-    '기타': ['해외선물', '선물 시장', '파생상품']
+    '지수': ['나스닥', 'S&P500', '다우지수'],
+    '에너지': ['원유', 'WTI', '천연가스', '브렌트유'],
+    '금속': [
+        '금 선물', '금값', '금 가격', '금시세', '금 전망', '골드',
+        '은 가격', '은값', '은시세', '은 전망', '실버',
+        '구리 가격', 'gold', 'silver', 'copper'
+    ],
+    '국제': ['세계경제', '국제시장', '글로벌경제', '세계시황'],
+    '기타': ['해외선물', '선물 시장', '파생상품', '미국채', '국채', '달러 환율', '엔화', '유로']
 }
 
 MAX_NEWS_PER_CATEGORY = 10  # 카테고리당 최대 뉴스 개수
@@ -40,6 +43,15 @@ def convert_time_to_relative(rss_time):
         return rss_time
 
 
+def get_timestamp_from_rss(rss_time):
+    """RSS 시간을 타임스탬프로 변환 (정렬용)"""
+    try:
+        dt = parsedate_to_datetime(rss_time)
+        return dt.timestamp()
+    except:
+        return 0
+
+
 def fetch_google_news_by_keyword(keyword):
     """Google News에서 키워드로 뉴스 검색"""
     # 24시간 이내 뉴스만
@@ -61,6 +73,7 @@ def fetch_google_news_by_keyword(keyword):
                     'link': entry.link,
                     'time': convert_time_to_relative(time_original),
                     'time_original': time_original,
+                    'timestamp': get_timestamp_from_rss(time_original),
                     'source': 'Google News'
                 })
             except:
@@ -116,6 +129,9 @@ def crawl_all_categories():
                 seen_links.add(news['link'])
                 unique_news.append(news)
         
+        # 타임스탬프 기준 정렬 (최신순)
+        unique_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+        
         # 기존 뉴스와 합치기 (새 뉴스가 앞에)
         combined = []
         new_count = 0
@@ -126,8 +142,11 @@ def crawl_all_categories():
                 combined.append(news)
                 new_count += 1
         
-        # 기존 뉴스 추가 (최신순)
+        # 기존 뉴스 추가
         combined.extend(existing_news)
+        
+        # 타임스탬프 기준 재정렬 (최신순)
+        combined.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
         
         # 최대 10개로 제한 (최신 10개만)
         combined = combined[:MAX_NEWS_PER_CATEGORY]
@@ -144,6 +163,9 @@ def crawl_all_categories():
             news['category'] = category
             total_news.append(news)
     
+    # 전체 뉴스도 타임스탬프 기준 정렬
+    total_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+    
     # 4. JSON 생성
     current_time = datetime.now(timezone(timedelta(hours=9)))
     
@@ -156,8 +178,7 @@ def crawl_all_categories():
             '지수': len(all_news.get('지수', [])),
             '에너지': len(all_news.get('에너지', [])),
             '금속': len(all_news.get('금속', [])),
-            '채권': len(all_news.get('채권', [])),
-            '외환': len(all_news.get('외환', [])),
+            '국제': len(all_news.get('국제', [])),
             '기타': len(all_news.get('기타', [])),
             'total': len(total_news),
             'new_articles': total_new
@@ -176,8 +197,7 @@ def crawl_all_categories():
     print(f"📊 지수: {len(all_news.get('지수', []))}개")
     print(f"📊 에너지: {len(all_news.get('에너지', []))}개")
     print(f"📊 금속: {len(all_news.get('금속', []))}개")
-    print(f"📊 채권: {len(all_news.get('채권', []))}개")
-    print(f"📊 외환: {len(all_news.get('외환', []))}개")
+    print(f"📊 국제: {len(all_news.get('국제', []))}개")
     print(f"📊 기타: {len(all_news.get('기타', []))}개")
     print("=" * 50)
 
