@@ -11,7 +11,7 @@ from urllib.parse import quote
 CATEGORIES = {
     '지수': {
         'type': 'search',
-        'keywords': ['나스닥', 'S&P500', '에센피', '미국 증시']
+        'keywords': ['나스닥', 'S&P500', '다우지수', '미국 증시']
     },
     
     '에너지': {
@@ -23,19 +23,23 @@ CATEGORIES = {
         'type': 'search',
         'keywords': [
             '금 선물',
-            '국제 금',
+            '금 가격',
             '국제 금값',
+            '금값',
+            '금 시세',
             '은 선물',
             '은 가격',
             '은 시세',
             '구리 가격',
+            '비철금속',
+            '귀금속'
         ]
     },
     
     '국제': {
         'type': 'search',
         'keywords': [
-            # 👇 최우선 (맨 앞으로)
+            # 최우선
             '트럼프',
             '연준',
             'Fed',
@@ -44,33 +48,86 @@ CATEGORIES = {
             '미국경제',
             '미국 증시',
             '월스트리트',
-
+            # 중국
+            '중국경제',
+            '중국 증시',
+            # 유럽
+            '유럽경제',
             'ECB',
             # 글로벌
             '세계경제',
             '글로벌시장',
             '국제시장',
             # 이슈
-            '전쟁',
-        ]
+            '미중 갈등',
+            '무역전쟁',
+            '환율 전쟁'
+        ],
+        'filter_domestic': True  # 👈 한국 뉴스 필터링 활성화
     },
     
     '기타': {
         'type': 'search',
         'keywords': [
-            # 우선순위 높음
             '달러 환율',
             '엔화 환율',
-            '미국채',
+            '미국채 금리',
             '국채 금리',
-            # 일반
             '해외선물',
             '선물 시장',
             '파생상품'
         ]
     }
 }
+
 MAX_NEWS_PER_CATEGORY = 10
+
+
+def is_korean_domestic_news(title):
+    """한국 국내 뉴스인지 확인 (제외용)"""
+    korean_keywords = [
+        # 지역
+        '경남', '경북', '부산', '서울', '대구', '울산', '인천', '광주', '대전', '세종',
+        '경기', '강원', '충북', '충남', '전북', '전남', '제주',
+        '경남일보', '부산일보', '서울신문', '경향신문', '한국경제',
+        # 국내 기업
+        '삼성전자', 'SK하이닉스', '현대차', 'LG', '포스코', '네이버', '카카오',
+        # 국내 이슈
+        '코스피', '코스닥', '금융위', '금감원', '국회', '청와대',
+        # 부동산
+        '아파트', '분양', '청약', '재건축', '재개발'
+    ]
+    
+    # 한글 키워드 체크
+    if any(keyword in title for keyword in korean_keywords):
+        return True
+    
+    return False
+
+
+def is_international_news(title):
+    """국제 뉴스인지 확인 (포함용)"""
+    international_keywords = [
+        # 국가
+        '미국', '중국', '일본', '유럽', '영국', '독일', '프랑스',
+        '러시아', '인도', '브라질', '호주', '캐나다', '이탈리아', '스페인',
+        # 기관
+        'Fed', '연준', 'ECB', 'BOJ', 'IMF', '세계은행', 'WTO',
+        # 인물
+        '트럼프', '바이든', '파월', '옐런', '시진핑',
+        # 통화
+        '달러', '유로', '엔화', '위안화', '파운드',
+        # 시장
+        '월스트리트', 'S&P', '나스닥', '다우', 'NYSE',
+        # 키워드
+        '글로벌', '세계', '국제', '해외'
+    ]
+    
+    # 해외 키워드가 하나라도 있으면 True
+    if any(keyword in title for keyword in international_keywords):
+        return True
+    
+    return False
 
 
 def convert_time_to_relative(rss_time):
@@ -103,12 +160,12 @@ def get_timestamp_from_rss(rss_time):
         return 0
 
 
-def fetch_google_news_by_keyword(keyword):
+def fetch_google_news_by_keyword(keyword, filter_domestic=False):
     """Google News에서 키워드로 뉴스 검색"""
-    # URL 인코딩 (한글 키워드 처리)
+    # URL 인코딩
     encoded_keyword = quote(keyword)
     
-    # 3일로 변경
+    # 3일
     url = f'https://news.google.com/rss/search?q={encoded_keyword}+when:3d&hl=ko&gl=KR&ceid=KR:ko'
     
     try:
@@ -119,16 +176,32 @@ def fetch_google_news_by_keyword(keyword):
         print(f"    📊 전체 항목: {len(feed.entries)}개")
         
         news_items = []
+        filtered_count = 0
         
-        for entry in feed.entries[:15]:
+        for entry in feed.entries[:20]:  # 20개로 늘림 (필터링 고려)
             try:
+                title = entry.title
                 time_original = entry.published if hasattr(entry, 'published') else None
                 
                 if not time_original:
                     continue
                 
+                # 🔍 국제 카테고리 필터링
+                if filter_domestic:
+                    # 한국 뉴스 제외
+                    if is_korean_domestic_news(title):
+                        filtered_count += 1
+                        print(f"    ⛔ 필터링: {title[:50]}...")
+                        continue
+                    
+                    # 국제 키워드 없으면 제외
+                    if not is_international_news(title):
+                        filtered_count += 1
+                        print(f"    ⛔ 필터링: {title[:50]}...")
+                        continue
+                
                 news_items.append({
-                    'title': entry.title,
+                    'title': title,
                     'link': entry.link,
                     'time': convert_time_to_relative(time_original),
                     'time_original': time_original,
@@ -138,6 +211,9 @@ def fetch_google_news_by_keyword(keyword):
             except Exception as e:
                 print(f"    ⚠️ 항목 파싱 오류: {e}")
                 continue
+        
+        if filter_domestic and filtered_count > 0:
+            print(f"    🔍 필터링된 뉴스: {filtered_count}개")
         
         print(f"    ✅ 수집 완료: {len(news_items)}개")
         return news_items
@@ -178,11 +254,14 @@ def crawl_all_categories():
         
         print(f"  📚 기존 뉴스: {len(existing_news)}개")
         
+        # 필터링 옵션
+        filter_domestic = config.get('filter_domestic', False)
+        
         # 새 뉴스 수집
         category_news = []
         for keyword in config['keywords']:
             print(f"  🔍 '{keyword}' 검색 중...")
-            news_items = fetch_google_news_by_keyword(keyword)
+            news_items = fetch_google_news_by_keyword(keyword, filter_domestic)
             category_news.extend(news_items)
         
         print(f"  📦 수집된 전체: {len(category_news)}개")
@@ -213,7 +292,7 @@ def crawl_all_categories():
         # 기존 뉴스 추가
         combined.extend(existing_news)
         
-        # 타임스탬프 기준 재정렬 (최신순) - 중요!
+        # 타임스탬프 기준 재정렬
         combined.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
         
         # 최대 10개로 제한
@@ -224,16 +303,16 @@ def crawl_all_categories():
         
         print(f"  ✅ 최종: 신규 {new_count}개 | 총 {len(combined)}개")
     
-    # 3. 전체 뉴스 합치기 (국제가 맨 위, 각 카테고리는 최신순)
+    # 3. 전체 뉴스 합치기 (국제가 맨 위)
     total_news = []
     
-    # 국제 먼저 (최신순 정렬됨)
+    # 국제 먼저
     if '국제' in all_news:
         for news in all_news['국제']:
             news['category'] = '국제'
             total_news.append(news)
     
-    # 나머지 (각각 최신순 정렬됨)
+    # 나머지
     for category in ['지수', '에너지', '금속', '기타']:
         if category in all_news:
             for news in all_news[category]:
