@@ -7,42 +7,31 @@ from email.utils import parsedate_to_datetime
 from urllib.parse import quote
 
 
-# 카테고리별 검색 키워드 (대폭 강화!)
+# 카테고리별 검색 키워드 (재구성!)
 CATEGORIES = {
     '지수': {
         'type': 'search',
         'keywords': [
-            # 지수
             '나스닥', 'S&P500', '다우지수', '미국 증시',
-            # 변동성
-            'VIX', '공포지수',
-            # 이슈
-            '미국 증시 전망', '월스트리트'
+            'VIX', '공포지수', '미국 증시 전망'
         ]
     },
     
     '에너지': {
         'type': 'search',
         'keywords': [
-            # 원유
             '원유', 'WTI', '브렌트유', '국제유가', '원유 가격',
-            # 천연가스
             '천연가스', '천연가스 가격',
-            # 이슈
-            'OPEC', '원유 재고', '석유 수출'
+            'OPEC', '원유 재고'
         ]
     },
     
     '금속': {
         'type': 'search',
         'keywords': [
-            # 금
             '금 선물', '금 가격', '국제 금값', '금값', '금 시세',
-            # 은
             '은 선물', '은 가격', '은 시세',
-            # 구리
             '구리 가격', '구리 시세',
-            # 기타
             '비철금속', '귀금속', '팔라듐', '백금'
         ]
     },
@@ -50,70 +39,111 @@ CATEGORIES = {
     '국제': {
         'type': 'search',
         'keywords': [
-            # 최우선 (정책/인물)
-            '트럼프', '연준', 'Fed', 'Fed 금리', 'FOMC', '파월',
+            # 트럼프
+            '트럼프',
+            '트럼프 정책',
             
-            # 미국 경제지표 (핵심!)
-            '비농업', 'NFP', '고용지표', '실업수당', '실업률',
-            'CPI', '소비자물가', 'PPI', '생산자물가',
-            'ADP', 'ADP 고용',
-            'PMI', '제조업 PMI', '서비스업 PMI',
-            'ISM', 'ISM 제조업',
-            'GDP', '미국 GDP',
-            '소매판매', '내구재',
-            '주택 판매', '주택 착공',
+            # 연준/Fed (핵심!)
+            '연준',
+            'Fed',
+            'FOMC',
+            '파월',
+            'Fed 금리',
+            
+            # 미국 경제지표만 (핵심!)
+            'NFP',
+            '비농업 고용',
+            '실업수당',
+            '실업률',
+            'CPI',
+            '소비자물가',
+            'PPI',
+            '생산자물가',
+            'ADP 고용',
+            'PMI',
+            '제조업 PMI',
+            'ISM',
+            'GDP',
+            '미국 GDP',
+            '소매판매',
+            '내구재',
             
             # 통화정책
-            '금리 결정', '금리 인상', '금리 인하', '기준금리',
-            '양적완화', '긴축', '통화정책',
+            '금리 결정',
+            '금리 인상',
+            '금리 인하',
+            '양적완화',
+            '긴축',
             
-            # 미국 경제
-            '미국경제', '미국 증시', '월스트리트',
-            '미국 재무부', '옐런',
-            
-            # 중국
-            '중국경제', '중국 GDP', '중국 PMI', '중국 무역',
-            '인민은행', 'PBOC',
-            
-            # 유럽
-            '유럽경제', 'ECB', '유로존', '유럽 금리',
-            'ECB 금리', '라가르드',
-            
-            # 일본
-            'BOJ', '일본은행', '우에다',
-            
-            # 글로벌
-            '세계경제', '글로벌시장', 'IMF', '세계은행',
-            
-            # 이슈
-            '미중 갈등', '무역전쟁', '관세', '환율 전쟁',
-            '인플레이션', '디플레이션', '경기침체', '스태그플레이션'
+            # 미국 경제 (제한적)
+            '미국경제 전망',
+            '미국 경기침체',
+            '미국 인플레이션'
         ],
         'filter_domestic': True
     },
     
-    '기타': {
+    '외환': {
         'type': 'search',
         'keywords': [
-            # 환율 (우선)
-            '달러 환율', '달러 인덱스', 'DXY',
-            '엔화 환율', '엔달러',
-            '유로 달러', '파운드 달러',
-            '위안화', '원달러',
+            # 달러
+            '달러 환율',
+            '달러 인덱스',
+            'DXY',
+            '달러 강세',
+            '달러 약세',
             
-            # 채권 (우선)
-            '미국채', '미국채 금리', '국채 금리',
-            '10년물', '2년물', '장단기 금리차',
+            # 주요 통화
+            '엔화 환율',
+            '엔달러',
+            '유로 달러',
+            '파운드 달러',
+            '위안화',
+            '원달러 환율',
             
-            # 암호화폐
-            '비트코인', '이더리움', '암호화폐',
+            # 이슈
+            '환율 전쟁',
+            '통화 전쟁'
+        ]
+    },
+    
+    '채권': {
+        'type': 'search',
+        'keywords': [
+            # 미국채
+            '미국채',
+            '미국채 금리',
+            '국채 금리',
             
-            # 선물시장
-            '해외선물', '선물 시장', '파생상품',
-            'CME', 'CBOT',
+            # 만기별
+            '10년물',
+            '2년물',
+            '30년물',
             
-            # 기타
-            '달러 강세', '달러 약세', '안전자산'
+            # 이슈
+            '장단기 금리차',
+            '역전',
+            '국채 수익률'
+        ]
+    },
+    
+    '암호화폐': {
+        'type': 'search',
+        'keywords': [
+            # 주요 코인
+            '비트코인',
+            '비트코인 가격',
+            '이더리움',
+            '이더리움 가격',
+            
+            # 시장
+            '암호화폐',
+            '가상화폐',
+            '비트코인 선물',
+            
+            # 이슈
+            '암호화폐 규제',
+            'SEC 암호화폐'
         ]
     }
 }
@@ -148,7 +178,6 @@ def is_korean_domestic_news(title):
         '미안합니다', '사과'
     ]
     
-    # 한글 키워드 체크
     if any(keyword in title for keyword in korean_keywords):
         return True
     
@@ -160,22 +189,20 @@ def is_international_news(title):
     international_keywords = [
         # 국가
         '미국', '중국', '일본', '유럽', '영국', '독일', '프랑스',
-        '러시아', '인도', '브라질', '호주', '캐나다', '이탈리아', '스페인',
         # 기관
-        'Fed', '연준', 'ECB', 'BOJ', 'IMF', '세계은행', 'WTO', 'OPEC',
+        'Fed', '연준', 'ECB', 'BOJ', 'IMF', 'FOMC',
         # 인물
-        '트럼프', '바이든', '파월', '옐런', '시진핑', '라가르드',
-        # 통화
-        '달러', '유로', '엔화', '위안화', '파운드',
-        # 시장
-        '월스트리트', 'S&P', '나스닥', '다우', 'NYSE',
+        '트럼프', '바이든', '파월', '옐런',
         # 경제지표
-        'CPI', 'PPI', 'NFP', 'ADP', 'PMI', 'GDP', 'FOMC', 'ISM',
+        'CPI', 'PPI', 'NFP', 'ADP', 'PMI', 'GDP', 'ISM',
+        # 통화
+        '달러', '유로', '엔화',
+        # 시장
+        '월스트리트', 'S&P', '나스닥', '다우',
         # 키워드
         '글로벌', '세계', '국제', '해외'
     ]
     
-    # 해외 키워드가 하나라도 있으면 True
     if any(keyword in title for keyword in international_keywords):
         return True
     
@@ -214,16 +241,12 @@ def get_timestamp_from_rss(rss_time):
 
 def fetch_google_news_by_keyword(keyword, filter_domestic=False):
     """Google News에서 키워드로 뉴스 검색"""
-    # URL 인코딩
     encoded_keyword = quote(keyword)
-    
-    # 3일
     url = f'https://news.google.com/rss/search?q={encoded_keyword}+when:3d&hl=ko&gl=KR&ceid=KR:ko'
     
     try:
         feed = feedparser.parse(url)
         
-        # 디버깅 로그
         print(f"    📡 RSS 상태: {feed.get('status', 'N/A')}")
         print(f"    📊 전체 항목: {len(feed.entries)}개")
         
@@ -240,12 +263,10 @@ def fetch_google_news_by_keyword(keyword, filter_domestic=False):
                 
                 # 국제 카테고리 필터링
                 if filter_domestic:
-                    # 한국 뉴스 제외
                     if is_korean_domestic_news(title):
                         filtered_count += 1
                         continue
                     
-                    # 국제 키워드 없으면 제외
                     if not is_international_news(title):
                         filtered_count += 1
                         continue
@@ -355,14 +376,10 @@ def crawl_all_categories():
     # 3. 전체 뉴스 합치기 (국제가 맨 위)
     total_news = []
     
-    # 국제 먼저
-    if '국제' in all_news:
-        for news in all_news['국제']:
-            news['category'] = '국제'
-            total_news.append(news)
+    # 순서: 국제 → 지수 → 에너지 → 금속 → 외환 → 채권 → 암호화폐
+    category_order = ['국제', '지수', '에너지', '금속', '외환', '채권', '암호화폐']
     
-    # 나머지
-    for category in ['지수', '에너지', '금속', '기타']:
+    for category in category_order:
         if category in all_news:
             for news in all_news[category]:
                 news['category'] = category
@@ -381,7 +398,9 @@ def crawl_all_categories():
             '에너지': len(all_news.get('에너지', [])),
             '금속': len(all_news.get('금속', [])),
             '국제': len(all_news.get('국제', [])),
-            '기타': len(all_news.get('기타', [])),
+            '외환': len(all_news.get('외환', [])),
+            '채권': len(all_news.get('채권', [])),
+            '암호화폐': len(all_news.get('암호화폐', [])),
             'total': len(total_news),
             'new_articles': total_new
         }
@@ -400,7 +419,9 @@ def crawl_all_categories():
     print(f"📊 지수: {len(all_news.get('지수', []))}개")
     print(f"📊 에너지: {len(all_news.get('에너지', []))}개")
     print(f"📊 금속: {len(all_news.get('금속', []))}개")
-    print(f"📊 기타: {len(all_news.get('기타', []))}개")
+    print(f"📊 외환: {len(all_news.get('외환', []))}개")
+    print(f"📊 채권: {len(all_news.get('채권', []))}개")
+    print(f"📊 암호화폐: {len(all_news.get('암호화폐', []))}개")
     print("=" * 50)
 
 
