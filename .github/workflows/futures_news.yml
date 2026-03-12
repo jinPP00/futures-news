@@ -1,7 +1,7 @@
 name: 해외선물 뉴스 크롤링
 on:
   schedule:
-    - cron: '*/5 * * * *'  # 5분마다
+    - cron: '*/30 * * * *'  # 30분마다
   workflow_dispatch:
   push:  # 푸시할 때도 실행 (테스트용)
     branches:
