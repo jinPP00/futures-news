@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T20:54:51.132623+09:00",
-  "update_time_kr": "2026년 03월 12일 20:54",
+  "updated_at": "2026-03-12T20:58:16.994355+09:00",
+  "update_time_kr": "2026년 03월 12일 20:58",
   "categories": {
     "지수": [
       {
@@ -67,6 +67,15 @@
         "category": "지수"
       },
       {
+        "title": "'이미 아는 맛'…美 301조 관세 전격 착수에도 국내 증시 영향은 '제한적' 전망 - 이투데이",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92M2ZzNk83dXFxMUNvU1l4eXpYNnhiVmltS1Z1SFU2dElXOXdiem9iem1PMF92UnVhRFlocENHY3M2SkIxNEpZejQwblJFazJ1YXBleQ?oc=5",
+        "time": "4시간 전",
+        "time_original": "Thu, 12 Mar 2026 07:45:00 GMT",
+        "timestamp": 1773301500.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
         "title": "나스닥 출격하는 스페이스X···국내 수혜주들 일제히 '들썩' - 뉴스웨이",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pZDZtU0FiTjQtUV91cEpxNDZiSVprX2htbTE0T0lUanFxVTFxT3Q3OVJsbDBJTjdXXzVjcDZoQUFkVVhSUDVMMkx1Rml5T0lSWVlvVGo3d2lpYzYyN19pd2FLX3pPNkpNVmc?oc=5",
         "time": "5시간 전",
@@ -81,15 +90,6 @@
         "time": "5시간 전",
         "time_original": "Thu, 12 Mar 2026 06:05:12 GMT",
         "timestamp": 1773295512.0,
-        "source": "Google News",
-        "category": "지수"
-      },
-      {
-        "title": "김도형 삼성자산운용 ETF컨설팅본부장 \"자금 유입의 핵심은 '대표지수형'\" - PRESS9",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HYWt0ZExJX3JSYjhScU5qY0l0dGcwb1J5S09QNzktNHc3Q1U1QTE4TjRFMFUzUGhmdk1fM3RzTjR0WkpSdUc3VGQzb2Z1RTN0anNOQllpVFoyOUtOZldhMlRCV3Y?oc=5",
-        "time": "6시간 전",
-        "time_original": "Thu, 12 Mar 2026 05:41:25 GMT",
-        "timestamp": 1773294085.0,
         "source": "Google News",
         "category": "지수"
       }
@@ -280,6 +280,15 @@
     ],
     "국제": [
       {
+        "title": "일본은 금리를 동결할 것으로 예상된다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jdGdOSk15RWdoQUN0ek5QNkZXMm1HNWhVamFTOEhDaEZGUm4xaFNROWVXWk9YY0FJVXFTWUpMTGVuUmtydVJVVkV1cFJXRHN2MTNlWU1uck9UbzhxcWx0dG5tVUZiQnlWcHc0SW1vSQ?oc=5",
+        "time": "방금 전",
+        "time_original": "Thu, 12 Mar 2026 11:57:27 GMT",
+        "timestamp": 1773316647.0,
+        "source": "Google News",
+        "category": "국제"
+      },
+      {
         "title": "XRP, 글로벌 토큰화 상품 시장 15% 점유…2위는 이더리움 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yM09jZzhlVkVaZjBWY1FDdl9CYlcyVkhJQ0Z1WkYxVmVpNVFXNGFsMHg4aGhqTEp2ZzNQTFhMcFd6TEF2YzQxdDFJejRNQ2dud1ZRaWZIRmdUZWVyaXYyZkVIbC1uLTZMMDBiSF9mMGFSREE?oc=5",
         "time": "11분 전",
@@ -359,111 +368,295 @@
         "timestamp": 1773310747.0,
         "source": "Google News",
         "category": "국제"
-      },
-      {
-        "title": "[제6기 경남일보 경제포럼]제1강 최효정 경남일보경제연구소장 - 경남일보",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1UHd2NnNIZGdZTHlKLUZZR3dRRExCMF82LUptbUwtQzNxZTNZVWc5UlJqM1hmeUNWWU1qTDBpOFhjRHQzaS1vTjA4WUYtbkRyR1FOdzlfVmoxcGZmVWhoVW5MZ0VDWWtGMGpN?oc=5",
-        "time": "1시간 전",
-        "time_original": "Thu, 12 Mar 2026 10:17:43 GMT",
-        "timestamp": 1773310663.0,
-        "source": "Google News",
-        "category": "국제"
       }
     ],
-    "기타": [
-      {
-        "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 네이트",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0TnlVcWc2SmNIOEJQb3h1S2xONmRIM3JsclpoRDJJZVotaHh1cnJzNVN0eG91NUpRZFllZXlCU0VTUzhIVDNOZXZlZnAzYVZVejQ0?oc=5",
-        "time": "4분 전",
-        "time_original": "Thu, 12 Mar 2026 11:50:00 GMT",
-        "timestamp": 1773316200.0,
-        "source": "Google News",
-        "category": "기타"
-      },
+    "외환": [
       {
         "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
-        "time": "5분 전",
+        "time": "9분 전",
         "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
         "timestamp": 1773316140.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "외환"
+      },
+      {
+        "title": "Savills, 8억 2,700만 파운드 Eastdil 인수…자본 시장 선도 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HeHFFWkhQc1VlRzdwdDNpZWthWWVlS09LbHBXdGlnZU5TRVp3YjhIWGpVVmY2TUQyS182RmliajFoTDkyTmpTdjJacG1KeFFfTV9JdzcyUHJQS29fdXdFXzRDbU9nRFkxclRoOGhQTm0?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:55:00 GMT",
+        "timestamp": 1773312900.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "달러-원, 런던장 시간대에 위험회피 지속…유가 동향 촉각 | - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xTE8xTm5BdUE4NDJXSGwzZzMzUFVZUWp5M0tXNzg5UVBtWjNNTW9NQmtKcDNaWXBXaXdiYTJXcUZSbXR2V1lHa3hlZ1pLYUdDZGNXbHplVlZibEF5TE9OUjdyRk84VG4wZUxzbmUwMldpcG0z?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:33:11 GMT",
+        "timestamp": 1773311591.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "글로벌파운드리스, 3억 달러 자사주 매입..주당 42달러에 실행 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVHlMLXhxV0x3dzhUc0hPcTlDNHA3a1RVcDZJNTJRaFZDSVd2SVJWcXZsYTA5dDNqd3gwWDdhTkxKX2NvMDlpeWdzVDE0R2x2TlE?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:09:37 GMT",
+        "timestamp": 1773310177.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "하루 10∼20원씩 널뛰는 환율…원화 변동률 주요 12國 중 최고 [민생경제 비상] - segye.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LcEVldTdWMU9ta3BhQm93OHp6Mnk2U0xoSFZ0M2hoQjlUaElfZmx5Yk93QWRYUHhqSEdtdlJqY0NOWkFVb2F2aUJJeTV5YlNjVWJRWTYtajnSAVRBVV95cUxOcTZQX3oyT1F0WE4zdjBSbHJEamxYZFViVXhOemdBMnFyMGJmMXJuVUJXRlJ0amdGNnJweHRuSnRkRFREeURORlFkTWlxUzlLeDBiUlI?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:35:00 GMT",
+        "timestamp": 1773308100.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "[서환-마감] 100달러 넘어선 유가에 또 급등…14.70원↑ - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UajhwZzFjYTBvcVVzTXRNbkRxWWl5dlNJaS04Q3RURl9ja0E1cjlCOXM5ZTEzcmhhWmh1OHlUOHJ6eEI2NnFlUkh6YThJQW40YWEwRkVmU0RJb2FjTGtvQjg4SmhOQ0g3R0RLeDJZSEg?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:26:25 GMT",
+        "timestamp": 1773307585.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "국제유가 급등 여파…원·달러 환율 1480원대 재진입 - 쿠키뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbVVRMW9XdHFCMndzZ0Mwc3BwN0kwRkRDZHlzdlpJbHNpdk1PYjFwMlZtd2xqenFJS2U5dnRMZkswcW9zZzk4cEpEUURoZlFOcUpfOV8zV1RSVTRJam1XTEZwTQ?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:10:00 GMT",
+        "timestamp": 1773306600.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "코스피 '네 마녀의 날' 5580선 약보합 마감, 원/달러 환율 1480원대까지 올라 - 비즈니스포스트",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1eWJKT0pRclhvZHhUbmllQl82ZUI1RU5iWV82dlBnN3Zwei1mNXJnYWoxdFVtZl9rUk1wdWdMamIwZ1QxcEdOa2VvVkNnYzVmb2JGeXQyN3VGb0JfS3REYVNEZ0lpOTdQZE9hREwzcTNpVlE?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:45:40 GMT",
+        "timestamp": 1773305140.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "원달러 환율 상승…중동 불안에 변동성 확대 - MTN 머니투데이방송",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tQVh1OXpJRDZ4Rzg4Q3I2cUdLaXhnZ1hOaFZ2SEtEUERZd2RGTThNV0N3bllaOHJoNlVuVE1GeS1BdDJ0VExTT29jUC1wMUZOTWpkb2g4VHItUXd6cUFueHRWaDQ?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:42:36 GMT",
+        "timestamp": 1773304956.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "영국 FTSE 100 오늘: 유가 100달러 돌파로 영국 주식 하락, 파운드 1.34달러 밑으로 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYblJSVkk2dUI2T0VTZmFXSGU2Ql9BZ0N6cTUzdlpjN2RnQlB1ZHJCdWF2VDZ3MHpzLVh5Y3E2UFlXb0dXV0hQVzZkSTE2dU5HZUpIb3hac0tGRTJHYmdtN1h1U1pvWFN2OHhQOXRHbGg?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:36:00 GMT",
+        "timestamp": 1773304560.0,
+        "source": "Google News",
+        "category": "외환"
+      }
+    ],
+    "채권": [
+      {
+        "title": "국힘 경북지사 경선 ‘한국시리즈’ 방식 도입... 이강덕 후보 “역전 우승 자신” - BBS불교방송",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQ1h5anBNWVI5eVdqLXdMQk85ZGM5Y1VuUjlQeTdQM3NnVW9rdTJZMkE0Ul9zQ3I1SFhsRDFmc0lWNUVMeWJHSVUyaE5YbVJ3aEhIbUNvd200dzdyWmNqQ2ZQbng4MXhzekZF?oc=5",
+        "time": "16분 전",
+        "time_original": "Thu, 12 Mar 2026 11:41:49 GMT",
+        "timestamp": 1773315709.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "해양환경공단, 국민과 통하는 바른 우리말 쓰기로 2년 연속 최고 등급 영예 안아 - 국토일보",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oV0o2bGxCcjVGbVpEeUNJZW1EOS10UTJEbXRBSlpJX0paSVc1U0V3RTdubzVUVDVVT0pxTWtYOVkwQUNBVGFtSmR3MjlHTzZwZTlJVkhSWEc1d0tSSDg4UVExaw?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:27:45 GMT",
+        "timestamp": 1773311265.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "[사진]역전 3점슛 성공시키는 엘런슨 - 조선비즈 - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamNBX3BVS2pSckNFd0JmWVhtUTBvUDN6UkZ1ZW9iZnh3c3AyTWQ0V3ZVWHY4RzA3ZmttVzZYV3FoNGh6UlJtZ29mZ291SHE3Y2xGYTZhMnRGMVBMMDgtd2RjWVR2QVpMZFI1TW4xTDJ4UnVqdThvU1hpQ04zWk9WSU15ZW5YOXQz0gGcAUFVX3lxTE0tQ2Rqaks3QUlVS2dkT3pzY3JuUEhjaURxTXVCR3BNU3FWSTBGSVdlTWoxeTFrc19CMmNES1FwY2FzUzlyTk9GdWxTN0hkdnI3NFBEaEo5eWI2ODRRX0JkeGVGM2Q4XzYtblVIWFZ4LWZNdGpzSWJvaGt3ZEU3OTJNVWhEZlZ3RGtuZDQwZGZtR1ltNGVCQWNGOGloQw?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:22:00 GMT",
+        "timestamp": 1773310920.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "[사진]역전 3점슛 성공시키는 엘런슨 - OSEN",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93VUkweVJyWE1pUkljb0ZPRzFGZExQREg0VVhQeTdGcktxSzhYQThYMGNDbnoxVHVJWlFGckNLVkVmeS11bUpqd2hXekVzWHdzY3BV?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:20:00 GMT",
+        "timestamp": 1773310800.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "“‘민주당 독재’ 외치던 김상욱, 2년 만에 민주당 시장 후보” - 울산매일",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15dEJDNWJTMFA1bXFUbE9ObmdlUEFpUU9GaE5zVzJxZE9Sa3J4Q2ZjSGpSUm5SbU1HN1FZX000b1JLUWwtVWdadi12aHpfdHFKWEJDc24xS3RwUUJ3UzVBZmlFLXI3UkRwVnfSAW5BVV95cUxNVDZDYTM3MjM5dWtvU3R1WF85RkltTVJUcjlmTU9MX1NQTWJmajMxQlVqb2M2SW9HeXFmWC01Q0ZET0ZyOXhhRnhzdjdqUXVvUzFOX204b2J6cVdoc1BOOWVXVUNNVkx6UzA0enpRUQ?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:46:32 GMT",
+        "timestamp": 1773308792.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "‘반에서 58등’ 연탄 배달 소년, 인생 역전!···‘돌침대 500억 신화’ 이동학 (이웃집 백만장자) - 스포츠경향",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXVml6WFZEUC0wcmpacnZ6V3FDZzJSZlJwcTNaOEh4V0pmSzNDSFZCNUlsaWlOZlNCQ0tOa0Y2ZXZ2NHJRT2tRMEJvYkFlQWkwUnNKSGZBTUxrUGRNc1HSAWNBVV95cUxNVmNVVkJUTlh5NGstX0YyVlhUUnVNX1dkTWlrNklybE9rV3ZKRWlCMjVLWlRrSUc2cVg5WDR4WTBuWVdjVDIxYmUxSW0wcnFlSzN5ZjdvdW9SV2UyXzZoVWM1WEk?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:43:00 GMT",
+        "timestamp": 1773308580.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "IRS 금리, 유가 우려에 상승…국채선물 대비 약세 - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VNFVHWUFFUWJVSGd0S18yYVprRlhkcGZhZnpsOUh1amZvVG1GTVFDOW1WcnZKUjRNbi1HS2FPRnpLNzRKV2l1Wkh4X1N0cnRCNFhhbC1RU1Q5SzhPRmxrWFhiNVV5Vl9URU03NlZ1Rlg?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:40:22 GMT",
+        "timestamp": 1773308422.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "“예금보다 높은 금리에 안전자산 수요…개인용 국채로 자금 몰려” - sedaily.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xYnl0V1MwblgwQlI0WE1ldHptZEZRcXpXbWRYa0lJVmRpSU5mdlcyZzdZNm4zc1ExYWcyNGFjWUVtaFZSVmRmVUE3eE5kb1E?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:06:13 GMT",
+        "timestamp": 1773306373.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "[채권마감] 사흘만 약세, 국제유가 재상승 90달러 돌파 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjVDZNU3pjaG1wdjBRQ0RIeEpDZnhNTkVkWGFtWVg4THZTZHR3eVQ0VjlPTnlKYTNqQkJmdEZnb2FxNHplbkF4ZXIwRHZEMU4xRVE4?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:00:00 GMT",
+        "timestamp": 1773306000.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "국고채 금리 일제히 상승... 3년물 연 3.271% 마감 - 포인트데일리",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRGJ5ZGNGRi1TMExmYjZTV1R3Mmdxal8wbEQwalMyeUlGSDBPc05oWFBEdkZjYzlUVTdXSzlza3pESnZLSkF0aWRQZ3RVMFdFZkZ2UTFlQnozaUFvQ3g1a1dwam83LUlRem5lNkxoZWRPaGlv0gF0QVVfeXFMT0FEYnlkY0ZGLVMwTGZiNlNXVHcyZ3FqXzBsRDBqUzJ5SUZIME9zTmhYUER2RmNjOVRVN1dLOXNrekRKdktKQXRpZFBndFUwV0VmRnZRMWVCejNpQW9DeDVrV3BqbzctSVF6bmU2TGhlZE9oaW8?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:38:38 GMT",
+        "timestamp": 1773304718.0,
+        "source": "Google News",
+        "category": "채권"
+      }
+    ],
+    "암호화폐": [
+      {
+        "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
+        "time": "9분 전",
+        "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
+        "timestamp": 1773316140.0,
+        "source": "Google News",
+        "category": "암호화폐"
       },
       {
         "title": "2025년 美 암호화폐 ATM 사기 33% 증가…AI가 핵심 - 네이트",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hSjBEYWt3RzZWYWxPRERTbFNuS05KVDdyUGQ3V2wyd0ZpNm9aMmtkUWVwMXdCekRHMExNNDlnMHQ3V3kzVE02UTRUMDhMMFNJVmY0?oc=5",
-        "time": "15분 전",
+        "time": "23분 전",
         "time_original": "Thu, 12 Mar 2026 11:35:00 GMT",
         "timestamp": 1773315300.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       },
       {
         "title": "양자컴퓨터, 비트코인 위협될까?…리스크·대응책 분석해보니 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51UlJUWjdLSGZHQjlKV3o3T2N5QnZfdXVJZEhudDUwWjJCc3JZTXhkbTZ5U3g5UVhiWTJjb2FYUS11N1NocE13dTc1aTNTcHZOUnJDU2Foa1lSci0tY0FMcFNYWktsNEtacXYtTUtySEhiVFk?oc=5",
-        "time": "16분 전",
+        "time": "24분 전",
         "time_original": "Thu, 12 Mar 2026 11:34:00 GMT",
         "timestamp": 1773315240.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
+      },
+      {
+        "title": "플룸(PLUME), 90% 가격 폭락 속에서도 RWA 성장 주도 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5telRhRUhWTkNIMy04TjZOdFotazdOT2w5TkxLZENjaExtbi04MEZROHBzN0U3SWgtSDBPNWpKdDZMa3FQZTdDLXZqOTBiMFAzNE1PbXc4MmhhNUtqenE0dlBINThtbWc0cEhUaENkY1ZjQW8?oc=5",
+        "time": "25분 전",
+        "time_original": "Thu, 12 Mar 2026 11:33:01 GMT",
+        "timestamp": 1773315181.0,
+        "source": "Google News",
+        "category": "암호화폐"
       },
       {
         "title": "XRP, 글로벌 토큰화 상품 시장 15% 점유…2위는 이더리움 - 네이트",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzeDRnd29YNTBGa29xWnc2MFQxbjExcktyRDhzcDJNS3M3NkpOWmpoc1RDdmlUU3k2R0tuNnhmVTVicTFvUmpSbDhpV3FORlNVOGlj?oc=5",
-        "time": "17분 전",
+        "time": "25분 전",
         "time_original": "Thu, 12 Mar 2026 11:33:00 GMT",
         "timestamp": 1773315180.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       },
       {
         "title": "가나, 11개 암호화폐 기업에 규제 샌드박스 승인 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GZFNnVS1RZEpWOXR1cHIwS0w0bW5FamdGMWVsaE5zX2Q1UC1VY3kwdWk5RDNValRGcmVJUk1fQXZEQzkxdVU0TEI5WGN4RFlGRDRWOFRKX0gyXzFBc2xrX1FMeThtVV9CdDBOXzkxOEJCZTA?oc=5",
-        "time": "17분 전",
+        "time": "25분 전",
         "time_original": "Thu, 12 Mar 2026 11:33:00 GMT",
         "timestamp": 1773315180.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       },
       {
         "title": "SEC·CFTC, 암호화폐 규제 협력 강화…혁신 지원 나선다 - 네이트",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rbXVlUWtLb1JkZjVVX1V4M19ScTBacUhpN0dYMFdIMW1DRUgxR3BzVHdFRFFyRWwxdVlrNXdiSVkwbkNtUTUtQTdjdGtJMndHWDNF?oc=5",
-        "time": "17분 전",
+        "time": "25분 전",
         "time_original": "Thu, 12 Mar 2026 11:33:00 GMT",
         "timestamp": 1773315180.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       },
       {
         "title": "美서 JP모건 집단소송…\"3.3억弗 암호화폐 폰지사기 연루\" - 블루밍비트",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1teXljeU9LeloyRzgyTG5udjc0dWg4bjlQUnotdXFWLWd6Y3BHWGlrSUdlME5ZeV9MdHVHYUhKWEcxbEVkOVhCeXZ2al92Smk4?oc=5",
-        "time": "17분 전",
+        "time": "25분 전",
         "time_original": "Thu, 12 Mar 2026 11:32:33 GMT",
         "timestamp": 1773315153.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       },
       {
         "title": "이더리움·솔라나, 개발자 충성도 유지…소규모 네트워크는 하락세 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zRF9sYzdUaWdSV1IxT2Q0TERONlZZampSMTRPU2ZPOEdLQm5odjNiM19WcnhDb3FlY3RHRHBxb3FNVFBNMXFNcDNRNXZEckxvdDZhdWlIRHBBbGFfV0ZWSl81Sl81cUtDOWtINk5fWlhwNGs?oc=5",
-        "time": "18분 전",
+        "time": "26분 전",
         "time_original": "Thu, 12 Mar 2026 11:32:00 GMT",
         "timestamp": 1773315120.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       },
       {
         "title": "메타플래닛, 신규 벤처펌 출범…비트코인 확장 전략 가속 - 디지털투데이",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qNWl4NWMxZklUMUF4MjRfNkJPcXdlakJfUzBfQlhTSThrRmpjWDZkaFJGY2thcHdZbF9ON3QwUXNqdTlSdlJSX3M1aThneEd4bWw4Y0RadENOb1FuSE5LdkptTFFyMmpGbms2Y0Iwc0RkUzQ?oc=5",
-        "time": "19분 전",
+        "time": "27분 전",
         "time_original": "Thu, 12 Mar 2026 11:31:00 GMT",
         "timestamp": 1773315060.0,
         "source": "Google News",
-        "category": "기타"
+        "category": "암호화폐"
       }
     ]
   },
   "all_news": [
+    {
+      "title": "일본은 금리를 동결할 것으로 예상된다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jdGdOSk15RWdoQUN0ek5QNkZXMm1HNWhVamFTOEhDaEZGUm4xaFNROWVXWk9YY0FJVXFTWUpMTGVuUmtydVJVVkV1cFJXRHN2MTNlWU1uck9UbzhxcWx0dG5tVUZiQnlWcHc0SW1vSQ?oc=5",
+      "time": "방금 전",
+      "time_original": "Thu, 12 Mar 2026 11:57:27 GMT",
+      "timestamp": 1773316647.0,
+      "source": "Google News",
+      "category": "국제"
+    },
     {
       "title": "XRP, 글로벌 토큰화 상품 시장 15% 점유…2위는 이더리움 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yM09jZzhlVkVaZjBWY1FDdl9CYlcyVkhJQ0Z1WkYxVmVpNVFXNGFsMHg4aGhqTEp2ZzNQTFhMcFd6TEF2YzQxdDFJejRNQ2dud1ZRaWZIRmdUZWVyaXYyZkVIbC1uLTZMMDBiSF9mMGFSREE?oc=5",
@@ -546,15 +739,6 @@
       "category": "국제"
     },
     {
-      "title": "[제6기 경남일보 경제포럼]제1강 최효정 경남일보경제연구소장 - 경남일보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1UHd2NnNIZGdZTHlKLUZZR3dRRExCMF82LUptbUwtQzNxZTNZVWc5UlJqM1hmeUNWWU1qTDBpOFhjRHQzaS1vTjA4WUYtbkRyR1FOdzlfVmoxcGZmVWhoVW5MZ0VDWWtGMGpN?oc=5",
-      "time": "1시간 전",
-      "time_original": "Thu, 12 Mar 2026 10:17:43 GMT",
-      "timestamp": 1773310663.0,
-      "source": "Google News",
-      "category": "국제"
-    },
-    {
       "title": "코인셰어스, 3월 31일 나스닥 스톡홀름 상장 폐지 - Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XNkFJQ056OEdOV0QxV2VFck1tTWdYdlREaS11THZKZTFtaGdhVmVtS01yTHpNb09YR1ZuQ1YyU1JSX0hUVjFQcVFVZDlSWEtnSkN0c2V5bC1XQzVuUUZzOUlXckJ3dEtaS3o5UEtSWXY?oc=5",
       "time": "1시간 전",
@@ -618,6 +802,15 @@
       "category": "지수"
     },
     {
+      "title": "'이미 아는 맛'…美 301조 관세 전격 착수에도 국내 증시 영향은 '제한적' 전망 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92M2ZzNk83dXFxMUNvU1l4eXpYNnhiVmltS1Z1SFU2dElXOXdiem9iem1PMF92UnVhRFlocENHY3M2SkIxNEpZejQwblJFazJ1YXBleQ?oc=5",
+      "time": "4시간 전",
+      "time_original": "Thu, 12 Mar 2026 07:45:00 GMT",
+      "timestamp": 1773301500.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
       "title": "나스닥 출격하는 스페이스X···국내 수혜주들 일제히 '들썩' - 뉴스웨이",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pZDZtU0FiTjQtUV91cEpxNDZiSVprX2htbTE0T0lUanFxVTFxT3Q3OVJsbDBJTjdXXzVjcDZoQUFkVVhSUDVMMkx1Rml5T0lSWVlvVGo3d2lpYzYyN19pd2FLX3pPNkpNVmc?oc=5",
       "time": "5시간 전",
@@ -632,15 +825,6 @@
       "time": "5시간 전",
       "time_original": "Thu, 12 Mar 2026 06:05:12 GMT",
       "timestamp": 1773295512.0,
-      "source": "Google News",
-      "category": "지수"
-    },
-    {
-      "title": "김도형 삼성자산운용 ETF컨설팅본부장 \"자금 유입의 핵심은 '대표지수형'\" - PRESS9",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HYWt0ZExJX3JSYjhScU5qY0l0dGcwb1J5S09QNzktNHc3Q1U1QTE4TjRFMFUzUGhmdk1fM3RzTjR0WkpSdUc3VGQzb2Z1RTN0anNOQllpVFoyOUtOZldhMlRCV3Y?oc=5",
-      "time": "6시간 전",
-      "time_original": "Thu, 12 Mar 2026 05:41:25 GMT",
-      "timestamp": 1773294085.0,
       "source": "Google News",
       "category": "지수"
     },
@@ -825,94 +1009,274 @@
       "category": "금속"
     },
     {
-      "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0TnlVcWc2SmNIOEJQb3h1S2xONmRIM3JsclpoRDJJZVotaHh1cnJzNVN0eG91NUpRZFllZXlCU0VTUzhIVDNOZXZlZnAzYVZVejQ0?oc=5",
-      "time": "4분 전",
-      "time_original": "Thu, 12 Mar 2026 11:50:00 GMT",
-      "timestamp": 1773316200.0,
+      "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
+      "time": "9분 전",
+      "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
+      "timestamp": 1773316140.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "외환"
+    },
+    {
+      "title": "Savills, 8억 2,700만 파운드 Eastdil 인수…자본 시장 선도 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HeHFFWkhQc1VlRzdwdDNpZWthWWVlS09LbHBXdGlnZU5TRVp3YjhIWGpVVmY2TUQyS182RmliajFoTDkyTmpTdjJacG1KeFFfTV9JdzcyUHJQS29fdXdFXzRDbU9nRFkxclRoOGhQTm0?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:55:00 GMT",
+      "timestamp": 1773312900.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "달러-원, 런던장 시간대에 위험회피 지속…유가 동향 촉각 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xTE8xTm5BdUE4NDJXSGwzZzMzUFVZUWp5M0tXNzg5UVBtWjNNTW9NQmtKcDNaWXBXaXdiYTJXcUZSbXR2V1lHa3hlZ1pLYUdDZGNXbHplVlZibEF5TE9OUjdyRk84VG4wZUxzbmUwMldpcG0z?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:33:11 GMT",
+      "timestamp": 1773311591.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "글로벌파운드리스, 3억 달러 자사주 매입..주당 42달러에 실행 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVHlMLXhxV0x3dzhUc0hPcTlDNHA3a1RVcDZJNTJRaFZDSVd2SVJWcXZsYTA5dDNqd3gwWDdhTkxKX2NvMDlpeWdzVDE0R2x2TlE?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:09:37 GMT",
+      "timestamp": 1773310177.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "하루 10∼20원씩 널뛰는 환율…원화 변동률 주요 12國 중 최고 [민생경제 비상] - segye.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LcEVldTdWMU9ta3BhQm93OHp6Mnk2U0xoSFZ0M2hoQjlUaElfZmx5Yk93QWRYUHhqSEdtdlJqY0NOWkFVb2F2aUJJeTV5YlNjVWJRWTYtajnSAVRBVV95cUxOcTZQX3oyT1F0WE4zdjBSbHJEamxYZFViVXhOemdBMnFyMGJmMXJuVUJXRlJ0amdGNnJweHRuSnRkRFREeURORlFkTWlxUzlLeDBiUlI?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:35:00 GMT",
+      "timestamp": 1773308100.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "[서환-마감] 100달러 넘어선 유가에 또 급등…14.70원↑ - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UajhwZzFjYTBvcVVzTXRNbkRxWWl5dlNJaS04Q3RURl9ja0E1cjlCOXM5ZTEzcmhhWmh1OHlUOHJ6eEI2NnFlUkh6YThJQW40YWEwRkVmU0RJb2FjTGtvQjg4SmhOQ0g3R0RLeDJZSEg?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:26:25 GMT",
+      "timestamp": 1773307585.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "국제유가 급등 여파…원·달러 환율 1480원대 재진입 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbVVRMW9XdHFCMndzZ0Mwc3BwN0kwRkRDZHlzdlpJbHNpdk1PYjFwMlZtd2xqenFJS2U5dnRMZkswcW9zZzk4cEpEUURoZlFOcUpfOV8zV1RSVTRJam1XTEZwTQ?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:10:00 GMT",
+      "timestamp": 1773306600.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "코스피 '네 마녀의 날' 5580선 약보합 마감, 원/달러 환율 1480원대까지 올라 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1eWJKT0pRclhvZHhUbmllQl82ZUI1RU5iWV82dlBnN3Zwei1mNXJnYWoxdFVtZl9rUk1wdWdMamIwZ1QxcEdOa2VvVkNnYzVmb2JGeXQyN3VGb0JfS3REYVNEZ0lpOTdQZE9hREwzcTNpVlE?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:45:40 GMT",
+      "timestamp": 1773305140.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "원달러 환율 상승…중동 불안에 변동성 확대 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tQVh1OXpJRDZ4Rzg4Q3I2cUdLaXhnZ1hOaFZ2SEtEUERZd2RGTThNV0N3bllaOHJoNlVuVE1GeS1BdDJ0VExTT29jUC1wMUZOTWpkb2g4VHItUXd6cUFueHRWaDQ?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:42:36 GMT",
+      "timestamp": 1773304956.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "영국 FTSE 100 오늘: 유가 100달러 돌파로 영국 주식 하락, 파운드 1.34달러 밑으로 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYblJSVkk2dUI2T0VTZmFXSGU2Ql9BZ0N6cTUzdlpjN2RnQlB1ZHJCdWF2VDZ3MHpzLVh5Y3E2UFlXb0dXV0hQVzZkSTE2dU5HZUpIb3hac0tGRTJHYmdtN1h1U1pvWFN2OHhQOXRHbGg?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:36:00 GMT",
+      "timestamp": 1773304560.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "국힘 경북지사 경선 ‘한국시리즈’ 방식 도입... 이강덕 후보 “역전 우승 자신” - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQ1h5anBNWVI5eVdqLXdMQk85ZGM5Y1VuUjlQeTdQM3NnVW9rdTJZMkE0Ul9zQ3I1SFhsRDFmc0lWNUVMeWJHSVUyaE5YbVJ3aEhIbUNvd200dzdyWmNqQ2ZQbng4MXhzekZF?oc=5",
+      "time": "16분 전",
+      "time_original": "Thu, 12 Mar 2026 11:41:49 GMT",
+      "timestamp": 1773315709.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "해양환경공단, 국민과 통하는 바른 우리말 쓰기로 2년 연속 최고 등급 영예 안아 - 국토일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oV0o2bGxCcjVGbVpEeUNJZW1EOS10UTJEbXRBSlpJX0paSVc1U0V3RTdubzVUVDVVT0pxTWtYOVkwQUNBVGFtSmR3MjlHTzZwZTlJVkhSWEc1d0tSSDg4UVExaw?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:27:45 GMT",
+      "timestamp": 1773311265.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "[사진]역전 3점슛 성공시키는 엘런슨 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamNBX3BVS2pSckNFd0JmWVhtUTBvUDN6UkZ1ZW9iZnh3c3AyTWQ0V3ZVWHY4RzA3ZmttVzZYV3FoNGh6UlJtZ29mZ291SHE3Y2xGYTZhMnRGMVBMMDgtd2RjWVR2QVpMZFI1TW4xTDJ4UnVqdThvU1hpQ04zWk9WSU15ZW5YOXQz0gGcAUFVX3lxTE0tQ2Rqaks3QUlVS2dkT3pzY3JuUEhjaURxTXVCR3BNU3FWSTBGSVdlTWoxeTFrc19CMmNES1FwY2FzUzlyTk9GdWxTN0hkdnI3NFBEaEo5eWI2ODRRX0JkeGVGM2Q4XzYtblVIWFZ4LWZNdGpzSWJvaGt3ZEU3OTJNVWhEZlZ3RGtuZDQwZGZtR1ltNGVCQWNGOGloQw?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:22:00 GMT",
+      "timestamp": 1773310920.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "[사진]역전 3점슛 성공시키는 엘런슨 - OSEN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93VUkweVJyWE1pUkljb0ZPRzFGZExQREg0VVhQeTdGcktxSzhYQThYMGNDbnoxVHVJWlFGckNLVkVmeS11bUpqd2hXekVzWHdzY3BV?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:20:00 GMT",
+      "timestamp": 1773310800.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "“‘민주당 독재’ 외치던 김상욱, 2년 만에 민주당 시장 후보” - 울산매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15dEJDNWJTMFA1bXFUbE9ObmdlUEFpUU9GaE5zVzJxZE9Sa3J4Q2ZjSGpSUm5SbU1HN1FZX000b1JLUWwtVWdadi12aHpfdHFKWEJDc24xS3RwUUJ3UzVBZmlFLXI3UkRwVnfSAW5BVV95cUxNVDZDYTM3MjM5dWtvU3R1WF85RkltTVJUcjlmTU9MX1NQTWJmajMxQlVqb2M2SW9HeXFmWC01Q0ZET0ZyOXhhRnhzdjdqUXVvUzFOX204b2J6cVdoc1BOOWVXVUNNVkx6UzA0enpRUQ?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:46:32 GMT",
+      "timestamp": 1773308792.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "‘반에서 58등’ 연탄 배달 소년, 인생 역전!···‘돌침대 500억 신화’ 이동학 (이웃집 백만장자) - 스포츠경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXVml6WFZEUC0wcmpacnZ6V3FDZzJSZlJwcTNaOEh4V0pmSzNDSFZCNUlsaWlOZlNCQ0tOa0Y2ZXZ2NHJRT2tRMEJvYkFlQWkwUnNKSGZBTUxrUGRNc1HSAWNBVV95cUxNVmNVVkJUTlh5NGstX0YyVlhUUnVNX1dkTWlrNklybE9rV3ZKRWlCMjVLWlRrSUc2cVg5WDR4WTBuWVdjVDIxYmUxSW0wcnFlSzN5ZjdvdW9SV2UyXzZoVWM1WEk?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:43:00 GMT",
+      "timestamp": 1773308580.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "IRS 금리, 유가 우려에 상승…국채선물 대비 약세 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VNFVHWUFFUWJVSGd0S18yYVprRlhkcGZhZnpsOUh1amZvVG1GTVFDOW1WcnZKUjRNbi1HS2FPRnpLNzRKV2l1Wkh4X1N0cnRCNFhhbC1RU1Q5SzhPRmxrWFhiNVV5Vl9URU03NlZ1Rlg?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:40:22 GMT",
+      "timestamp": 1773308422.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "“예금보다 높은 금리에 안전자산 수요…개인용 국채로 자금 몰려” - sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xYnl0V1MwblgwQlI0WE1ldHptZEZRcXpXbWRYa0lJVmRpSU5mdlcyZzdZNm4zc1ExYWcyNGFjWUVtaFZSVmRmVUE3eE5kb1E?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:06:13 GMT",
+      "timestamp": 1773306373.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "[채권마감] 사흘만 약세, 국제유가 재상승 90달러 돌파 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjVDZNU3pjaG1wdjBRQ0RIeEpDZnhNTkVkWGFtWVg4THZTZHR3eVQ0VjlPTnlKYTNqQkJmdEZnb2FxNHplbkF4ZXIwRHZEMU4xRVE4?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:00:00 GMT",
+      "timestamp": 1773306000.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "국고채 금리 일제히 상승... 3년물 연 3.271% 마감 - 포인트데일리",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BRGJ5ZGNGRi1TMExmYjZTV1R3Mmdxal8wbEQwalMyeUlGSDBPc05oWFBEdkZjYzlUVTdXSzlza3pESnZLSkF0aWRQZ3RVMFdFZkZ2UTFlQnozaUFvQ3g1a1dwam83LUlRem5lNkxoZWRPaGlv0gF0QVVfeXFMT0FEYnlkY0ZGLVMwTGZiNlNXVHcyZ3FqXzBsRDBqUzJ5SUZIME9zTmhYUER2RmNjOVRVN1dLOXNrekRKdktKQXRpZFBndFUwV0VmRnZRMWVCejNpQW9DeDVrV3BqbzctSVF6bmU2TGhlZE9oaW8?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:38:38 GMT",
+      "timestamp": 1773304718.0,
+      "source": "Google News",
+      "category": "채권"
     },
     {
       "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
-      "time": "5분 전",
+      "time": "9분 전",
       "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
       "timestamp": 1773316140.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "2025년 美 암호화폐 ATM 사기 33% 증가…AI가 핵심 - 네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hSjBEYWt3RzZWYWxPRERTbFNuS05KVDdyUGQ3V2wyd0ZpNm9aMmtkUWVwMXdCekRHMExNNDlnMHQ3V3kzVE02UTRUMDhMMFNJVmY0?oc=5",
-      "time": "15분 전",
+      "time": "23분 전",
       "time_original": "Thu, 12 Mar 2026 11:35:00 GMT",
       "timestamp": 1773315300.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "양자컴퓨터, 비트코인 위협될까?…리스크·대응책 분석해보니 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51UlJUWjdLSGZHQjlKV3o3T2N5QnZfdXVJZEhudDUwWjJCc3JZTXhkbTZ5U3g5UVhiWTJjb2FYUS11N1NocE13dTc1aTNTcHZOUnJDU2Foa1lSci0tY0FMcFNYWktsNEtacXYtTUtySEhiVFk?oc=5",
-      "time": "16분 전",
+      "time": "24분 전",
       "time_original": "Thu, 12 Mar 2026 11:34:00 GMT",
       "timestamp": 1773315240.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
+    },
+    {
+      "title": "플룸(PLUME), 90% 가격 폭락 속에서도 RWA 성장 주도 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5telRhRUhWTkNIMy04TjZOdFotazdOT2w5TkxLZENjaExtbi04MEZROHBzN0U3SWgtSDBPNWpKdDZMa3FQZTdDLXZqOTBiMFAzNE1PbXc4MmhhNUtqenE0dlBINThtbWc0cEhUaENkY1ZjQW8?oc=5",
+      "time": "25분 전",
+      "time_original": "Thu, 12 Mar 2026 11:33:01 GMT",
+      "timestamp": 1773315181.0,
+      "source": "Google News",
+      "category": "암호화폐"
     },
     {
       "title": "XRP, 글로벌 토큰화 상품 시장 15% 점유…2위는 이더리움 - 네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzeDRnd29YNTBGa29xWnc2MFQxbjExcktyRDhzcDJNS3M3NkpOWmpoc1RDdmlUU3k2R0tuNnhmVTVicTFvUmpSbDhpV3FORlNVOGlj?oc=5",
-      "time": "17분 전",
+      "time": "25분 전",
       "time_original": "Thu, 12 Mar 2026 11:33:00 GMT",
       "timestamp": 1773315180.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "가나, 11개 암호화폐 기업에 규제 샌드박스 승인 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GZFNnVS1RZEpWOXR1cHIwS0w0bW5FamdGMWVsaE5zX2Q1UC1VY3kwdWk5RDNValRGcmVJUk1fQXZEQzkxdVU0TEI5WGN4RFlGRDRWOFRKX0gyXzFBc2xrX1FMeThtVV9CdDBOXzkxOEJCZTA?oc=5",
-      "time": "17분 전",
+      "time": "25분 전",
       "time_original": "Thu, 12 Mar 2026 11:33:00 GMT",
       "timestamp": 1773315180.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "SEC·CFTC, 암호화폐 규제 협력 강화…혁신 지원 나선다 - 네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rbXVlUWtLb1JkZjVVX1V4M19ScTBacUhpN0dYMFdIMW1DRUgxR3BzVHdFRFFyRWwxdVlrNXdiSVkwbkNtUTUtQTdjdGtJMndHWDNF?oc=5",
-      "time": "17분 전",
+      "time": "25분 전",
       "time_original": "Thu, 12 Mar 2026 11:33:00 GMT",
       "timestamp": 1773315180.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "美서 JP모건 집단소송…\"3.3억弗 암호화폐 폰지사기 연루\" - 블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1teXljeU9LeloyRzgyTG5udjc0dWg4bjlQUnotdXFWLWd6Y3BHWGlrSUdlME5ZeV9MdHVHYUhKWEcxbEVkOVhCeXZ2al92Smk4?oc=5",
-      "time": "17분 전",
+      "time": "25분 전",
       "time_original": "Thu, 12 Mar 2026 11:32:33 GMT",
       "timestamp": 1773315153.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "이더리움·솔라나, 개발자 충성도 유지…소규모 네트워크는 하락세 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zRF9sYzdUaWdSV1IxT2Q0TERONlZZampSMTRPU2ZPOEdLQm5odjNiM19WcnhDb3FlY3RHRHBxb3FNVFBNMXFNcDNRNXZEckxvdDZhdWlIRHBBbGFfV0ZWSl81Sl81cUtDOWtINk5fWlhwNGs?oc=5",
-      "time": "18분 전",
+      "time": "26분 전",
       "time_original": "Thu, 12 Mar 2026 11:32:00 GMT",
       "timestamp": 1773315120.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     },
     {
       "title": "메타플래닛, 신규 벤처펌 출범…비트코인 확장 전략 가속 - 디지털투데이",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qNWl4NWMxZklUMUF4MjRfNkJPcXdlakJfUzBfQlhTSThrRmpjWDZkaFJGY2thcHdZbF9ON3QwUXNqdTlSdlJSX3M1aThneEd4bWw4Y0RadENOb1FuSE5LdkptTFFyMmpGbms2Y0Iwc0RkUzQ?oc=5",
-      "time": "19분 전",
+      "time": "27분 전",
       "time_original": "Thu, 12 Mar 2026 11:31:00 GMT",
       "timestamp": 1773315060.0,
       "source": "Google News",
-      "category": "기타"
+      "category": "암호화폐"
     }
   ],
   "statistics": {
@@ -920,8 +1284,10 @@
     "에너지": 10,
     "금속": 10,
     "국제": 10,
-    "기타": 10,
-    "total": 50,
-    "new_articles": 1344
+    "외환": 10,
+    "채권": 10,
+    "암호화폐": 10,
+    "total": 70,
+    "new_articles": 1167
   }
 }
