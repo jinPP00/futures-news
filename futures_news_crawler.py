@@ -4,9 +4,10 @@ import feedparser
 import json
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
 
-# 카테고리별 검색 키워드 (최종)
+# 카테고리별 검색 키워드 (수정)
 CATEGORIES = {
     '지수': {
         'type': 'search',
@@ -21,36 +22,63 @@ CATEGORIES = {
     '금속': {
         'type': 'search',
         'keywords': [
-            '금 선물', '금값', '금 가격', '금시세', '금 전망', '골드',
-            '은 가격', '은값', '은 전망', '실버',
-            '구리 가격', '구리 시세', '구리 전망',
-            'gold', 'silver', 'copper'
+            '금 선물',  # 👈 추가
+            '금 가격',
+            '국제 금값',
+            '금값',
+            '금 시세',
+            '은 선물',  # 👈 추가
+            '은 가격',
+            '은 시세',
+            '구리 가격',
+            '비철금속',
+            '귀금속'
         ]
     },
     
     '국제': {
-        'type': 'search',
+        'type': 'search',  # 👈 토픽에서 검색으로 변경!
         'keywords': [
             # 미국
-            '미국경제', '미국 증시', 'Fed', '연준', '월스트리트',
+            '미국경제',
+            '미국 증시',
+            '월스트리트',
+            'Fed 금리',
+            '연준',
             # 중국
-            '중국경제', '중국 증시',
+            '중국경제',
+            '중국 증시',
             # 유럽
-            '유럽경제', 'ECB', '유로존',
+            '유럽경제',
+            'ECB',
             # 글로벌
-            '세계경제', '글로벌시장', '국제시장',
+            '세계경제',
+            '글로벌시장',
+            '국제시장',
             # 이슈
-            '미중 갈등', '무역전쟁', '인플레이션', '경기침체'
+            '미중 갈등',
+            '무역전쟁',
+            '환율 전쟁'
         ]
     },
     
     '기타': {
         'type': 'search',
-        'keywords': ['해외선물', '선물 시장', '미국채', '국채 금리', '달러 환율']
+        'keywords': [
+            # 우선순위 높음 (먼저 크롤링)
+            '달러 환율',
+            '엔화 환율',
+            '미국채 금리',
+            '국채 금리',
+            # 일반
+            '해외선물',
+            '선물 시장',
+            '파생상품'
+        ]
     }
 }
 
-MAX_NEWS_PER_CATEGORY = 10  # 카테고리당 최대 뉴스 개수
+MAX_NEWS_PER_CATEGORY = 10
 
 
 def convert_time_to_relative(rss_time):
@@ -75,7 +103,7 @@ def convert_time_to_relative(rss_time):
 
 
 def get_timestamp_from_rss(rss_time):
-    """RSS 시간을 타임스탬프로 변환 (정렬용)"""
+    """RSS 시간을 타임스탬프로 변환"""
     try:
         dt = parsedate_to_datetime(rss_time)
         return dt.timestamp()
@@ -85,14 +113,22 @@ def get_timestamp_from_rss(rss_time):
 
 def fetch_google_news_by_keyword(keyword):
     """Google News에서 키워드로 뉴스 검색"""
-    # 24시간 이내 뉴스만
-    url = f'https://news.google.com/rss/search?q={keyword}+when:1d&hl=ko&gl=KR&ceid=KR:ko'
+    # URL 인코딩 (한글 키워드 처리)
+    encoded_keyword = quote(keyword)
+    
+    # 3일로 변경
+    url = f'https://news.google.com/rss/search?q={encoded_keyword}+when:3d&hl=ko&gl=KR&ceid=KR:ko'
     
     try:
         feed = feedparser.parse(url)
+        
+        # 디버깅 로그
+        print(f"    📡 RSS 상태: {feed.get('status', 'N/A')}")
+        print(f"    📊 전체 항목: {len(feed.entries)}개")
+        
         news_items = []
         
-        for entry in feed.entries[:15]:  # 여유있게 15개 가져오기
+        for entry in feed.entries[:15]:
             try:
                 time_original = entry.published if hasattr(entry, 'published') else None
                 
@@ -107,12 +143,15 @@ def fetch_google_news_by_keyword(keyword):
                     'timestamp': get_timestamp_from_rss(time_original),
                     'source': 'Google News'
                 })
-            except:
+            except Exception as e:
+                print(f"    ⚠️ 항목 파싱 오류: {e}")
                 continue
         
+        print(f"    ✅ 수집 완료: {len(news_items)}개")
         return news_items
+        
     except Exception as e:
-        print(f"❌ {keyword} 검색 오류: {e}")
+        print(f"    ❌ RSS 파싱 오류: {e}")
         return []
 
 
@@ -145,12 +184,16 @@ def crawl_all_categories():
         existing_news = existing_category.get(category, [])
         existing_links = {news['link'] for news in existing_news}
         
+        print(f"  📚 기존 뉴스: {len(existing_news)}개")
+        
         # 새 뉴스 수집
         category_news = []
         for keyword in config['keywords']:
             print(f"  🔍 '{keyword}' 검색 중...")
             news_items = fetch_google_news_by_keyword(keyword)
             category_news.extend(news_items)
+        
+        print(f"  📦 수집된 전체: {len(category_news)}개")
         
         # 중복 제거 (링크 기준)
         seen_links = set()
@@ -160,10 +203,12 @@ def crawl_all_categories():
                 seen_links.add(news['link'])
                 unique_news.append(news)
         
+        print(f"  🔄 중복 제거 후: {len(unique_news)}개")
+        
         # 타임스탬프 기준 정렬 (최신순)
         unique_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
         
-        # 기존 뉴스와 합치기 (새 뉴스가 앞에)
+        # 기존 뉴스와 합치기
         combined = []
         new_count = 0
         
@@ -176,33 +221,32 @@ def crawl_all_categories():
         # 기존 뉴스 추가
         combined.extend(existing_news)
         
-        # 타임스탬프 기준 재정렬 (최신순)
+        # 타임스탬프 기준 재정렬 (최신순) - 중요!
         combined.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
         
-        # 최대 10개로 제한 (최신 10개만)
+        # 최대 10개로 제한
         combined = combined[:MAX_NEWS_PER_CATEGORY]
         
         all_news[category] = combined
         total_new += new_count
         
-        print(f"  ✅ 신규 {new_count}개 | 총 {len(combined)}개")
+        print(f"  ✅ 최종: 신규 {new_count}개 | 총 {len(combined)}개")
     
-    # 3. 전체 뉴스 합치기 (국제 뉴스가 맨 위로)
+    # 3. 전체 뉴스 합치기 (국제가 맨 위, 각 카테고리는 최신순)
     total_news = []
     
-    # 3-1. 국제 뉴스 먼저 추가 (맨 위)
+    # 국제 먼저 (최신순 정렬됨)
     if '국제' in all_news:
         for news in all_news['국제']:
             news['category'] = '국제'
             total_news.append(news)
     
-    # 3-2. 나머지 카테고리 추가
-    for category, news_list in all_news.items():
-        if category == '국제':  # 국제는 이미 추가했으므로 스킵
-            continue
-        for news in news_list:
-            news['category'] = category
-            total_news.append(news)
+    # 나머지 (각각 최신순 정렬됨)
+    for category in ['지수', '에너지', '금속', '기타']:
+        if category in all_news:
+            for news in all_news[category]:
+                news['category'] = category
+                total_news.append(news)
     
     # 4. JSON 생성
     current_time = datetime.now(timezone(timedelta(hours=9)))
@@ -211,7 +255,7 @@ def crawl_all_categories():
         'updated_at': current_time.isoformat(),
         'update_time_kr': current_time.strftime('%Y년 %m월 %d일 %H:%M'),
         'categories': all_news,
-        'all_news': total_news,  # 국제가 맨 위
+        'all_news': total_news,
         'statistics': {
             '지수': len(all_news.get('지수', [])),
             '에너지': len(all_news.get('에너지', [])),
@@ -232,7 +276,7 @@ def crawl_all_categories():
     print(f"✅ 크롤링 완료!")
     print(f"📊 전체: {len(total_news)}개")
     print(f"📊 신규: {total_new}개")
-    print(f"📊 국제: {len(all_news.get('국제', []))}개 (최상단)")
+    print(f"📊 국제: {len(all_news.get('국제', []))}개")
     print(f"📊 지수: {len(all_news.get('지수', []))}개")
     print(f"📊 에너지: {len(all_news.get('에너지', []))}개")
     print(f"📊 금속: {len(all_news.get('금속', []))}개")
