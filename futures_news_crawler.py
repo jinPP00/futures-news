@@ -4,52 +4,117 @@ import feedparser
 import json
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
 
-# Google News 토픽 URLs
-NEWS_TOPICS = {
-    '경제': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtdHZHZ0pMVWlnQVAB?hl=ko&gl=KR&ceid=KR:ko',
-    '세계': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtdHZHZ0pMVWlnQVAB?hl=ko&gl=KR&ceid=KR:ko',
-    '비즈니스': 'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtdHZHZ0pMVWlnQVAB?hl=ko&gl=KR&ceid=KR:ko'
-}
-
-# 카테고리별 분류 키워드
-CATEGORY_KEYWORDS = {
-    '국제_필수': [  # 무조건 크롤링
-        '트럼프', '연준', 'FOMC'
-    ],
-    '국제': [  # 세계 토픽에서 추가
-        '파월', 'Fed', 'NFP', 'CPI', 'PPI', 'ADP', 'PMI', 'GDP', 'ISM',
-        '금리 결정', '금리 인상', '금리 인하', '양적완화', '긴축',
-        '미국경제', '중국경제', '유럽경제', 'ECB', 'BOJ'
-    ],
-    '지수': [
-        '나스닥', 'Nasdaq', 'NASDAQ', 'nasdaq',
-        'S&P', 's&p', 'S&P500', '에스앤피', '에센피'
-    ],
-    '에너지': [
-        '원유', 'WTI', '브렌트', '천연가스', 'OPEC', '국제유가'
-    ],
-    '금속': [
-        '금', '은', '구리',
-        '국제금시세', '금시세', '금 시세', '금값', '금 가격',
-        '금 선물', '금선물',
-        '은 선물', '은선물', '은 가격',
-        '구리 가격', '구리 시세'
-    ],
-    '외환': [
-        '달러 환율', '달러 인덱스', 'DXY', '달러',
-        '엔화', '엔달러', '유로', '위안화'
-    ],
-    '채권': [
-        '미국채', '국채', '채권',
-        '미국채 금리', '국채 금리', '국채금리',
-        '10년물', '2년물', '30년물',
-        '장단기 금리차', '금리 역전'
-    ],
-    '암호화폐': [
-        '비트코인', '이더리움', '암호화폐'
-    ]
+# 카테고리별 검색 키워드 (정교화!)
+CATEGORIES = {
+    '국제': {
+        'type': 'search',
+        'keywords': [
+            # 필수 키워드
+            '트럼프 관세',
+            '트럼프 정책',
+            '연준 금리',
+            '연준 FOMC',
+            'Fed 금리',
+            'FOMC 회의',
+            '파월 의장',
+            
+            # 경제지표
+            '미국 NFP',
+            '미국 CPI',
+            '미국 PPI',
+            '미국 ADP',
+            '미국 PMI',
+            '미국 GDP',
+            '미국 ISM',
+            '미국 실업률',
+            '미국 고용',
+            
+            # 통화정책
+            '미국 금리 인상',
+            '미국 금리 인하',
+            '미국 기준금리'
+        ],
+        'filter_domestic': True
+    },
+    
+    '지수': {
+        'type': 'search',
+        'keywords': [
+            '나스닥 지수',
+            '나스닥 선물',
+            'S&P500 지수',
+            'S&P500 선물',
+            '다우존스 지수',
+            '다우 선물',
+            'VIX 지수',
+            '미국 증시 전망'
+        ]
+    },
+    
+    '에너지': {
+        'type': 'search',
+        'keywords': [
+            'WTI 원유',
+            'WTI 선물',
+            '브렌트유 가격',
+            '국제 원유 가격',
+            '원유 선물',
+            '천연가스 선물',
+            'OPEC 감산',
+            'OPEC 회의'
+        ]
+    },
+    
+    '금속': {
+        'type': 'search',
+        'keywords': [
+            '금 선물 가격',
+            '국제 금 시세',
+            '금 선물 시장',
+            '은 선물 가격',
+            '은 시세',
+            '구리 선물',
+            '구리 가격'
+        ]
+    },
+    
+    '외환': {
+        'type': 'search',
+        'keywords': [
+            '달러 인덱스',
+            'DXY 지수',
+            '엔달러 환율',
+            '유로달러 환율',
+            '파운드달러',
+            '달러 강세',
+            '달러 약세'
+        ]
+    },
+    
+    '채권': {
+        'type': 'search',
+        'keywords': [
+            '미국채 10년물',
+            '미국채 금리',
+            '미국 국채 금리',
+            '장단기 금리차',
+            '금리 역전 해소',
+            '미국채 시장'
+        ]
+    },
+    
+    '암호화폐': {
+        'type': 'search',
+        'keywords': [
+            '비트코인 가격',
+            '비트코인 선물',
+            '이더리움 가격',
+            '암호화폐 시장'
+        ]
+    }
 }
 
 MAX_NEWS_PER_CATEGORY = 10
@@ -66,14 +131,14 @@ def is_korean_domestic_news(title):
         # 국내 이슈
         '코스피', '코스닥', '금융위', '국회', '청와대',
         # 부동산
-        '아파트', '분양', '청약', '재건축',
+        '아파트', '분양', '청약',
         # 스포츠
-        '손흥민', '김민재', '황희찬', 'K리그', '프리미어리그',
-        '공격수', '수비수', '골키퍼', '3점슛', '득점', '골', '우승',
+        '손흥민', '김민재', '황희찬', 'K리그',
+        '공격수', '수비수', '3점슛', '득점', '우승',
         # 연예
         '드라마', '영화', 'K-POP', 'MBC', 'KBS', 'SBS',
         # 일반
-        '사고', '화재', '경찰', '검찰', '경선', '후보'
+        '경찰', '검찰', '경선', '후보', '유니폼'
     ]
     
     if any(kw in title for kw in korean_keywords):
@@ -82,24 +147,24 @@ def is_korean_domestic_news(title):
     return False
 
 
-def classify_news_category(title):
-    """뉴스를 카테고리별로 분류"""
-    # 국제 필수 (최우선)
-    for keyword in CATEGORY_KEYWORDS['국제_필수']:
-        if keyword in title:
-            return '국제'
+def is_international_news(title):
+    """국제 뉴스인지 확인"""
+    international_keywords = [
+        '미국', '중국', '일본', '유럽', '영국',
+        'Fed', '연준', 'FOMC', '트럼프', '파월',
+        'CPI', 'NFP', 'PMI', 'GDP',
+        '달러', '유로', '엔화'
+    ]
     
-    # 나머지 카테고리
-    for category in ['지수', '에너지', '금속', '외환', '채권', '암호화폐']:
-        keywords = CATEGORY_KEYWORDS[category]
-        if any(kw in title for kw in keywords):
-            return category
+    crypto_keywords = ['비트코인', '이더리움', '암호화폐', '코인', '토큰']
     
-    # 국제 (세계 토픽용)
-    if any(kw in title for kw in CATEGORY_KEYWORDS['국제']):
-        return '국제'
+    if any(kw in title for kw in crypto_keywords):
+        return False
     
-    return None
+    if any(kw in title for kw in international_keywords):
+        return True
+    
+    return False
 
 
 def convert_time_to_relative(rss_time):
@@ -132,70 +197,64 @@ def get_timestamp_from_rss(rss_time):
         return 0
 
 
-def fetch_from_topics():
-    """토픽에서 해외 뉴스 수집"""
-    print("🌐 Google News 토픽에서 수집 중...")
+def fetch_google_news_by_keyword(keyword, filter_domestic=False):
+    """Google News에서 키워드로 뉴스 검색"""
+    encoded_keyword = quote(keyword)
+    url = f'https://news.google.com/rss/search?q={encoded_keyword}+when:3d&hl=ko&gl=KR&ceid=KR:ko'
     
-    all_news = []
-    
-    for topic_name, url in NEWS_TOPICS.items():
-        print(f"\n📡 [{topic_name}] 토픽 수집 중...")
+    try:
+        feed = feedparser.parse(url)
         
-        try:
-            feed = feedparser.parse(url)
-            print(f"  📊 전체 항목: {len(feed.entries)}개")
-            
-            collected = 0
-            filtered_domestic = 0
-            filtered_uncategorized = 0
-            
-            for entry in feed.entries[:100]:  # 100개 수집
-                try:
-                    title = entry.title
-                    time_original = entry.published if hasattr(entry, 'published') else None
-                    
-                    if not time_original:
-                        continue
-                    
-                    # 한국 뉴스 제외
-                    if is_korean_domestic_news(title):
-                        filtered_domestic += 1
-                        continue
-                    
-                    # 카테고리 분류
-                    category = classify_news_category(title)
-                    
-                    if category:
-                        all_news.append({
-                            'title': title,
-                            'link': entry.link,
-                            'time': convert_time_to_relative(time_original),
-                            'time_original': time_original,
-                            'timestamp': get_timestamp_from_rss(time_original),
-                            'category': category,
-                            'source': 'Google News',
-                            'topic': topic_name  # 어느 토픽에서 왔는지 기록
-                        })
-                        collected += 1
-                    else:
-                        filtered_uncategorized += 1
+        print(f"    📡 RSS 상태: {feed.get('status', 'N/A')}")
+        print(f"    📊 전체 항목: {len(feed.entries)}개")
+        
+        news_items = []
+        filtered_count = 0
+        
+        for entry in feed.entries[:20]:
+            try:
+                title = entry.title
+                time_original = entry.published if hasattr(entry, 'published') else None
                 
-                except Exception as e:
+                if not time_original:
                     continue
-            
-            print(f"  ✅ 수집: {collected}개")
-            print(f"  🔍 필터링: 한국뉴스 {filtered_domestic}개 | 미분류 {filtered_uncategorized}개")
-            
-        except Exception as e:
-            print(f"  ❌ 토픽 수집 오류: {e}")
-    
-    return all_news
+                
+                # 국제 카테고리 필터링
+                if filter_domestic:
+                    if is_korean_domestic_news(title):
+                        filtered_count += 1
+                        continue
+                    
+                    if not is_international_news(title):
+                        filtered_count += 1
+                        continue
+                
+                news_items.append({
+                    'title': title,
+                    'link': entry.link,
+                    'time': convert_time_to_relative(time_original),
+                    'time_original': time_original,
+                    'timestamp': get_timestamp_from_rss(time_original),
+                    'source': 'Google News'
+                })
+            except Exception as e:
+                continue
+        
+        if filter_domestic and filtered_count > 0:
+            print(f"    🔍 필터링: {filtered_count}개")
+        
+        print(f"    ✅ 수집: {len(news_items)}개")
+        return news_items
+        
+    except Exception as e:
+        print(f"    ❌ RSS 오류: {e}")
+        return []
 
 
 def crawl_all_categories():
     """모든 카테고리 뉴스 크롤링"""
     print("=" * 50)
-    print("🚀 해외선물 뉴스 크롤링 시작 (토픽 기반)")
+    print("🚀 해외선물 뉴스 크롤링 시작")
     print("=" * 50)
     
     # 1. 기존 데이터 로드
@@ -209,43 +268,12 @@ def crawl_all_categories():
     except Exception as e:
         print(f"\n⚠️ 기존 데이터 로드 실패: {e}")
     
-    # 2. 토픽에서 뉴스 수집
-    new_news = fetch_from_topics()
-    
-    print(f"\n📦 수집된 전체 뉴스: {len(new_news)}개")
-    
-    # 3. 카테고리별로 분류
-    categorized = {
-        '국제': [],
-        '지수': [],
-        '에너지': [],
-        '금속': [],
-        '외환': [],
-        '채권': [],
-        '암호화폐': []
-    }
-    
-    for news in new_news:
-        category = news['category']
-        if category in categorized:
-            categorized[category].append(news)
-    
-    # 토픽별 통계
-    print("\n📊 토픽별 수집 통계:")
-    for topic in ['경제', '세계', '비즈니스']:
-        topic_news = [n for n in new_news if n.get('topic') == topic]
-        print(f"  - {topic}: {len(topic_news)}개")
-    
-    print("\n📊 카테고리별 수집 통계:")
-    for cat, news_list in categorized.items():
-        print(f"  - {cat}: {len(news_list)}개")
-    
-    # 4. 기존 뉴스와 합치기 + 중복 제거
+    # 2. 카테고리별 뉴스 수집
     all_news = {}
     total_new = 0
     
-    for category in categorized.keys():
-        print(f"\n📰 [{category}] 처리 중...")
+    for category, config in CATEGORIES.items():
+        print(f"\n📰 [{category}] 수집 중...")
         
         # 기존 뉴스
         existing_category = existing_data.get('categories', {})
@@ -254,44 +282,60 @@ def crawl_all_categories():
         
         print(f"  📚 기존: {len(existing_news)}개")
         
-        # 새 뉴스
-        new_category_news = categorized[category]
+        # 필터링 옵션
+        filter_domestic = config.get('filter_domestic', False)
+        
+        # 새 뉴스 수집
+        category_news = []
+        for keyword in config['keywords']:
+            print(f"  🔍 '{keyword}' 검색 중...")
+            news_items = fetch_google_news_by_keyword(keyword, filter_domestic)
+            category_news.extend(news_items)
+        
+        print(f"  📦 수집 전체: {len(category_news)}개")
         
         # 중복 제거
         seen_links = set()
-        unique_new = []
-        for news in new_category_news:
-            if news['link'] not in seen_links and news['link'] not in existing_links:
+        unique_news = []
+        for news in category_news:
+            if news['link'] not in seen_links:
                 seen_links.add(news['link'])
-                # topic 정보 제거 (최종 JSON에 불필요)
-                news_clean = {k: v for k, v in news.items() if k != 'topic'}
-                unique_new.append(news_clean)
+                unique_news.append(news)
         
-        print(f"  🆕 신규: {len(unique_new)}개")
+        print(f"  🔄 중복 제거 후: {len(unique_news)}개")
         
-        # 합치기
-        combined = unique_new + existing_news
+        # 타임스탬프 정렬
+        unique_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
         
-        # 타임스탬프 기준 정렬
+        # 기존과 합치기
+        combined = []
+        new_count = 0
+        
+        for news in unique_news:
+            if news['link'] not in existing_links:
+                combined.append(news)
+                new_count += 1
+        
+        combined.extend(existing_news)
         combined.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-        
-        # 최대 10개로 제한
         combined = combined[:MAX_NEWS_PER_CATEGORY]
         
         all_news[category] = combined
-        total_new += len(unique_new)
+        total_new += new_count
         
-        print(f"  ✅ 최종: {len(combined)}개")
+        print(f"  ✅ 신규 {new_count}개 | 최종 {len(combined)}개")
     
-    # 5. 전체 뉴스 합치기
+    # 3. 전체 뉴스 합치기
     total_news = []
     category_order = ['국제', '지수', '에너지', '금속', '외환', '채권', '암호화폐']
     
     for category in category_order:
-        for news in all_news.get(category, []):
-            total_news.append(news)
+        if category in all_news:
+            for news in all_news[category]:
+                news['category'] = category
+                total_news.append(news)
     
-    # 6. JSON 생성
+    # 4. JSON 생성
     current_time = datetime.now(timezone(timedelta(hours=9)))
     
     result = {
@@ -312,11 +356,11 @@ def crawl_all_categories():
         }
     }
     
-    # 7. 저장
+    # 5. 저장
     with open('futures_news.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
-    # 8. 요약
+    # 6. 요약
     print("\n" + "=" * 50)
     print(f"✅ 크롤링 완료!")
     print(f"📊 전체: {len(total_news)}개")
