@@ -1,0 +1,51 @@
+name: 해외선물 뉴스 크롤링
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # 5분마다 실행
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: 코드 체크아웃
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
+    
+    - name: Python 설정
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: 의존성 설치
+      run: |
+        pip install playwright feedparser
+        playwright install chromium
+        playwright install-deps chromium
+    
+    - name: 뉴스 크롤링 실행
+      run: python futures_news_crawler.py
+      env:
+        TZ: Asia/Seoul
+      continue-on-error: true
+    
+    - name: Git 설정
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: 결과 커밋 및 푸시
+      run: |
+        if [ -f "futures_news.json" ]; then
+          git add futures_news.json
+          git diff --staged --quiet || git commit -m "Update futures news - $(date +'%Y-%m-%d %H:%M')"
+          git push || echo "Push failed"
+        else
+          echo "JSON 파일이 생성되지 않았습니다"
+        fi
