@@ -92,63 +92,112 @@ def extract_symbols(title):
     return symbols
 
 async def crawl_kr_investing():
-    """kr.investing.com 한글 뉴스 크롤링"""
+    """kr.investing.com 한글 뉴스 크롤링 (디버그 버전)"""
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
         news_items = []
         
         try:
-            print("kr.investing.com 접속 중...")
-            await page.goto('https://kr.investing.com/news/commodities-news', 
-                           wait_until='domcontentloaded', 
-                           timeout=30000)
-            await page.wait_for_timeout(5000)  # 로딩 대기 늘림
+            print("\n=== kr.investing.com 디버깅 시작 ===")
             
-            # 다른 셀렉터 시도
-            articles = await page.query_selector_all('article')
-            print(f"찾은 article 수: {len(articles)}")
+            # 여러 URL 시도
+            urls = [
+                'https://kr.investing.com/news/commodities-news',
+                'https://kr.investing.com/commodities/real-time-futures',
+                'https://kr.investing.com/news/latest-news'
+            ]
             
-            if len(articles) == 0:
-                # 대안 셀렉터
-                articles = await page.query_selector_all('.largeTitle')
-                print(f"대안 셀렉터로 찾은 수: {len(articles)}")
-            
-            for article in articles[:15]:
+            for url in urls:
+                print(f"\n시도 중: {url}")
+                
                 try:
-                    # 제목 찾기 (여러 셀렉터 시도)
-                    title_elem = await article.query_selector('a')
-                    if not title_elem:
-                        continue
+                    await page.goto(url, wait_until='domcontentloaded', timeout=30000)
+                    await page.wait_for_timeout(5000)
                     
-                    title = await title_elem.inner_text()
-                    link = await title_elem.get_attribute('href')
+                    # 페이지 HTML 일부 출력
+                    content = await page.content()
+                    print(f"페이지 로드됨 (길이: {len(content)})")
                     
-                    if link and not link.startswith('http'):
-                        link = f"https://kr.investing.com{link}"
+                    # 여러 셀렉터 시도
+                    selectors = [
+                        'article.js-article-item',
+                        'article',
+                        '.largeTitle',
+                        '.textDiv',
+                        '[data-test="article-title-link"]',
+                        '.articleItem'
+                    ]
                     
-                    if title and title.strip():
-                        news_items.append({
-                            'title': title.strip(),
-                            'time': '최근',
-                            'link': link,
-                            'category': classify_category(title),
-                            'symbols': extract_symbols(title),
-                            'source': 'Investing.com KR',
-                            'lang': 'ko'
-                        })
-                        print(f"수집: {title[:30]}...")
+                    for selector in selectors:
+                        elements = await page.query_selector_all(selector)
+                        print(f"  셀렉터 '{selector}': {len(elements)}개 발견")
+                        
+                        if len(elements) > 0:
+                            print(f"  ✅ 사용 가능! 첫 번째 요소 확인 중...")
+                            
+                            # 첫 번째 요소에서 텍스트 추출 시도
+                            try:
+                                first = elements[0]
+                                text = await first.inner_text()
+                                print(f"  텍스트: {text[:100]}...")
+                                
+                                # 링크 찾기
+                                link_elem = await first.query_selector('a')
+                                if link_elem:
+                                    href = await link_elem.get_attribute('href')
+                                    print(f"  링크: {href}")
+                                    
+                                    # 실제 뉴스 수집 시작
+                                    print(f"\n  이 셀렉터로 수집 시작: {selector}")
+                                    
+                                    for elem in elements[:15]:
+                                        try:
+                                            a_tag = await elem.query_selector('a')
+                                            if not a_tag:
+                                                continue
+                                            
+                                            title = await a_tag.inner_text()
+                                            link = await a_tag.get_attribute('href')
+                                            
+                                            if link and not link.startswith('http'):
+                                                link = f"https://kr.investing.com{link}"
+                                            
+                                            if title and len(title.strip()) > 5:
+                                                news_items.append({
+                                                    'title': title.strip(),
+                                                    'time': '최근',
+                                                    'link': link,
+                                                    'category': classify_category(title),
+                                                    'symbols': extract_symbols(title),
+                                                    'source': 'Investing.com KR',
+                                                    'lang': 'ko'
+                                                })
+                                        except:
+                                            continue
+                                    
+                                    if len(news_items) > 0:
+                                        print(f"\n✅ 성공! {len(news_items)}개 수집")
+                                        break
+                                    
+                            except Exception as e:
+                                print(f"  요소 처리 오류: {e}")
+                    
+                    if len(news_items) > 0:
+                        break
                         
                 except Exception as e:
+                    print(f"URL 접근 오류: {e}")
                     continue
             
-            print(f"kr.investing.com 총 수집: {len(news_items)}개")
+            print(f"\n=== 최종 결과: {len(news_items)}개 수집 ===\n")
                     
         except Exception as e:
-            print(f"❌ kr.investing.com 크롤링 오류: {e}")
+            print(f"❌ 전체 오류: {e}")
         
         await browser.close()
         return news_items
+
 
 async def crawl_hankyung():
     """한국경제 선물 뉴스"""
