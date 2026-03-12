@@ -2,7 +2,7 @@ name: 해외선물 뉴스 크롤링
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # 5분마다 실행
+    - cron: '*/1 * * * *'  # 5분마다 실행
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:
