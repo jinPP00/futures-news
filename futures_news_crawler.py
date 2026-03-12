@@ -6,17 +6,48 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 
-# 카테고리별 검색 키워드 (금속 키워드 대폭 추가)
+# 카테고리별 검색 키워드 (최종)
 CATEGORIES = {
-    '지수': ['나스닥', 'S&P500', '다우지수'],
-    '에너지': ['원유', 'WTI', '천연가스', '브렌트유'],
-    '금속': [
-        '금 선물', '금값', '금 가격', '금시세', '금 전망', '골드',
-        '은 가격', '은값', '은시세', '은 전망', '실버',
-        '구리 가격', 'gold', 'silver', 'copper'
-    ],
-    '국제': ['세계경제', '국제시장', '글로벌경제', '세계시황'],
-    '기타': ['해외선물', '선물 시장', '파생상품', '미국채', '국채', '달러 환율', '엔화', '유로']
+    '지수': {
+        'type': 'search',
+        'keywords': ['나스닥', 'S&P500', '다우지수', '미국 증시']
+    },
+    
+    '에너지': {
+        'type': 'search',
+        'keywords': ['원유', 'WTI', '천연가스', '브렌트유', '국제유가']
+    },
+    
+    '금속': {
+        'type': 'search',
+        'keywords': [
+            '금 선물', '금값', '금 가격', '금시세', '금 전망', '골드',
+            '은 가격', '은값', '은 전망', '실버',
+            '구리 가격', '구리 시세', '구리 전망',
+            'gold', 'silver', 'copper'
+        ]
+    },
+    
+    '국제': {
+        'type': 'search',
+        'keywords': [
+            # 미국
+            '미국경제', '미국 증시', 'Fed', '연준', '월스트리트',
+            # 중국
+            '중국경제', '중국 증시',
+            # 유럽
+            '유럽경제', 'ECB', '유로존',
+            # 글로벌
+            '세계경제', '글로벌시장', '국제시장',
+            # 이슈
+            '미중 갈등', '무역전쟁', '인플레이션', '경기침체'
+        ]
+    },
+    
+    '기타': {
+        'type': 'search',
+        'keywords': ['해외선물', '선물 시장', '미국채', '국채 금리', '달러 환율']
+    }
 }
 
 MAX_NEWS_PER_CATEGORY = 10  # 카테고리당 최대 뉴스 개수
@@ -106,7 +137,7 @@ def crawl_all_categories():
     all_news = {}
     total_new = 0
     
-    for category, keywords in CATEGORIES.items():
+    for category, config in CATEGORIES.items():
         print(f"\n📰 [{category}] 수집 중...")
         
         # 기존 뉴스 가져오기
@@ -116,7 +147,7 @@ def crawl_all_categories():
         
         # 새 뉴스 수집
         category_news = []
-        for keyword in keywords:
+        for keyword in config['keywords']:
             print(f"  🔍 '{keyword}' 검색 중...")
             news_items = fetch_google_news_by_keyword(keyword)
             category_news.extend(news_items)
@@ -156,15 +187,22 @@ def crawl_all_categories():
         
         print(f"  ✅ 신규 {new_count}개 | 총 {len(combined)}개")
     
-    # 3. 전체 뉴스 합치기
+    # 3. 전체 뉴스 합치기 (국제 뉴스가 맨 위로)
     total_news = []
+    
+    # 3-1. 국제 뉴스 먼저 추가 (맨 위)
+    if '국제' in all_news:
+        for news in all_news['국제']:
+            news['category'] = '국제'
+            total_news.append(news)
+    
+    # 3-2. 나머지 카테고리 추가
     for category, news_list in all_news.items():
+        if category == '국제':  # 국제는 이미 추가했으므로 스킵
+            continue
         for news in news_list:
             news['category'] = category
             total_news.append(news)
-    
-    # 전체 뉴스도 타임스탬프 기준 정렬
-    total_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
     
     # 4. JSON 생성
     current_time = datetime.now(timezone(timedelta(hours=9)))
@@ -173,7 +211,7 @@ def crawl_all_categories():
         'updated_at': current_time.isoformat(),
         'update_time_kr': current_time.strftime('%Y년 %m월 %d일 %H:%M'),
         'categories': all_news,
-        'all_news': total_news,
+        'all_news': total_news,  # 국제가 맨 위
         'statistics': {
             '지수': len(all_news.get('지수', [])),
             '에너지': len(all_news.get('에너지', [])),
@@ -194,10 +232,10 @@ def crawl_all_categories():
     print(f"✅ 크롤링 완료!")
     print(f"📊 전체: {len(total_news)}개")
     print(f"📊 신규: {total_new}개")
+    print(f"📊 국제: {len(all_news.get('국제', []))}개 (최상단)")
     print(f"📊 지수: {len(all_news.get('지수', []))}개")
     print(f"📊 에너지: {len(all_news.get('에너지', []))}개")
     print(f"📊 금속: {len(all_news.get('금속', []))}개")
-    print(f"📊 국제: {len(all_news.get('국제', []))}개")
     print(f"📊 기타: {len(all_news.get('기타', []))}개")
     print("=" * 50)
 
