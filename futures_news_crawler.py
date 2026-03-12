@@ -99,16 +99,25 @@ async def crawl_kr_investing():
         news_items = []
         
         try:
-            await page.goto('https://kr.investing.com/commodities/real-time-futures', 
+            print("kr.investing.com 접속 중...")
+            await page.goto('https://kr.investing.com/news/commodities-news', 
                            wait_until='domcontentloaded', 
                            timeout=30000)
-            await page.wait_for_timeout(3000)
+            await page.wait_for_timeout(5000)  # 로딩 대기 늘림
             
-            articles = await page.query_selector_all('article.js-article-item')
+            # 다른 셀렉터 시도
+            articles = await page.query_selector_all('article')
+            print(f"찾은 article 수: {len(articles)}")
+            
+            if len(articles) == 0:
+                # 대안 셀렉터
+                articles = await page.query_selector_all('.largeTitle')
+                print(f"대안 셀렉터로 찾은 수: {len(articles)}")
             
             for article in articles[:15]:
                 try:
-                    title_elem = await article.query_selector('.textDiv a')
+                    # 제목 찾기 (여러 셀렉터 시도)
+                    title_elem = await article.query_selector('a')
                     if not title_elem:
                         continue
                     
@@ -118,25 +127,62 @@ async def crawl_kr_investing():
                     if link and not link.startswith('http'):
                         link = f"https://kr.investing.com{link}"
                     
-                    time_elem = await article.query_selector('.articleDetails span')
-                    time_text = await time_elem.inner_text() if time_elem else '방금'
-                    
                     if title and title.strip():
                         news_items.append({
                             'title': title.strip(),
-                            'time': time_text.strip(),
+                            'time': '최근',
                             'link': link,
                             'category': classify_category(title),
                             'symbols': extract_symbols(title),
                             'source': 'Investing.com KR',
                             'lang': 'ko'
                         })
+                        print(f"수집: {title[:30]}...")
                         
                 except Exception as e:
                     continue
+            
+            print(f"kr.investing.com 총 수집: {len(news_items)}개")
                     
         except Exception as e:
             print(f"❌ kr.investing.com 크롤링 오류: {e}")
+        
+        await browser.close()
+        return news_items
+
+async def crawl_hankyung():
+    """한국경제 선물 뉴스"""
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
+        page = await browser.new_page()
+        news_items = []
+        
+        try:
+            await page.goto('https://www.hankyung.com/finance/futures')
+            await page.wait_for_timeout(3000)
+            
+            articles = await page.query_selector_all('.news-list article')
+            
+            for article in articles[:10]:
+                try:
+                    title_elem = await article.query_selector('a')
+                    title = await title_elem.inner_text()
+                    link = await title_elem.get_attribute('href')
+                    
+                    news_items.append({
+                        'title': title.strip(),
+                        'time': '최근',
+                        'link': link if link.startswith('http') else f"https://www.hankyung.com{link}",
+                        'category': classify_category(title),
+                        'symbols': extract_symbols(title),
+                        'source': '한국경제',
+                        'lang': 'ko'
+                    })
+                except:
+                    continue
+                    
+        except Exception as e:
+            print(f"❌ 한국경제 오류: {e}")
         
         await browser.close()
         return news_items
