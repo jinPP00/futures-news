@@ -6,28 +6,34 @@ from datetime import datetime
 import feedparser
 import asyncio
 
+
 def should_crawl_now():
-    """
-    크롤링 실행 여부 결정
-    - 밤 9시(21시) ~ 새벽 4시: 항상 실행 (5분마다)
-    - 오전 4시 ~ 밤 9시: 정각 근처에만 실행 (1시간마다)
-    """
-    now = datetime.now()
-    hour = now.hour
-    minute = now.minute
+    """크롤링 실행 여부 - 테스트용"""
+    return True, "테스트 모드 - 항상 실행"  # 👈 전체를 이렇게
+
+
+# def should_crawl_now():
+#     """
+#     크롤링 실행 여부 결정
+#     - 밤 9시(21시) ~ 새벽 4시: 항상 실행 (5분마다)
+#     - 오전 4시 ~ 밤 9시: 정각 근처에만 실행 (1시간마다)
+#     """
+#     now = datetime.now()
+#     hour = now.hour
+#     minute = now.minute
     
-    # 밤 9시 ~ 새벽 4시: 항상 실행
-    if hour >= 21 or hour < 4:
-        return True, f"밤 시간대 ({hour}시) - 5분마다 실행"
+#     # 밤 9시 ~ 새벽 4시: 항상 실행
+#     if hour >= 21 or hour < 4:
+#         return True, f"밤 시간대 ({hour}시) - 5분마다 실행"
     
-    # 오전 4시 ~ 밤 9시: 정각 근처(0~4분)에만 실행
-    if 4 <= hour < 21:
-        if minute < 5:
-            return True, f"낮 시간대 ({hour}시 정각) - 1시간마다 실행"
-        else:
-            return False, f"낮 시간대 ({hour}:{minute:02d}) - 스킵"
+#     # 오전 4시 ~ 밤 9시: 정각 근처(0~4분)에만 실행
+#     if 4 <= hour < 21:
+#         if minute < 5:
+#             return True, f"낮 시간대 ({hour}시 정각) - 1시간마다 실행"
+#         else:
+#             return False, f"낮 시간대 ({hour}:{minute:02d}) - 스킵"
     
-    return False, "알 수 없는 시간"
+#     return False, "알 수 없는 시간"
 
 def classify_category(title):
     """카테고리 자동 분류"""
