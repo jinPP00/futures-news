@@ -1,8 +1,35 @@
 {
-  "updated_at": "2026-03-12T21:26:23.694136+09:00",
-  "update_time_kr": "2026년 03월 12일 21:26",
+  "updated_at": "2026-03-12T21:31:12.675827+09:00",
+  "update_time_kr": "2026년 03월 12일 21:31",
   "categories": {
     "국제": [
+      {
+        "title": "\"트럼프가 전쟁 상대를 고르는 기준은?… 강자인가, 약자인가\" - 뉴스핌",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52NnQ4bkN5dkVKY1lyMTFoTjRBbnBjR2o5M3dfNEc3Q05PSVBiR254VmVXdWoxaE9US2Q0SS1fdGlmWC13dFhkeUd5WmNKa1p6cGUzRmxtTnBTLW1K?oc=5",
+        "time": "26분 전",
+        "time_original": "Thu, 12 Mar 2026 12:04:00 GMT",
+        "timestamp": 1773317040.0,
+        "source": "Google News",
+        "category": "국제"
+      },
+      {
+        "title": "골드만 \"Fed, 금리인하 9·12월로 늦출 것\" - 한국경제",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oY0pkMURlZVBrVVhncnpGc0xfNXNxSEFqbDVsbGlrY05KMU5ENWFzYmxObmpSRXB6M0RpYjUtZlVsRmxZczZrVUxONDk4TVA1aDZQLVdqVEUyZ9IBVEFVX3lxTE82bHVNUkdKbERucm9Pa2FGbG9XbGVGanhqYlNXalZoVFRiREQwQnNacTRHTkIzMWxZTW4wY183QVJzX1IycHkwTG9kb0k0ajdCX21iYQ?oc=5",
+        "time": "50분 전",
+        "time_original": "Thu, 12 Mar 2026 11:40:49 GMT",
+        "timestamp": 1773315649.0,
+        "source": "Google News",
+        "category": "국제"
+      },
+      {
+        "title": "미국, 한국 포함 16개국에 301조 조사 개시…7월 ‘상호관세 부활’ 목표 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRGFPUlcwTVMyblFUVUlYSmxxT3FibWdFaGVJYjlPaXJOdWFZdW9WZDBtZjBxSGU2SjZQX1AyalpqQlhBZVpRMkl6UGFRblVaZkl3ZTduOUlDLXk4UnpRaUYtOFFqWjd5c1Znd05vNA?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:54:00 GMT",
+        "timestamp": 1773312840.0,
+        "source": "Google News",
+        "category": "국제"
+      },
       {
         "title": "미-이스라엘 ‘종전’ 엇박자…트럼프 “곧 끝날 것”, 이스라엘 국방 “제한 없이 계속” - 한겨레",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGxjM29FcXNyelBiNV8yVUYxSUc0ZU10bnZPNi03LUVvTTcwMnRWcVVJVzVvQ2haQzFJLVd5aVVSV3lDMGhwU1ltYWd6QmhLSG9kcU45X3VEdVBtTEdMQWljMVZ2NHczQXBpeW5GZ2NxMTB5dUpVQU9YNFpQdUFUdzBn?oc=5",
@@ -13,144 +40,334 @@
         "source": "Google News"
       },
       {
-        "title": "트럼프, 유가급등 등 오판했나‥\"참모들, 부차적 문제로 치부\" - v.daum.net",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EeTZ2WVh3UWQ4eUtjeHFZcjhiQXRfVmp4YU81WFphS1NRaTdJWWM0cG84UXJPSVdkZ0dJYnN1M3VJQWxUWFluWTJwb2VPYkk?oc=5",
-        "time": "10시간 전",
-        "time_original": "Thu, 12 Mar 2026 01:36:07 GMT",
-        "timestamp": 1773279367.0,
-        "category": "국제",
-        "source": "Google News"
+        "title": "뱅크오브아메리카 \"연준, 금리 인하 서두르면 안 돼\" - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRFRUbGlKUXZyUVY3dEJRQjlDT0JweHRGSXRRcDBqRFFGMFcyek5vWWRpR2diNjJ4OFhqSkt4RVZCanlnWVZuZ0NWcktneGdNdUcxRmVVU0ZNWnJGdXFsX0NDNE95eUd0TGtQdDZHdW9iUGljWkVj?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:38:00 GMT",
+        "timestamp": 1773311880.0,
+        "source": "Google News",
+        "category": "국제"
       },
       {
-        "title": "트럼프 \"우리가 이란전쟁 이겼지만 임무 마무리해야\" - 연합뉴스TV",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5UmxDcVE5X0pWVDZNS3U2SEdxWnhhOXczaHBMVjlQZjFEbHl5TUFpN3RFaXE1QlFydnB5WEdpcUxqSmh2MDlpYnF1RTVmLWc1YmVyVWRFUTUyX09LRTYwQWZHbWpFeEE?oc=5",
-        "time": "13시간 전",
-        "time_original": "Wed, 11 Mar 2026 22:44:35 GMT",
-        "timestamp": 1773269075.0,
-        "category": "국제",
-        "source": "Google News"
+        "title": "\"트럼프, 美기업 손해 보면 '무차별 제재'…관세만 보지말고 패키지 규제 대비해야\"... - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVp6NzJTYnJzeDVlal9GelNzWUlUZjctRUJqSnFNTndMYl9lWEZrNFk2UHZTeFVzWDV4clBhUjVWbjlQdGl4bE5Ib1Y1cmxYencwc2dhY3I3eHpPaEFsV2JpenlMWENBVmRfYU0zYkVKaDRJRWFBd3psRG1JY3VHcw?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:55:26 GMT",
+        "timestamp": 1773309326.0,
+        "source": "Google News",
+        "category": "국제"
       },
       {
-        "title": "美 경제에 드리워지는 스태그플레이션 우려…‘퍼펙트 스톰’ 마주한 연준 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWZSZ3FfSG1pWVFFMHlQd3B1dTJWblFxUEQzWXNySjd2WTAxSkJMaFU2WHVRa2F1VnVlY1lYNzlwN01PT05KWEs4Q3lzR29FT01wRC04UzNRb09vYVYtQnNpTE9tbHByZHBsYjJvWkQ0N3JFdkNGQUUyMV9uUVZOdXhTUUR3VHQ0NDdmSUNYaGFPV2M5NVhYQ1FsVkl2QdIBsgFBVV95cUxNcEMxZC1tUklqYmZhYVM0MmlheG1BbEVwTE40Uk9oUjY4ZWtMUWpqdmxqdVBzc3dCVk5zMGE3dzJqOXlOZHJ2aEtLMFgzc01xVmFJWWFLaGVqMFlhUDNMdmZ0bWx1bXRuRHlzNHZkSm1zUkJxYTVHaWtZbHRiTTYzc3FQVGYzWS1HOGZnZjNXTlNQVE13YmY1ai1qM1dIbzBKeTRZaTRRX3FNVUcwODZSMmJ3?oc=5",
-        "time": "14시간 전",
-        "time_original": "Wed, 11 Mar 2026 21:37:54 GMT",
-        "timestamp": 1773265074.0,
-        "category": "국제",
-        "source": "Google News"
+        "title": "[서연그룹 줌인] 美 수천억 베팅…트럼프 관세 '양날의 검' 되나 - 블로터",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LQ0wwQ2lzOF9UZUdjNVJyenBpekZyYlVYbW1vSGlNMzRJQkFzSTJPemN2SFBtcGstUFhIOW5LLXNZM01wc0N1T1g1X3hjc1dWUXo0bndNSkdNRDVqTWdHWUtYNV9pUjNZVzNqeNIBbEFVX3lxTE1LQ0wwQ2lzOF9UZUdjNVJyenBpekZyYlVYbW1vSGlNMzRJQkFzSTJPemN2SFBtcGstUFhIOW5LLXNZM01wc0N1T1g1X3hjc1dWUXo0bndNSkdNRDVqTWdHWUtYNV9pUjNZVzNqeA?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:15:13 GMT",
+        "timestamp": 1773306913.0,
+        "source": "Google News",
+        "category": "국제"
+      },
+      {
+        "title": "트럼프, 새로운 관세 위협 나섰다···'무역법 301조'에 한국 대응은? - 여성경제신문",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JODFoTm51bXJpNHd1Uk5MX3ZxNk1INzM4SFRUQXNCeldCU3B1VUNGRDJIdHJRQnlsVlNDMUJ0WC1uUG51SkJnTlNEWDNTUWZ2Sk1GTzkyWGJHVnVaVU9PeVYtdmRqd2VrNG1VV2IxOExDalnSAXdBVV95cUxNSkRSQXV2Tkd4RmlnZlQwQ1k4WWZQZk5ncGNIR0xjZ01nd1hUZEtUcG9OTnNRYVhUTk1JVjBab1BBRlAtWXY2a0lUOXpnaU1PcEp1YzJqYmo0TndVNFFaS19PZjRRMzc5bm1XbVEzZDlld0FvcW9KYw?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:14:38 GMT",
+        "timestamp": 1773306878.0,
+        "source": "Google News",
+        "category": "국제"
+      },
+      {
+        "title": "트럼프 ‘관세 우회로‘ 301조 어떻게 다른가…미국 무역압박 상징 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UODM2UVVDSDZDOTNhWXhUbzdRMDc1Zlc2dE1semo5QWludEJNZGF5SXo4aUV3NHpsSVhTSWw3ZlZ6NTlXNmFVYkRBRzBmdFk?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:33:05 GMT",
+        "timestamp": 1773304385.0,
+        "source": "Google News",
+        "category": "국제"
+      },
+      {
+        "title": "중동발 쇼크… 고민 깊어진 美 연준 - 시사위크",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YSEtKRHVPZlQyaE9tS2dvQ0k2VDZDTnNKclNpcG4xR0NlTlBjOWwtZHZCLU5QN2FWXzZlazI2Vmk0dzExM0lCamdtM3RLNHZqamNENUt4clk4NkNRZU5NQ1IzZFNNR3gyUHpGenFSZ9IBb0FVX3lxTE9YSEtKRHVPZlQyaE9tS2dvQ0k2VDZDTnNKclNpcG4xR0NlTlBjOWwtZHZCLU5QN2FWXzZlazI2Vmk0dzExM0lCamdtM3RLNHZqamNENUt4clk4NkNRZU5NQ1IzZFNNR3gyUHpGenFSZw?oc=5",
+        "time": "4시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:28:37 GMT",
+        "timestamp": 1773304117.0,
+        "source": "Google News",
+        "category": "국제"
       }
     ],
-    "지수": [],
-    "에너지": [
+    "지수": [
       {
-        "title": "‘호르무즈 봉쇄’ 위협한 이란, 자국 원유는 중국에 수출? - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGJQYnlpOXBHVTBNRlN5Y2g4dVJtM2hFUno2cWsya1ViTF80QmR0VWVuTklrNGtIMTFsZ0cyXzV2M3NtQUxGVTB2VVc3Q2NoVnQ3TDU2dW1VZ29TN2U2VWVXdjlWRnVyY1FaV0FNQzJKWkxfMEhyX3ZOODJMMjJ2RmcxaDFrWk9LNk9sUFp2dXNEd3RPdUJtdnNiUUZKZ9IBsgFBVV95cUxPTVBDUFFwMzk0dUtrWG1lTGFLbUpoamU3ekJyU1JDak52Uy1hQ1djaEgySDZxWFd2S0pqXy1RWW5SdTRLRDljNDZ2VHNlbTRWUWtXZ1BueFVPcXh2SnFzSFdqWUttNHlyNGh5ZFM1TElfRExXNU9ad2pOMVQxR2R4X1Z3UWYzWC1PTUw1YndzYzBYMjNKal9janZqMkljaDdQMU1kSUF0SHdHenAxSHVnSWdB?oc=5",
-        "time": "3시간 전",
-        "time_original": "Thu, 12 Mar 2026 08:29:00 GMT",
-        "timestamp": 1773304140.0,
-        "category": "에너지",
-        "source": "Google News"
+        "title": "이란 갈등 고조로 유가 급등하며 미국 선물 하락 예상 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Y01SWEdkWl82X1k2WHVBTDBFa095NFluTTBmbHRCdHlySFJKTkxxX2RfcXV2bDh5MHVHM3RTNkFta012QUktR3dieGFzX19kU25BUzg4am5YbC1ORTg2TGp4a3JrS21JZkp2aXdoZ2o?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 11:11:00 GMT",
+        "timestamp": 1773313860.0,
+        "source": "Google News",
+        "category": "지수"
       },
       {
-        "title": "혼자 침착한 중국 증시…러시아산 ‘줍줍’하며 중동산 원유 의존도 낮춘 덕? - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmwtMUJJSVg0RmR4N3FYV3FnU01ldFZqcEpvWl9jQUhTbVh2T3oxYzFNRTRXQ3BmV3liZFpod0hHSnY0T25kQ1JVQ3phSURHODRoXzJpemZITjRyaUhXc1FheU0zZnI3czFkajNEb29maHdxZHRiSTdWTW9nNEpHOXI4OVg0ZDNqbmtjQXZn0gGiAUFVX3lxTE9UUlNlakJqVXkyRFhhY0xndkVMYmQ4cTEtT2tkaUU0WjAzYmpUOVBPZTdsM0l2N0ZIZ014N2ZxaXhlYTRud1p2VUlubW5iMzNwMVQ2cFhZNzBkdmJ3VFNnWjdwSUJpOHJpNEdpMmRRUzFTbUprZXY3Z0c4aXZ6YUVKc0dtYkUxbWN5TGxWOW1yX1l2YkJZVHRHaXgzcHluQVktZw?oc=5",
-        "time": "5시간 전",
-        "time_original": "Thu, 12 Mar 2026 06:32:47 GMT",
-        "timestamp": 1773297167.0,
-        "category": "에너지",
-        "source": "Google News"
+        "title": "오늘의 미국 주식 시장: 장기 금리 우려가 커지면서 S&P 500 선물이 하락세 - simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWh0M2J0R3J2N0pWSXlIeXUxWUZnXzJiallUMjBBdUtkck5EOW1SbnozU0hxVEgtcUE2WDBpdHpLM093Q0VfdnhPQWctVXlBVlFRTEwwN1NyM19lbE5GdkVpakxpanJZWnczek94YlB6bnQxODQ4T21XTmtpUkxXcmY5SUNvQVFHMmZRb0d3Q1dBUVVQeDBCVUVn0gGaAUFVX3lxTE1ZaHQzYnRHcnY3SlZJeUh5dTFZRmdfMmJqWVQyMEF1S2RyTkQ5bVJuejNTSHFUSC1xQTZYMGl0ekszT3dDRV92eE9BZy1VeUFWUVFMTDA3U3IzX2VsTkZ2RWlqTGlqclladzN6T3hiUHpudDE4NDhPbVdOa2lSTFdyZjlJQ29BUUcyZlFvR3dDV0FRVVB4MEJVRWc?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:50:21 GMT",
+        "timestamp": 1773312621.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "\"코스닥, 50% 더 오를 수 있다\" - 블루밍비트",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlYzZTTGtta2JCN2d5Y0F1TlY2ZllYUlB3QVAwb1dvSmJ4NEwtNXNVN0djQTR2ZWp3c0dBSWs2RmN5eERxTEJrZmtFUXNOOU1X?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:36:21 GMT",
+        "timestamp": 1773308181.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "중동 긴장에 유가 장중 100달러 재돌파…아시아 증시 하락(종합) - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSTVXb055Ukhib2FvRTB5Rm9IX2RLWVZ0QVRhTVc2TWVESFpGVEVPUVdkUTl1Ri1xb1B5TVpnOFpIWjZTYWJqLW1pTmtKOEJzVnRyQkFYYm9QT2NIeWR4bE8zQnhLMnV3RUZiRGhKOHc0T2lReWtvTg?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:54:00 GMT",
+        "timestamp": 1773305640.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "다우 지수 300p 가까이 급락···투자 심리 위축, 탐욕 지수는 여전히 ‘공포’ 영역 - Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMm42dTVpcjNXdHQzOEs4ck9KSjRaRU82TUFoRnR5OXcyV2ZsSmlnOVJvLUFEWFlTdUJTOGlSeHF6ejJrVGIzQUx5Vjk0T1R5cUVEYVJuWWxDeEVaN2xfYlp1TVBNVk9vYW1KNE5VNS14M2JOb1lRcmcxVHdWZ2xZS09QQ3hwdnRfa1ZOUEdGUzkyblpod1pUQmpja1pCMHFoX2huUV94ajMtbGR4eXNDMjVKTGVsTzZSLWJYNVk3ejh2QWQ3bVBucUZCZFFHTS1tTG8yRFNYMHkwdEY4VERMdE9CN1dxRE4yZ05HNDVvYTdFaFNyRENMeXZVZTFxaWptOVhkODVfNkJmSFh5UnF4aGM1Rmp2V05IX2sxemdNSEloUFE2a3dMVmdXZXFTaGtiZ1lTN1dza0p6WGNy?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:43:47 GMT",
+        "timestamp": 1773305027.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "'스페이스X' 나스닥 상장 임박? '이 종목'들까지 난리났다 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tLVBSZXhlU01rMVhlMUlyNEN3TlVKVEZYTF9VUkdxOXVRUk1HdGZMdnROM3VpNURJek0xUHlFcGRMbFB4eGRXeUN6TWhXV3pvcG1n?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:41:00 GMT",
+        "timestamp": 1773304860.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "고유가 우려 속 혼조 마감‥다우 0.6%↓ - MBC 뉴스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iQzBUVGE3NTNFSzB1TlIxbU0wNHZ3VUpjMkNJNzBHeGpqUVhacEVSazNiclhnOExFWFhQZy05UEhwSEJnNEE1WG1MOW5sbGxoREllM0ZPZUNYa1NpSC1CRUxmMHFJOGdobk5LdG5XNVdUUThTNGZySNIBeEFVX3lxTE50Wkg5VDBXQWJiNWRxR0VXd3ItN2tLOGR0b3FVUm5YbmJZNXZBRFNWanI0ZFAzNHZXM21qQ0VNa0wwamhKbUgyVzVZQlAzZXZpTzNuX2VlczdiaV9wUFdTVkExeXFTc1d2V29wZ3NtRXRBdHE2dmh5eA?oc=5",
+        "time": "4시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:04:53 GMT",
+        "timestamp": 1773302693.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "나스닥 출격하는 스페이스X…국내 수혜주들 일제히 '들썩' - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9peEFkT21ndVNjclh4QWdGNldNNDhMQm1ubElXZ1NkNnVFM2JhaFA0aEFPRVQtZXB3YjNrYWNHOVVNeTlWTGpZbDJZemcxdW8?oc=5",
+        "time": "6시간 전",
+        "time_original": "Thu, 12 Mar 2026 06:18:02 GMT",
+        "timestamp": 1773296282.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "뉴욕 선물지수, 유조선 피격 소식에 일제히 하락...코스피지수도 그 영향으로 5500선도 무너져 - 비욘드포스트",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5scXhNN1B0ejRmcVR1Qi1OejEtbS01RU9zUnJDNnJ5Skd4UjdpWVpySmFTWmg3MUVRMHlub1YzbWxrbnZJR1UyMUt0S3AtekJ0V0VOWXFUay1kMUUxUXBuT2xvaEtYb3h4cjNWUWZteVVOb1dZRFBzRWt6dWg?oc=5",
+        "time": "7시간 전",
+        "time_original": "Thu, 12 Mar 2026 05:04:00 GMT",
+        "timestamp": 1773291840.0,
+        "source": "Google News",
+        "category": "지수"
+      },
+      {
+        "title": "이란 무차별 유조선 공격, 지수선물 일제 급락…다우 1.07%↓ - 파이낸셜뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wcTNaVk1xRDRGS0RSREZTNC1fN2otNks4VDByYkNXbGVWZVhqaml2a1pjUmw2NHJfSWlNcFVDWjFYSVBiQUtxczVISHVKTXc2UlJpa0pPODByd9IBXkFVX3lxTE02RjUwSHl4Njhya0JWT3hUWTNUcWZremNRWWJfOXRZWUZZVmdlN0V6Znd3QkE3RUNhZV83VFNTNUw2dFEtUWdwNUotSmhPLTVibzZQekpHdzVwVENpb0E?oc=5",
+        "time": "7시간 전",
+        "time_original": "Thu, 12 Mar 2026 04:44:41 GMT",
+        "timestamp": 1773290681.0,
+        "source": "Google News",
+        "category": "지수"
+      }
+    ],
+    "에너지": [
+      {
+        "title": "4억배럴 비축유 방출 결정에도…유가 장중 100달러 넘기도 - 한겨레",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6YzlTUkZnbWF4NjFSVVRUaUlvbTdOdHQxNG9xc1FfNHdPNUFjcWw3ekRxbG9pNi1DVWYwVGNIVW5BRm9fTE9IeFVDakRFcDQtcXcwMF9Udk1XZkZxc0Zfdi1icEdNVVVReEplTGdEQm1LaHc?oc=5",
+        "time": "38분 전",
+        "time_original": "Thu, 12 Mar 2026 11:53:00 GMT",
+        "timestamp": 1773316380.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "초유의 \"4억배럴 방출\" 무색…국제유가 또 100달러 돌파 - JTBC",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xOUk5MEppOS0yeHUxM2ItbWZyU0ZRdnNQaS1NdTNPZjU5MkRVb3cwQ3h5ZEU5clNDNC1kNWl2UFBRUHdtTWdCVEVFc2RfZWtLQmdfdw?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:22:00 GMT",
+        "timestamp": 1773310920.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "오늘 오후(2026년 3월 12일) 연료 가격 업데이트: 세계 원유 가격이 배럴당 100달러에 근접하여 상승했습니다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmxBSWhVWGtDN1M5al9tUURURGxaVlFhcXFtLURhajZvaWE5Skt1ckI4cW9sVW53ZkxfTVFPQmpSbmZnLUJhcTFHYVh3Q29ManhsNkM0bWRtaTJkd0NWTzNQdlBrLWd5S01mTzdCZ0hMV1hGazJGYUxTWUlmRmhoSW13dTg5bXR0M2VNZWpzZTFicG1SOENEWVNYVUJ4dE9hTmJvbWk1TWdQMDNCM0g3NHFGWjE?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:48:44 GMT",
+        "timestamp": 1773308924.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "널뛰는 국제유가…비축유 방출에도 100달러 재반등 - 에너지신문",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBETlRzVzdqdDd3MUZnOFZTbXk3WUp3RnRXWm5nZlluSjdEQzJtQTExNmFfZlI5UkYzdFJ4UGxOQlpleUlEcDJyOGR4SmF3ZERfc0NOekZBYkhkTVFlWTdsQ19kZVh6aXRyYjNlanJNaWU5UQ?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:19:10 GMT",
+        "timestamp": 1773307150.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "공급 잡겠다는 기름값 최고가격제, 수요 부작용은? - 에너지경제신문",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoMjI2emN6bkhoWTZaSnJMNG9lNXlHVjlSMWtqcTN3N1JjU0x5bm1MdVlCdndGYXJLU0lnVHMxNlVqOXkxdk11SHVxSzNkYW56dXhFQUJja1g2ekVncXFBQUkwTQ?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:17:39 GMT",
+        "timestamp": 1773307059.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "[밀물썰물] 축복과 그늘, 석유 - 부산일보",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBybVRVcHNNT0JQTjJKb3ByOGh4ZGNzb05BTVc0QmtuOUgtOG9nNlhsLTNBZVo1MTF6N3VIejFMNlJWVVFOWWIxcVdmNmctNnh0Y2E2dWVjOVV5TzhpNmJFMVUxd242ZHdFaWtMcnlKa1RTeXJk?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:12:06 GMT",
+        "timestamp": 1773306726.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "[이정훈 칼럼] '석유 최고가격제', 3년 전 EU의 경험 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1USFJLWElYakt4NmpjODJhSk9PRmVQVGV0NUJxY1poSkRITHBkNmo1Ykw5enFDUVp6d0owc1MtdjZpeTRLbklBOGJGclJEdUtZUXM4QWV2aUVBQ1NVNDZwXzNhXzM3MkMyYXdjX3o4MVhsQUQ5dHc5dw?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:11:00 GMT",
+        "timestamp": 1773306660.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "국제유가 급등 여파…원·달러 환율 1480원대 재진입 - 쿠키뉴스",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbVVRMW9XdHFCMndzZ0Mwc3BwN0kwRkRDZHlzdlpJbHNpdk1PYjFwMlZtd2xqenFJS2U5dnRMZkswcW9zZzk4cEpEUURoZlFOcUpfOV8zV1RSVTRJam1XTEZwTQ?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:10:00 GMT",
+        "timestamp": 1773306600.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "브렌트유, 아시아 시장에서 다시 100 달러...아시아 석유 대란 - 여성신문",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XMm5yX2wxQi1JTEVYVEZHeHZ2SmNTalg1eTRLMW5pTWpNMVdFbjk5Y19KbjJJYzVXRDY5X3IyeEVoZ01LWHV5UUNBbndhcW5TSWxlX0Z3V3lWYVZvWE9nbDhjU1hxMFhTX1NuZWxCemdzek3SAXNBVV95cUxOVzJucl9sMUItSUxFWFRGR3h2dkpjU2pYNXk0SzFuaU1qTTFXRW45OWNfSm4ySWM1V0Q2OV9yMnhFaGdNS1h1eVFDQW53YXFuU0lsZV9Gd1d5VmFWb1hPZ2w4Y1NYcTBYU19TbmVsQnpnc3pN?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:07:42 GMT",
+        "timestamp": 1773306462.0,
+        "source": "Google News",
+        "category": "에너지"
+      },
+      {
+        "title": "IEA 비축유 방출에도…국제유가, 배럴당 100달러 터치 - 미주중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkbVdPM2dBZlZCMjJCYW43ejZhYUFKQWRwcVRWbGk5dlVvUXZOQ25jV2JiakpoX0h3Rl9TV1BBdXNFMkl4azNGeFFBdThxMTBlZ2tfd0pqdldwVUd1TkxCcy1B?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:51:00 GMT",
+        "timestamp": 1773305460.0,
+        "source": "Google News",
+        "category": "에너지"
       }
     ],
     "금속": [
       {
-        "title": "이마트에 돼지고기 납품가 담합...도드람푸드 등 9개 업체, 과징금 31억6500만원 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYld6clY3al9ndFBFall3ZGhGRkR6YUJiVDhYTDJaZmVXdFdYMWlzNlUxcl82ZEhMekhxc3FNbFJwRndMNkpGYi0yT0tuQkY2ZUlINUlKd2Vpc040VlNoTGJOU2FmYkx3Y2Vyc1FxNmM3elFIeGZNT1dlUjM1NGtKZVJDSHJpTk5yTGVEQmhn0gGiAUFVX3lxTE5GVFg2VjlMTDY3V0V0UFRFZWR1QndfcURCbVFGX1Bkc2FjQTNHbFV5U01UbEhJU2JydVVtQnVtaDlRNjNPVkxTVEpvSzBFZDRzNU1qNnNsN0c1c3lCUnFldEtpXzZxWUtrYnpxVnJEX2Voc01FR3RLcHRiTFoxUi1DRTY3ZzhQaEdoaHFPVmxTeE9rTDd2cHAwcHlONU4xRmFHUQ?oc=5",
-        "time": "8시간 전",
-        "time_original": "Thu, 12 Mar 2026 04:01:54 GMT",
-        "timestamp": 1773288114.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "BTC 가격은 탄탄한 모습을 보이나, 2만 달러 풋옵션을 간과하지 마십시오: 크립토 데이북 아메리카 - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmo5OWJVZkw3OU5TZ1Bxa0VhVGdaNmdJV2NmUHBLMzlCY2ZmUlhXX2JkaW5id3lVWXNFM18yNlVMcmRDdW95SzFOaEVZUnI4S3d5MER1YXZXa1NOb2pmbjRsdkN5MHFkajg4U2FOYXZtbHk3US1qYXBhdkM4T1VNRFN0LWwtZGJpUEs5YlNyNm1mSTdOdUNCWFdFYmRlZ0lfeHo0MlVGcEIwSktEeHluSA?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 11:17:18 GMT",
+        "timestamp": 1773314238.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "한은 부총재보 \"중동사태로 향후 금리 결정 훨씬 신중하게 할 것\" - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qVE9xOS14MlpSNld6ZXI2QTkzVWxIblJYZUNKVENNdEdzRnRKSzUtb0l5QlR5b2tzMlFTa09scmZmbHVhNkYzU2g5SExzRHA0OTJoZUVsZDJGby1aRHlHUnpqa1NJYW9wNWl1N2xud0w?oc=5",
-        "time": "9시간 전",
-        "time_original": "Thu, 12 Mar 2026 03:00:00 GMT",
-        "timestamp": 1773284400.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "국내 금시세(금값)는? - 게임톡",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fVWl2V3RJVnp0MjdLNWQ2b1lCcng2Tzk3azRxZVZIU0lJUjMyRWxCWG83NXY2QlpSWGU0aFZNblI1aXFRb0UybWt0czdCTWx4VEMzQTl4WTdoN0tyZ2g5OGZfczd0UElaazg4Wg?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:44:21 GMT",
+        "timestamp": 1773312261.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "대법 “한화오션 경영성과급은 임금 아냐”… 퇴직자들 최종 패소 - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVkcGpvLVRTYkxZR0lLWFVpcktNaUhkM2ZISzUwQURvd3dxVHVzai1HNi1rS2Z4YldjNFQxYUcxWVo2cGx0U1RleUNQV3dQYlRseDdrR0NObXJRdHRfaWtsT19Db1ZXd2Fxa19GVGl2MjlzRElkYWZ3RFBWUkJXTmlyU1pRdDTSAZsBQVVfeXFMTkhoVDdTNHpJZDZ4OUdOYm9fWHo1RUtGZlpnek5xMmVUNHNvSkt3Um55TzJhby1aMTRtcXZKdGhpMFN1R0I4eldzaHBUalVmZl9XNG13V3JSUWtpX1RGWlBjOHNiN1FqR0c0SkFqZkZPZkp0RmxjV3NhUlBkcTJDRjZZT19RSzlPczZfeFdPbmJCWE9GUlRPUmNnbFE?oc=5",
-        "time": "10시간 전",
-        "time_original": "Thu, 12 Mar 2026 01:37:23 GMT",
-        "timestamp": 1773279443.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "[오늘의 은값시세] 3월 11일 은시세는? - 금강일보",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03TXpkemZPWDB0R05ydEd3ZDBIbkdNRmxfVjUtZWpRYTJ2QUJFUTF2OFlqTno5MHJFYXZRRUpTQkdHNGp2bllHbkFwT1lqN3c0MUNpZ29uTG5PNDI3bUdPcVRNcUVFbkVCeHc?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:08:13 GMT",
+        "timestamp": 1773310093.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "[단독] “중동 전쟁 선박보험 괜찮나”…금감원, 보험사 CFO 소집 - 매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAycW5XT1NaSGlZWGQ4aGJqTlJpSUNqaHlFcE5DREFTdVBLakV5X0RMbFIxeFEyWVhyOGJSVFU0T0h3c0ZxUWpsc2lhM0hVZkgycnZTNQ?oc=5",
-        "time": "10시간 전",
-        "time_original": "Thu, 12 Mar 2026 01:27:48 GMT",
-        "timestamp": 1773278868.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "2026년, 2027년, 2028~2030년 및 향후 은 가격 예측 및 전망 - LiteFinance",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0R4bnRLVkJUV3NkZHRnQXFNNDEwVlFEVkpqY3d2QlJXcWRDM0FjUEkwZFFQZERCN2RBQlFVT0xwbU1OQVFVZnRzSDRwRTNSVl9DaTNhcUw4UzNoMDVlSWVzWFVDOUQ1QVpoOVZ5OWZtYTVPNkl6TlV0Mk1GaXZ3QW9BUDJDWkd4VGg0X1ZZMVJnQQ?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:02:44 GMT",
+        "timestamp": 1773309764.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "\"과학 난제 해결\"…정부 'K-문샷' 참여 기업은 - 지디넷코리아",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwYVZyNGpWeU8xSXRnOTYyT0ZpOUtScFp2SURyeTFlNGVYRV9EWjdMN1NjaWZjRXYycnZubnd6NGlFZGJTQ3o3THhlblh4aUtsdFRnWm5n?oc=5",
-        "time": "11시간 전",
-        "time_original": "Thu, 12 Mar 2026 01:19:59 GMT",
-        "timestamp": 1773278399.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "오늘 금시세 한돈, 3월 12일 장내 금 가격 상승 실물 금 시세 흐름 비교 - 중앙이코노미뉴스",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kcWRkQmlJM0w2cS1tOWxRSWlTaFFrOWFodVQwV0RPZ0NLOEZUT25VcUtHeGc0cGd0YW5LdnZ2TzVfQV9TVkcwamoxZnpNZmdSUk9wTk5sVzFlWUpKUTQycW1VNURNcXd6SkxZOGJpTVg5UQ?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:34:50 GMT",
+        "timestamp": 1773308090.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "297만명 신용정보 유출…롯데카드에 96억 과징금 - 한국경제",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96NDhXS25XWHpjdU9kUnk4b3pXU1U0YTR5VjVwMjFUVS1KRi1hYlZ1cWtiVldpVWtvenIwTmdnclhMNXFxR3VGbFBwVE8xX1RMX0dEbHN0NWVhZ9IBVEFVX3lxTE92Sk5Zd3FzUUlya01MSDJjckRvdHZ3ZDNUV1ltWExOejdkZlU5bFZLaVJ6UmtYbHBGXzBpaUYtUW5od21mb1FBYVhQTjZiN2ozeF8ySw?oc=5",
-        "time": "11시간 전",
-        "time_original": "Thu, 12 Mar 2026 01:00:07 GMT",
-        "timestamp": 1773277207.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "중동 긴장에 유가 장중 100달러 재돌파…아시아 증시 하락(종합) - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4d010bi1TYWU4eXBSN2ZkNk5BdTdUbzlkLXo5a3JSZVFVdnFOWjh3a21sSzJIT0JyRE5pcEhueXJmZzZsMUVpd3VsRDA0dVVzNmU3aHBkbTBQUEVjd19IbTJyWnJUbTRHc3g0R1JuU040U3h1dUp1cdIBeEFVX3lxTFB4d010bi1TYWU4eXBSN2ZkNk5BdTdUbzlkLXo5a3JSZVFVdnFOWjh3a21sSzJIT0JyRE5pcEhueXJmZzZsMUVpd3VsRDA0dVVzNmU3aHBkbTBQUEVjd19IbTJyWnJUbTRHc3g0R1JuU040U3h1dUp1cQ?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:53:20 GMT",
+        "timestamp": 1773305600.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "월가 베테랑 \"사모 신용發 금융 위기, 실시간으로 전개 중\" - 연합인포맥스",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oc3RpSmtoUDNaVEdWeGVoN2FRMHE2blRMSWlZTkRndXlWbXd6cDFyTmxYQ1BtS2pzdUI4OWlIMm1YNU1kT3BNWWtyWmVBUkpuMGtjaEhIWWozSGdUSW01RV82aU1idEpVWlpzLWw3YTDSAXRBVV95cUxPRjJVa1ZwWExhRDd2UW5Ba09HajE3WmhBU2E5S09BT2dwbmtQaFhvOEhYNG1nYTBHZXJLYmlIdE9NX3hCU2tNMHhNa3paYUNTVm1NRnhXWTJIZm83WFdWcE0xQklwZFBxaGJkT2VDYWNCRHJxUA?oc=5",
-        "time": "11시간 전",
-        "time_original": "Thu, 12 Mar 2026 00:56:26 GMT",
-        "timestamp": 1773276986.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "[오늘의 금시세] 금값 강보합세...순금 1돈 107만원대 - 중앙이코노미뉴스",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zYzNqZlRmWGozUFdBRVhPM2l6b21yWEE5a3ZzNFpxa01hWWJ6RG9CM1htaUFuUXpCV3ZVbURrdS1NbTNRelUxQkdvb1c0U0lPVDFRaEpUYWRvbDZoLXgwUkY1SzlFWDNxMFp4cnU1NEZydw?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:41:15 GMT",
+        "timestamp": 1773304875.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "요동치는 증시에… 예탁금 6조원 감소·빚투도 급감 - 조선비즈 - Chosunbiz",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnZOdk9zSFFrcHJUX1NOckxSMmhQRW1CVFRtWWZFanRJZTZZemZhY0lvWWNYeE1UTHBvOWRueXR6N196Y1o4OG1PLTFxUnR3Tl9BemxpaDQ1Q2gxUEtDM1JfbVpmNnlVd0k3T2IxejVqRXpoUE54bzdzclEtWWg4dWZGX1BlVGVG0gGcAUFVX3lxTE1WSkZkNmVINDJTby1QbzkweDIxYnRPNUNHLWZWNlA1UEJqLTRyVGdCRW9iME5FdnhfWTE5MmYyQ1ROQVRPR1B3Yk5YZXpfLVRwOVJNZjZOZDV2WHVuYUFISVJvX04yamk3aEVEOTdSdFkzTjZRXzBuN0xXLXdCMTlEMEJpWUZnOFA2LWtaNmFFVlY1ejBNSS1mN3p2Uw?oc=5",
-        "time": "15시간 전",
-        "time_original": "Wed, 11 Mar 2026 21:02:23 GMT",
-        "timestamp": 1773262943.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "1년새 크게 오른 비철금속 가격, 중동 전쟁에 수급 불안까지 - 기후에너지데이터뱅크",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85WVlLX1ZQQkYxSl9seElGaWRULWNBUjZ2NjdncW1EUmFaYy1qaGlDUnlRRnNlbmE3VmtZWXF0QzQ3NGg2NVF4RnE5RnJEdzBFbkNHWjcyWTF3YUpfSHc?oc=5",
+        "time": "4시간 전",
+        "time_original": "Thu, 12 Mar 2026 07:34:21 GMT",
+        "timestamp": 1773300861.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "이란 대통령 \"유일한 종전 방법은 침략 재발 방지 보장\" - 연합뉴스",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DeURrQ2dwSmlucTdXNlNiejlhRHJ1cmttVWhaWmE5aC01VlhwbW9CYWpIbzRiSXZha18tVjlGNFJUZVZzVlZFM0ZXUXBBZXBocXVyMkFGTWlBeEHSAWBBVV95cUxPTnRyVHh0YTRybHg5ZXNIZW82TnNqVm1ibXgwZUstelBoMHFrU3ZsQnNOTnpzX2E5YUxIU1NrLXFqM18yalp3RzBMeG93azlpb1JUV25RMDQ0bklDaWNrbUk?oc=5",
-        "time": "16시간 전",
-        "time_original": "Wed, 11 Mar 2026 19:50:53 GMT",
-        "timestamp": 1773258653.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "[오늘의 은값시세] 3월 12일 은시세는? - 금강일보",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qVURtenJvT0VwTUJOSUdKWU1ob3VIVGJPYVJWNUZaYkNwWW9ZY25TbndHNGZyZm12NU1ueUU3cjcydC1GMzJhb2ZTUWdITmtYMUVnaVgtcGpNdC1YVG1UcGN3OUk3dHctUEE?oc=5",
+        "time": "5시간 전",
+        "time_original": "Thu, 12 Mar 2026 07:22:49 GMT",
+        "timestamp": 1773300169.0,
+        "source": "Google News",
+        "category": "금속"
       },
       {
-        "title": "1000억 흑자에 찬물 끼얹은 엔화 반값…토스, IPO 기업가치 새 변수 - 이투데이",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zSXg5OGQyaXc1SEJHUFpVVHhPaG9KYzFDUXk0LUdHTWZqUUNrVVRtVUZ6eWllbFBWWldDc0dXMXFMZGdGdnRVQXh4RzM3T1dlbmNDWA?oc=5",
-        "time": "1일 전",
-        "time_original": "Wed, 11 Mar 2026 07:23:00 GMT",
-        "timestamp": 1773213780.0,
-        "category": "금속",
-        "source": "Google News"
+        "title": "호르무즈 26일 통과분 방출도 별무효과?…유가 다시 100달러선(종합) - 뉴시스",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5VTlaUzNjanNibFRyWnQtRU9oU3RfMEo1alVjX1ZUX2l6SUc2ejRwNjU4N2lHM2I3WVdrZE95Z2RkSU5ucEEtVmxkOVlxYTdobGJGeU1uZXlQMkpoRnYwM0o0WGY1c0dKTnZJbGsxZEVlUVZyR0dQYdIBeEFVX3lxTFB5VTlaUzNjanNibFRyWnQtRU9oU3RfMEo1alVjX1ZUX2l6SUc2ejRwNjU4N2lHM2I3WVdrZE95Z2RkSU5ucEEtVmxkOVlxYTdobGJGeU1uZXlQMkpoRnYwM0o0WGY1c0dKTnZJbGsxZEVlUVZyR0dQYQ?oc=5",
+        "time": "5시간 전",
+        "time_original": "Thu, 12 Mar 2026 06:36:50 GMT",
+        "timestamp": 1773297410.0,
+        "source": "Google News",
+        "category": "금속"
       }
     ],
     "외환": [
@@ -164,19 +381,300 @@
         "source": "Google News"
       },
       {
-        "title": "노트북 40% 폭등 비상… '900달러 PC' 사라지고 1200달러 시대 온다 - 글로벌이코노믹",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFAwYnpXZkE5RGhCWUloQS04WHEwOE5kSllmUTdnenF3bUkwY3ZDdjZOQnlnMERydmk5YkpzcldadHBtY1VxTTAyai1CVDNDcGowOTFtbFJVc2lTSi1oSlNPNDJwTC1uaHpCaFViVUk0VzhmYUtjOVpzbkpSZzlqTWp4aXJjWndZ?oc=5",
-        "time": "1일 전",
-        "time_original": "Wed, 11 Mar 2026 01:24:26 GMT",
-        "timestamp": 1773192266.0,
-        "category": "외환",
-        "source": "Google News"
+        "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
+        "time": "42분 전",
+        "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
+        "timestamp": 1773316140.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "달러, 연중 최고치 부근에서 강세 유지 - VT Markets",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZ1JoaVNPSGFQclVaTVQ1a3ZQc1RWb1pnTXVMN3FJX1pUTW5LREpTUE9UaF9RTTFCQXNGZG9HTTBhRHp5VmdPbFhWdFQ2NE5BSXdFYW43eDVMQkpkVnZlYzBlRWkyUTZIcHkyQ28tSTlMLTVlWG1RZnRsZmNkWmV2TGNpRTU5VFREcWt4U3IwaTd3NDhXRkJ5Sml3bUFDT1ZPWUZMQ1lHNHZlbURZRWxQbWc1SWprM1V0OE1zY0dhbHlYVjlTcmk2M1FmWXV0UXQwU3NRQU5NaF9QbFdOVlBtcFZIdUpvdWNhcE43ckNkVHJXS0dhX1Y5ZUdYSlJ1TG16S1RkTHVJSEY0STg?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 11:21:42 GMT",
+        "timestamp": 1773314502.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "Savills, 8억 2,700만 파운드 Eastdil 인수…자본 시장 선도 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HeHFFWkhQc1VlRzdwdDNpZWthWWVlS09LbHBXdGlnZU5TRVp3YjhIWGpVVmY2TUQyS182RmliajFoTDkyTmpTdjJacG1KeFFfTV9JdzcyUHJQS29fdXdFXzRDbU9nRFkxclRoOGhQTm0?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:55:00 GMT",
+        "timestamp": 1773312900.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "달러-원, 런던장 시간대에 위험회피 지속…유가 동향 촉각 | - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xTE8xTm5BdUE4NDJXSGwzZzMzUFVZUWp5M0tXNzg5UVBtWjNNTW9NQmtKcDNaWXBXaXdiYTJXcUZSbXR2V1lHa3hlZ1pLYUdDZGNXbHplVlZibEF5TE9OUjdyRk84VG4wZUxzbmUwMldpcG0z?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:33:11 GMT",
+        "timestamp": 1773311591.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "글로벌파운드리스, 3억 달러 자사주 매입..주당 42달러에 실행 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVHlMLXhxV0x3dzhUc0hPcTlDNHA3a1RVcDZJNTJRaFZDSVd2SVJWcXZsYTA5dDNqd3gwWDdhTkxKX2NvMDlpeWdzVDE0R2x2TlE?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:09:37 GMT",
+        "timestamp": 1773310177.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "하루 10∼20원씩 널뛰는 환율…원화 변동률 주요 12國 중 최고 [민생경제 비상] - segye.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LcEVldTdWMU9ta3BhQm93OHp6Mnk2U0xoSFZ0M2hoQjlUaElfZmx5Yk93QWRYUHhqSEdtdlJqY0NOWkFVb2F2aUJJeTV5YlNjVWJRWTYtajnSAVRBVV95cUxOcTZQX3oyT1F0WE4zdjBSbHJEamxYZFViVXhOemdBMnFyMGJmMXJuVUJXRlJ0amdGNnJweHRuSnRkRFREeURORlFkTWlxUzlLeDBiUlI?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:35:00 GMT",
+        "timestamp": 1773308100.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "영국 FTSE 100 오늘: 유가 100달러 돌파로 영국 주식 하락, 파운드 1.34달러 밑으로 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYblJSVkk2dUI2T0VTZmFXSGU2Ql9BZ0N6cTUzdlpjN2RnQlB1ZHJCdWF2VDZ3MHpzLVh5Y3E2UFlXb0dXV0hQVzZkSTE2dU5HZUpIb3hac0tGRTJHYmdtN1h1U1pvWFN2OHhQOXRHbGg?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:36:00 GMT",
+        "timestamp": 1773304560.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "환율, 유가 100달러 재돌파에 1480원으로 상승 - 직썰",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LUVFYODQyVTctTUtCQ1NyNFF0QnNsZ0VIeFBTWkdSV2djY3k1Y25QVEtlX19EZFdPWFNGeGwxVTlRQTlOVDBYbktXVDQ1VjJ3NWM4dG1aLUFUOWp3T05jV0E5ZEJnOGM4ZGUzWtIBbEFVX3lxTE1LUVFYODQyVTctTUtCQ1NyNFF0QnNsZ0VIeFBTWkdSV2djY3k1Y25QVEtlX19EZFdPWFNGeGwxVTlRQTlOVDBYbktXVDQ1VjJ3NWM4dG1aLUFUOWp3T05jV0E5ZEJnOGM4ZGUzWg?oc=5",
+        "time": "4시간 전",
+        "time_original": "Thu, 12 Mar 2026 08:03:25 GMT",
+        "timestamp": 1773302605.0,
+        "source": "Google News",
+        "category": "외환"
+      },
+      {
+        "title": "중동 전쟁에 인니 루피아 약세 지속…한때 심리적 마지노선인 달러 당 1만7000 루피아 근접 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZTdvR21OVzVqa05OQ0NPOFFKOHhQUE1Zci1zQW9MTDlqUVhfZ1NnSEhfSEljOXVLS3FpU1FuTTdEeFBaeV9KU2lFcHd4Z2lYeGdR?oc=5",
+        "time": "4시간 전",
+        "time_original": "Thu, 12 Mar 2026 07:57:00 GMT",
+        "timestamp": 1773302220.0,
+        "source": "Google News",
+        "category": "외환"
       }
     ],
-    "채권": [],
-    "암호화폐": []
+    "채권": [
+      {
+        "title": "[채권마감] 사흘만 약세, 국제유가 재상승 90달러 돌파 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjVDZNU3pjaG1wdjBRQ0RIeEpDZnhNTkVkWGFtWVg4THZTZHR3eVQ0VjlPTnlKYTNqQkJmdEZnb2FxNHplbkF4ZXIwRHZEMU4xRVE4?oc=5",
+        "time": "3시간 전",
+        "time_original": "Thu, 12 Mar 2026 09:00:00 GMT",
+        "timestamp": 1773306000.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "S&P500 선물, 유가 급등에 하락…美 국채금리↑ - 연합인포맥스",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNG5WekhxZWJ2ejRtQU03QTNnOHZVd0Q1TXgxdHAyNDVhNURtcS13Wnd4X3F4NHJrTWpUQ0lNc1Flbm5tREtUYWtpTmhXd2l6RWZJdTgyeHhIeVVNSEtBMHNrTkYzLWNuSnZXa1dfSXBiSC1t0gF0QVVfeXFMT2Y0blZ6SHFlYnZ6NG1BTTdBM2c4dlV3RDVNeDF0cDI0NWE1RG1xLXdad3hfcXg0cmtNalRDSU1zUWVubm1ES1Rha2lOaFd3aXpFZkl1ODJ4eEh5VU1IS0Ewc2tORjMtY25KdldrV19JcGJILW0?oc=5",
+        "time": "9시간 전",
+        "time_original": "Thu, 12 Mar 2026 03:12:45 GMT",
+        "timestamp": 1773285165.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pdnBDdHBfcFJHVmt6VEVHY1FsVGZRS0l3LV9Qd2xLQ3lKY2Z1ZF84WTgzOThUbkZkYzNRS1d4VzVOclh1QUtmQWlZc3hGd0tEWjhxWA?oc=5",
+        "time": "11시간 전",
+        "time_original": "Thu, 12 Mar 2026 01:24:04 GMT",
+        "timestamp": 1773278644.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - v.daum.net",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVjNOWFo5SUtDcllNY2Vwc0FHWllPNXRPXzRiSDI0NFpzSTZBWWFfOWpSbWVXeXNYTEJhcjlrM0FvcHYxWVV1Q3VlSQ?oc=5",
+        "time": "11시간 전",
+        "time_original": "Thu, 12 Mar 2026 01:24:04 GMT",
+        "timestamp": 1773278644.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - 네이트",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Y2hNVnZxS0pDX2owb29oRG1KTDdhazMxTXU1NzFEOS1JNmpXZW5Uc3NjT0RyZU1TRU1vTEpUMjlwWUdBdG8yWDdMZ3VINHFSNDhN?oc=5",
+        "time": "11시간 전",
+        "time_original": "Thu, 12 Mar 2026 01:22:00 GMT",
+        "timestamp": 1773278520.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - 매일경제",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CdnpjYzZhWmtvZ0swd2lhUVBPMUZ4d2Fnb0JMYWhDYmJveFA0dVBLYjlpWkplOVdxYXlXM2w0TmxoVWpIdU5kV3RWVjMyb0ZfQ3c?oc=5",
+        "time": "11시간 전",
+        "time_original": "Thu, 12 Mar 2026 01:21:15 GMT",
+        "timestamp": 1773278475.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "호르무즈 민간 선박 피격에 뉴욕증시 혼조…비축유 방출에도 유가 급등 - coxnews.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUjVsSG1jNURLSkJzbTk1MWdkUzJqRkZwS3NQOWhVdE02UzlTUHFMSFk4bVFUNWV3NUpOTElnUF92dXk2NktpdWhQVklNSldnZzBHVkcxWkFlV0VUVEU0M3oxSE1pTGItR3c?oc=5",
+        "time": "11시간 전",
+        "time_original": "Thu, 12 Mar 2026 01:20:40 GMT",
+        "timestamp": 1773278440.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "“주요국 국채금리, 고유가 장기화 우려에 급등” - 뉴스투데이",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMXdTM19BdHFJbllIRWdVU25GUHJOZzNaQ3hFRnVYbnhnaGRadkptZjdvZkFDY1hwbEMxaE1ZVDRlWUFNa1dzNEpDSklveGdnNVZrQXgzMUhNUlRNZnc?oc=5",
+        "time": "12시간 전",
+        "time_original": "Thu, 12 Mar 2026 00:20:00 GMT",
+        "timestamp": 1773274800.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "중동 전쟁 여파에 금융시장 '긴장'…대출 금리 다시 상승 압력 - 미래경제",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wb01MSjAtTVkybUpaVXJoNTlQREFYZThENEdkYWhyX0JrbFNZbHBHUk1Pek1YcG8xOEd6d1NFZUNjRkdRblVpRjZXTlJHeE1jMEZyRWNSUWJsejhSVXkyaTY4a3hvOGV6cy1zVg?oc=5",
+        "time": "12시간 전",
+        "time_original": "Thu, 12 Mar 2026 00:00:00 GMT",
+        "timestamp": 1773273600.0,
+        "source": "Google News",
+        "category": "채권"
+      },
+      {
+        "title": "비축유 방출 소식에도 공급 부족 우려 여전…국제유가 다시 반등[채권브리핑] - edaily.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1V6WkQ5RU51QVl3MHhTZHY2dk5lVkxkTl9PMTkwN0tqZzU3RlhTbGE3WFdNSWxPYkloaWtKSl9DelpEUGtuTjJFX2R5VWFYZEVjUTk3a191Z3ZjbmZYLWtIUGsyNFZGUXVzRFY1UnlLMVQtUk9FM19tS2ZiSTJ6bA?oc=5",
+        "time": "13시간 전",
+        "time_original": "Wed, 11 Mar 2026 23:13:46 GMT",
+        "timestamp": 1773270826.0,
+        "source": "Google News",
+        "category": "채권"
+      }
+    ],
+    "암호화폐": [
+      {
+        "title": "오늘(3월 12일) 암호화폐 시장: 비트코인에 난관이 기다리고 있다. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGtxdTFvVnpwdG94LWZWZE9KSmppekFHdHNnQWt6WXNNWlBDVExmdXdIRjdfWTNvMUlNRVpPWFQxOVhCeFBkOEJKTkdRVWl2ay1GUkVJRlJGYXZTYUxwVFRZZ2dBSkJza0JjbFhRcHpmWVd1aHFFNk1NQlRfSW9VanZpZ3Rkd1B1elBXeGh4MA?oc=5",
+        "time": "5분 전",
+        "time_original": "Thu, 12 Mar 2026 12:25:48 GMT",
+        "timestamp": 1773318348.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "BYDFi 영구 선물 데이터, 트레이딩뷰에서 실시간 제공 시작 - Bitcoin.com News",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYi1tdGJlYnhONjZWQzl0SlBIN1pEWmh6bjJzTmk1d2lsVzZwRHNCMVF5X3JQTmtzZGFmc21UWFZyVERGSkV6aGpKaloyNDFPZlROZDBLUW9VeGhhcG1CdDVfLXEwX2N5b3h2RkpHWjZaVWtHY2xIeGhEOHJiVURsbmhrR2FOZWJWa1lDTUFucmdWeXptUV9tc0JjMXBkYlU?oc=5",
+        "time": "22분 전",
+        "time_original": "Thu, 12 Mar 2026 12:08:42 GMT",
+        "timestamp": 1773317322.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
+        "time": "42분 전",
+        "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
+        "timestamp": 1773316140.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "2025년 美 암호화폐 ATM 사기 33% 증가…AI가 핵심 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BMFUybTBqalIyVDBoblp0Q3B2RjdCV0tmdVVMNVBsT2FrNUxqS1RlZndIQUZNVFo5NTVVTGlhNS1Pc3JpMm1wUzNHSS1IY0VadldWaXA4MEo0eGVVeTM0SWlrR20xclI5UUlZS2xPQl9INzg?oc=5",
+        "time": "57분 전",
+        "time_original": "Thu, 12 Mar 2026 11:34:00 GMT",
+        "timestamp": 1773315240.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "플룸(PLUME), 90% 가격 폭락 속에서도 RWA 성장 주도 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5telRhRUhWTkNIMy04TjZOdFotazdOT2w5TkxLZENjaExtbi04MEZROHBzN0U3SWgtSDBPNWpKdDZMa3FQZTdDLXZqOTBiMFAzNE1PbXc4MmhhNUtqenE0dlBINThtbWc0cEhUaENkY1ZjQW8?oc=5",
+        "time": "58분 전",
+        "time_original": "Thu, 12 Mar 2026 11:33:01 GMT",
+        "timestamp": 1773315181.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "XRP, 글로벌 토큰화 상품 시장 15% 점유…2위는 이더리움 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yM09jZzhlVkVaZjBWY1FDdl9CYlcyVkhJQ0Z1WkYxVmVpNVFXNGFsMHg4aGhqTEp2ZzNQTFhMcFd6TEF2YzQxdDFJejRNQ2dud1ZRaWZIRmdUZWVyaXYyZkVIbC1uLTZMMDBiSF9mMGFSREE?oc=5",
+        "time": "59분 전",
+        "time_original": "Thu, 12 Mar 2026 11:32:00 GMT",
+        "timestamp": 1773315120.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "2026년 미국 중간선거, 비트코인 시장의 중대 변곡점 될까 - 디지털투데이",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93Nk8wM2U5ZVZWUmJhTTNmTVIxSHctRUNLekhxYVo5czM5emNfYUxBa214akx1NUFCODVDY2V3MVIxLWFmMDhIVFA5ZUlub3JkUThzaFhxLW5xYnNzaXJ4dG5iRDRoYkhzSmlmX1BVTnNDN0U?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 11:28:00 GMT",
+        "timestamp": 1773314880.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "이더리움 전망: RWA 온체인 가치 300% 폭발적 성장, 월가가 선택한 이더리움의 독주 - Cryptonews",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUxsZ3BZbWUyV09pdnF3MnRKQWdVaWVPV0hpeGR2Q1g0bW9wVkFDOGl3eFZaZlpzRVBsTHpSV2lvX01ON1lYMHRFaXpoZmZlX01SOWRCMnRaYTc3OWt6NVhYNGN5N2ZFZkxvZ19XM1lOOGc4TjZ2OUQzWnVET2k1TEREaVI1WENyQjNqRzVGTmd0S0w1a3NxazJRVkVOSDdvbmNmdmFoWDRhQnJIX2xVT3dtZXVET3VacllrOWpnRlkzSmVvcVNKUFRB?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 11:27:49 GMT",
+        "timestamp": 1773314869.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "BTC 가격은 탄탄한 모습을 보이나, 2만 달러 풋옵션을 간과하지 마십시오: 크립토 데이북 아메리카 - CoinDesk",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmo5OWJVZkw3OU5TZ1Bxa0VhVGdaNmdJV2NmUHBLMzlCY2ZmUlhXX2JkaW5id3lVWXNFM18yNlVMcmRDdW95SzFOaEVZUnI4S3d5MER1YXZXa1NOb2pmbjRsdkN5MHFkajg4U2FOYXZtbHk3US1qYXBhdkM4T1VNRFN0LWwtZGJpUEs5YlNyNm1mSTdOdUNCWFdFYmRlZ0lfeHo0MlVGcEIwSktEeHluSA?oc=5",
+        "time": "1시간 전",
+        "time_original": "Thu, 12 Mar 2026 11:17:18 GMT",
+        "timestamp": 1773314238.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      },
+      {
+        "title": "이 차트가 암호화폐와 비트코인 강세론자들에게 문제가 될 수 있다 - Investing.com 한국어",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VGlzeG40emJGSTl1TUtTV05fdnR6dzMxQ1F6ZDdDTk9RY3hYaDdCVU1kbHZxQmNxTS1IQjcyaDY5TWp0RlI5X3ZreGU3RjVFR253RmRmZUlLbW51eFA2WWtDZzZ3QUptLTlYR2hMU3RoUTA?oc=5",
+        "time": "2시간 전",
+        "time_original": "Thu, 12 Mar 2026 10:05:00 GMT",
+        "timestamp": 1773309900.0,
+        "source": "Google News",
+        "category": "암호화폐"
+      }
+    ]
   },
   "all_news": [
+    {
+      "title": "\"트럼프가 전쟁 상대를 고르는 기준은?… 강자인가, 약자인가\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52NnQ4bkN5dkVKY1lyMTFoTjRBbnBjR2o5M3dfNEc3Q05PSVBiR254VmVXdWoxaE9US2Q0SS1fdGlmWC13dFhkeUd5WmNKa1p6cGUzRmxtTnBTLW1K?oc=5",
+      "time": "26분 전",
+      "time_original": "Thu, 12 Mar 2026 12:04:00 GMT",
+      "timestamp": 1773317040.0,
+      "source": "Google News",
+      "category": "국제"
+    },
+    {
+      "title": "골드만 \"Fed, 금리인하 9·12월로 늦출 것\" - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oY0pkMURlZVBrVVhncnpGc0xfNXNxSEFqbDVsbGlrY05KMU5ENWFzYmxObmpSRXB6M0RpYjUtZlVsRmxZczZrVUxONDk4TVA1aDZQLVdqVEUyZ9IBVEFVX3lxTE82bHVNUkdKbERucm9Pa2FGbG9XbGVGanhqYlNXalZoVFRiREQwQnNacTRHTkIzMWxZTW4wY183QVJzX1IycHkwTG9kb0k0ajdCX21iYQ?oc=5",
+      "time": "50분 전",
+      "time_original": "Thu, 12 Mar 2026 11:40:49 GMT",
+      "timestamp": 1773315649.0,
+      "source": "Google News",
+      "category": "국제"
+    },
+    {
+      "title": "미국, 한국 포함 16개국에 301조 조사 개시…7월 ‘상호관세 부활’ 목표 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRGFPUlcwTVMyblFUVUlYSmxxT3FibWdFaGVJYjlPaXJOdWFZdW9WZDBtZjBxSGU2SjZQX1AyalpqQlhBZVpRMkl6UGFRblVaZkl3ZTduOUlDLXk4UnpRaUYtOFFqWjd5c1Znd05vNA?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:54:00 GMT",
+      "timestamp": 1773312840.0,
+      "source": "Google News",
+      "category": "국제"
+    },
     {
       "title": "미-이스라엘 ‘종전’ 엇박자…트럼프 “곧 끝날 것”, 이스라엘 국방 “제한 없이 계속” - 한겨레",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGxjM29FcXNyelBiNV8yVUYxSUc0ZU10bnZPNi03LUVvTTcwMnRWcVVJVzVvQ2haQzFJLVd5aVVSV3lDMGhwU1ltYWd6QmhLSG9kcU45X3VEdVBtTEdMQWljMVZ2NHczQXBpeW5GZ2NxMTB5dUpVQU9YNFpQdUFUdzBn?oc=5",
@@ -187,139 +685,328 @@
       "source": "Google News"
     },
     {
-      "title": "트럼프, 유가급등 등 오판했나‥\"참모들, 부차적 문제로 치부\" - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EeTZ2WVh3UWQ4eUtjeHFZcjhiQXRfVmp4YU81WFphS1NRaTdJWWM0cG84UXJPSVdkZ0dJYnN1M3VJQWxUWFluWTJwb2VPYkk?oc=5",
-      "time": "10시간 전",
-      "time_original": "Thu, 12 Mar 2026 01:36:07 GMT",
-      "timestamp": 1773279367.0,
-      "category": "국제",
-      "source": "Google News"
+      "title": "뱅크오브아메리카 \"연준, 금리 인하 서두르면 안 돼\" - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRFRUbGlKUXZyUVY3dEJRQjlDT0JweHRGSXRRcDBqRFFGMFcyek5vWWRpR2diNjJ4OFhqSkt4RVZCanlnWVZuZ0NWcktneGdNdUcxRmVVU0ZNWnJGdXFsX0NDNE95eUd0TGtQdDZHdW9iUGljWkVj?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:38:00 GMT",
+      "timestamp": 1773311880.0,
+      "source": "Google News",
+      "category": "국제"
     },
     {
-      "title": "트럼프 \"우리가 이란전쟁 이겼지만 임무 마무리해야\" - 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5UmxDcVE5X0pWVDZNS3U2SEdxWnhhOXczaHBMVjlQZjFEbHl5TUFpN3RFaXE1QlFydnB5WEdpcUxqSmh2MDlpYnF1RTVmLWc1YmVyVWRFUTUyX09LRTYwQWZHbWpFeEE?oc=5",
-      "time": "13시간 전",
-      "time_original": "Wed, 11 Mar 2026 22:44:35 GMT",
-      "timestamp": 1773269075.0,
-      "category": "국제",
-      "source": "Google News"
+      "title": "\"트럼프, 美기업 손해 보면 '무차별 제재'…관세만 보지말고 패키지 규제 대비해야\"... - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVp6NzJTYnJzeDVlal9GelNzWUlUZjctRUJqSnFNTndMYl9lWEZrNFk2UHZTeFVzWDV4clBhUjVWbjlQdGl4bE5Ib1Y1cmxYencwc2dhY3I3eHpPaEFsV2JpenlMWENBVmRfYU0zYkVKaDRJRWFBd3psRG1JY3VHcw?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:55:26 GMT",
+      "timestamp": 1773309326.0,
+      "source": "Google News",
+      "category": "국제"
     },
     {
-      "title": "美 경제에 드리워지는 스태그플레이션 우려…‘퍼펙트 스톰’ 마주한 연준 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWZSZ3FfSG1pWVFFMHlQd3B1dTJWblFxUEQzWXNySjd2WTAxSkJMaFU2WHVRa2F1VnVlY1lYNzlwN01PT05KWEs4Q3lzR29FT01wRC04UzNRb09vYVYtQnNpTE9tbHByZHBsYjJvWkQ0N3JFdkNGQUUyMV9uUVZOdXhTUUR3VHQ0NDdmSUNYaGFPV2M5NVhYQ1FsVkl2QdIBsgFBVV95cUxNcEMxZC1tUklqYmZhYVM0MmlheG1BbEVwTE40Uk9oUjY4ZWtMUWpqdmxqdVBzc3dCVk5zMGE3dzJqOXlOZHJ2aEtLMFgzc01xVmFJWWFLaGVqMFlhUDNMdmZ0bWx1bXRuRHlzNHZkSm1zUkJxYTVHaWtZbHRiTTYzc3FQVGYzWS1HOGZnZjNXTlNQVE13YmY1ai1qM1dIbzBKeTRZaTRRX3FNVUcwODZSMmJ3?oc=5",
-      "time": "14시간 전",
-      "time_original": "Wed, 11 Mar 2026 21:37:54 GMT",
-      "timestamp": 1773265074.0,
-      "category": "국제",
-      "source": "Google News"
-    },
-    {
-      "title": "‘호르무즈 봉쇄’ 위협한 이란, 자국 원유는 중국에 수출? - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGJQYnlpOXBHVTBNRlN5Y2g4dVJtM2hFUno2cWsya1ViTF80QmR0VWVuTklrNGtIMTFsZ0cyXzV2M3NtQUxGVTB2VVc3Q2NoVnQ3TDU2dW1VZ29TN2U2VWVXdjlWRnVyY1FaV0FNQzJKWkxfMEhyX3ZOODJMMjJ2RmcxaDFrWk9LNk9sUFp2dXNEd3RPdUJtdnNiUUZKZ9IBsgFBVV95cUxPTVBDUFFwMzk0dUtrWG1lTGFLbUpoamU3ekJyU1JDak52Uy1hQ1djaEgySDZxWFd2S0pqXy1RWW5SdTRLRDljNDZ2VHNlbTRWUWtXZ1BueFVPcXh2SnFzSFdqWUttNHlyNGh5ZFM1TElfRExXNU9ad2pOMVQxR2R4X1Z3UWYzWC1PTUw1YndzYzBYMjNKal9janZqMkljaDdQMU1kSUF0SHdHenAxSHVnSWdB?oc=5",
+      "title": "[서연그룹 줌인] 美 수천억 베팅…트럼프 관세 '양날의 검' 되나 - 블로터",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LQ0wwQ2lzOF9UZUdjNVJyenBpekZyYlVYbW1vSGlNMzRJQkFzSTJPemN2SFBtcGstUFhIOW5LLXNZM01wc0N1T1g1X3hjc1dWUXo0bndNSkdNRDVqTWdHWUtYNV9pUjNZVzNqeNIBbEFVX3lxTE1LQ0wwQ2lzOF9UZUdjNVJyenBpekZyYlVYbW1vSGlNMzRJQkFzSTJPemN2SFBtcGstUFhIOW5LLXNZM01wc0N1T1g1X3hjc1dWUXo0bndNSkdNRDVqTWdHWUtYNV9pUjNZVzNqeA?oc=5",
       "time": "3시간 전",
-      "time_original": "Thu, 12 Mar 2026 08:29:00 GMT",
-      "timestamp": 1773304140.0,
-      "category": "에너지",
-      "source": "Google News"
+      "time_original": "Thu, 12 Mar 2026 09:15:13 GMT",
+      "timestamp": 1773306913.0,
+      "source": "Google News",
+      "category": "국제"
     },
     {
-      "title": "혼자 침착한 중국 증시…러시아산 ‘줍줍’하며 중동산 원유 의존도 낮춘 덕? - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmwtMUJJSVg0RmR4N3FYV3FnU01ldFZqcEpvWl9jQUhTbVh2T3oxYzFNRTRXQ3BmV3liZFpod0hHSnY0T25kQ1JVQ3phSURHODRoXzJpemZITjRyaUhXc1FheU0zZnI3czFkajNEb29maHdxZHRiSTdWTW9nNEpHOXI4OVg0ZDNqbmtjQXZn0gGiAUFVX3lxTE9UUlNlakJqVXkyRFhhY0xndkVMYmQ4cTEtT2tkaUU0WjAzYmpUOVBPZTdsM0l2N0ZIZ014N2ZxaXhlYTRud1p2VUlubW5iMzNwMVQ2cFhZNzBkdmJ3VFNnWjdwSUJpOHJpNEdpMmRRUzFTbUprZXY3Z0c4aXZ6YUVKc0dtYkUxbWN5TGxWOW1yX1l2YkJZVHRHaXgzcHluQVktZw?oc=5",
+      "title": "트럼프, 새로운 관세 위협 나섰다···'무역법 301조'에 한국 대응은? - 여성경제신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JODFoTm51bXJpNHd1Uk5MX3ZxNk1INzM4SFRUQXNCeldCU3B1VUNGRDJIdHJRQnlsVlNDMUJ0WC1uUG51SkJnTlNEWDNTUWZ2Sk1GTzkyWGJHVnVaVU9PeVYtdmRqd2VrNG1VV2IxOExDalnSAXdBVV95cUxNSkRSQXV2Tkd4RmlnZlQwQ1k4WWZQZk5ncGNIR0xjZ01nd1hUZEtUcG9OTnNRYVhUTk1JVjBab1BBRlAtWXY2a0lUOXpnaU1PcEp1YzJqYmo0TndVNFFaS19PZjRRMzc5bm1XbVEzZDlld0FvcW9KYw?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:14:38 GMT",
+      "timestamp": 1773306878.0,
+      "source": "Google News",
+      "category": "국제"
+    },
+    {
+      "title": "트럼프 ‘관세 우회로‘ 301조 어떻게 다른가…미국 무역압박 상징 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UODM2UVVDSDZDOTNhWXhUbzdRMDc1Zlc2dE1semo5QWludEJNZGF5SXo4aUV3NHpsSVhTSWw3ZlZ6NTlXNmFVYkRBRzBmdFk?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:33:05 GMT",
+      "timestamp": 1773304385.0,
+      "source": "Google News",
+      "category": "국제"
+    },
+    {
+      "title": "중동발 쇼크… 고민 깊어진 美 연준 - 시사위크",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YSEtKRHVPZlQyaE9tS2dvQ0k2VDZDTnNKclNpcG4xR0NlTlBjOWwtZHZCLU5QN2FWXzZlazI2Vmk0dzExM0lCamdtM3RLNHZqamNENUt4clk4NkNRZU5NQ1IzZFNNR3gyUHpGenFSZ9IBb0FVX3lxTE9YSEtKRHVPZlQyaE9tS2dvQ0k2VDZDTnNKclNpcG4xR0NlTlBjOWwtZHZCLU5QN2FWXzZlazI2Vmk0dzExM0lCamdtM3RLNHZqamNENUt4clk4NkNRZU5NQ1IzZFNNR3gyUHpGenFSZw?oc=5",
+      "time": "4시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:28:37 GMT",
+      "timestamp": 1773304117.0,
+      "source": "Google News",
+      "category": "국제"
+    },
+    {
+      "title": "이란 갈등 고조로 유가 급등하며 미국 선물 하락 예상 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Y01SWEdkWl82X1k2WHVBTDBFa095NFluTTBmbHRCdHlySFJKTkxxX2RfcXV2bDh5MHVHM3RTNkFta012QUktR3dieGFzX19kU25BUzg4am5YbC1ORTg2TGp4a3JrS21JZkp2aXdoZ2o?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 11:11:00 GMT",
+      "timestamp": 1773313860.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "오늘의 미국 주식 시장: 장기 금리 우려가 커지면서 S&P 500 선물이 하락세 - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWh0M2J0R3J2N0pWSXlIeXUxWUZnXzJiallUMjBBdUtkck5EOW1SbnozU0hxVEgtcUE2WDBpdHpLM093Q0VfdnhPQWctVXlBVlFRTEwwN1NyM19lbE5GdkVpakxpanJZWnczek94YlB6bnQxODQ4T21XTmtpUkxXcmY5SUNvQVFHMmZRb0d3Q1dBUVVQeDBCVUVn0gGaAUFVX3lxTE1ZaHQzYnRHcnY3SlZJeUh5dTFZRmdfMmJqWVQyMEF1S2RyTkQ5bVJuejNTSHFUSC1xQTZYMGl0ekszT3dDRV92eE9BZy1VeUFWUVFMTDA3U3IzX2VsTkZ2RWlqTGlqclladzN6T3hiUHpudDE4NDhPbVdOa2lSTFdyZjlJQ29BUUcyZlFvR3dDV0FRVVB4MEJVRWc?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:50:21 GMT",
+      "timestamp": 1773312621.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "\"코스닥, 50% 더 오를 수 있다\" - 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlYzZTTGtta2JCN2d5Y0F1TlY2ZllYUlB3QVAwb1dvSmJ4NEwtNXNVN0djQTR2ZWp3c0dBSWs2RmN5eERxTEJrZmtFUXNOOU1X?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:36:21 GMT",
+      "timestamp": 1773308181.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "중동 긴장에 유가 장중 100달러 재돌파…아시아 증시 하락(종합) - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSTVXb055Ukhib2FvRTB5Rm9IX2RLWVZ0QVRhTVc2TWVESFpGVEVPUVdkUTl1Ri1xb1B5TVpnOFpIWjZTYWJqLW1pTmtKOEJzVnRyQkFYYm9QT2NIeWR4bE8zQnhLMnV3RUZiRGhKOHc0T2lReWtvTg?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:54:00 GMT",
+      "timestamp": 1773305640.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "다우 지수 300p 가까이 급락···투자 심리 위축, 탐욕 지수는 여전히 ‘공포’ 영역 - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMm42dTVpcjNXdHQzOEs4ck9KSjRaRU82TUFoRnR5OXcyV2ZsSmlnOVJvLUFEWFlTdUJTOGlSeHF6ejJrVGIzQUx5Vjk0T1R5cUVEYVJuWWxDeEVaN2xfYlp1TVBNVk9vYW1KNE5VNS14M2JOb1lRcmcxVHdWZ2xZS09QQ3hwdnRfa1ZOUEdGUzkyblpod1pUQmpja1pCMHFoX2huUV94ajMtbGR4eXNDMjVKTGVsTzZSLWJYNVk3ejh2QWQ3bVBucUZCZFFHTS1tTG8yRFNYMHkwdEY4VERMdE9CN1dxRE4yZ05HNDVvYTdFaFNyRENMeXZVZTFxaWptOVhkODVfNkJmSFh5UnF4aGM1Rmp2V05IX2sxemdNSEloUFE2a3dMVmdXZXFTaGtiZ1lTN1dza0p6WGNy?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:43:47 GMT",
+      "timestamp": 1773305027.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "'스페이스X' 나스닥 상장 임박? '이 종목'들까지 난리났다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tLVBSZXhlU01rMVhlMUlyNEN3TlVKVEZYTF9VUkdxOXVRUk1HdGZMdnROM3VpNURJek0xUHlFcGRMbFB4eGRXeUN6TWhXV3pvcG1n?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:41:00 GMT",
+      "timestamp": 1773304860.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "고유가 우려 속 혼조 마감‥다우 0.6%↓ - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iQzBUVGE3NTNFSzB1TlIxbU0wNHZ3VUpjMkNJNzBHeGpqUVhacEVSazNiclhnOExFWFhQZy05UEhwSEJnNEE1WG1MOW5sbGxoREllM0ZPZUNYa1NpSC1CRUxmMHFJOGdobk5LdG5XNVdUUThTNGZySNIBeEFVX3lxTE50Wkg5VDBXQWJiNWRxR0VXd3ItN2tLOGR0b3FVUm5YbmJZNXZBRFNWanI0ZFAzNHZXM21qQ0VNa0wwamhKbUgyVzVZQlAzZXZpTzNuX2VlczdiaV9wUFdTVkExeXFTc1d2V29wZ3NtRXRBdHE2dmh5eA?oc=5",
+      "time": "4시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:04:53 GMT",
+      "timestamp": 1773302693.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "나스닥 출격하는 스페이스X…국내 수혜주들 일제히 '들썩' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9peEFkT21ndVNjclh4QWdGNldNNDhMQm1ubElXZ1NkNnVFM2JhaFA0aEFPRVQtZXB3YjNrYWNHOVVNeTlWTGpZbDJZemcxdW8?oc=5",
+      "time": "6시간 전",
+      "time_original": "Thu, 12 Mar 2026 06:18:02 GMT",
+      "timestamp": 1773296282.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "뉴욕 선물지수, 유조선 피격 소식에 일제히 하락...코스피지수도 그 영향으로 5500선도 무너져 - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5scXhNN1B0ejRmcVR1Qi1OejEtbS01RU9zUnJDNnJ5Skd4UjdpWVpySmFTWmg3MUVRMHlub1YzbWxrbnZJR1UyMUt0S3AtekJ0V0VOWXFUay1kMUUxUXBuT2xvaEtYb3h4cjNWUWZteVVOb1dZRFBzRWt6dWg?oc=5",
+      "time": "7시간 전",
+      "time_original": "Thu, 12 Mar 2026 05:04:00 GMT",
+      "timestamp": 1773291840.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "이란 무차별 유조선 공격, 지수선물 일제 급락…다우 1.07%↓ - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wcTNaVk1xRDRGS0RSREZTNC1fN2otNks4VDByYkNXbGVWZVhqaml2a1pjUmw2NHJfSWlNcFVDWjFYSVBiQUtxczVISHVKTXc2UlJpa0pPODByd9IBXkFVX3lxTE02RjUwSHl4Njhya0JWT3hUWTNUcWZremNRWWJfOXRZWUZZVmdlN0V6Znd3QkE3RUNhZV83VFNTNUw2dFEtUWdwNUotSmhPLTVibzZQekpHdzVwVENpb0E?oc=5",
+      "time": "7시간 전",
+      "time_original": "Thu, 12 Mar 2026 04:44:41 GMT",
+      "timestamp": 1773290681.0,
+      "source": "Google News",
+      "category": "지수"
+    },
+    {
+      "title": "4억배럴 비축유 방출 결정에도…유가 장중 100달러 넘기도 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6YzlTUkZnbWF4NjFSVVRUaUlvbTdOdHQxNG9xc1FfNHdPNUFjcWw3ekRxbG9pNi1DVWYwVGNIVW5BRm9fTE9IeFVDakRFcDQtcXcwMF9Udk1XZkZxc0Zfdi1icEdNVVVReEplTGdEQm1LaHc?oc=5",
+      "time": "38분 전",
+      "time_original": "Thu, 12 Mar 2026 11:53:00 GMT",
+      "timestamp": 1773316380.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "초유의 \"4억배럴 방출\" 무색…국제유가 또 100달러 돌파 - JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xOUk5MEppOS0yeHUxM2ItbWZyU0ZRdnNQaS1NdTNPZjU5MkRVb3cwQ3h5ZEU5clNDNC1kNWl2UFBRUHdtTWdCVEVFc2RfZWtLQmdfdw?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:22:00 GMT",
+      "timestamp": 1773310920.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "오늘 오후(2026년 3월 12일) 연료 가격 업데이트: 세계 원유 가격이 배럴당 100달러에 근접하여 상승했습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmxBSWhVWGtDN1M5al9tUURURGxaVlFhcXFtLURhajZvaWE5Skt1ckI4cW9sVW53ZkxfTVFPQmpSbmZnLUJhcTFHYVh3Q29ManhsNkM0bWRtaTJkd0NWTzNQdlBrLWd5S01mTzdCZ0hMV1hGazJGYUxTWUlmRmhoSW13dTg5bXR0M2VNZWpzZTFicG1SOENEWVNYVUJ4dE9hTmJvbWk1TWdQMDNCM0g3NHFGWjE?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:48:44 GMT",
+      "timestamp": 1773308924.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "널뛰는 국제유가…비축유 방출에도 100달러 재반등 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBETlRzVzdqdDd3MUZnOFZTbXk3WUp3RnRXWm5nZlluSjdEQzJtQTExNmFfZlI5UkYzdFJ4UGxOQlpleUlEcDJyOGR4SmF3ZERfc0NOekZBYkhkTVFlWTdsQ19kZVh6aXRyYjNlanJNaWU5UQ?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:19:10 GMT",
+      "timestamp": 1773307150.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "공급 잡겠다는 기름값 최고가격제, 수요 부작용은? - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoMjI2emN6bkhoWTZaSnJMNG9lNXlHVjlSMWtqcTN3N1JjU0x5bm1MdVlCdndGYXJLU0lnVHMxNlVqOXkxdk11SHVxSzNkYW56dXhFQUJja1g2ekVncXFBQUkwTQ?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:17:39 GMT",
+      "timestamp": 1773307059.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "[밀물썰물] 축복과 그늘, 석유 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBybVRVcHNNT0JQTjJKb3ByOGh4ZGNzb05BTVc0QmtuOUgtOG9nNlhsLTNBZVo1MTF6N3VIejFMNlJWVVFOWWIxcVdmNmctNnh0Y2E2dWVjOVV5TzhpNmJFMVUxd242ZHdFaWtMcnlKa1RTeXJk?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:12:06 GMT",
+      "timestamp": 1773306726.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "[이정훈 칼럼] '석유 최고가격제', 3년 전 EU의 경험 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1USFJLWElYakt4NmpjODJhSk9PRmVQVGV0NUJxY1poSkRITHBkNmo1Ykw5enFDUVp6d0owc1MtdjZpeTRLbklBOGJGclJEdUtZUXM4QWV2aUVBQ1NVNDZwXzNhXzM3MkMyYXdjX3o4MVhsQUQ5dHc5dw?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:11:00 GMT",
+      "timestamp": 1773306660.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "국제유가 급등 여파…원·달러 환율 1480원대 재진입 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbVVRMW9XdHFCMndzZ0Mwc3BwN0kwRkRDZHlzdlpJbHNpdk1PYjFwMlZtd2xqenFJS2U5dnRMZkswcW9zZzk4cEpEUURoZlFOcUpfOV8zV1RSVTRJam1XTEZwTQ?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:10:00 GMT",
+      "timestamp": 1773306600.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "브렌트유, 아시아 시장에서 다시 100 달러...아시아 석유 대란 - 여성신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XMm5yX2wxQi1JTEVYVEZHeHZ2SmNTalg1eTRLMW5pTWpNMVdFbjk5Y19KbjJJYzVXRDY5X3IyeEVoZ01LWHV5UUNBbndhcW5TSWxlX0Z3V3lWYVZvWE9nbDhjU1hxMFhTX1NuZWxCemdzek3SAXNBVV95cUxOVzJucl9sMUItSUxFWFRGR3h2dkpjU2pYNXk0SzFuaU1qTTFXRW45OWNfSm4ySWM1V0Q2OV9yMnhFaGdNS1h1eVFDQW53YXFuU0lsZV9Gd1d5VmFWb1hPZ2w4Y1NYcTBYU19TbmVsQnpnc3pN?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:07:42 GMT",
+      "timestamp": 1773306462.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "IEA 비축유 방출에도…국제유가, 배럴당 100달러 터치 - 미주중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkbVdPM2dBZlZCMjJCYW43ejZhYUFKQWRwcVRWbGk5dlVvUXZOQ25jV2JiakpoX0h3Rl9TV1BBdXNFMkl4azNGeFFBdThxMTBlZ2tfd0pqdldwVUd1TkxCcy1B?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:51:00 GMT",
+      "timestamp": 1773305460.0,
+      "source": "Google News",
+      "category": "에너지"
+    },
+    {
+      "title": "BTC 가격은 탄탄한 모습을 보이나, 2만 달러 풋옵션을 간과하지 마십시오: 크립토 데이북 아메리카 - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmo5OWJVZkw3OU5TZ1Bxa0VhVGdaNmdJV2NmUHBLMzlCY2ZmUlhXX2JkaW5id3lVWXNFM18yNlVMcmRDdW95SzFOaEVZUnI4S3d5MER1YXZXa1NOb2pmbjRsdkN5MHFkajg4U2FOYXZtbHk3US1qYXBhdkM4T1VNRFN0LWwtZGJpUEs5YlNyNm1mSTdOdUNCWFdFYmRlZ0lfeHo0MlVGcEIwSktEeHluSA?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 11:17:18 GMT",
+      "timestamp": 1773314238.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "국내 금시세(금값)는? - 게임톡",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fVWl2V3RJVnp0MjdLNWQ2b1lCcng2Tzk3azRxZVZIU0lJUjMyRWxCWG83NXY2QlpSWGU0aFZNblI1aXFRb0UybWt0czdCTWx4VEMzQTl4WTdoN0tyZ2g5OGZfczd0UElaazg4Wg?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:44:21 GMT",
+      "timestamp": 1773312261.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "[오늘의 은값시세] 3월 11일 은시세는? - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03TXpkemZPWDB0R05ydEd3ZDBIbkdNRmxfVjUtZWpRYTJ2QUJFUTF2OFlqTno5MHJFYXZRRUpTQkdHNGp2bllHbkFwT1lqN3c0MUNpZ29uTG5PNDI3bUdPcVRNcUVFbkVCeHc?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:08:13 GMT",
+      "timestamp": 1773310093.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "2026년, 2027년, 2028~2030년 및 향후 은 가격 예측 및 전망 - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0R4bnRLVkJUV3NkZHRnQXFNNDEwVlFEVkpqY3d2QlJXcWRDM0FjUEkwZFFQZERCN2RBQlFVT0xwbU1OQVFVZnRzSDRwRTNSVl9DaTNhcUw4UzNoMDVlSWVzWFVDOUQ1QVpoOVZ5OWZtYTVPNkl6TlV0Mk1GaXZ3QW9BUDJDWkd4VGg0X1ZZMVJnQQ?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:02:44 GMT",
+      "timestamp": 1773309764.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "오늘 금시세 한돈, 3월 12일 장내 금 가격 상승 실물 금 시세 흐름 비교 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kcWRkQmlJM0w2cS1tOWxRSWlTaFFrOWFodVQwV0RPZ0NLOEZUT25VcUtHeGc0cGd0YW5LdnZ2TzVfQV9TVkcwamoxZnpNZmdSUk9wTk5sVzFlWUpKUTQycW1VNURNcXd6SkxZOGJpTVg5UQ?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:34:50 GMT",
+      "timestamp": 1773308090.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "중동 긴장에 유가 장중 100달러 재돌파…아시아 증시 하락(종합) - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4d010bi1TYWU4eXBSN2ZkNk5BdTdUbzlkLXo5a3JSZVFVdnFOWjh3a21sSzJIT0JyRE5pcEhueXJmZzZsMUVpd3VsRDA0dVVzNmU3aHBkbTBQUEVjd19IbTJyWnJUbTRHc3g0R1JuU040U3h1dUp1cdIBeEFVX3lxTFB4d010bi1TYWU4eXBSN2ZkNk5BdTdUbzlkLXo5a3JSZVFVdnFOWjh3a21sSzJIT0JyRE5pcEhueXJmZzZsMUVpd3VsRDA0dVVzNmU3aHBkbTBQUEVjd19IbTJyWnJUbTRHc3g0R1JuU040U3h1dUp1cQ?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:53:20 GMT",
+      "timestamp": 1773305600.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "[오늘의 금시세] 금값 강보합세...순금 1돈 107만원대 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zYzNqZlRmWGozUFdBRVhPM2l6b21yWEE5a3ZzNFpxa01hWWJ6RG9CM1htaUFuUXpCV3ZVbURrdS1NbTNRelUxQkdvb1c0U0lPVDFRaEpUYWRvbDZoLXgwUkY1SzlFWDNxMFp4cnU1NEZydw?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:41:15 GMT",
+      "timestamp": 1773304875.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "1년새 크게 오른 비철금속 가격, 중동 전쟁에 수급 불안까지 - 기후에너지데이터뱅크",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85WVlLX1ZQQkYxSl9seElGaWRULWNBUjZ2NjdncW1EUmFaYy1qaGlDUnlRRnNlbmE3VmtZWXF0QzQ3NGg2NVF4RnE5RnJEdzBFbkNHWjcyWTF3YUpfSHc?oc=5",
+      "time": "4시간 전",
+      "time_original": "Thu, 12 Mar 2026 07:34:21 GMT",
+      "timestamp": 1773300861.0,
+      "source": "Google News",
+      "category": "금속"
+    },
+    {
+      "title": "[오늘의 은값시세] 3월 12일 은시세는? - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qVURtenJvT0VwTUJOSUdKWU1ob3VIVGJPYVJWNUZaYkNwWW9ZY25TbndHNGZyZm12NU1ueUU3cjcydC1GMzJhb2ZTUWdITmtYMUVnaVgtcGpNdC1YVG1UcGN3OUk3dHctUEE?oc=5",
       "time": "5시간 전",
-      "time_original": "Thu, 12 Mar 2026 06:32:47 GMT",
-      "timestamp": 1773297167.0,
-      "category": "에너지",
-      "source": "Google News"
+      "time_original": "Thu, 12 Mar 2026 07:22:49 GMT",
+      "timestamp": 1773300169.0,
+      "source": "Google News",
+      "category": "금속"
     },
     {
-      "title": "이마트에 돼지고기 납품가 담합...도드람푸드 등 9개 업체, 과징금 31억6500만원 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYld6clY3al9ndFBFall3ZGhGRkR6YUJiVDhYTDJaZmVXdFdYMWlzNlUxcl82ZEhMekhxc3FNbFJwRndMNkpGYi0yT0tuQkY2ZUlINUlKd2Vpc040VlNoTGJOU2FmYkx3Y2Vyc1FxNmM3elFIeGZNT1dlUjM1NGtKZVJDSHJpTk5yTGVEQmhn0gGiAUFVX3lxTE5GVFg2VjlMTDY3V0V0UFRFZWR1QndfcURCbVFGX1Bkc2FjQTNHbFV5U01UbEhJU2JydVVtQnVtaDlRNjNPVkxTVEpvSzBFZDRzNU1qNnNsN0c1c3lCUnFldEtpXzZxWUtrYnpxVnJEX2Voc01FR3RLcHRiTFoxUi1DRTY3ZzhQaEdoaHFPVmxTeE9rTDd2cHAwcHlONU4xRmFHUQ?oc=5",
-      "time": "8시간 전",
-      "time_original": "Thu, 12 Mar 2026 04:01:54 GMT",
-      "timestamp": 1773288114.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "한은 부총재보 \"중동사태로 향후 금리 결정 훨씬 신중하게 할 것\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qVE9xOS14MlpSNld6ZXI2QTkzVWxIblJYZUNKVENNdEdzRnRKSzUtb0l5QlR5b2tzMlFTa09scmZmbHVhNkYzU2g5SExzRHA0OTJoZUVsZDJGby1aRHlHUnpqa1NJYW9wNWl1N2xud0w?oc=5",
-      "time": "9시간 전",
-      "time_original": "Thu, 12 Mar 2026 03:00:00 GMT",
-      "timestamp": 1773284400.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "대법 “한화오션 경영성과급은 임금 아냐”… 퇴직자들 최종 패소 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVkcGpvLVRTYkxZR0lLWFVpcktNaUhkM2ZISzUwQURvd3dxVHVzai1HNi1rS2Z4YldjNFQxYUcxWVo2cGx0U1RleUNQV3dQYlRseDdrR0NObXJRdHRfaWtsT19Db1ZXd2Fxa19GVGl2MjlzRElkYWZ3RFBWUkJXTmlyU1pRdDTSAZsBQVVfeXFMTkhoVDdTNHpJZDZ4OUdOYm9fWHo1RUtGZlpnek5xMmVUNHNvSkt3Um55TzJhby1aMTRtcXZKdGhpMFN1R0I4eldzaHBUalVmZl9XNG13V3JSUWtpX1RGWlBjOHNiN1FqR0c0SkFqZkZPZkp0RmxjV3NhUlBkcTJDRjZZT19RSzlPczZfeFdPbmJCWE9GUlRPUmNnbFE?oc=5",
-      "time": "10시간 전",
-      "time_original": "Thu, 12 Mar 2026 01:37:23 GMT",
-      "timestamp": 1773279443.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "[단독] “중동 전쟁 선박보험 괜찮나”…금감원, 보험사 CFO 소집 - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAycW5XT1NaSGlZWGQ4aGJqTlJpSUNqaHlFcE5DREFTdVBLakV5X0RMbFIxeFEyWVhyOGJSVFU0T0h3c0ZxUWpsc2lhM0hVZkgycnZTNQ?oc=5",
-      "time": "10시간 전",
-      "time_original": "Thu, 12 Mar 2026 01:27:48 GMT",
-      "timestamp": 1773278868.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "\"과학 난제 해결\"…정부 'K-문샷' 참여 기업은 - 지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwYVZyNGpWeU8xSXRnOTYyT0ZpOUtScFp2SURyeTFlNGVYRV9EWjdMN1NjaWZjRXYycnZubnd6NGlFZGJTQ3o3THhlblh4aUtsdFRnWm5n?oc=5",
-      "time": "11시간 전",
-      "time_original": "Thu, 12 Mar 2026 01:19:59 GMT",
-      "timestamp": 1773278399.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "297만명 신용정보 유출…롯데카드에 96억 과징금 - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96NDhXS25XWHpjdU9kUnk4b3pXU1U0YTR5VjVwMjFUVS1KRi1hYlZ1cWtiVldpVWtvenIwTmdnclhMNXFxR3VGbFBwVE8xX1RMX0dEbHN0NWVhZ9IBVEFVX3lxTE92Sk5Zd3FzUUlya01MSDJjckRvdHZ3ZDNUV1ltWExOejdkZlU5bFZLaVJ6UmtYbHBGXzBpaUYtUW5od21mb1FBYVhQTjZiN2ozeF8ySw?oc=5",
-      "time": "11시간 전",
-      "time_original": "Thu, 12 Mar 2026 01:00:07 GMT",
-      "timestamp": 1773277207.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "월가 베테랑 \"사모 신용發 금융 위기, 실시간으로 전개 중\" - 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oc3RpSmtoUDNaVEdWeGVoN2FRMHE2blRMSWlZTkRndXlWbXd6cDFyTmxYQ1BtS2pzdUI4OWlIMm1YNU1kT3BNWWtyWmVBUkpuMGtjaEhIWWozSGdUSW01RV82aU1idEpVWlpzLWw3YTDSAXRBVV95cUxPRjJVa1ZwWExhRDd2UW5Ba09HajE3WmhBU2E5S09BT2dwbmtQaFhvOEhYNG1nYTBHZXJLYmlIdE9NX3hCU2tNMHhNa3paYUNTVm1NRnhXWTJIZm83WFdWcE0xQklwZFBxaGJkT2VDYWNCRHJxUA?oc=5",
-      "time": "11시간 전",
-      "time_original": "Thu, 12 Mar 2026 00:56:26 GMT",
-      "timestamp": 1773276986.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "요동치는 증시에… 예탁금 6조원 감소·빚투도 급감 - 조선비즈 - Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnZOdk9zSFFrcHJUX1NOckxSMmhQRW1CVFRtWWZFanRJZTZZemZhY0lvWWNYeE1UTHBvOWRueXR6N196Y1o4OG1PLTFxUnR3Tl9BemxpaDQ1Q2gxUEtDM1JfbVpmNnlVd0k3T2IxejVqRXpoUE54bzdzclEtWWg4dWZGX1BlVGVG0gGcAUFVX3lxTE1WSkZkNmVINDJTby1QbzkweDIxYnRPNUNHLWZWNlA1UEJqLTRyVGdCRW9iME5FdnhfWTE5MmYyQ1ROQVRPR1B3Yk5YZXpfLVRwOVJNZjZOZDV2WHVuYUFISVJvX04yamk3aEVEOTdSdFkzTjZRXzBuN0xXLXdCMTlEMEJpWUZnOFA2LWtaNmFFVlY1ejBNSS1mN3p2Uw?oc=5",
-      "time": "15시간 전",
-      "time_original": "Wed, 11 Mar 2026 21:02:23 GMT",
-      "timestamp": 1773262943.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "이란 대통령 \"유일한 종전 방법은 침략 재발 방지 보장\" - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DeURrQ2dwSmlucTdXNlNiejlhRHJ1cmttVWhaWmE5aC01VlhwbW9CYWpIbzRiSXZha18tVjlGNFJUZVZzVlZFM0ZXUXBBZXBocXVyMkFGTWlBeEHSAWBBVV95cUxPTnRyVHh0YTRybHg5ZXNIZW82TnNqVm1ibXgwZUstelBoMHFrU3ZsQnNOTnpzX2E5YUxIU1NrLXFqM18yalp3RzBMeG93azlpb1JUV25RMDQ0bklDaWNrbUk?oc=5",
-      "time": "16시간 전",
-      "time_original": "Wed, 11 Mar 2026 19:50:53 GMT",
-      "timestamp": 1773258653.0,
-      "category": "금속",
-      "source": "Google News"
-    },
-    {
-      "title": "1000억 흑자에 찬물 끼얹은 엔화 반값…토스, IPO 기업가치 새 변수 - 이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zSXg5OGQyaXc1SEJHUFpVVHhPaG9KYzFDUXk0LUdHTWZqUUNrVVRtVUZ6eWllbFBWWldDc0dXMXFMZGdGdnRVQXh4RzM3T1dlbmNDWA?oc=5",
-      "time": "1일 전",
-      "time_original": "Wed, 11 Mar 2026 07:23:00 GMT",
-      "timestamp": 1773213780.0,
-      "category": "금속",
-      "source": "Google News"
+      "title": "호르무즈 26일 통과분 방출도 별무효과?…유가 다시 100달러선(종합) - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5VTlaUzNjanNibFRyWnQtRU9oU3RfMEo1alVjX1ZUX2l6SUc2ejRwNjU4N2lHM2I3WVdrZE95Z2RkSU5ucEEtVmxkOVlxYTdobGJGeU1uZXlQMkpoRnYwM0o0WGY1c0dKTnZJbGsxZEVlUVZyR0dQYdIBeEFVX3lxTFB5VTlaUzNjanNibFRyWnQtRU9oU3RfMEo1alVjX1ZUX2l6SUc2ejRwNjU4N2lHM2I3WVdrZE95Z2RkSU5ucEEtVmxkOVlxYTdobGJGeU1uZXlQMkpoRnYwM0o0WGY1c0dKTnZJbGsxZEVlUVZyR0dQYQ?oc=5",
+      "time": "5시간 전",
+      "time_original": "Thu, 12 Mar 2026 06:36:50 GMT",
+      "timestamp": 1773297410.0,
+      "source": "Google News",
+      "category": "금속"
     },
     {
       "title": "4억배럴 비축유 방출 결정에도…유가 장중 100달러 넘기도 - 한겨레",
@@ -331,24 +1018,276 @@
       "source": "Google News"
     },
     {
-      "title": "노트북 40% 폭등 비상… '900달러 PC' 사라지고 1200달러 시대 온다 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFAwYnpXZkE5RGhCWUloQS04WHEwOE5kSllmUTdnenF3bUkwY3ZDdjZOQnlnMERydmk5YkpzcldadHBtY1VxTTAyai1CVDNDcGowOTFtbFJVc2lTSi1oSlNPNDJwTC1uaHpCaFViVUk0VzhmYUtjOVpzbkpSZzlqTWp4aXJjWndZ?oc=5",
-      "time": "1일 전",
-      "time_original": "Wed, 11 Mar 2026 01:24:26 GMT",
-      "timestamp": 1773192266.0,
-      "category": "외환",
-      "source": "Google News"
+      "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
+      "time": "42분 전",
+      "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
+      "timestamp": 1773316140.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "달러, 연중 최고치 부근에서 강세 유지 - VT Markets",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZ1JoaVNPSGFQclVaTVQ1a3ZQc1RWb1pnTXVMN3FJX1pUTW5LREpTUE9UaF9RTTFCQXNGZG9HTTBhRHp5VmdPbFhWdFQ2NE5BSXdFYW43eDVMQkpkVnZlYzBlRWkyUTZIcHkyQ28tSTlMLTVlWG1RZnRsZmNkWmV2TGNpRTU5VFREcWt4U3IwaTd3NDhXRkJ5Sml3bUFDT1ZPWUZMQ1lHNHZlbURZRWxQbWc1SWprM1V0OE1zY0dhbHlYVjlTcmk2M1FmWXV0UXQwU3NRQU5NaF9QbFdOVlBtcFZIdUpvdWNhcE43ckNkVHJXS0dhX1Y5ZUdYSlJ1TG16S1RkTHVJSEY0STg?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 11:21:42 GMT",
+      "timestamp": 1773314502.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "Savills, 8억 2,700만 파운드 Eastdil 인수…자본 시장 선도 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HeHFFWkhQc1VlRzdwdDNpZWthWWVlS09LbHBXdGlnZU5TRVp3YjhIWGpVVmY2TUQyS182RmliajFoTDkyTmpTdjJacG1KeFFfTV9JdzcyUHJQS29fdXdFXzRDbU9nRFkxclRoOGhQTm0?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:55:00 GMT",
+      "timestamp": 1773312900.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "달러-원, 런던장 시간대에 위험회피 지속…유가 동향 촉각 | - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xTE8xTm5BdUE4NDJXSGwzZzMzUFVZUWp5M0tXNzg5UVBtWjNNTW9NQmtKcDNaWXBXaXdiYTJXcUZSbXR2V1lHa3hlZ1pLYUdDZGNXbHplVlZibEF5TE9OUjdyRk84VG4wZUxzbmUwMldpcG0z?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:33:11 GMT",
+      "timestamp": 1773311591.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "글로벌파운드리스, 3억 달러 자사주 매입..주당 42달러에 실행 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVHlMLXhxV0x3dzhUc0hPcTlDNHA3a1RVcDZJNTJRaFZDSVd2SVJWcXZsYTA5dDNqd3gwWDdhTkxKX2NvMDlpeWdzVDE0R2x2TlE?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:09:37 GMT",
+      "timestamp": 1773310177.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "하루 10∼20원씩 널뛰는 환율…원화 변동률 주요 12國 중 최고 [민생경제 비상] - segye.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LcEVldTdWMU9ta3BhQm93OHp6Mnk2U0xoSFZ0M2hoQjlUaElfZmx5Yk93QWRYUHhqSEdtdlJqY0NOWkFVb2F2aUJJeTV5YlNjVWJRWTYtajnSAVRBVV95cUxOcTZQX3oyT1F0WE4zdjBSbHJEamxYZFViVXhOemdBMnFyMGJmMXJuVUJXRlJ0amdGNnJweHRuSnRkRFREeURORlFkTWlxUzlLeDBiUlI?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:35:00 GMT",
+      "timestamp": 1773308100.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "영국 FTSE 100 오늘: 유가 100달러 돌파로 영국 주식 하락, 파운드 1.34달러 밑으로 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYblJSVkk2dUI2T0VTZmFXSGU2Ql9BZ0N6cTUzdlpjN2RnQlB1ZHJCdWF2VDZ3MHpzLVh5Y3E2UFlXb0dXV0hQVzZkSTE2dU5HZUpIb3hac0tGRTJHYmdtN1h1U1pvWFN2OHhQOXRHbGg?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:36:00 GMT",
+      "timestamp": 1773304560.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "환율, 유가 100달러 재돌파에 1480원으로 상승 - 직썰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LUVFYODQyVTctTUtCQ1NyNFF0QnNsZ0VIeFBTWkdSV2djY3k1Y25QVEtlX19EZFdPWFNGeGwxVTlRQTlOVDBYbktXVDQ1VjJ3NWM4dG1aLUFUOWp3T05jV0E5ZEJnOGM4ZGUzWtIBbEFVX3lxTE1LUVFYODQyVTctTUtCQ1NyNFF0QnNsZ0VIeFBTWkdSV2djY3k1Y25QVEtlX19EZFdPWFNGeGwxVTlRQTlOVDBYbktXVDQ1VjJ3NWM4dG1aLUFUOWp3T05jV0E5ZEJnOGM4ZGUzWg?oc=5",
+      "time": "4시간 전",
+      "time_original": "Thu, 12 Mar 2026 08:03:25 GMT",
+      "timestamp": 1773302605.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "중동 전쟁에 인니 루피아 약세 지속…한때 심리적 마지노선인 달러 당 1만7000 루피아 근접 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZTdvR21OVzVqa05OQ0NPOFFKOHhQUE1Zci1zQW9MTDlqUVhfZ1NnSEhfSEljOXVLS3FpU1FuTTdEeFBaeV9KU2lFcHd4Z2lYeGdR?oc=5",
+      "time": "4시간 전",
+      "time_original": "Thu, 12 Mar 2026 07:57:00 GMT",
+      "timestamp": 1773302220.0,
+      "source": "Google News",
+      "category": "외환"
+    },
+    {
+      "title": "[채권마감] 사흘만 약세, 국제유가 재상승 90달러 돌파 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjVDZNU3pjaG1wdjBRQ0RIeEpDZnhNTkVkWGFtWVg4THZTZHR3eVQ0VjlPTnlKYTNqQkJmdEZnb2FxNHplbkF4ZXIwRHZEMU4xRVE4?oc=5",
+      "time": "3시간 전",
+      "time_original": "Thu, 12 Mar 2026 09:00:00 GMT",
+      "timestamp": 1773306000.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "S&P500 선물, 유가 급등에 하락…美 국채금리↑ - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNG5WekhxZWJ2ejRtQU03QTNnOHZVd0Q1TXgxdHAyNDVhNURtcS13Wnd4X3F4NHJrTWpUQ0lNc1Flbm5tREtUYWtpTmhXd2l6RWZJdTgyeHhIeVVNSEtBMHNrTkYzLWNuSnZXa1dfSXBiSC1t0gF0QVVfeXFMT2Y0blZ6SHFlYnZ6NG1BTTdBM2c4dlV3RDVNeDF0cDI0NWE1RG1xLXdad3hfcXg0cmtNalRDSU1zUWVubm1ES1Rha2lOaFd3aXpFZkl1ODJ4eEh5VU1IS0Ewc2tORjMtY25KdldrV19JcGJILW0?oc=5",
+      "time": "9시간 전",
+      "time_original": "Thu, 12 Mar 2026 03:12:45 GMT",
+      "timestamp": 1773285165.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pdnBDdHBfcFJHVmt6VEVHY1FsVGZRS0l3LV9Qd2xLQ3lKY2Z1ZF84WTgzOThUbkZkYzNRS1d4VzVOclh1QUtmQWlZc3hGd0tEWjhxWA?oc=5",
+      "time": "11시간 전",
+      "time_original": "Thu, 12 Mar 2026 01:24:04 GMT",
+      "timestamp": 1773278644.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VVjNOWFo5SUtDcllNY2Vwc0FHWllPNXRPXzRiSDI0NFpzSTZBWWFfOWpSbWVXeXNYTEJhcjlrM0FvcHYxWVV1Q3VlSQ?oc=5",
+      "time": "11시간 전",
+      "time_original": "Thu, 12 Mar 2026 01:24:04 GMT",
+      "timestamp": 1773278644.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Y2hNVnZxS0pDX2owb29oRG1KTDdhazMxTXU1NzFEOS1JNmpXZW5Uc3NjT0RyZU1TRU1vTEpUMjlwWUdBdG8yWDdMZ3VINHFSNDhN?oc=5",
+      "time": "11시간 전",
+      "time_original": "Thu, 12 Mar 2026 01:22:00 GMT",
+      "timestamp": 1773278520.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "이란 전쟁에 미국 금리인하 물건너가나…미국채 10년물 4.2% 넘어 - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CdnpjYzZhWmtvZ0swd2lhUVBPMUZ4d2Fnb0JMYWhDYmJveFA0dVBLYjlpWkplOVdxYXlXM2w0TmxoVWpIdU5kV3RWVjMyb0ZfQ3c?oc=5",
+      "time": "11시간 전",
+      "time_original": "Thu, 12 Mar 2026 01:21:15 GMT",
+      "timestamp": 1773278475.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "호르무즈 민간 선박 피격에 뉴욕증시 혼조…비축유 방출에도 유가 급등 - coxnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NUjVsSG1jNURLSkJzbTk1MWdkUzJqRkZwS3NQOWhVdE02UzlTUHFMSFk4bVFUNWV3NUpOTElnUF92dXk2NktpdWhQVklNSldnZzBHVkcxWkFlV0VUVEU0M3oxSE1pTGItR3c?oc=5",
+      "time": "11시간 전",
+      "time_original": "Thu, 12 Mar 2026 01:20:40 GMT",
+      "timestamp": 1773278440.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "“주요국 국채금리, 고유가 장기화 우려에 급등” - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMXdTM19BdHFJbllIRWdVU25GUHJOZzNaQ3hFRnVYbnhnaGRadkptZjdvZkFDY1hwbEMxaE1ZVDRlWUFNa1dzNEpDSklveGdnNVZrQXgzMUhNUlRNZnc?oc=5",
+      "time": "12시간 전",
+      "time_original": "Thu, 12 Mar 2026 00:20:00 GMT",
+      "timestamp": 1773274800.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "중동 전쟁 여파에 금융시장 '긴장'…대출 금리 다시 상승 압력 - 미래경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wb01MSjAtTVkybUpaVXJoNTlQREFYZThENEdkYWhyX0JrbFNZbHBHUk1Pek1YcG8xOEd6d1NFZUNjRkdRblVpRjZXTlJHeE1jMEZyRWNSUWJsejhSVXkyaTY4a3hvOGV6cy1zVg?oc=5",
+      "time": "12시간 전",
+      "time_original": "Thu, 12 Mar 2026 00:00:00 GMT",
+      "timestamp": 1773273600.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "비축유 방출 소식에도 공급 부족 우려 여전…국제유가 다시 반등[채권브리핑] - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1V6WkQ5RU51QVl3MHhTZHY2dk5lVkxkTl9PMTkwN0tqZzU3RlhTbGE3WFdNSWxPYkloaWtKSl9DelpEUGtuTjJFX2R5VWFYZEVjUTk3a191Z3ZjbmZYLWtIUGsyNFZGUXVzRFY1UnlLMVQtUk9FM19tS2ZiSTJ6bA?oc=5",
+      "time": "13시간 전",
+      "time_original": "Wed, 11 Mar 2026 23:13:46 GMT",
+      "timestamp": 1773270826.0,
+      "source": "Google News",
+      "category": "채권"
+    },
+    {
+      "title": "오늘(3월 12일) 암호화폐 시장: 비트코인에 난관이 기다리고 있다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGtxdTFvVnpwdG94LWZWZE9KSmppekFHdHNnQWt6WXNNWlBDVExmdXdIRjdfWTNvMUlNRVpPWFQxOVhCeFBkOEJKTkdRVWl2ay1GUkVJRlJGYXZTYUxwVFRZZ2dBSkJza0JjbFhRcHpmWVd1aHFFNk1NQlRfSW9VanZpZ3Rkd1B1elBXeGh4MA?oc=5",
+      "time": "5분 전",
+      "time_original": "Thu, 12 Mar 2026 12:25:48 GMT",
+      "timestamp": 1773318348.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "BYDFi 영구 선물 데이터, 트레이딩뷰에서 실시간 제공 시작 - Bitcoin.com News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYi1tdGJlYnhONjZWQzl0SlBIN1pEWmh6bjJzTmk1d2lsVzZwRHNCMVF5X3JQTmtzZGFmc21UWFZyVERGSkV6aGpKaloyNDFPZlROZDBLUW9VeGhhcG1CdDVfLXEwX2N5b3h2RkpHWjZaVWtHY2xIeGhEOHJiVURsbmhrR2FOZWJWa1lDTUFucmdWeXptUV9tc0JjMXBkYlU?oc=5",
+      "time": "22분 전",
+      "time_original": "Thu, 12 Mar 2026 12:08:42 GMT",
+      "timestamp": 1773317322.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "이더리움 강세 속 조정 신호 포착…1800달러선 하락 경고 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQ2dYMVB0TWVoX1BlX0NCNm0wOHNsWU91V2xGazctQ1VGbWlfOGlkdWhKVXNFU1B3WTN3NXVCc2oyYlNfNGNQRFZBbExQUFgtTmtKNWRpa2s5VlZlWjhLekxzZHBJWEJqSHBLYlhUQVhwRE0?oc=5",
+      "time": "42분 전",
+      "time_original": "Thu, 12 Mar 2026 11:49:00 GMT",
+      "timestamp": 1773316140.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "2025년 美 암호화폐 ATM 사기 33% 증가…AI가 핵심 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BMFUybTBqalIyVDBoblp0Q3B2RjdCV0tmdVVMNVBsT2FrNUxqS1RlZndIQUZNVFo5NTVVTGlhNS1Pc3JpMm1wUzNHSS1IY0VadldWaXA4MEo0eGVVeTM0SWlrR20xclI5UUlZS2xPQl9INzg?oc=5",
+      "time": "57분 전",
+      "time_original": "Thu, 12 Mar 2026 11:34:00 GMT",
+      "timestamp": 1773315240.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "플룸(PLUME), 90% 가격 폭락 속에서도 RWA 성장 주도 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5telRhRUhWTkNIMy04TjZOdFotazdOT2w5TkxLZENjaExtbi04MEZROHBzN0U3SWgtSDBPNWpKdDZMa3FQZTdDLXZqOTBiMFAzNE1PbXc4MmhhNUtqenE0dlBINThtbWc0cEhUaENkY1ZjQW8?oc=5",
+      "time": "58분 전",
+      "time_original": "Thu, 12 Mar 2026 11:33:01 GMT",
+      "timestamp": 1773315181.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "XRP, 글로벌 토큰화 상품 시장 15% 점유…2위는 이더리움 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yM09jZzhlVkVaZjBWY1FDdl9CYlcyVkhJQ0Z1WkYxVmVpNVFXNGFsMHg4aGhqTEp2ZzNQTFhMcFd6TEF2YzQxdDFJejRNQ2dud1ZRaWZIRmdUZWVyaXYyZkVIbC1uLTZMMDBiSF9mMGFSREE?oc=5",
+      "time": "59분 전",
+      "time_original": "Thu, 12 Mar 2026 11:32:00 GMT",
+      "timestamp": 1773315120.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "2026년 미국 중간선거, 비트코인 시장의 중대 변곡점 될까 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93Nk8wM2U5ZVZWUmJhTTNmTVIxSHctRUNLekhxYVo5czM5emNfYUxBa214akx1NUFCODVDY2V3MVIxLWFmMDhIVFA5ZUlub3JkUThzaFhxLW5xYnNzaXJ4dG5iRDRoYkhzSmlmX1BVTnNDN0U?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 11:28:00 GMT",
+      "timestamp": 1773314880.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "이더리움 전망: RWA 온체인 가치 300% 폭발적 성장, 월가가 선택한 이더리움의 독주 - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUxsZ3BZbWUyV09pdnF3MnRKQWdVaWVPV0hpeGR2Q1g0bW9wVkFDOGl3eFZaZlpzRVBsTHpSV2lvX01ON1lYMHRFaXpoZmZlX01SOWRCMnRaYTc3OWt6NVhYNGN5N2ZFZkxvZ19XM1lOOGc4TjZ2OUQzWnVET2k1TEREaVI1WENyQjNqRzVGTmd0S0w1a3NxazJRVkVOSDdvbmNmdmFoWDRhQnJIX2xVT3dtZXVET3VacllrOWpnRlkzSmVvcVNKUFRB?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 11:27:49 GMT",
+      "timestamp": 1773314869.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "BTC 가격은 탄탄한 모습을 보이나, 2만 달러 풋옵션을 간과하지 마십시오: 크립토 데이북 아메리카 - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmo5OWJVZkw3OU5TZ1Bxa0VhVGdaNmdJV2NmUHBLMzlCY2ZmUlhXX2JkaW5id3lVWXNFM18yNlVMcmRDdW95SzFOaEVZUnI4S3d5MER1YXZXa1NOb2pmbjRsdkN5MHFkajg4U2FOYXZtbHk3US1qYXBhdkM4T1VNRFN0LWwtZGJpUEs5YlNyNm1mSTdOdUNCWFdFYmRlZ0lfeHo0MlVGcEIwSktEeHluSA?oc=5",
+      "time": "1시간 전",
+      "time_original": "Thu, 12 Mar 2026 11:17:18 GMT",
+      "timestamp": 1773314238.0,
+      "source": "Google News",
+      "category": "암호화폐"
+    },
+    {
+      "title": "이 차트가 암호화폐와 비트코인 강세론자들에게 문제가 될 수 있다 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VGlzeG40emJGSTl1TUtTV05fdnR6dzMxQ1F6ZDdDTk9RY3hYaDdCVU1kbHZxQmNxTS1IQjcyaDY5TWp0RlI5X3ZreGU3RjVFR253RmRmZUlLbW51eFA2WWtDZzZ3QUptLTlYR2hMU3RoUTA?oc=5",
+      "time": "2시간 전",
+      "time_original": "Thu, 12 Mar 2026 10:05:00 GMT",
+      "timestamp": 1773309900.0,
+      "source": "Google News",
+      "category": "암호화폐"
     }
   ],
   "statistics": {
-    "지수": 0,
-    "에너지": 2,
+    "지수": 10,
+    "에너지": 10,
     "금속": 10,
-    "국제": 4,
-    "외환": 2,
-    "채권": 0,
-    "암호화폐": 0,
-    "total": 18,
-    "new_articles": 22
+    "국제": 10,
+    "외환": 10,
+    "채권": 10,
+    "암호화폐": 10,
+    "total": 70,
+    "new_articles": 679
   }
 }
