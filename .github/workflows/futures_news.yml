@@ -1,8 +1,11 @@
 name: 해외선물 뉴스 크롤링
 on:
   schedule:
-    - cron: '*/15 * * * *'  # 15분마다 실행 (안정적)
+    - cron: '*/5 * * * *'  # 5분마다
   workflow_dispatch:
+  push:  # 푸시할 때도 실행 (테스트용)
+    branches:
+      - main
 
 jobs:
   crawl:
@@ -11,6 +14,14 @@ jobs:
       contents: write
     
     steps:
+    - name: 🕐 실행 시간 로그
+      run: |
+        echo "======================================"
+        echo "🚀 크롤링 시작!"
+        echo "🕐 실행 시간 (UTC): $(date -u)"
+        echo "🕐 실행 시간 (KST): $(TZ=Asia/Seoul date)"
+        echo "======================================"
+    
     - name: 코드 체크아웃
       uses: actions/checkout@v4
       with:
@@ -42,9 +53,18 @@ jobs:
     - name: 결과 커밋 및 푸시
       run: |
         if [ -f "futures_news.json" ]; then
+          echo "✅ JSON 파일 생성됨"
           git add futures_news.json
-          git diff --staged --quiet || git commit -m "Update futures news - $(date +'%Y-%m-%d %H:%M')"
-          git push || echo "Push failed"
+          git diff --staged --quiet || git commit -m "Update futures news - $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M KST')"
+          git push || echo "❌ Push failed"
+          echo "✅ 완료!"
         else
-          echo "JSON 파일이 생성되지 않았습니다"
+          echo "❌ JSON 파일이 생성되지 않았습니다"
         fi
+    
+    - name: 📊 완료 로그
+      run: |
+        echo "======================================"
+        echo "✅ 모든 작업 완료"
+        echo "🕐 종료 시간 (KST): $(TZ=Asia/Seoul date)"
+        echo "======================================"
