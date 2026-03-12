@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T17:05:13.311788",
-  "update_time_kr": "2026년 03월 12일 17:05",
+  "updated_at": "2026-03-12T17:27:09.428425",
+  "update_time_kr": "2026년 03월 12일 17:27",
   "news": [
     {
       "title": "Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries",
@@ -13,7 +13,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others",
@@ -24,7 +24,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "Three more ships struck in the Persian Gulf as Iran warns of oil prices hitting $200",
@@ -35,7 +35,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "Plans for record emergency oil release signal Middle East war could drag on for months",
@@ -46,7 +46,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "European markets set to open lower as oil prices jump despite reserve release",
@@ -57,7 +57,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "The Iran war is pushing up European energy prices. Here's why a Ukraine-style inflation shock could still be avoided",
@@ -68,7 +68,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "South Korea passes special bill to implement its $350 billion U.S. investment pledge",
@@ -79,7 +79,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "Inside India newsletter: How the war in the Middle East is set to determine India's trade route to Europe",
@@ -90,7 +90,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "CNBC Daily Open: Oil markets: Nice try on the reserve release",
@@ -101,7 +101,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
@@ -112,7 +112,7 @@
       "source": "CNBC",
       "lang": "en",
       "priority": "low",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "India-China reset? Relaxed rules allow Beijing to invest in India after about six years of friction",
@@ -180,7 +180,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "[뉴욕 금가격] 국제유가 반등發 인플레 우려에 1% 넘게 하락 | - 연합인포맥스",
@@ -191,7 +191,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "[금값 시세] “금 가격, 5~7년 내 1만 달러 현실적” - 핀포인트뉴스",
@@ -204,7 +204,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "‘안전자산’ 금값 79%, 은값 172% 상승…중동 전쟁에서 반대 양상 - 기후에너지데이터뱅크",
@@ -218,7 +218,18 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "식품사 가격 인하 스타트…뜯어보면 '생색내기' - 뉴스토마토",
+      "time": "Thu, 12 Mar 2026 08:14:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdjRhazVfNUdkUlk4VmFyaUxjWjlEMEluWWZFQjZGZ3RHTUIzaUVPbWktajdzUXBncUlzbEs4bW1OTXF1cV9kWmxneDhNaXNCWlpMU0J3bklCTGVpREtxbQ?oc=5",
+      "category": "기타",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "금과 은 가격이 급락하고 있습니다. - Vietnam.vn",
@@ -231,20 +242,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
-      "title": "홍영준 포스코퓨처엠 \"배터리 핵심은 가격 인하, 공정·개발 혁신이 답\" - 디지털데일리",
-      "time": "Thu, 12 Mar 2026 05:52:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YdDI5WTRrT3ZOdGRpdXUwenlPUG5lSXotbXRMdXdXWllGTUpsUG94NVBqYkFZdDhPNlBhLWxxM2JwMHBOQ24ta1luVkVCUXZrdWdfMGdublljLUNyWTB6TkZvTjQ?oc=5",
-      "category": "금속",
-      "symbols": [
-        "SI"
-      ],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "1년새 크게 오른 비철금속 가격, 중동 전쟁에 수급 불안까지 - 기후에너지데이터뱅크",
@@ -255,7 +253,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "알루미늄, 중동 전쟁으로 4년 만에 최고가 경신...1t 3460달러 넘어 - thecommoditiesnews.com",
@@ -266,7 +264,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "[강세 토픽] 전선·케이블 테마, LS에코에너지 +6.50%, 대원전선 +4.79% - 조선비즈 - Chosunbiz",
@@ -277,7 +275,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "세계 원유 가격이 4% 이상 상승하며 브렌트유는 배럴당 91.32달러를 기록했습니다. - Vietnam.vn",
@@ -290,7 +288,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "‘겹악재’ 삼성D·LGD, ‘원가 방어+고성장 OLED’ 집중 - 시사저널e",
@@ -301,7 +299,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "국제유가 급등락, 우리 생활에 어떤 영향을 줄까요? - KB Think",
@@ -312,7 +310,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "뛰는 WTI에 나는 두바이유…120달러도 넘어섰다 | - 연합인포맥스",
@@ -325,7 +323,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "하나 S&P 레버리지 WTI원유 선물 ETN B, +59.98% 상한가 - 조선비즈 - Chosunbiz",
@@ -339,7 +337,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "전략 비축유 방출에도 국제유가 상승…WTI 4.6% ↑ - 지디넷코리아",
@@ -352,7 +350,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "이란 상선 공격에 美지수선물 일제 하락, 나스닥 0.32%↓ - 뉴스1",
@@ -365,7 +363,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "미국 2월 CPI 발표, 2.4%↑…나스닥 선물 하락 - 에너지경제신문",
@@ -378,7 +376,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "美 비축유 방출 소식에도 유가 90달러 돌파…다우지수 선물 0.9% 하락 - mt.co.kr",
@@ -391,7 +389,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "S&P500 선물, 유가 급등에 하락…美 국채금리↑ - 연합인포맥스",
@@ -404,7 +402,7 @@
       "source": "Google News (검색)",
       "lang": "ko",
       "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
+      "crawled_at": "2026-03-12T17:27:09.428425"
     },
     {
       "title": "美증시 S&P500 '약보합'...오라클·마이크론·에너지주는 '급등' - 초이스경제",
@@ -413,6 +411,122 @@
       "category": "지수",
       "symbols": [
         "ES"
+      ],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "'오락가락' 트럼프 메시지…“시장엔 민감하게 반응했다” - 뉴시스",
+      "time": "Thu, 12 Mar 2026 05:46:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpNVZrMzdJb1o1NDlQMGVZcFFIazZ6cHpJT3FiSWpMNTRNbzRqSXdGR2drX2ZyZGlpS3V2SzdDdmFkOV9TT1ZxSmxqM2pfM19QdDJnemhuRGhZSWFEaUd4N2lidWxHaUwzUVI3N0Z3T3Z0bGdLYUhtVtIBeEFVX3lxTFBpNVZrMzdJb1o1NDlQMGVZcFFIazZ6cHpJT3FiSWpMNTRNbzRqSXdGR2drX2ZyZGlpS3V2SzdDdmFkOV9TT1ZxSmxqM2pfM19QdDJnemhuRGhZSWFEaUd4N2lidWxHaUwzUVI3N0Z3T3Z0bGdLYUhtVg?oc=5",
+      "category": "기타",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "전쟁 터졌다고 ‘안도 랠리’?…다우지수가 보여준 반전의 ‘전쟁 법칙’ - v.daum.net",
+      "time": "Wed, 11 Mar 2026 23:45:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16VUluNzlqWU83S2VWZWoxLXBhWERNU3lKYmI5a2Q0UDlKMllXZkZ6alA0cDZ6d0NTRWtDNnFaNzBldDV5azh1M2ZicXJZVHc?oc=5",
+      "category": "지수",
+      "symbols": [
+        "YM"
+      ],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "미국증시 다우지수 '하락'..셰브론 '껑충', 엔비디아 '상승', SHW '뚝' - 초이스경제",
+      "time": "Wed, 11 Mar 2026 22:35:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WREhpU3hUT2s2WnFheF9tYUV4aVdwUExDc2ZDSEdzMW5RQ210UHRiS2pXbE45RWE3TUxCaGZOcEYxajRWV2ZlQ09rcHVvYVFjT3pwbGczcFNIM0twMW5URndCTnNxN0swVFNOV1BiSjRNQnPSAXNBVV95cUxOVkRIaVN4VE9rNlpxYXhfbWFFeGlXcFBMQ3NmQ0hHczFuUUNtdFB0YktqV2xOOUVhN01MQmhmTnBGMWo0VldmZUNPa3B1b2FRY096cGxnM3BTSDNLcDFuVEZ3Qk5zcTdLMFRTTldQYko0TUJz?oc=5",
+      "category": "지수",
+      "symbols": [
+        "YM"
+      ],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "[속보] 원·달러 환율, 14.7원 오른 1481.2원 마감 - 조선비즈 - Chosunbiz",
+      "time": "Thu, 12 Mar 2026 06:37:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcm5BalM3OEpMa1MxYk5YTlJoMllKX1BBWlc0VF80S3F2S3dqUDF4aF9RY2stbFEzNmF0RDVzRnVPaEVhRmRLcUk0cFRUSk5EMUFldkZudlVkV0ZIUjZ4R1liaF83aDNkbjZOSTZYSVM1cFBJS2tkalkyN0FHNTVwUmpTRVRVZ9IBmgFBVV95cUxNMEhmaHZrRFhaRUVoMG1lcFZVSHFHZEctVXpmalp3Q1ZsR2paUmFBd2RHR3k3cHhNOXpJVW94ZjR0THJITUNUenR0TmlhVzAzdWV3end1Z19lTHJXRUJqTWdnY3l2bFdRSHRydzIyaVVQenNtOE1VZlpqMnZDUVk0MVZQMV9WUmVTN0R3QUxlUXZNVHZndndEMnFn?oc=5",
+      "category": "통화",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "20조 전망됐던 한전 실적 ‘안갯속’···유가·환율 변수 확대 - 시사저널e",
+      "time": "Thu, 12 Mar 2026 08:04:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zNEpTWFVYSk9ZbnlaVk9aZFNMdzc5d1R4XzVpcTB1NlRXelZXUENiRF8xT2U1U3ZzSk5La2o2cE9LR1MtaE1tRmhSWjMxeDNQV2Q3RXEzS3dTZGRFX1B0aXREUjNITzlhcWQ0d05hSksyd9IBdkFVX3lxTE5TNE8wLWZKUUFVNnY5N21ZTXRxTVpMR3EyRzg5dE1hX2ttbkhfY1R0R3F6a3liWG9CNEk4NEk3ZnRhanZRMWpQRWFmdXM3QnB6SnZBUVhLVnNpMFlGLVVISDlHLUd3dzB6ZzNzYU9YbkJFYW9hTnc?oc=5",
+      "category": "통화",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "[외환마감] 원·달러 환율 1481.2원···14.7원↑ - 서울파이낸스",
+      "time": "Thu, 12 Mar 2026 06:37:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYlA5Sng4cVhiRWdabmhRaFNDN1FQc0lWLUJUbTUwYWI5ZVhGRDMyY3F1WDJhR3RMc3QyZGxKbjhOQ2FtRlUyMElqcjV3MGNHOXQxbWNOV01NNFMtOVplR3I3N0JzRUhpbWc?oc=5",
+      "category": "통화",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "비트코인, 7만달러 공방전…바이낸스 차트가 말하는 다음 행보 - 디지털투데이",
+      "time": "Wed, 11 Mar 2026 23:47:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45azh0dFZLWFhXMXRVTTNqM1lmSVlYck00Uy1Sb1VnSEFMNDNjQVNUSnN3V1R2QlRqWXk0SXU0WndobE1UeGFJVVVqTHZWdHpqcklKMkxDOUtHdVdEUzFYcW95UTNvWWY3VUM4bktTMldIZkE?oc=5",
+      "category": "통화",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "기관이 암호화폐 파생상품 지형을 재편하면서 비트코인 옵션 시장이 선물 시장을 앞질렀다 - Yellow.com",
+      "time": "Thu, 12 Mar 2026 03:45:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQbFBwdDhVN2s1emZPUHVPRlB1WG5oSmUzbV91N20xVTc5SEZjQzVleU1LZXhlbFo5RUczRnZsT2JrVlB6bDRrajhPcmFteDc5cUpBSndvOHB4bDg2d1dvU1VENG1BczY5a2xWX0hVaW13QS1QX1VUOUJ3RXJSV2FzQjdQYjkwV2FUeVZHbm5wYVpvc18zMmxqNGhkTkhUNDB4MWFwZGg2Nm9aR3lpbzJKQ3VXaHNGV0VzTm8wV1ZBbk1KWWRLcGVsWWNuMkFZZVpLVzd5aDVRaDZ1dlJvWndMZkhwWnpTRWpkWDFLazlDUmROb3RZbS1adVA5SG5vYVVNWUh5UE5YYlhnVWRaTUdqa1ZOOVpBbUJJMHFVSGxBYVh2QU96aElSTmd0OWFWVkNoYkw1R3lTZ2hHUV9CSG1iUzFxUHUxS0dNMGYwQWU2Y0YwSFdUVDBCVHlFS3kxeU9fakpGSFdTZEVkdGJSSl9aU19CRDFKSHpzWmN3bWxwdXYxYU5BclgzQlJ2UVRVcFRzdWl2aVVUUnFjVkpsdWR6TGxGZkhzek9Wb1UyRTNrVUJ4OTZKRXJRVFNUWmlieEhtWE9uUGpIRG9DSkhEQVlqQmU5djFNT05rb3RmUlhXYVJTa1p6aHh6OFVGTlNMY09TRG03VmdPMU44dEV0QnphdDVFZlhyNjR3Nnc?oc=5",
+      "category": "암호화폐",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "가상화폐 업계, “비트코인 매도할 이유 없어” - 경향게임스",
+      "time": "Wed, 11 Mar 2026 21:21:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hUjJlN2xIaHdxVnM1VV9vbU5UWEZVWkloR3lNWlpZTnRPLVA3ZFR6MV9DVW1ZSHRaZnNEbTg5U0stbG5zUXNWMi1NX0tPTTVjZTBLX3oxeUc4dlhHaEVOei1WZHNnR0loZ0JVMw?oc=5",
+      "category": "암호화폐",
+      "symbols": [],
+      "source": "Google News (검색)",
+      "lang": "ko",
+      "priority": "high",
+      "crawled_at": "2026-03-12T17:27:09.428425"
+    },
+    {
+      "title": "홍영준 포스코퓨처엠 \"배터리 핵심은 가격 인하, 공정·개발 혁신이 답\" - 디지털데일리",
+      "time": "Thu, 12 Mar 2026 05:52:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YdDI5WTRrT3ZOdGRpdXUwenlPUG5lSXotbXRMdXdXWllGTUpsUG94NVBqYkFZdDhPNlBhLWxxM2JwMHBOQ24ta1luVkVCUXZrdWdfMGdublljLUNyWTB6TkZvTjQ?oc=5",
+      "category": "금속",
+      "symbols": [
+        "SI"
       ],
       "source": "Google News (검색)",
       "lang": "ko",
@@ -433,80 +547,10 @@
       "crawled_at": "2026-03-12T17:05:13.311788"
     },
     {
-      "title": "전쟁 터졌다고 ‘안도 랠리’?…다우지수가 보여준 반전의 ‘전쟁 법칙’ - v.daum.net",
-      "time": "Wed, 11 Mar 2026 23:45:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16VUluNzlqWU83S2VWZWoxLXBhWERNU3lKYmI5a2Q0UDlKMllXZkZ6alA0cDZ6d0NTRWtDNnFaNzBldDV5azh1M2ZicXJZVHc?oc=5",
-      "category": "지수",
-      "symbols": [
-        "YM"
-      ],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
-      "title": "미국증시 다우지수 '하락'..셰브론 '껑충', 엔비디아 '상승', SHW '뚝' - 초이스경제",
-      "time": "Wed, 11 Mar 2026 22:35:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WREhpU3hUT2s2WnFheF9tYUV4aVdwUExDc2ZDSEdzMW5RQ210UHRiS2pXbE45RWE3TUxCaGZOcEYxajRWV2ZlQ09rcHVvYVFjT3pwbGczcFNIM0twMW5URndCTnNxN0swVFNOV1BiSjRNQnPSAXNBVV95cUxOVkRIaVN4VE9rNlpxYXhfbWFFeGlXcFBMQ3NmQ0hHczFuUUNtdFB0YktqV2xOOUVhN01MQmhmTnBGMWo0VldmZUNPa3B1b2FRY096cGxnM3BTSDNLcDFuVEZ3Qk5zcTdLMFRTTldQYko0TUJz?oc=5",
-      "category": "지수",
-      "symbols": [
-        "YM"
-      ],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
-      "title": "[속보] 원·달러 환율, 14.7원 오른 1481.2원 마감 - 조선비즈 - Chosunbiz",
-      "time": "Thu, 12 Mar 2026 06:37:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcm5BalM3OEpMa1MxYk5YTlJoMllKX1BBWlc0VF80S3F2S3dqUDF4aF9RY2stbFEzNmF0RDVzRnVPaEVhRmRLcUk0cFRUSk5EMUFldkZudlVkV0ZIUjZ4R1liaF83aDNkbjZOSTZYSVM1cFBJS2tkalkyN0FHNTVwUmpTRVRVZ9IBmgFBVV95cUxNMEhmaHZrRFhaRUVoMG1lcFZVSHFHZEctVXpmalp3Q1ZsR2paUmFBd2RHR3k3cHhNOXpJVW94ZjR0THJITUNUenR0TmlhVzAzdWV3end1Z19lTHJXRUJqTWdnY3l2bFdRSHRydzIyaVVQenNtOE1VZlpqMnZDUVk0MVZQMV9WUmVTN0R3QUxlUXZNVHZndndEMnFn?oc=5",
-      "category": "통화",
-      "symbols": [],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
-      "title": "[외환마감] 원·달러 환율 1481.2원···14.7원↑ - 서울파이낸스",
-      "time": "Thu, 12 Mar 2026 06:37:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYlA5Sng4cVhiRWdabmhRaFNDN1FQc0lWLUJUbTUwYWI5ZVhGRDMyY3F1WDJhR3RMc3QyZGxKbjhOQ2FtRlUyMElqcjV3MGNHOXQxbWNOV01NNFMtOVplR3I3N0JzRUhpbWc?oc=5",
-      "category": "통화",
-      "symbols": [],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
       "title": "[외환] 원/달러 환율 14.7원 오른 1,481.2원(15:30 종가) - 연합뉴스",
       "time": "Thu, 12 Mar 2026 06:30:35 GMT",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56eG1EaUxobUVsYk43QU9kSkFwWWF2dENoMlp6QXhXX3dKcWQwMXNtalZ0ZzcyN2lGdC04c2dGdXczU3JXVnJnMUptSHJwQlRHRWpaWnhLYkVOeU3SAWBBVV95cUxNTzE4dUNYbVBGTFlZbjVwSzBHc0NtSkd6NzRVdkpIcmg5cG1adzg0YnJSUFVNaFhLU3lUTUNrVS05aU9JV2U5X3ZZVHFPQS1ZQmF1QVFDMm96Q08xOTdMQ0I?oc=5",
       "category": "통화",
-      "symbols": [],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
-      "title": "비트코인, 7만달러 공방전…바이낸스 차트가 말하는 다음 행보 - 디지털투데이",
-      "time": "Wed, 11 Mar 2026 23:47:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45azh0dFZLWFhXMXRVTTNqM1lmSVlYck00Uy1Sb1VnSEFMNDNjQVNUSnN3V1R2QlRqWXk0SXU0WndobE1UeGFJVVVqTHZWdHpqcklKMkxDOUtHdVdEUzFYcW95UTNvWWY3VUM4bktTMldIZkE?oc=5",
-      "category": "통화",
-      "symbols": [],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T17:05:13.311788"
-    },
-    {
-      "title": "기관이 암호화폐 파생상품 지형을 재편하면서 비트코인 옵션 시장이 선물 시장을 앞질렀다 - Yellow.com",
-      "time": "Thu, 12 Mar 2026 03:45:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQbFBwdDhVN2s1emZPUHVPRlB1WG5oSmUzbV91N20xVTc5SEZjQzVleU1LZXhlbFo5RUczRnZsT2JrVlB6bDRrajhPcmFteDc5cUpBSndvOHB4bDg2d1dvU1VENG1BczY5a2xWX0hVaW13QS1QX1VUOUJ3RXJSV2FzQjdQYjkwV2FUeVZHbm5wYVpvc18zMmxqNGhkTkhUNDB4MWFwZGg2Nm9aR3lpbzJKQ3VXaHNGV0VzTm8wV1ZBbk1KWWRLcGVsWWNuMkFZZVpLVzd5aDVRaDZ1dlJvWndMZkhwWnpTRWpkWDFLazlDUmROb3RZbS1adVA5SG5vYVVNWUh5UE5YYlhnVWRaTUdqa1ZOOVpBbUJJMHFVSGxBYVh2QU96aElSTmd0OWFWVkNoYkw1R3lTZ2hHUV9CSG1iUzFxUHUxS0dNMGYwQWU2Y0YwSFdUVDBCVHlFS3kxeU9fakpGSFdTZEVkdGJSSl9aU19CRDFKSHpzWmN3bWxwdXYxYU5BclgzQlJ2UVRVcFRzdWl2aVVUUnFjVkpsdWR6TGxGZkhzek9Wb1UyRTNrVUJ4OTZKRXJRVFNUWmlieEhtWE9uUGpIRG9DSkhEQVlqQmU5djFNT05rb3RmUlhXYVJTa1p6aHh6OFVGTlNMY09TRG03VmdPMU44dEV0QnphdDVFZlhyNjR3Nnc?oc=5",
-      "category": "암호화폐",
       "symbols": [],
       "source": "Google News (검색)",
       "lang": "ko",
@@ -586,17 +630,6 @@
       "crawled_at": "2026-03-12T15:42:15.265539"
     },
     {
-      "title": "'오락가락' 트럼프 메시지…“시장엔 민감하게 반응했다” - 뉴시스",
-      "time": "Thu, 12 Mar 2026 05:46:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpNVZrMzdJb1o1NDlQMGVZcFFIazZ6cHpJT3FiSWpMNTRNbzRqSXdGR2drX2ZyZGlpS3V2SzdDdmFkOV9TT1ZxSmxqM2pfM19QdDJnemhuRGhZSWFEaUd4N2lidWxHaUwzUVI3N0Z3T3Z0bGdLYUhtVtIBeEFVX3lxTFBpNVZrMzdJb1o1NDlQMGVZcFFIazZ6cHpJT3FiSWpMNTRNbzRqSXdGR2drX2ZyZGlpS3V2SzdDdmFkOV9TT1ZxSmxqM2pfM19QdDJnemhuRGhZSWFEaUd4N2lidWxHaUwzUVI3N0Z3T3Z0bGdLYUhtVg?oc=5",
-      "category": "기타",
-      "symbols": [],
-      "source": "Google News (검색)",
-      "lang": "ko",
-      "priority": "high",
-      "crawled_at": "2026-03-12T15:42:15.265539"
-    },
-    {
       "title": "'환율 5% 이상 오르면'…삼전·하이닉스, 환율 변동 민감도는 | - 연합인포맥스",
       "time": "Thu, 12 Mar 2026 02:38:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbzhnVXVkT040OTZkWURpZ1BhbVlvVzNMaldPalowRmROSmx6ZEZ0Q3R1OFg1eDRRVDJmYlpjWVgxTGk2dWw5NFJVclh0bkNOdU1vaXFoR0dBdkVRNnBWRzAycko3YWYzMmxiSXVQWlQ5Si05?oc=5",
@@ -619,13 +652,13 @@
       "crawled_at": "2026-03-12T15:42:15.265539"
     }
   ],
-  "total_count": 52,
+  "total_count": 55,
   "statistics": {
-    "korean_news": 37,
+    "korean_news": 40,
     "english_news": 15,
     "new_articles": 40,
     "deleted_old_articles": 0,
-    "duplicates_removed": 36,
+    "duplicates_removed": 37,
     "search_results": 30,
     "realtime_added": 0
   },
