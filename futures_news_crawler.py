@@ -207,70 +207,154 @@ async def fetch_cnbc_rss():
     return news_items
 
 async def crawl_all_sources():
-    """모든 소스 통합 크롤링"""
+    """모든 소스 통합 크롤링 (누적 방식 + 3일 자동 삭제)"""
     print("=" * 50)
     print("🚀 해외선물 뉴스 크롤링 시작")
     print("=" * 50)
     
-    all_news = []
+    # 1. 기존 뉴스 불러오기
+    existing_news = []
+    try:
+        with open('futures_news.json', 'r', encoding='utf-8') as f:
+            old_data = json.load(f)
+            existing_news = old_data.get('news', [])
+            print(f"\n📚 기존 뉴스: {len(existing_news)}개")
+    except FileNotFoundError:
+        print("\n📚 기존 뉴스 없음 (첫 실행)")
+    except Exception as e:
+        print(f"\n⚠️ 기존 파일 읽기 오류: {e}")
     
-    # 1. Google News RSS (한글)
+    # 2. 새 뉴스 크롤링
+    new_news = []
+    
+    # Google News RSS (한글)
     print("\n📰 Google News 수집 중...")
     google_news = await fetch_google_news_rss()
-    all_news.extend(google_news)
+    new_news.extend(google_news)
     print(f"✅ {len(google_news)}개 수집")
     
-    # 2. 네이버 금융 (한글)
+    # 네이버 금융 (한글)
     print("\n📰 네이버 금융 크롤링 중...")
     naver_news = await crawl_naver_finance()
-    all_news.extend(naver_news)
+    new_news.extend(naver_news)
     print(f"✅ {len(naver_news)}개 수집")
     
-    # 3. CNBC RSS (영문)
+    # CNBC RSS (영문)
     print("\n📰 CNBC RSS 수집 중...")
     cnbc_news = await fetch_cnbc_rss()
-    all_news.extend(cnbc_news)
+    new_news.extend(cnbc_news)
     print(f"✅ {len(cnbc_news)}개 수집")
     
-    # 중복 제거 (제목 기준)
-    seen_titles = set()
-    unique_news = []
+    # 3. 새 뉴스에 크롤링 시간 추가
+    current_time = datetime.now()
+    for news in new_news:
+        news['crawled_at'] = current_time.isoformat()
+    
+    # 4. 기존 뉴스 + 새 뉴스 합치기
+    all_news = new_news + existing_news
+    
+    print(f"\n📊 합계: {len(all_news)}개 (신규 {len(new_news)}개 + 기존 {len(existing_news)}개)")
+    
+    # 5. 3일 지난 뉴스 삭제
+    cutoff_time = current_time - timedelta(days=3)
+    filtered_news = []
+    deleted_count = 0
     
     for news in all_news:
-        # 제목 앞 30자로 중복 체크
-        title_key = news['title'][:30].lower().strip()
+        # crawled_at 필드가 있는지 확인
+        if 'crawled_at' not in news:
+            # 기존 뉴스 중 crawled_at 없는 것은 현재 시간으로 설정
+            news['crawled_at'] = current_time.isoformat()
+            filtered_news.append(news)
+        else:
+            # 크롤링 시간 확인
+            try:
+                crawled_time = datetime.fromisoformat(news['crawled_at'])
+                if crawled_time > cutoff_time:
+                    filtered_news.append(news)
+                else:
+                    deleted_count += 1
+            except:
+                # 날짜 파싱 실패시 유지
+                filtered_news.append(news)
+    
+    if deleted_count > 0:
+        print(f"🗑️  3일 지난 뉴스 {deleted_count}개 삭제")
+    
+    # 6. 중복 제거 (제목 + 링크 기준)
+    seen = set()
+    unique_news = []
+    duplicates = 0
+    
+    for news in filtered_news:
+        # 제목 50자 + 링크로 고유 키 생성
+        title_key = news['title'][:50].lower().strip()
+        link_key = news.get('link', '')
+        unique_key = (title_key, link_key)
         
-        if title_key not in seen_titles:
-            seen_titles.add(title_key)
+        if unique_key not in seen:
+            seen.add(unique_key)
             unique_news.append(news)
+        else:
+            duplicates += 1
     
-    # 최신 25개만
-    unique_news = unique_news[:25]
+    if duplicates > 0:
+        print(f"🔄 중복 제거: {duplicates}개")
     
-    # 결과 JSON
+    # 7. 최신순 정렬 (crawled_at 기준)
+    unique_news.sort(key=lambda x: x.get('crawled_at', ''), reverse=True)
+    
+    # 8. 최대 200개로 제한 (안전장치)
+    if len(unique_news) > 200:
+        unique_news = unique_news[:200]
+        print(f"⚠️ 200개로 제한 (너무 많음)")
+    
+    # 9. 통계 계산
+    total_count = len(unique_news)
+    
+    # 언어별 카운트
+    korean_count = sum(1 for n in unique_news if n.get('lang') == 'ko')
+    english_count = sum(1 for n in unique_news if n.get('lang') == 'en')
+    
+    # 소스별 카운트 (새 뉴스만)
+    new_google = sum(1 for n in new_news if n.get('source') == 'Google News')
+    new_naver = sum(1 for n in new_news if n.get('source') == '네이버 금융')
+    new_cnbc = sum(1 for n in new_news if n.get('source') == 'CNBC')
+    
+    # 10. 결과 JSON 생성
     result = {
-        'updated_at': datetime.now().isoformat(),
-        'update_time_kr': datetime.now().strftime('%Y년 %m월 %d일 %H:%M'),
+        'updated_at': current_time.isoformat(),
+        'update_time_kr': current_time.strftime('%Y년 %m월 %d일 %H:%M'),
         'news': unique_news,
-        'total_count': len(unique_news),
+        'total_count': total_count,
+        'statistics': {
+            'korean_news': korean_count,
+            'english_news': english_count,
+            'new_articles': len(new_news),
+            'deleted_old_articles': deleted_count,
+            'duplicates_removed': duplicates
+        },
         'sources': {
-            'google_news': len(google_news),
-            'naver': len(naver_news),
-            'cnbc': len(cnbc_news),
-            'total_before_dedup': len(all_news),
-            'duplicates_removed': len(all_news) - len(unique_news)
-        }
+            'google_news': new_google,
+            'naver': new_naver,
+            'cnbc': new_cnbc
+        },
+        'retention_policy': '3일 보관'
     }
     
-    # JSON 파일 저장
+    # 11. JSON 파일 저장
     with open('futures_news.json', 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
+    # 12. 최종 요약
     print("\n" + "=" * 50)
     print(f"✅ 크롤링 완료!")
-    print(f"📊 총 수집: {len(all_news)}개")
-    print(f"📊 중복 제거 후: {len(unique_news)}개")
-    print(f"📊 소스별 - Google: {len(google_news)}개 | 네이버: {len(naver_news)}개 | CNBC: {len(cnbc_news)}개")
+    print(f"📊 최종 뉴스: {total_count}개")
+    print(f"📊 신규 추가: {len(new_news)}개")
+    print(f"📊 3일 삭제: {deleted_count}개")
+    print(f"📊 중복 제거: {duplicates}개")
+    print(f"📊 한글/영문: {korean_count}개 / {english_count}개")
+    print(f"📊 소스별 - Google: {new_google}개 | 네이버: {new_naver}개 | CNBC: {new_cnbc}개")
     print("=" * 50)
     
     return result
