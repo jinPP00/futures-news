@@ -1,0 +1,105 @@
+{
+  "updated_at": "2026-03-12T14:49:11.480580",
+  "update_time_kr": "2026년 03월 12일 14:49",
+  "news": [
+    {
+      "title": "Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries",
+      "time": "Thu, 12 Mar 2026 03:04:57 GMT",
+      "link": "https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html",
+      "category": "에너지",
+      "symbols": [
+        "CL"
+      ],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others",
+      "time": "Wed, 11 Mar 2026 23:48:34 GMT",
+      "link": "https://www.cnbc.com/2026/03/11/trump-trade-investigations-ieepa-tariffs.html",
+      "category": "기타",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "Inside India newsletter: How the war in the Middle East is set to determine India's trade route to Europe",
+      "time": "Thu, 12 Mar 2026 04:27:50 GMT",
+      "link": "https://www.cnbc.com/2026/03/12/us-israel-iran-india-trade-europe.html",
+      "category": "통화",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "Plans for record emergency oil release signal Middle East war could drag on for months",
+      "time": "Thu, 12 Mar 2026 03:36:55 GMT",
+      "link": "https://www.cnbc.com/2026/03/12/iea-oil-stockpile-release-middle-east-war-brent-hormuz.html",
+      "category": "에너지",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "India-China reset? Relaxed rules allow Beijing to invest in India after about six years of friction",
+      "time": "Wed, 11 Mar 2026 07:26:52 GMT",
+      "link": "https://www.cnbc.com/2026/03/11/india-china-investments-fdi-ties-business.html",
+      "category": "기타",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "Asia-Pacific markets fall as Iran war continues to fuel oil volatility",
+      "time": "Thu, 12 Mar 2026 03:03:34 GMT",
+      "link": "https://www.cnbc.com/2026/03/12/asia-pacific-markets-today-nikkei-225-hang-seng-index-kospi.html",
+      "category": "에너지",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "CNBC Daily Open: Oil and trade tariff uncertainty rattle global markets",
+      "time": "Thu, 12 Mar 2026 00:56:34 GMT",
+      "link": "https://www.cnbc.com/2026/03/12/cnbc-daily-open-oil-and-trade-tariff-uncertainty-rattle-global-markets.html",
+      "category": "에너지",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "Five things to know about Iran's new supreme leader, Mojtaba Khamenei",
+      "time": "Wed, 11 Mar 2026 14:10:31 GMT",
+      "link": "https://www.cnbc.com/2026/03/11/five-things-to-know-about-irans-new-supreme-leader-mojtaba-khamenei.html",
+      "category": "기타",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "Iran war: Trump says he's not worried about domestic terror attack",
+      "time": "Thu, 12 Mar 2026 00:37:20 GMT",
+      "link": "https://www.cnbc.com/2026/03/11/iran-war-trump-domestic-terror-attack.html",
+      "category": "기타",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    },
+    {
+      "title": "A global food price shock looms as Middle East war rages on. Here's who will be hit hardest",
+      "time": "Thu, 12 Mar 2026 03:45:38 GMT",
+      "link": "https://www.cnbc.com/2026/03/12/iran-war-food-prices-fertilizer-hormuz-countries-impacted-.html",
+      "category": "기타",
+      "symbols": [],
+      "source": "CNBC",
+      "lang": "en"
+    }
+  ],
+  "total_count": 10,
+  "sources": {
+    "kr_investing": 0,
+    "cnbc": 10,
+    "total_before_dedup": 10,
+    "duplicates_removed": 0
+  }
+}
