@@ -39,6 +39,7 @@ def convert_time_to_relative(rss_time):
 def main():
     print("🚀 해외선물 통합 뉴스 크롤링 시작...")
     unique_news = {} # 중복 제거용 딕셔너리 {link: item}
+    from urllib.parse import urlparse # 도메인 추출을 위해 필요
 
     for keywords in SEARCH_GROUPS:
         query = "(" + " OR ".join(keywords) + ")"
@@ -52,15 +53,22 @@ def main():
                 
                 link = entry.link
                 if link not in unique_news:
-                    # 제목과 언론사 분리
-                    parts = entry.title.rsplit(' - ', 1)
-                    title = parts[0] if len(parts) > 1 else entry.title
-                    source = parts[1] if len(parts) > 1 else "Google News"
+                    # 1. 제목과 언론사 기본 분리 (제목 - 언론사)
+                    title_full = entry.title
+                    parts = title_full.rsplit(' - ', 1)
+                    
+                    title = parts[0] if len(parts) > 1 else title_full
+                    source = parts[1] if len(parts) > 1 else ""
+
+                    # 2. 만약 언론사가 없거나 "Google News"인 경우 실제 도메인 추출
+                    if not source or "Google" in source:
+                        domain = urlparse(link).netloc
+                        source = domain.replace('www.', '')
                     
                     unique_news[link] = {
                         'title': title,
                         'link': link,
-                        'source': source,
+                        'source': source, # 여기에 이제 v.daum.net 등이 들어감
                         'time': convert_time_to_relative(entry.published),
                         'timestamp': parsedate_to_datetime(entry.published).timestamp()
                     }
