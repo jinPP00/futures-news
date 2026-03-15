@@ -1,26 +1,40 @@
 {
-  "updated_at": "2026-03-16T06:18:48.677047+09:00",
-  "update_time_kr": "2026-03-16 06:18",
+  "updated_at": "2026-03-16T06:45:38.362515+09:00",
+  "update_time_kr": "2026-03-16 06:45",
   "all_news": [
+    {
+      "title": "이란 전쟁에 금값 ‘뚝’…비트코인만 웃었다, 무슨 일?",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yVzBxVURPeHpGVzVEa08wUG5IZmhoV1R1UmFvM25Gd0N0bG9JMlJKQkF2QWVXeGdiUWp3Qko1LUFDNzE3d1JDRnVTbk1FM01KQm0yZ2xQWGxGTXEtSEp5eVdRWlQ?oc=5",
+      "source": "bntnews.co.kr",
+      "time": "21분 전",
+      "timestamp": 1773609836.0
+    },
+    {
+      "title": "전쟁 와중에 홀로 웃었다…\"2주 만에 수익이 8%\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FQmhjYkV4WnplMFFSV1ByUGs4aWNGRFNDRFNxeFo1ek5wZllpNnItdTkwbUdjMjAyNzZZNHNBWU1KTlVXNnk3Z3hvdkFYaHd1X2lBeWxzbm1RMHRkRVNIbzk1TGswcUJJYlE?oc=5",
+      "source": "네이트",
+      "time": "30분 전",
+      "timestamp": 1773609300.0
+    },
     {
       "title": "비트코인, 이란戰 개전후 8%↑…金·나스닥 하락 속 나홀로 상승",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9IWWFNZ0dhVXNhSWs4Y1ZRNnNlSEZNRW92YWdkTWxQWVFkbHpFVENva1VmTVhHWlVRUEFKai1Ldndrb2RXMTdJZUdB?oc=5",
       "source": "코인리더스",
-      "time": "18분 전",
+      "time": "45분 전",
       "timestamp": 1773608401.0
     },
     {
       "title": "엔비디아 GTC, AI 랠리 재개?…연준, 금리 전망 바뀔까[이번주 美 증시는]",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mU0FGX0NXV3pJMUFwb3FzbDNqR3RNV2hTTTRTSXJxVjA1dWw5SzZKTUtnWlBfbk5UNUhQVHo2ZFBQaV8tTjNkZUg1QTZ3WnVxaENz?oc=5",
       "source": "네이트",
-      "time": "43분 전",
+      "time": "1시간 전",
       "timestamp": 1773606900.0
     },
     {
       "title": "전쟁 중 '디지털 금' 입증한 비트코인... 개미들 \"금 대신 코인\" 몰렸다",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaX0FVQTdrWU1aMERDeDhZYjRwRjFTaVFRNTRCbjJLb0RFU25JdDNkRVhNWEdsVEVIampFdHpoWk5DTVpPVG5GY3VUNDRaLTNMWXlackw4c19JNjJraVdpd1JSbFZ0b0k0YTAzVlRLVUZqNDg?oc=5",
       "source": "핀포인트뉴스",
-      "time": "54분 전",
+      "time": "1시간 전",
       "timestamp": 1773606252.0
     },
     {
@@ -41,7 +55,7 @@
       "title": "미국 증권거래위원회와 상품선물거래위원회, 암호화폐 규제 협력 강화 전망 (+CRYPTO, SEC, CFTC, MOU)",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tbXZOOXFlOUpBRlFucWFtSXdodXFVdjA5dFY3aFo4anhVS0xvUE9mTXZmX0lsenM4cFg5YkRUaDdwbkZDZTRMdGFGMllNQmJYLWpCdEJLcnBTZ2xQSWJQU3U2enpuMUtpYTVtcw?oc=5",
       "source": "민심뉴스",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1773603598.0
     },
     {
@@ -83,7 +97,7 @@
       "title": "日, 이달 기준금리 동결할 듯…\"중동 대응이 우선\"",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYa3VoT2NPZXhTd3M4RzhuYTE5M1JreFpnU1RLcE1nUktuXzJYWmxubk5GSXNqaUtMTVpOUHZuM1c2WmFIS3EtenZBRG9BRUxk?oc=5",
       "source": "블루밍비트",
-      "time": "11시간 전",
+      "time": "12시간 전",
       "timestamp": 1773566494.0
     },
     {
@@ -118,28 +132,28 @@
       "title": "원자재 불장 찾아왔지만 품목별 시세 등락 심해 '사이클' 잘 올라타야",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xb2xhU3lOYTB2SUliakgyWTQxV2xnMk5saXZfVUhRYjl2VVNaazRtdEg5OThDQzN2Ri1iSHlBSzJKRHNHNG4zSWVjLWJDTjJxSlVZ?oc=5",
       "source": "네이트",
-      "time": "12시간 전",
+      "time": "13시간 전",
       "timestamp": 1773564000.0
     },
     {
       "title": "유가 급등에 금리·환율 모두 상승···살얼음판 금융시장",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RS3o1cWJ0dVZZNlBKR1ZUQVNEeV9aQkF3LXo0Szg5OTdQa0dWc2cyeWdOS05MN3drcDlfcE1UbEpESUhYZ3BPbFhHN3JUb1kyRzZNODNlOTlCYUNkY3Q40gFfQVVfeXFMTlFLejVxYnR1Vlk2UEpHVlRBU0R5X1pCQXctejRLODk5N1BrR1ZzZzJ5Z05LTkw3d2twOV9wTVRsSkRJSFhncE9sWEc3clRvWTJHNk04M2U5OUJhQ2RjdDg?oc=5",
       "source": "경향신문",
-      "time": "12시간 전",
+      "time": "13시간 전",
       "timestamp": 1773563880.0
     },
     {
       "title": "장롱 속 '금 50돈' 팔려고 내놨다가…'몰랐던 사실'",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHNUpMaVUzajMzX04tbDFlUGpGaG1mTkw0SmF4ekR1bXhTWURvaHg4MTR1NzJPaUlwdTR2U1ZvaC15X2MtazN4SG9kT0tROHpXRWFpeA?oc=5",
       "source": "v.daum.net",
-      "time": "12시간 전",
+      "time": "13시간 전",
       "timestamp": 1773562861.0
     },
     {
       "title": "[뉴욕환시-주간] '글로벌 긴축' 부상할까…RBA, 2연속 금리인상 관측 |",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUY09neF9jcjBJM3ByeUt5b1k1SXIwdFIyQ1ZtNUp6UXhfcVpPZkxmSlpJSHg5YWVwdThlaU1FWkdSVVd2VWV0ZTF1UV82ZmF3cDJpcmNCUHZ4dkE1V3psYnpFNEpHWGF1cGJlN3g2MUJfQ3Zn?oc=5",
       "source": "연합인포맥스",
-      "time": "13시간 전",
+      "time": "14시간 전",
       "timestamp": 1773560000.0
     },
     {
@@ -160,7 +174,7 @@
       "title": "역설: 유가는 100달러를 돌파했는데 금값은 하락했다. 사야 할까, 팔아야 할까?",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUJEWmp3TXhKYWJodUo2clc5VXFzQTNGY0tHWFVmaW9ySFRVb2tITFo2Y2dRZjB3Z1JIelFoQWZ3RzdrSi1tN01mZXMxN1h0enJScE1MQXVUTmlYeEtTWm1NZEtVZTgwQ21EVTJCZGVVdzFyU1pJVmZOWlZlNGc4TnZWQTFwOTFfR3c?oc=5",
       "source": "Vietnam.vn",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1773549860.0
     },
     {
@@ -181,7 +195,7 @@
       "title": "뉴욕증시, 주간 약세 지속…중동 리스크 민감도 둔화, 달러•유가•국채수익률 강세 지속...이번주 기술주 중심 상승세 이어갈 지 관심 [이완수의 글로벌마켓 핫이슈]",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaHNZUkVkZGltd2hzZW1qWkpnRmJxc0wtXzh6dU9UMVVaM3hlZ3lrVHRYNXkxWmRfNFl5NGlCVFphWFpmbTIxdzU0dEc0UWVNdW9MaVRpX0VVRm5pQ2xtVHpVVThZZ3ljRnM5TnB30gFyQVVfeXFMT0pXWUgtcFMwVVBGdXFlc3RwOHNuSV8xaS1OblA0aVItdnpHSXhGVjJ5blN3cGFDaU5BS1Iwc1Utc1dvaW5ZYjY5UzdBelBsMjBoVUh3SXJhdEVTWk8yMHNLWVB1aV9ISlZsNThrekZhTE1R?oc=5",
       "source": "citytimes.co.kr",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1773542233.0
     },
     {
@@ -209,21 +223,21 @@
       "title": "[미국 뉴욕증시] 미국·이스라엘과 이란의 전쟁 추이로 다우존스·S&P500·나스닥지수 변동 전망",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTTNzMjRYZnp2NlJOYnNsLWJBcTl2MndGSmE5WGRrZ1RudEVRcE84bjRVX2hxMUhzeHhPLVMtUkk4ZEpMYjRPTWdqVjhTOExXSFFweXhpU21KWUU5Z1JMb3Noemd2NnlfbExPVlBfc1c?oc=5",
       "source": "한국강사신문",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1773535027.0
     },
     {
       "title": "원/달러 환율 야간 거래 장중 1500원 또 넘어",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrR2NUM0hxdmN4UzJtd2hCeDdXV2Y5RXRwUFgzdjZSMEpiSWdnQXlSQmlrT2FQb0g2ZWNXd19MQlF3c0pLaENna3NkMGFaQlRNR3BJRg?oc=5",
       "source": "매일경제",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1773534609.0
     },
     {
       "title": "월드 오브 다이아몬드 하노이 센터 그랜드 오픈",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iZGtmdDN5MWYwQ3BrbUZYVzRVVzlrUGduU3YxN3ZhTTROXy05Y2dZaTBRMDFEWnBVTEZ5ejVJUkotdGluNEkwVXZBQndIdy03NHhpR0FWUVRmWTNCdWttenpYV3VBX1ZTNEVqcENHRHFtZ2lmcFRPMA?oc=5",
       "source": "Vietnam.vn",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1773534237.0
     },
     {
@@ -235,9 +249,9 @@
     },
     {
       "title": "보름 만에 수익률 100% 폭발…기름값 전쟁에 원유 ETN ‘개미들’ 몰렸다",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1URGJNZzFwaWN6VjdEeXBKOUVFWFhQeEl3NW9qazhLZFlZV0xaVGpDTVFmcnBrVnloNEhMOVNSZ0p5TWVrdmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JbmtVeEQwTzE1V3oybU9NazJiU0hiY1JKSF9OYWRSNlgwYU5YVF9Sa2VBdjJHZ2ZfNlNfZHltTUp5SFVyQnlHUzlMdDk0emFmenZhNQ?oc=5",
       "source": "v.daum.net",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1773531542.0
     },
     {
@@ -262,5 +276,5 @@
       "timestamp": 1773525616.0
     }
   ],
-  "total_count": 37
+  "total_count": 39
 }
