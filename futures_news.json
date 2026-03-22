@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-03-22T20:15:51.746682+09:00",
-  "update_time_kr": "2026-03-22 20:15",
+  "updated_at": "2026-03-22T20:39:15.418355+09:00",
+  "update_time_kr": "2026-03-22 20:39",
   "all_news": [
+    {
+      "title": "미-이란 전쟁 발발 뒤 금값 14.4%, 은값 27.2% 하락",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QaVUzZm5Qa0swZS1ObFJBbExxZHNQN2ZveGtVQk0zWGdMWHRNaDVyZlVZX2NBN1p6QmduRm9PNWs5Rmx6TE1xQUpISmpnbEcxemYtTHFEclFoU09JaUdIOXRTc0pBMm5ydFR5dWY3UDBldw?oc=5",
+      "source": "한겨레",
+      "time": "1시간 전",
+      "timestamp": 1774173840.0
+    },
     {
       "title": "중동 리스크 속 금·비트코인 흐름 엇갈려",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVmNjZkxORGxCNFhVeTJWbU9VZmZXRDNWVkNFTXQwSDNTZ2lId0FpOEtxRWFSY195M25jdmstYWhMOU5oblYycmphZzlnd1ZqbzNLY3hJZGpnUmRCX29KdW5TcmxzYzBaNVJDSHAxZGzSAXBBVV95cUxOMFZjY2ZMTkRsQjRYVXkyVm1PVWZmV0QzVlZDRU10MEgzU2dpSHdBaThLcUVhUmNfeTNuY3ZrLWFoTDlOaG5WMnJqYWc5Z3dWam8zS2N4SWRqZ1JkQl9vSnVuU3Jsc2MwWjVSQ0hwMWRs?oc=5",
       "source": "남도일보",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1774168200.0
     },
     {
@@ -24,10 +31,10 @@
       "timestamp": 1774158315.0
     },
     {
-      "title": "“덤벼라 곱버스”…삼전닉스 2배 ETF 이르면 5월 국내 출시",
+      "title": "“덤벼라 곱버스”…삼전닉스 2배 ETF, 이르면 5월 나온다",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcHRlS214VDBHUzBFM0pxNWY0SDVWNmpUem9aSFRSN0VubFZWbHhVN1VISGVCVHdnbF9PTlpzQnhQNzYwQml3QVFTenpFTVJSRVE?oc=5",
       "source": "매일경제 마켓",
-      "time": "5시간 전",
+      "time": "6시간 전",
       "timestamp": 1774157153.0
     },
     {
@@ -66,13 +73,6 @@
       "timestamp": 1774151502.0
     },
     {
-      "title": "미-이란 전쟁 발발 뒤 금값 14.4%, 은값 27.2% 하락",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QaVUzZm5Qa0swZS1ObFJBbExxZHNQN2ZveGtVQk0zWGdMWHRNaDVyZlVZX2NBN1p6QmduRm9PNWs5Rmx6TE1xQUpISmpnbEcxemYtTHFEclFoU09JaUdIOXRTc0pBMm5ydFR5dWY3UDBldw?oc=5",
-      "source": "한겨레",
-      "time": "8시간 전",
-      "timestamp": 1774146000.0
-    },
-    {
       "title": "금값 하락에 뉴몬트 등 금광기업 시총도 쪼그라들어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83VmVTNzJCTVI4eTN4anpibzhVQUE4cXVOVHpJYXAwRFVHeVR0M0VqaEd0S0tLRnd1LTEwek4wSE9MazBrdW1TU0lMT1lPX1plOHpXWWE4bklkaHRWcFNKV0R2T2h4akVKWnBWVm1KRzYxWTcxbG4w?oc=5",
       "source": "thecommoditiesnews.com",
@@ -83,7 +83,7 @@
       "title": "고유가에 외국인 매도까지⋯은행 창구 환율 1530원 넘었다",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RRVptQ1FEb3lJNGtieFFlQU1RdmYtUkYwdXBSUTNYUzUtcHl2MWhxTUUtQ1d0UGtNenN2aXJjR3prbm9Hc0lhOG83bE55Tm8?oc=5",
       "source": "v.daum.net",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1774143363.0
     },
     {
@@ -101,25 +101,11 @@
       "timestamp": 1774141440.0
     },
     {
-      "title": "Gold Prices On Track For a 20% Surge: UBS Prediction",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGx6YzNMcU1kQ0RNNXlNaHpQdmhhb2pnb3Q0WlBYdVJfd0FrN2U3TFNFZFFFOER3UEtwZUJTMUpKV3U0dTBNd2czNnlaUlVua2JMbk1GZ1FYbnZQYlNUZng5d2Vacmh2QUZ4Nk5SWmRjR3c0Q3lVcm9ISjdHYTUwdTcyTVpOdWx4ejdLZDRYamtpR0Fmam9mWWdyNDFNWnFaTTRz?oc=5",
-      "source": "InteractiveCrypto",
-      "time": "10시간 전",
-      "timestamp": 1774140037.0
-    },
-    {
       "title": "‘삼성·하닉 2배 ETF’ 이르면 5월 출시…韓증시 판이 바뀐다",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6WDN0TUhOWXR6cV9ZWGdISjkzc1c3ZzRCckN6emVlcWpLZmZhbHh5aU5URkFwa1hCZGRqaHQ0WEZlWThhb3dvWE1QYzN5d1dUZ003WEJR?oc=5",
       "source": "헤럴드경제",
-      "time": "10시간 전",
+      "time": "11시간 전",
       "timestamp": 1774139104.0
-    },
-    {
-      "title": "금값이 하룻밤 사이에 폭락했다: 금이 안전자산으로서의 지위를 잃는 이유는 무엇일까?",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGlXa1l0VzQ3Tk9XdEUwb21fcVVqTVg5a3NlZXlJLUxwOGpPSGNUOUNiTHJDenZ6WmNBNWhwTHBtaC1Ub2F6c3RpZ3lTYVNPbnhma1M2cjVrM18waDdWNG9yOHAxaUlwUWIwYmVzai0yR2VKeHQwQnRSSWZKcVQ5RmJaX3lCY28?oc=5",
-      "source": "Vietnam.vn",
-      "time": "10시간 전",
-      "timestamp": 1774139032.0
     },
     {
       "title": "[오늘의 금값시세] 2026년 3월 22일 g당 242,565.31원·1돈 909,620원…국제 금 하락",
@@ -192,5 +178,5 @@
       "timestamp": 1774105380.0
     }
   ],
-  "total_count": 27
+  "total_count": 25
 }
