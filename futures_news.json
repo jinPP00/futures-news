@@ -1,82 +1,103 @@
 {
-  "updated_at": "2026-03-23T07:46:05.761033+09:00",
-  "update_time_kr": "2026-03-23 07:46",
+  "updated_at": "2026-03-23T08:18:07.457737+09:00",
+  "update_time_kr": "2026-03-23 08:18",
   "all_news": [
+    {
+      "title": "[마켓뷰] 전쟁 격화·美연준 내 매파 발언에 먹구름 짙어진 코스피",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZOUJiSTRQQXZXSElXNXpUMy1xSERXaWl6RUVaSkVLbUxod2dJWVQxQzV2d3VLMnlTVnAtaXlqTWZGMlZnN2VQOUdoV1E4dDBQTUE?oc=5",
+      "source": "매일경제 마켓",
+      "time": "18분 전",
+      "timestamp": 1774220371.0
+    },
+    {
+      "title": "[원자재 시황] 전쟁 리스크에 유가 급등…금 하락·증시 압박",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RcW5BdnRudXY5dGViTEFqTUhwZ0R4dXpnR0VLMDhlcm1oLWJ4Y0xxNF9BWlkxQzZDOEtZcnJNSzUzZ2RmUWdDRndMMjd2dWIyc2lN?oc=5",
+      "source": "네이트",
+      "time": "20분 전",
+      "timestamp": 1774220280.0
+    },
     {
       "title": "美 증시 선물 보합…트럼프 “이란 공격” 경고 여파",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EaW1UV1JBVl9uYUVqTFl5dGs5cmhPZzlsUEY3MFF1aUFHSlB0TjlhM1FYMzlhTTNlN0JodUJNTTgzZEdBUk1BT01xME1JNDc2T1pjSnk4c0Y?oc=5",
       "source": "블록미디어",
-      "time": "11분 전",
+      "time": "43분 전",
       "timestamp": 1774218900.0
     },
     {
       "title": "[오늘의증시]이란戰 확전 공포…코스피 하락 출발 전망",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBseTFkNC1jbUk0OFduR1NCc1lKaEV1MkgtaWMxRVlqZUdGNTQ2dHZQOHhXRVUteldtWVBPV2NKN09aNVh3QVlUbUxQRndlTExjTGZKTGZOZXJPTHZ4TG54UdIBeEFVX3lxTFBLUWpfejl1S1FXeF9vWmpkcXI2RUM1cWo1cmNsaWxCcEYzM2tTZXlSZ0hJUW9NZGxqYVY3dVBXR0pLWDBNcEFmTm9GcDd1Y2tHb3Bycm1tSldQNnA1RVRzYUg3VmZ1dkNaRUh2ZUdLT0NIbmwyd1VkNg?oc=5",
       "source": "뉴시스",
-      "time": "22분 전",
+      "time": "54분 전",
       "timestamp": 1774218189.0
     },
     {
-      "title": "[개장] 뉴욕증시, 확전 공포에 급락…금도 동반 하락",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Gbm1wVTBzZkktdUVodlhrU3d2M1IySENsR3hobUw0Rzd4WVFCdEVxRUJvYmpSOW1vNkd3T2hlZDRzeXdYWHpQZkp6VkhXcGh6akpN?oc=5",
+      "title": "[개장] 뉴욕증시, 확전 공포에 급락..금도 동반 하락",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVlid1pPVW9tRTRBS3JOd0VYdmhPSE4wUGlRLVBFRGtVMERLb3dHcUtGR2FNWERRdEVaQlQzd2E0UTdmSzFPSmVMTHVkNG1ZY0JCc2g2MUYzZXJtcVl5dlU0NjEwTDE4UXJVc3JFY1JPNjdjMkFXMWRBeDNzUzFOMnpseTU0a1NMS01FYnp5N1lFei13djB0VG9rQkhZOWNSNGRXMWpORmI2RGR4X1IwU21FSFFUeDhp?oc=5",
+      "source": "뉴스통",
+      "time": "1시간 전",
+      "timestamp": 1774217801.0
+    },
+    {
+      "title": "[중동 전쟁] 안전자산 힘 못 쓰네…금 ETF 수익률 '뚝'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yR25yc3lkUHgwQXZFX3pQa1VEMHBTRGs0OU0tdUNxRmZURDNXQzdVQU9rbXFnSFQzMWlmTTQ4Q2tCeFhnVERPMlk4U1hWTG0xUnhN?oc=5",
       "source": "네이트",
-      "time": "31분 전",
-      "timestamp": 1774217700.0
+      "time": "1시간 전",
+      "timestamp": 1774216800.0
     },
     {
       "title": "\"여자하고 남자하고 같니?\"...'닥터신' 23세 연하 딸뻘 로맨스에 성차별 대사 [Oh!쎈 이슈]",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemdFZmRTS2pyYVNHdU01UC1GU3hjSEl4d1djT0NCc3pXUlFFMVQ3RERfOVRRLWZlLWFXUHl2ZzhYVXk4bHQySEs2RDNteV9CMVhCbm15bWd6ZlhiT1hIWnctYm1kRkNzaVJ2eXp3MDNySnNYOGZHQmJXZkN2SlJCUWRaTmtPYXhnU25Cd3hGY9IBowFBVV95cUxQQURWSUllYThvNlViSWlLdzhWZFp3czlJS2pPd2h3bWEwY3RKQVA1S0dkX19pR3BHNzRycnJpaEJlODNBeDVyX1hqMjhnOUdrQzVBT2JqSHZKM3hOYmxWUWNwZmRnWWttd0dWd0RqRjRiOXlqcmdwWm04U2s4b3ZOQ3FiZElKTUhtTWt1XzZlSmlXR0EtYWh2N2xDcmE3SHpMZjlv?oc=5",
       "source": "조선일보",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1774213740.0
     },
     {
       "title": "환율 1500원 뉴노멀…'트릴레마 위기'에 금리·물가 다 꼬인다",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXX2MwOXE2V25CTy1tZ2NPODhXNWZXQ0xDTHdYS3daY182XzlCRG9oaXQ3eC1sMmlsOFN1SUVTcnUyRGN4Rzk5ajBVWUdLSHNoVkpveXhXT0ljRVZTaWRESG9qTDU0V1lkcExSdFpQY3BlSTdRS0tUTw?oc=5",
       "source": "네이트",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1774209660.0
     },
     {
       "title": "금과 은의 급락 원인 분석: 인플레이션 충격이 안전자산 수요를 압도하다",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFBmTnVxMGJTZFVjcDI2SHZlQ0lDYlBXSy1xSVpBak9jc3p1aXFHNGppTHVZNUVYMlFSRFBvTlpvS211WENPeGZPakI4T0JIeE1IZWdKY1I3UGRWekhJZXdFT2UwRzVrMGpXMEF4c2kxMllrYkFKNGEyeWtBbGNxeHkyVnNyLXNVUkFNVG4td1Y4eVU3cEI2UEtMUUZrSHVwZXJ6OUVXc09oeWxwWnBZMGNXanRzbU90Q1E3NEhB?oc=5",
       "source": "Bitcoin.com News",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1774205311.0
     },
     {
       "title": "안전자산 금값, 중동전쟁 불안에도 하락… “긴축 공포가 압도”",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sMVJhSWN0QnlOTEw5VUFRUm9JX2ZsbUVWdk1FalJIYzRvYzVYX0R0eXpEYlJkVkNFQ1EzTVc3cEVyZjlvRkQ5XzhBbTQ4LTN1TGRJYjliWktraWlpbWRWakFlS3Q3RDhlc3I5UNIBbEFVX3lxTE9sMVJhSWN0QnlOTEw5VUFRUm9JX2ZsbUVWdk1FalJIYzRvYzVYX0R0eXpEYlJkVkNFQ1EzTVc3cEVyZjlvRkQ5XzhBbTQ4LTN1TGRJYjliWktraWlpbWRWakFlS3Q3RDhlc3I5UA?oc=5",
       "source": "국민일보",
-      "time": "7시간 전",
+      "time": "8시간 전",
       "timestamp": 1774192140.0
     },
     {
       "title": "이란 전쟁에 금도 무너졌다…금값 한달 만에 5000달러 붕괴",
       "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxPN2U2SG13dVc5MENPNzNBTnR1eDl1ZGlZa1ZwU05nTUhkMFpHQkNxQXVvcTEwMTlSSi0xRzRQVlRrZjJMVTRPdjV6WldfcTk0UlJ1Z1lVek8xSkEwYmU4VEVQUzlSQVFIN0h0ODBRSTU4aGRpYVl0MzA0RE9OZVNmUlctRTZ1OWFEemtqOFpDTFRJYklRV3ZCOW1EWWdzSU5xOFhZMS15MGhJRHptV05pV0V5T2cxc3JoUWV0ZjZ2R1dOYWI0d3hmUnRYWHlYaUxuU1FUOE9hQWhWREo4WjNLTnhzR2xrUTFOUGhPbURSc08yZkxSbjE1aHFoNUhkb0N1aXlrM2dJNkxCSVlQa1lTdjVpWXhZWVlyZXk2ekZrU08yZUhnSVFMdnpKNFNkU2t2OXdmRERaZFpicUsycEt2OHM1aC1ZZ3h0alg1S2s1bjFZVTB2T1d1SC1BOXdCaXpUSHlEWHZuUUEtMFlZN1NTTEhMZWNPUk4tblgwQkE2VThDZTNYc0FvcWJjTWl3SUNScEtnblRfblktLWNrcDFmVE02RS1NWGF1QmtqVndHVk41YWNfa20xamVRdUYzQ2NJOENNblIzSjRZTlQ5QVVDek9zOTFyMHU1Uk9YM3FhUVVZYi1iajkyUkh2OHRyTXVpQlZWOTJhV05aWVJpU0o5aQ?oc=5",
       "source": "MSN",
-      "time": "8시간 전",
+      "time": "9시간 전",
       "timestamp": 1774188123.0
     },
     {
       "title": "국제 금·은값, 하락폭 재차 확대…금 2%↓·은 12%↓",
       "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNc3IyVk1VNkJBYl93VGdvaG5NWFdTUnNIWFJSUXY0c0NBT3l0VWMyS3BwbWItTVJIcFlaRjNtaVI0Z0pqMC13MkhibE50QWhhZE5DSmNrLU9OMmlxdFVrSmdPRlMtQWtGc2JWNW1fcXowRk1IaWx3aUdzbk9oSDhNTVB2V3hWZFZ3ZHlsUnRsWWwyQXNOVFZiejdrZWRyT1lmbnJZNmJjMjNQenZxcFl3Wi1MTmFNWmM2dzBmZ1NLV1FNM0ZMOU5EdHV3SldKT3pmeEdFOFFQX2pYMHFOc3NrLVhBblN1VUdyd1VJUE5NTlUwOUlBUXpjUXV6SnJIR2tnRUtwdnJxZDkycDQ4cWswLUpjQTRYdVdwYnlpT0VzcUFOSWNPNXhIZ3Uxa2h4eE5RaVRHMzhCOXJFUTM5TkZ4UV9fQ2h4d2tZMFZiaG83QjZoSHA5ak9yZUQyRUoxU2xaRTh0VFprXzhUWWFmZC1qNHUweVdpb2FUeXY4Q0F0ZDlUMDE3VzhLNDZUR2V3dXNPeVY5b2ZXN01uOE12MVdCMlVOdW5pSWlhOVFoQw?oc=5",
       "source": "MSN",
-      "time": "8시간 전",
+      "time": "9시간 전",
       "timestamp": 1774187646.0
     },
     {
       "title": "Cocoa Prices Fall on Dollar Strength Alongside an Improved Supply Outlook",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnhZX0VkZC1sQnlSVGRaY2VkZFNzeFlxYXBkV0dXa3BmRDQzZzVPejQxYUFrcmRMTjhzeG1PQTVUWjJTRTNjQmhGMWRkc3BHblBuSzBOWi16azZyS3NHd1M0ckNtWENvaTkyOUVIVGpWNVFwbEVPeHkxekNQRzJuY1RWWWluZEFWMnV2TGlzeml6eTdFbHUtRnBRcDJ2UmlCX0h5UmUzMktMVTJUR0Y2MFl0cF9tU29BemRaMFdHWXNYZw?oc=5",
       "source": "InteractiveCrypto",
-      "time": "11시간 전",
+      "time": "12시간 전",
       "timestamp": 1774176840.0
     },
     {
       "title": "미-이란 전쟁 발발 뒤 금값 14.4%, 은값 27.2% 하락",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QaVUzZm5Qa0swZS1ObFJBbExxZHNQN2ZveGtVQk0zWGdMWHRNaDVyZlVZX2NBN1p6QmduRm9PNWs5Rmx6TE1xQUpISmpnbEcxemYtTHFEclFoU09JaUdIOXRTc0pBMm5ydFR5dWY3UDBldw?oc=5",
       "source": "한겨레",
-      "time": "12시간 전",
+      "time": "13시간 전",
       "timestamp": 1774173840.0
     },
     {
@@ -90,7 +111,7 @@
       "title": "\"金 안전자산이라며\"…이란전에 폭락 이유는",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jOVVaeUtHTjdxMHdNclFzTDRSemZRZ1doUWNLSnJ0NGNwWTJnbS10RHUyYTFwTE9BWWo2VWNQc1QwM0x3d29HamJrd0hhRlI2R1dn?oc=5",
       "source": "네이트",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1774165920.0
     },
     {
@@ -118,7 +139,7 @@
       "title": "부담 커진 증시…금·은 등 투자전략은[고환율 시대③]",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54bHhNUkNrOFZuT0hYRmpYYWN6cjhGZk85UWZXRDVwOXFhaXZJakRva3JCYzNibkRJSGw3ZlFZcDJ2VU5ONDVRRlc4dzhLT2ZSN2RYTGRCOHlhaUZvd1c4c0I0YnBVbW1rNHBQT2YtbWRYdnpWeHRrQ9IBeEFVX3lxTE54bHhNUkNrOFZuT0hYRmpYYWN6cjhGZk85UWZXRDVwOXFhaXZJakRva3JCYzNibkRJSGw3ZlFZcDJ2VU5ONDVRRlc4dzhLT2ZSN2RYTGRCOHlhaUZvd1c4c0I0YnBVbW1rNHBQT2YtbWRYdnpWeHRrQw?oc=5",
       "source": "뉴시스",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1774155600.0
     },
     {
@@ -132,42 +153,42 @@
       "title": "“금 폭락했지만 비트코인은 올랐다\"…이란 전쟁속 뒤바뀐 ‘안전자산’ 공식, 왜? [주간 블록체인]",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0za2RJR2huQVVmX2tvOGhzTUF1OHM1b2JJN0laVWc2bWlYZ0ZjN0xLZUdLR0NzUXZ3THlJNzZFVG94WlkxNkhyWWRQLUNPWXE2QTV3SGpTTWt0czZSNzBUMks4ZWY?oc=5",
       "source": "디지털데일리",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1774152840.0
     },
     {
       "title": "기관 \"금 가격 흐름, 에너지 가격 상승에 따른 금리 기대 재조정이 핵심\"",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MY0RJV2gzblVwQVZ6T2lnakRJaFZua2FhdWh4NGRQNWpYeHYybVBuUi00UU5XY25WMkVPcnBzX1FSNUx5MkJzM0xnUTRrVnlXVHhLakVoQU1tYzd2MkHSAV5BVV95cUxNTGNESVdoM25VcEFWek9pZ2pESWhWbmthYXVoeDRkUDVqWHh2Mm1QblItNFFOV2NuVjJFT3Jwc19RUjVMeTJCczNMZ1E0a1Z5V1R4S2pFaEFNbWM3djJB?oc=5",
       "source": "tokenpost.kr",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1774152363.0
     },
     {
       "title": "국민으로부터 금 자원을 동원하는 것.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10X2M1aUtGb2pvWi1jNHdvcGRfRF9hXzBnTGNaOG00SUdwWmNsR0pFdEp6UXRlcHE3NWV6QzliU2s4V1VZOUYyZWFWRVk1eDU1TWlSRGVON0xGUno2WWxlWTcyNDZDLXZKTmY4?oc=5",
       "source": "Vietnam.vn",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1774151924.0
     },
     {
       "title": "AI 전력 온기, 태양광·건설로 확산 vs. 금 ETF 약세 전환 [ETF스퀘어]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yWThoZmZob1RIV1M2U2N3Y3FnamQweU82VVJIczhXMjlNdUs2V1NteHFmdGh4UHJ3V3BpelRXVGRncXBQdzN5bURzSkZDWERGZHd2QWlSbUFtQdIBXkFVX3lxTFBndk5RTU5YMlVKRGZSTVZldmZlOW8wTVQ1LWZSUV9FWHdGcjlvX2lhU1M5T0VEd2oxUE9FR244UmZiZlNnUWp5ZTdVTzVKNVZ5aVBzS25ITUR3RnNGNnc?oc=5",
       "source": "파이낸셜뉴스",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1774151502.0
     },
     {
       "title": "금값 하락에 뉴몬트 등 금광기업 시총도 쪼그라들어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83VmVTNzJCTVI4eTN4anpibzhVQUE4cXVOVHpJYXAwRFVHeVR0M0VqaEd0S0tLRnd1LTEwek4wSE9MazBrdW1TU0lMT1lPX1plOHpXWWE4bklkaHRWcFNKV0R2T2h4akVKWnBWVm1KRzYxWTcxbG4w?oc=5",
       "source": "thecommoditiesnews.com",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1774144955.0
     },
     {
       "title": "중동 전쟁에 금도 무너졌다…'디지털 금' 비트코인 되레 반등, 왜",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WdmU4Tl9oYXFFYmViSkRfU0VXQ2hDRms1b3FTendfRDg4NUVfV2xXSjBtZThjZ1ZFMmdRUkk3U0t3a3pSTFpxZ2xBdzZJWC1Rel9EX3l2OFBfY1R4MzlGLWhn?oc=5",
       "source": "미주중앙일보",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1774144200.0
     },
     {
@@ -181,14 +202,14 @@
       "title": "‘작전 축소’ 하겠다더니…트럼프, 하루만에 “발전시설 날리겠다” 발끈",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqcGRfTHlERzFCQzVvOF8zSm1XOXAxdENZY1JOV0o2RXJTWWdpMU9CVFNQWGVMQXVOX0RQZjlMS0I1aG5INFZ6UVpBZFk5R1NTSGp1VmVVMFVaOE5iVEV5QUt1TQ?oc=5",
       "source": "에너지경제신문",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1774142062.0
     },
     {
       "title": "[이번주 금시세(금값) 전망] 글로벌 경제 상황·기술 분석 등 국제 금가격 영향 요인은?",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5aURYLXJ2TUNaeEdqbEV2UTNJVDBMeGx0QVZVX0Vzd3NibVp2WDdTQlVlbFVEUnQ0SFNSUnZZMjVUWVI2ZFZQV3l6WXRiWnR4THBBQnFB?oc=5",
       "source": "위키트리",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1774141440.0
     },
     {
@@ -202,7 +223,7 @@
       "title": "[오늘의 금값시세] 2026년 3월 22일 g당 242,565.31원·1돈 909,620원…국제 금 하락",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Gb3VCaXZqalhSaGRNdmtPWTNVdlBWRU9lS1pwQzlyYmlvTWU4TGpmQVZ4aDIwamJ2bnBfb2E5aU1DWVVwU2o1V0F6eURjbm1BN3N2ZEQ1Zndqc1U1ei1PdmNnbTR6WlpuMGlKQw?oc=5",
       "source": "민심뉴스",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1774137630.0
     },
     {
@@ -220,5 +241,5 @@
       "timestamp": 1774135418.0
     }
   ],
-  "total_count": 31
+  "total_count": 34
 }
