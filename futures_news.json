@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-03-30T07:19:49.945271+09:00",
-  "update_time_kr": "2026-03-30 07:19",
+  "updated_at": "2026-03-30T07:53:51.895032+09:00",
+  "update_time_kr": "2026-03-30 07:53",
   "all_news": [
     {
-      "title": "뉴욕증시 약세 S&P500 4년 만에 최장 하락, 매그니피센트7 시총 500조원 증발",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92YzJMd1pMV0l6WHo3dDhjUzZ3cXFGb0NUQVdIS3hjMldWUjVJWWlCSGZUMzJLM2FkOEQwa01CUnJXYUtFZzI0NkNwSnUxRHROSmxObkhQTGpBYWVId2ozQ1ljUUJORHJo?oc=5",
-      "source": "CBC뉴스",
-      "time": "59분 전",
-      "timestamp": 1774819216.0
+      "title": "유가 다시 '강세 구간'…WTI 100달러·브렌트유 110달러선",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56aGJ2azZ4LW56eFd1RUpsRU5aWnVUNnI2VE9TWG9LaGMzdl9YSC02LUo5Z24wX19wNkFVb3FTcDZ3VU5BSF9BM2hqWEQ4UThkZWdR?oc=5",
+      "source": "네이트",
+      "time": "10분 전",
+      "timestamp": 1774824180.0
+    },
+    {
+      "title": "유가 100달러 재돌파…지상군 투입·후틴 반군 참전 가능성",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Kczg0bXlRcHZLS2RYR24wWmQ4LWl4ZFlGcDRfdm1RQWRWQWptOEhKWGYwNnB2bW5kU1kwV1RMTmNTVE15U3hUUmlhMlloNjVGOWhLQ2JFY0_SAV5BVV95cUxPajhPempxelFDX0JwRl85S3E4QURZVk9SYk52aS1vRHVjU2NkLVJSX2NUTUV6eDZobkhkQVFwUUI3OEV5TnRUVE41QWdZVy1yLXhjQWdISlMzZXN0N1Zn?oc=5",
+      "source": "파이낸셜뉴스",
+      "time": "11분 전",
+      "timestamp": 1774824120.0
+    },
+    {
+      "title": "미 증시 선물 하락⋯이란 전쟁 장기화 우려",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QQTMxbk85N1VwZmFPQUNnTGRUZl9mU2lnUXVHeXd3WmFkVU1oUWdkbDVRcUhBM1pwQktEbHhYVGNINHZPNVFuXzlKVWw4WE1RWE04aS1mbG0?oc=5",
+      "source": "블록미디어",
+      "time": "32분 전",
+      "timestamp": 1774822860.0
+    },
+    {
+      "title": "[마켓 브리핑] 트럼프, 연일 이란 협상 발언 뒤 잇단 확전 신호",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yejhrN3RfeENmeDc3R1N4S0NyMWcxZVRycXR5NjJMWFN4cFRZLUgwZXVqb1FFYmdWTlBlUzNLbWFhRFpOSW1tZFhhcmFDcjdoNkNnUE8wbEhCSlhVRFhtdXJBSGZjVm8?oc=5",
+      "source": "SBS Biz",
+      "time": "1시간 전",
+      "timestamp": 1774820640.0
     },
     {
       "title": "“유가 200달러 간다?”…폴리마켓서 극단 시나리오 부상",
@@ -20,14 +41,14 @@
       "title": "금요일 휴장 때 고용지표 발표…소비자 신뢰지수 주목[이번주 美 증시는]",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQdXhSV3VUZE5ScXZvbmVramM3YUVJUmhUdHZZMXotREJrR2gyT0wwVjhLeXdsZVFSQ0laY1ZBdEVQNGxWelZoVVlRakwzbnRxU3hST0EtdHN4amZ5RzRYelM2eklsNjk5d19TWXRR?oc=5",
       "source": "mt.co.kr",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1774816500.0
     },
     {
       "title": "금과 은 가격은 인도 시장에서 최대 3.65% 상승하며 강력한 회복을 기록했습니다.",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNQ2ZFLUxSMU9IZWl5VExZMXczZUNyaUlLa3h0cmlvbnJkUmJacXg3NHNXcmlkb0JuTHFHN29rYTBxRlMwajFfTFBHSEtsZWJod3d4NlF0ZGhfSHI1dmhxVW1sNDhWYzdPR1QxaF9OWWVtMUJIMTVZOHdHZmlDSXU5SmgxZGh6aEpyaW1mQzVNUkRYYmcyT29rcFlCWVBxLW1aOHlJMlpTUWE5THp5OUdidWxlTm5zRXhMVmRKTmNYdDZMQ2JheDVNZnIzb052LU5NTDhoT1BUcTlZd05UQkdGbHRGaWxlclNfdUx5TWIycWlNNk9xbzhEczdaamEzTkpnbE4xUkxGSW1ib1YzbVdOdW44YkEtWGFZU0phZ0RUUUVmMk1ZclFTdEpzQjRrZlJ6X0xfUlVVSXdEdTFjR1JONTQ0QldFdXNzZ1lYZmxfdjR6R2RnV0ZZbmtB0gHaAkFVX3lxTE1DZkUtTFIxT0hlaXlUTFkxdzNlQ3JpSUtreHRyaW9ucmRSYlpxeDc0c1dyaWRvQm5McUc3b2thMHFGUzBqMV9MUEdIS2xlYmh3d3g2UXRkaF9IcjV2aHFVbWw0OFZjN09HVDFoX05ZZW0xQkgxNVk4d0dmaUNJdTlKaDFkaHpoSnJpbWZDNU1SRFhiZzJPb2twWUJZUHEtbVo4eUkyWlNRYTlMenk5R2J1bGVObnNFeExWZEpOY1h0NkxDYmF4NU1mcjNvTnYtTk1MOGhPUFRxOVl3TlRCR0ZsdEZpbGVyU191THlNYjJxaU02T3FvOERzN1pqYTNOSmdsTjFSTEZJbWJvVjNtV051bjhiQS1YYVlTSmFnRFRRRWYyTVlyUVN0SnNCNGtmUnpfTF9SVVVJd0R1MWNHUk41NDRCV0V1c3NnWVhmbF92NHpHZGdXRllua0E?oc=5",
-      "source": "Mix Vale",
-      "time": "1시간 전",
+      "source": "mixvale.com.br",
+      "time": "2시간 전",
       "timestamp": 1774815605.0
     },
     {
@@ -41,42 +62,42 @@
       "title": "이란 전쟁에 안전자산 미국채도 '휘청'…아이셰어즈 60/40 ETF 손실",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JS2JieU5oTFlHZ1RrMmdKOVpmY1oxelJzOVlCWU9lWHR6U3VnbnlSQXZqbDRDMUpyWDVvYkRBUUpRNGNTdElqbW9pVlEwRGRXUmMzcVh2Rm9kd2ZEV3hkS2dZdG0yWG5VR2c?oc=5",
       "source": "네이트",
-      "time": "5시간 전",
+      "time": "6시간 전",
       "timestamp": 1774803060.0
     },
     {
-      "title": "내리기만 하는 금값, 전쟁 끝나면 오를까…\"회복력 더딜 것\"",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRE9XVC03ZFRZN2VvTVBGa2dSbzE2SjBKOEQwVTk4VmMtY2c4S1k5Z1g5UkZ5aEgxYmp0TEV5YkN6NXZCRlNiNnFQRnV5Y25GVW1iZlkxLWpKWXNyUzJPellSdXpYeGg1a0F1UFdRQWJ0bG41WFBwNTJnYmNxX0hzeGtFRnVtN2FXUzBsUFNKWUhvd0pydFRPMFFRYzNuN0l1SlNXWTVkbDFfdWl5SldmcVptREpGYlVvb3BmMFVienlqdnN5MElfTTEyeXV0QndIQ2gwVGF3?oc=5",
-      "source": "한국무역협회-KITA.NET",
-      "time": "7시간 전",
-      "timestamp": 1774797492.0
+      "title": "금 가격 급등, 글로벌 금융시장의 재편",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81WWVjU3RVWEhUSV93aGlxSUczcHdCaEJ6bmRZczNkQ3FBS1FPSzZieUludkNzMGJHSF95c1o4RE1NRTFoa0R4OGhSZXNhUE5HdnNJYWxsbEtWZWU3czFPMHlTd25pUU1fSVdVdkdhVFU?oc=5",
+      "source": "월간 CEO&",
+      "time": "6시간 전",
+      "timestamp": 1774801501.0
     },
     {
       "title": "박보영 다급한 SOS 보냈다…조인성 \"누가 괴롭혀?\"('마니또')",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQUVGeUk3WWZxUGtKWG9oX28tdlE1WGg0VFhWc2tCSHAzVGlnLXVZVXNFc1h1TzRmOUFQUUpJWHdsWUw5QklVeHhrWlYtUXc?oc=5",
       "source": "v.daum.net",
-      "time": "7시간 전",
+      "time": "8시간 전",
       "timestamp": 1774795084.0
     },
     {
       "title": "차태현, 금 시세 107만원에 경악 \"강훈 그 정도로 안 친해\" (마니또클럽) [TV나우]",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1RXZhV2FzVGszRExTWHhBZWJlaXZESDVkbFB2Y28wc2ZmVmVvLW9vb043dDVHTHVQaEFqTzVGelZCTU5nVW5NWnFIRFRrS1pWdUhsdEVLOEdwMy0zRGlWU01MY1VQOGYzVENhYUNkLUJCRmR3LVVPbA?oc=5",
       "source": "네이트",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1774788060.0
     },
     {
       "title": "\"분하다…선물하기 싫다\" 강훈, 광희 농락에 구겨진 체면 ('마니또 클럽')[종합]",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvZ0thZWlaelJZd0RmM05EQmJaa01ReXpWUTZJUXBJeTB5WXpWbWU0Vmhfc1k2VzFicXI1RkZvUW4zNVdQb1ZhRTRoQklTYzBEdWJBbThTVFktbmJGb0ZBcTdHV3BBMENUN0hJLWRxZHd1TFlOVzUzUg?oc=5",
       "source": "네이트",
-      "time": "10시간 전",
+      "time": "11시간 전",
       "timestamp": 1774784040.0
     },
     {
       "title": "'74억 건물주' 차태현 금 1돈 시세에 당황 \"더 작은 거 없냐\" ('마니또 클럽')",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15WFdxUUo3V1ByR09qYjJoVHd5ZjNFNmEwenBoemZGV3RGMWVubW10NmhRWWVmc0F3MXZlSTlaX2ZaOGNZMmIzUEhHRVBsbTlYUkNR?oc=5",
       "source": "네이트",
-      "time": "11시간 전",
+      "time": "12시간 전",
       "timestamp": 1774781160.0
     },
     {
@@ -90,28 +111,35 @@
       "title": "3/27(금) 지지와 저항",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0h4T2djY2djWmd2YU45cVZ5YVRLMExuVmVPdXpBYnU1c1I3RkxoaTkxTm1fcEtkZElCcHlyOXRGQ2ltQTMtR0RNQTExZlVZbDV2MXdIWlBYa0ozZ20zRTdySUdneHZoVnlvM0sxOTZnNzBLWmFGNE5fcG1mdmdwUGc4SXpLRHVQRzRN?oc=5",
       "source": "네이버 프리미엄콘텐츠",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1774769455.0
     },
     {
       "title": "wti 선물 시세 실시간 차트 확인 이렇게 보면 돼요",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xM3F4N29YV3d0bGtyY1A3Q0Q4czE5TVBHS3p6clRSUmh4RTdfVUJ6N3ViN3l4YkJsZkViT3dZVHlWVzBBRHFQX010TW9ndw?oc=5",
       "source": "브런치",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1774762599.0
+    },
+    {
+      "title": "원유·이차전지·게임주에 관심 vs. 오르던 신재생·원자력은 주춤 [ETF스퀘어]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vNFVUNllWbkJkeU5NZWJaMUZBSmF3SFUxYXFlTUlrVThhWTBGeTI5b1IxU1N2OUc1dUl0SnE0bEVIZjV1azBSclpQTkg2YUU4T19Z?oc=5",
+      "source": "네이트",
+      "time": "17시간 전",
+      "timestamp": 1774762140.0
     },
     {
       "title": "원유·이차전지·게임주에 관심 vs. 오르던 신재생·원자력은 주춤 [ETF스퀘어]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tcmhwMW84ZGplNFRMc1o0enhFNS1YZE1Pak5aQVVwTC1VNzFWWlNsZHRwRWtZY21CdGVoajNuSHp2OHNWRGloWE15eGRzZnpIekxIajJ1d21fd9IBXkFVX3lxTE1Ud2tSQU5GaTNZbUtkdEx2SU1XbmVoZExUTTg1M0k2YXdCNWhma0pJZlcyNnhISXQ3NTRRNWg1X1dtV2pESWFOVFdqejkxbDAzVVFzdlI4cTM2M1lhaGc?oc=5",
       "source": "파이낸셜뉴스",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1774762107.0
     },
     {
       "title": "정부 저렴한 시장에서 전기 오토바이 도어 프라이즈를받을 수 있음, 시민 : 꿈이 아닙니다.",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RV2s2Sk5jUFJINk84OEhVbVgxMlpudXFYM2Z6QmtlYUhQS1pkeWpSdTFISUV0X0ZxUjVqdXozVDMwdw?oc=5",
       "source": "VOI.id",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1774758032.0
     },
     {
@@ -125,21 +153,14 @@
       "title": "[뉴욕환시-주간] '전쟁 반영' 지표 본격 발표…유로존 인플레 급등 전망",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHX2s0aExTT2M3SkFvSGRFMzgyc0FpazhCaFlvNHlxdVhuZlNqRGNtNzlRd1NMR3hDa2ZyQzNidTZGSThWU195RjdLM0R6YnBaVWxyN0tlc1lrLVFkODV5Z1JWcFV0UkVoV0w2Sm9xTW9Idw?oc=5",
       "source": "KB Think",
-      "time": "18시간 전",
-      "timestamp": 1774755569.0
-    },
-    {
-      "title": "뉴욕증시 이란 전쟁 불확실성에 3대 지수 모두 하락, 국제유가 상승",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwSnV4SjFaX202cDhQMjZpOFhWaFhqZjdnNWd0eWhCdzlkV3RyTm1mR05DbHdVaTFRd2FWWXRNN2VzTXBEUWZrNXVMZGdPLVIwR3VDT0FKZFQwY1RTLTdMam56RkdSUjNiTkp3ZXZmdmNoZTQ?oc=5",
-      "source": "비즈니스포스트",
       "time": "19시간 전",
-      "timestamp": 1774751113.0
+      "timestamp": 1774755569.0
     },
     {
       "title": "오늘(2026년 3월 29일) 은 가격은 소폭 상승하는 데 그쳤습니다. 최고가에 은괴를 매입한 결과, 킬로그램당 5300만 VND의 손실을 입었습니다.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEU3eXpDaXFZcWxFYmhpaWJYZm50U2R4RlZPckQ3OENJNFBSNi1KY2lvQWVoVDZwZXJNLWE1UVZyMXBSNnVzUGxxcDJDaG1EUnNGWUJqc2hFNHhlaUhUd3NDbVYxek16U2Z5OHkzUGZKa0l0T3pzZTROX1BMUkNSa2hmVnVTUW1sNkptNlJnR2tCNWU5X3BPRkNQZDJiUjNLY2x0TzJoZ1Q?oc=5",
       "source": "Vietnam.vn",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1774745200.0
     },
     {
@@ -164,5 +185,5 @@
       "timestamp": 1774739914.0
     }
   ],
-  "total_count": 23
+  "total_count": 26
 }
