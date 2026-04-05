@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-04-05T17:05:47.328459+09:00",
-  "update_time_kr": "2026-04-05 17:05",
+  "updated_at": "2026-04-05T18:00:43.138419+09:00",
+  "update_time_kr": "2026-04-05 18:00",
   "all_news": [
+    {
+      "title": "중동정세 불안에…원유·친환경 에너지 '날개'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sdUtMZVE3QVIwNEFRRDA3M1lOTzltNjJabmRzUFg3SEV1alJ0bXZDcW5IVG1peTEyUjJZZXUxRG91bGh3amhqYVdRVm02WkE3T3Q0?oc=5",
+      "source": "네이트",
+      "time": "21분 전",
+      "timestamp": 1775378340.0
+    },
+    {
+      "title": "불안한 장에도…퇴직연금, 반도체ETF 담았다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yeHVHb0JZeVIzSTYwYkNCZlV3OGhjZFhXSkh0am5mUzI3ZlQ1anIwTmsyaXNIcWtvc242V0RkSXJNWkdYWE5GUG55NzlDeWF5bGVPdU1aVVhRd9IBVEFVX3lxTFBTRmdUMDUzUDU5blF0V1p0MWJic21FMmJSNnQzeGZFOEZsYUFDX3hhaDZyaW9aNkhXU2tQZWF6cXloN3VSNkNXLU9xV1lPaFpXbDFTcA?oc=5",
+      "source": "한국경제",
+      "time": "26분 전",
+      "timestamp": 1775378054.0
+    },
     {
       "title": "원유 '레버리지' 금·은 '인버스' 웃었다",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMzdxM0w0TGxQYUhkSDJGcy1lNkZ0aGEtSW1JRjBFUW9oMU1KR0UzZGN2SklMWGw4ZVJWNVdQYWVab1FVYURSOU14Z1g1ZF9Md1dF?oc=5",
       "source": "네이트",
-      "time": "42분 전",
+      "time": "1시간 전",
       "timestamp": 1775373780.0
     },
     {
@@ -20,35 +34,28 @@
       "title": "[글로벌이코노믹 사설] 트럼프 확전 발언에 에너지 시장 휘청",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdk9yNFlYV2hSckJPVmgwdzIzTF8xN3NjOXQ0aVh4Ui1OTEhSZEZUTnp2VDVWRXhNVG9SaGpHd2JaV0lwSG1UNUtTUGRvWG85aEVGMHpBY1BrVHNMYUdZLWdRdnU0el9FbHRCRWp1UDdObFBNYkdGRnFPZE5HQVQyM1FIQQ?oc=5",
       "source": "글로벌이코노믹",
-      "time": "1시간 전",
-      "timestamp": 1775370973.0
-    },
-    {
-      "title": "중동전쟁 한달…원유 ETN 수익률 상위권 독식",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zUThnNlBCYWJNelF2MHR1TDF0clRBSTZ3QmNybnEtU2VJbTRvOTk2dnpuZlBUcVI3OVhPRFp4ZzNFbHQ5dEVqdnZ5MUU1WVNPbDZXTW1KaGNMdzF0NE1ZNzVlbW5ZS2NXYllQVUtjQ2dYUHlk?oc=5",
-      "source": "busan.com",
       "time": "2시간 전",
-      "timestamp": 1775367496.0
+      "timestamp": 1775370973.0
     },
     {
       "title": "중동 전쟁에 원유 ETN ‘200% 급등’…금·은은 인버스 강세",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3aENUVVRHUk5VX3BmUVVLWVI5dDRHTDhqdFNPdktGSWk1TjZvaG5ETUU1Si1aY3dPcjFYRG1FLWtUUnFEb0dWM2JqdFd6TU0?oc=5",
       "source": "v.daum.net",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1775366282.0
     },
     {
       "title": "유가 급등 속 원유 ETN ‘폭등’…수익률 상위권 싹쓸이",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwUjliSHNuRS1YU1I4WWFwalRwdm5fTTFkZlVhdzZEM2g3NGQ0ZUIyWnh6cVdoMmVtdFoxcFd1WmlGSllrVmd0TFFoLVZTS25jQXFXSEVWY2MwQQ?oc=5",
-      "source": "viva100.com",
-      "time": "4시간 전",
+      "source": "브릿지경제",
+      "time": "5시간 전",
       "timestamp": 1775360280.0
     },
     {
       "title": "전쟁 한달, ETN 수익률 갈랐다…원유 웃고 금·은 울고",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0lGdU0yZ2o4dVpfVzhwcFc2V0ZRVVJ2WVJZMHVPN2ZiUHpkTlhGRFNLLXVQRko2azI2Z2x3d09rNHJaVlF2a2xIQ0wxbTFqeTFOaXVEOUxPajN0R0hrbFRFYzAxQk1NdWMza3U1Z0kwNDhzMUFYMVo2TGMtdGFaZg?oc=5",
       "source": "이데일리",
-      "time": "4시간 전",
+      "time": "5시간 전",
       "timestamp": 1775359429.0
     },
     {
@@ -62,49 +69,49 @@
       "title": "\"비트코인, 글로벌 충격 속 금·주식보다 좋은 성과 거뒀다\"",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Eb2RvQVlWR2hHUUVQTUtXb0RWS1MzOVozU2dkTjJKQmh6d3VBSUUxYndSaUFrZTl4R1NIcFZoZlF3MVE2SUxiNlFTY2pIUlFo?oc=5",
       "source": "블루밍비트",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1775354390.0
     },
     {
       "title": "중동전쟁에 원유 ETN 상승률 상위권 석권…금·은은 인버스 강세",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CekhkaEFPaGp0UmZfTVZONzlJTEEtVDFiRXVXdEFVZ01jaVh5eW8tbTg4YU5zVnV4TEZZdFNrdEhkMDN0QnRLWE11VDJ1MFhzek9pU1ZOcFnSAVhBVV95cUxOQnpIZGhBT2hqdFJmX01WTjc5SUxBLVQxYkV1V3RBVWdNY2lYeXlvLW04OGFOc1Z1eExGWXRTa3RIZDAzdEJ0S1hNdVQydTBYc3pPaVNWTnBZ?oc=5",
       "source": "아주경제",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1775353528.0
     },
     {
       "title": "중동 사태에 체면 구긴 금·은…원유 ETN은 200% '잭팟' [코주부]",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Zm9ITEZXM3F2T3RKSnJ4cWhMTVgxS3B6UUpJb1VnSmN5MS1mSWJvT0lTNFAyMVUxcTZBYnQtdWIxV1FCUU1BQUE4SEZZZDFJOGtz?oc=5",
       "source": "네이트",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1775352000.0
     },
     {
       "title": "실종 미군 조종사마저 도박 대상으로…폴리마켓, 결국 삭제",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54a1V1T0hJams3Qk0tRmd2UUoxazFlcU5tTTZaeEdEaWpPMjRodHppOGJnVjJlN2paal9DQ2gzSk1lcUJIUFc1cVMzYW5FM2Vn?oc=5",
       "source": "블루밍비트",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1775351712.0
     },
     {
       "title": "\"안전자산 공식 깨졌다\"…금·은 추락, 원유는 폭등",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzWUlvaWtHeUNxaEw5NG44dFpMTjJ2S2tXMnFabWdmeFAyVUp5cVN3MDdQdTFsaFlYZm15VWhvZFoyVFpOc2w0QWpGOGlBdl9MLW5R?oc=5",
       "source": "네이트",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1775351340.0
     },
     {
       "title": "[오늘의 금값시세] 2026년 4월 5일 g당 242,565.31원·1돈 909,620원…국제 금 상승",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1V2YxX19MVlVtaVhLNzg3dlVEeXBsWF9RS3NkNWphTjB0MUFLSjJjS051NWppUV9Fa091a29RSWFuelczV1ZVeVBuVDVwVzFfc2FDcy1GOVl4M25kR3JwaU5uN0hlQVFQa3ZVQg?oc=5",
       "source": "민심뉴스",
-      "time": "8시간 전",
+      "time": "9시간 전",
       "timestamp": 1775347231.0
     },
     {
       "title": "2026년 4월 5일 오늘 금 가격은 최저치에서 반등했으며, SJC와 금반지는 주간 최고가 상승을 기록했습니다.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVE5YMjAxQjhYUC1Dek54ck9SUERKQnRISnh6ZEFRRHpkQWlDdTRJUVhKSnZiQ212QU5HQlM5ZUhrUnY1WHBZXzFWazNOdFQ0WjA0STQ4d3p2cUxpYWtrM1NCWWR3LTkwSkdXQlM4cVp0TmhuRWVKZ3d1RFdzUzBwUjI4NWU0V29uT1hjWW5oLU41VDRa?oc=5",
-      "source": "vietnam.vn",
-      "time": "8시간 전",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
       "timestamp": 1775344951.0
     },
     {
@@ -118,58 +125,58 @@
       "title": "[뉴욕증시-주간전망] 이란 대폭격 데드라인 임박…전쟁 충격 가늠자 CPI",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGYjRSOUFzQy1kVTRtdGpMOHk4bkJyR3hJV3M0Q01JUWlPNkpoS3VCWFR1QXZ6OXlJeU1kWWZxd2k0MWJPd1M2TjdSZWJ5VEMwNnc?oc=5",
       "source": "매일경제 마켓",
-      "time": "10시간 전",
+      "time": "11시간 전",
       "timestamp": 1775340001.0
     },
     {
       "title": "2026년 4월 5일 오늘 미국 달러 환율: 안정세",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4td2s4dy15Mmgzank0eE9QS1Fvb1JLQzlNNnR1Mk9lMS1ycGNGd1JZSHZJNE1walpqRnJNMTRiOXVpeDRBRVg2czl1NUx6eUNiRTZXY2t2WHZUMVd2MVN3TmRZWHJvaDJTeHJla1JR?oc=5",
-      "source": "vietnam.vn",
-      "time": "10시간 전",
+      "source": "Vietnam.vn",
+      "time": "11시간 전",
       "timestamp": 1775340001.0
-    },
-    {
-      "title": "뉴욕증시, 호르무즈·GDP·PCE 삼중고…하락 마감",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWRHaUJwU2d2el9fTzA4ZVZYZkZSeFlsbGtpV0w1Z3FJa19tSjBqQ3NINVRoblJ0WHBmSXREcjVzdFpZdUd3dEhBQzVrNlRuYW9nRG1QQk9LZlRXQ1ZpckhIOWNpUGQ5ODUyeHlUcVBfMHNtM2lwdnYxLVRVRXg1S3o4VWF3S25DWnNqeTRUMnh4bC1fMER6TTFaeW83cUlKNlBJT3RHMjg2eEZaTDNWUjh0NE1VamtDLUZfb1pOcFlfQ3Z6dVg1U3lB?oc=5",
-      "source": "뉴스통",
-      "time": "14시간 전",
-      "timestamp": 1775325433.0
     },
     {
       "title": "백지헌, 회색 니트 입고 힐링…연말 분위기 물씬 (+패션, 스타일, 장발, 인스타그램)",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNFM0enVPVWdocWlURkFPU1paM3pib1JlT095VEpjalFFWUNjUUk1Mk43V2ZUS0o1S2tOUEt3anF6V0hlWlkxWl91RUVKX01obG9OUGY3NUxsMVgydWFFdjJvazh6TzlpamNrdQ?oc=5",
       "source": "민심뉴스",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1775325391.0
     },
     {
       "title": "트럼프에 뒤통수 맞은 금융시장…코스피 4%대 급락·환율 18.4원 급등(종합)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1FPaHdVMG9nc0NzcEJWamxQLXpQSF90bDdEdWkxTlZ2eW1IX2tPc0xrMDkyYWlhaUNlcE1jZno0V2JmQWZmNkExdHRXS1pRSkUzTjNqczhBMmFWUkNyZmNibzdxanR4MVl4MFYwanlJRUVXajVoUHZXYjhEYmVPaWJTY3Y4Zlp2VGdYWG1MZk5Sd0ZXMG9Fbk1qRFpKMUJOb2ozeWFwd202MkZKc0ZfdXBQRHg2UUE0dnl3dGJHM0F5VENYMGQ4?oc=5",
       "source": "뉴스통",
-      "time": "15시간 전",
+      "time": "16시간 전",
       "timestamp": 1775320130.0
     },
     {
       "title": "코스피, 이란전쟁 확대 우려에 4% 급락 5,200대…코스닥도 하락(종합)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXFpS1BRMmdqa1Vjd2Z1Q0EwdmpaUHdqYW40d0FwVWpRVkx2akZoTnBVVXl3bjZ4UFg4ZVVud1BhTFRIcERWbTNLazFuQlZNbFFHaVQ5X3k4dVpnbDBsM1dma25MSkdQX2NwS2lPTWUyaGFaOWNYMXVwbk9yY2k0XzJiYXZPZmJieTU1SUdUR3hyM193bE1DTUJ1b2ktYTlBMjN3TDkyYng1QUY0cU9BOF9QaVVYemZHOG93Tm0ydmJmMFdpYmhn?oc=5",
       "source": "뉴스통",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1775316306.0
     },
     {
       "title": "“비트코인만 있던 시장이 아니다” 바이낸스, 금·은 선물로 ‘원자재 24시간 거래’ 시대 열었다",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vT3gzVlJ1SV8tcUhFc0FCeThoOHVKWXdNNGtETW5PTml5YjNjTzZ1MGtkOUJMNnZiaENNNW16aGlSTURGbERoOWZEUWZaMlg2ZW5BNnRCaGZ2ejAzbVVKdkk2NElOY0llbUZn0gFrQVVfeXFMTm9PeDNWUnVJXy1xSEVzQUJ5OGg4dUpZd000a0RNbk9OaXliM2NPNnUwa2Q5Qkw2dmJoQ001bXpoaVJNREZsRGg5ZkRRZloyWDZlbkE2dEJoZnZ6MDNtVUp2STY0SU5jSWVtRmc?oc=5",
-      "source": "bonmedia.kr",
-      "time": "21시간 전",
+      "source": "비온미디어",
+      "time": "22시간 전",
       "timestamp": 1775299532.0
+    },
+    {
+      "title": "4월 코스피와 나스닥은 어떻게 될까?",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hVlR1ekRnZ25LVFNFTW9yQmRKbE92ckpUSzc5NlVuSU5hdTRnN1ZkSm9ELVlUM0hEbVQxcVB1ZllreXltdTFKMQ?oc=5",
+      "source": "브런치",
+      "time": "22시간 전",
+      "timestamp": 1775297045.0
     },
     {
       "title": "트럼프 대통령의 연설이 시장에 파장을 일으켰다: \"향후 2~3주 안에 이란에 큰 타격이 가해질 것\"이라는 발언과 함께 유가는 급등하고 금값은 폭락했다!",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xZ0tzQWR5TTNHRzNDNnEzNlU1S1Z6MnYyZWJhYUhtR2ZlaWswc0lDbTFoRUpjM1A4SEdnRHIxZFoxZ2xkRzVmNEtKNDJXQ1UzOHhNVzg5b1YwcjFicHRTY3I5S0NteVVXeUpIbVpMc3l3UUtHTWdvbVQ5dlFyYVE?oc=5",
       "source": "PANews",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1775296560.0
     }
   ],
-  "total_count": 24
+  "total_count": 25
 }
