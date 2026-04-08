@@ -1,124 +1,194 @@
 {
-  "updated_at": "2026-04-09T08:02:01.466004+09:00",
-  "update_time_kr": "2026-04-09 08:02",
+  "updated_at": "2026-04-09T08:53:31.719943+09:00",
+  "update_time_kr": "2026-04-09 08:53",
   "all_news": [
+    {
+      "title": "[뉴욕증시] 美·이란 2주 휴전 소식에 급등…기술주·유가 동반 급반전",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVk13ZW02Ry1jM2twNlF2X00zcWdWeVdDYXc5ZV8ydmp4b0hPU2h1MVRCMnhWMHFDRWJNcWRialdsUDBJSktvdGJqbmo0M3BwdG9IQUpuTVdhSk9lOEFyN0lZTDhaVVgwSnc?oc=5",
+      "source": "한국면세뉴스",
+      "time": "16분 전",
+      "timestamp": 1775691444.0
+    },
+    {
+      "title": "미·이란 휴전에 뉴욕증시 급등…반도체주 강세·국제유가 급락",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VZWtqeE9NMVFFX3B1dDlwMkxXekd6OHB0RUYtaWlTTnBjSTNrdk5LcmNNRXZRMnB5Q0MyLVMyX1Q1OUlwTHl6cmc2VnJnS3ZFRHVpS1pjY3dMMGx4OHBQc0NOTWpQWmk2NHJWWHJVeGlONWRo?oc=5",
+      "source": "조세일보",
+      "time": "23분 전",
+      "timestamp": 1775691000.0
+    },
+    {
+      "title": "[0409개장체크] 美 증시, 미국·이란 2주 휴전 합의 소식에 일제히 급등… 나스닥 2.80%↑ By 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1aWxVbV9Rek9mVGlZdGdWbEI4TGdpUjhFWS1YTHoybEVMeFZFQnlVLVVEX2dBWEwzZEFtcTJCSGJsYXdqZ1VEb0IyZTgtcFVtNEFWTWg5VWlGWldOdTJZMVZoQzNYamM5V1loQlhRN0k?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "34분 전",
+      "timestamp": 1775690340.0
+    },
+    {
+      "title": "2026년 4월 9일 오늘 금 가격: SJC 금반지와 일반 금반지는 급등 후 빠르게 하락했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXBNRGNSMGhBeUtLTmRvU0xndVUzeGxKQzhXRUEyX3hJTU1rei0tT21iVXN2aGdlVE0tWF95Mmk1ZENzQm95V3d3a0lHY0VEdXh2aE1MWjNiem9QODRISkw2bzBPR1RQQUpXMGFvaGlfYnFNUk9FMEkwY3g2bXhMMXRYQUp4RlVjUDNyRGFSWV94cWVkYm9ocUVIcng4TWt4?oc=5",
+      "source": "Vietnam.vn",
+      "time": "40분 전",
+      "timestamp": 1775689973.0
+    },
+    {
+      "title": "다시 뛰는 국제 금값…국내 금시세는?",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZkxVU0FUMjQtZWVvQnRIRExfU0YzNlczMy1WeFlpTG5tbDV2c3o2ei1xN3p6N19VcFVUbWtxcjlhSUtzVDF4b2lEd1ZxMG5yUnhVRw?oc=5",
+      "source": "이투데이",
+      "time": "50분 전",
+      "timestamp": 1775689380.0
+    },
+    {
+      "title": "[AI MY 증시전망] 미·이란 휴전에 랠리 시험대 오른 코스피·코스닥",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRW5HcGk0REwwWWdFb2p3YkRFNzhENW9pT2xKaklBS2x2WnZQM3hSanVuSDNaZTBTa3pnUzlJNUpNNXpndmlVRmc0N1pOZ2ZHQlI4dmhvb0VMdDlyRXhvMg?oc=5",
+      "source": "네이트",
+      "time": "52분 전",
+      "timestamp": 1775689260.0
+    },
     {
       "title": "美·이란 휴전에 원자재 시장 요동…유가↓ 금속↑[글로벌 머니플로우]",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fMjUtWUdTMDJSRFFoMlhVbm9tcl9VSkZncWloeWVQSG91UVBlUEtzRmU1WE5fTms5YWdkV0l1RWUxODZWdGsybjBHeVBNeXNDanViSzdkT2NWN08yNVBHT2FNMnR4eUN4SjJsTjIwSXNERkNkV3JLMQ?oc=5",
       "source": "네이트",
-      "time": "11분 전",
+      "time": "1시간 전",
       "timestamp": 1775688660.0
     },
     {
       "title": "'휴전 합의' 다우지수 1년 만에 최대폭 상승…유가 급락 [뉴욕증시 브리핑]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTk5BYXRBd1NpU2E1cmdCRE91Ml9IRU1Nb1haYkxVQ01LcnpEZWx5cUVoelZJNzRXVTg5YUUwdWlQcmJLdXVzMjAwaElURjEyemJkdnM4b2NSZ9IBVEFVX3lxTE5QX09sRjQ0YlFHcjFSbThwWVVuRllOeFZTSGFRMDU1YnpSVmtvZExFRjctNHVfNEhWWGtrUElIc3FDd1F2VHlkOXFzV1pCcTRSSXlSMw?oc=5",
       "source": "한국경제",
-      "time": "39분 전",
+      "time": "1시간 전",
       "timestamp": 1775686938.0
+    },
+    {
+      "title": "휴전에 모건스탠리 코인 ETF까지…비트코인 8만달러 전망",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBydjhjZ0d5ZUQzTE5weHRrWnhGTjgzX00yS2xrQlVveU1kLUpTeVJfQUhaRC1XaDROTFhMZlBRVnVqUUoxYUdtczBHWGRndGZjRS0tU19zbFFObVl1OWRTSmJMSUJQV0dpcnpOc3psNlVaQ2s?oc=5",
+      "source": "마켓인",
+      "time": "1시간 전",
+      "timestamp": 1775685892.0
     },
     {
       "title": "뉴욕금값, 달러화 약세에 상승…금 선물 2.0%↑",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvRGhZQ2xuVVpkVjl4T3ZveDBEREpBTkVHRjlnbXF2NmxzRHJqTlI4Z2dvVUlQSHByOU8yZ1M5cVhFaWZMVXVnRGpTWS1KX1ZPVlhxdg?oc=5",
       "source": "이투데이",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1775685060.0
     },
     {
       "title": "금값, 1.3% 오른 4744달러… 휴전 속 ‘인하기대’ vs ‘위험선호’ 줄다리기",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBX2p1QVNWaVgtOHBqT0M1cFQwQ2xfMXhTb2x0RjFpRnVxalR0RmFzNGtNd3drcU1DVkh5ZkV5ZnEyQWlYZldiRWkwTW9tdnVwY280Rlg5UEw?oc=5",
       "source": "블록미디어",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1775684280.0
     },
     {
       "title": "[금/유가] 美-이란 휴전 합의에 유가 94달러대로 '뚝'…금값 약 3주래 최고",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wNEF0REJiSmhUWEExVWQ3OGVGVmszQ3hPT2pCcWFORW5sWWJQTjc4SG13anNVdkk0ejJrelhybE5seFBvTUxPV2t4WlVZb0FrTzFvN05PVkhobk9FTV9zSHZSZ1pUdWV0dFFqOXVLMlh6YlM2NkxhYg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TcGdROHFjQUlydjFIamQyX1hGMFdLcV81NTVzMEhpOVJBQnVJZ29LRDZ0RGEweVVrSjdEbVVOcTVnNE52YXlpMUVSZE91TF9ZQWxj?oc=5",
       "source": "네이트",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1775682840.0
+    },
+    {
+      "title": "[증시전략] '아슬아슬' 2주 휴전에 불안한 시장…관전 포인트는?",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wb25LOVQ0bzItOHhoMFV6b3gxY0gxcHZJN3JsOElJT3JmNjM1S2UySWIzQU01NVNkQ1RKcEVZaE9WZ2pubWV6Vkx1OGdfMEFFTWs0UmdVNHg?oc=5",
+      "source": "SBS Biz",
+      "time": "3시간 전",
+      "timestamp": 1775681580.0
+    },
+    {
+      "title": "미·이란 휴전에 美증시 2% 급등...호르무즈 불확실성은 여전 [월가월부]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43RjluQ2dMVVN2LTFQQzE3UlZIQ2JuQ2hHX0xzVW1PTHFWUnZocF9vZS1lWGc2bVAwcXNZMXVReTYtNThxcnpwM1R3blpQQ1pGMkE?oc=5",
+      "source": "매일경제 마켓",
+      "time": "3시간 전",
+      "timestamp": 1775681335.0
     },
     {
       "title": "뉴욕증시, 상승세로 마감…나스닥 2.71%↑",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kWVpPVHhienh1VF9qU25uUFVRTG42ampoWTB2eGRaOUsxcUxhZVNDRzNKTDZLZmU1Zm4yZm1hbFBmQmhBTGZ6anVNNFVrQV9K?oc=5",
       "source": "블루밍비트",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1775679068.0
     },
     {
       "title": "정점 찍은 악재도 후퇴… 이름값 찾는 금값",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3VVdJWUc0SDF5X21sSWZfV3hGdEEwcjBuLVpZQVhoTWNHRU5xanVLamdPQmN0X3RYOTRlYmVrdy1TUGZDbjB4Q3NpOFBhcmUyRDAxTEtMXzdNX3NMRnlnWDN3bkpWWDl1bEZEQUln?oc=5",
       "source": "mt.co.kr",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1775676000.0
     },
     {
       "title": "[뉴욕 금가격] 美·이란 '2주 휴전'합의에 2% 상승 |",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54OXlyd2lNWGRkdDhnZTh6UURFbFc2ZlBQcVFidXdxeGdmVVVESjQ2LXRKOUNFbUpMc3l5MGNFUExoNldLc2RGSWZQcE9tdjlqLV9qMmlXSEdyN0tSWnVKc1B1ZWd0aTZSMTZLd0VleGY0TXNK?oc=5",
       "source": "연합인포맥스",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1775675324.0
     },
     {
       "title": "미국-이란 휴전 이후 글로벌 금 가격 상승, 시장 방향 여전히 불확실",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iYjFlenIxdk1feUs5cVdnYlozY0t5R3FpWDNfZEJHOHZyLVNLcHF5ZjZRV3AzeEk4bWU0RnBwUWFtd9IBQkFVX3lxTE9iYjFlenIxdk1feUs5cVdnYlozY0t5R3FpWDNfZEJHOHZyLVNLcHF5ZjZRV3AzeEk4bWU0RnBwUWFtdw?oc=5",
       "source": "VOI.id",
-      "time": "5시간 전",
+      "time": "6시간 전",
       "timestamp": 1775668559.0
     },
     {
       "title": "실버, 휴전 훈풍 타고 $100 돌파? 달러 약세 기회",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10S3NZLUNZbEg5UlB2WDFiZ1A0aS0wNkNSU2s0Z0E3M0toYS1nVHlDNzlPT0dEYUk2UWZudF9VX19VRWdmalozYWJtWEUzSzBPUlR4WThnMFpHZ2MxRGN2d0pnVXBfQ21Dczk0N3ZtMUdLZXlOWERreHZ4bw?oc=5",
       "source": "BeInCrypto",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1775666325.0
     },
     {
       "title": "유럽 국채금리, 美·이란 휴전에 동반 폭락",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oc3Z0VUhCcm1ncmQ0Y3JIZFJTY1U1cWVWWWx0Q3htdFdmS3NrdmhoY2hsRFdlLTB6S1JzalQwTTA2Zk9aWHNVTWszSkxUMzFyLTdhN2hpMTZRTmZWMUtyNUMxOGhHeDlCS2IxY29UQ0drQQ?oc=5",
       "source": "KB Think",
-      "time": "8시간 전",
+      "time": "9시간 전",
       "timestamp": 1775659008.0
     },
     {
       "title": "뉴욕증시, 휴전 훈풍에 상승…국제유가 95달러 아래로",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FVWZmT25GN2VZR21qX0lBWXF0d19RY213cXVfS3AzLWplekl3Z25pUUpobU5wdFVKLVRkR2N2UUhPUEtTbWp5ZDY4RUNOMXZkUHB3?oc=5",
       "source": "네이트",
-      "time": "8시간 전",
+      "time": "9시간 전",
       "timestamp": 1775658780.0
     },
     {
       "title": "달러 1% 급락… “중동 휴전 한 방에 무너졌다”",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SU1pVZGVWdFdBeldWNEFVYjl5d3lJMU1rWlpma1NuRnV5bXdUSV9TOVYxcmN0cGlvMm9KbnB1SG51VkpFSFhlcEF0cjJHYk10dERhaW8yZE4?oc=5",
       "source": "블록미디어",
-      "time": "8시간 전",
+      "time": "9시간 전",
       "timestamp": 1775658600.0
     },
     {
       "title": "미국 뉴욕증시 상승 출발…이란 휴전 기대 확산 | 김시현 기자",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BeXYyYlNJcVpsQzAzYnVsc25DRHotTTRORmxmNERXbEtmcTdhdDFSdUZJVXNjQmY0cTlhWDJvMnVnd0hraVhaSWVMeXRQSXk3V1VfTDc4NDNHNWFkS2QxVDl1QnFiZVBSNF9GZ1JDMDMtQQ?oc=5",
       "source": "톱스타뉴스",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1775656179.0
     },
     {
       "title": "뉴욕증시 프리뷰, 美·이란 2주 휴전에 뉴욕증시 선물 급등…유가 14% 급락, 기술주 강세",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51RkJ1eXZycVNPeEhWVGlwQ2djVEhYOHRTTlRhMjRfUGlpVTNGQzA4TnVpYXZad3pldDBCN19Ia281WWlBalpKbGc3OTBtbXYzSS1EWDNsajlTMTJz?oc=5",
       "source": "뉴스핌",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1775654520.0
+    },
+    {
+      "title": "[뉴욕 개장 전 점검] 휴전 기대에 위험선호 급반등⋯ 유가 급락이 촉발",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LanZ3cVZuNkJUMnNkTFRNNTZ3UlB0bE1CTmVhSmVvVW01eHNYcmhBTzFPNGlfZTZtWDU1VFpvbDZaUE14bGJVX3A1dHNKT3NDQS1pb2dBZTY?oc=5",
+      "source": "블록미디어",
+      "time": "11시간 전",
+      "timestamp": 1775651400.0
     },
     {
       "title": "트럼프, 이란과 휴전 합의 후 TSX 선물 급등",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBNkd5OUhkUVZKU1lSc29PV1RzMHA2ck13SXV0cEdyWVdVTGt6eXZxY3pfbFpmTWs4dzZ6Z1JrWUJVNjd0R3p2NVdtRzNSd1h5WFBlYzY0Wkt4elJoQXNIbFpjb2R1UUs5ZHVEQVlJYjQ?oc=5",
       "source": "Investing.com 한국어",
-      "time": "11시간 전",
+      "time": "12시간 전",
       "timestamp": 1775647560.0
     },
     {
       "title": "셰브론, 엑슨모빌 장전 급락; 리바이스 급등",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRVZ1X1F3dC0yUFlhLU5YYTV5V2paNTNsVTJ1eGhycGswaU9MdGZUVlpYNlZocTZhQVZDZGx5TTU3U3lCMEJwV242ZnF1NWlOdndwY0sxcmhla1c2YWpxZ0pRdFRjYnBRWjVVV0w4UnQ?oc=5",
       "source": "Investing.com 한국어",
-      "time": "11시간 전",
+      "time": "12시간 전",
       "timestamp": 1775646360.0
     },
     {
@@ -129,108 +199,115 @@
       "timestamp": 1775646120.0
     },
     {
-      "title": "\"파국 일단 피했다\" 유가 급락…글로벌 증시 '안도 랠리'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hODJLNGpCWU5GeTFmZXJnUHdiWmhNMTVuclNWOGQtRHppOFdJWlAtMXRINDNrY0xRTEVOVTJsbkVVY0JwdDFGMzUzeTVQeURhblJUaHJMYzVXZ9IBVEFVX3lxTE9JQkNxT3pOdXZUd3NSdzVUb1BkNFVxdEFXSmh2VDNxdHVJUmVQOUdmUVF6MnA3aUJGc3B5TUM1dHh2NDFoSkVNaDdMYjg5dXpNUFhmdw?oc=5",
+      "title": "\"파국 일단 피했다\"…유가 급락,글로벌 증시 \"안도랠리\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQkNxT3pOdXZUd3NSdzVUb1BkNFVxdEFXSmh2VDNxdHVJUmVQOUdmUVF6MnA3aUJGc3B5TUM1dHh2NDFoSkVNaDdMYjg5dXpNUFhmd9IBVEFVX3lxTE9JQkNxT3pOdXZUd3NSdzVUb1BkNFVxdEFXSmh2VDNxdHVJUmVQOUdmUVF6MnA3aUJGc3B5TUM1dHh2NDFoSkVNaDdMYjg5dXpNUFhmdw?oc=5",
       "source": "한국경제",
-      "time": "12시간 전",
+      "time": "13시간 전",
       "timestamp": 1775643010.0
     },
     {
       "title": "시티즌스, Genius Sports 투자의견 유지... 게임 전망 긍정적",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HbDFmNVNsSDZwdndJVnNXSjJKY3BZMGlrU3FDV3dIVmcyRGRFZndsMFdjZ2N6WHFZTzZvbmNuenFKS3RBVndvOVR3QjRkZG1veDIxWTJhOUQxOVFXZGt5TWxwMmRRakptMmpLdmdqNEppbnBy?oc=5",
       "source": "Investing.com 한국어",
-      "time": "13시간 전",
+      "time": "14시간 전",
       "timestamp": 1775641800.0
     },
     {
       "title": "08일, 기관 거래소에서 포스코인터내셔널(-4.30%), LG에너지솔루션(-0.61%) 등 순매도",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOHBPYkJuTHoxVklCYlMzRTBmNzFVN09Tc1p4anNDRUVlQ2RxU3lwLXZMSGNmTXVINVRJMEJLRjg1RFNPMlJTRnFfUktfbS1YOTFr?oc=5",
       "source": "네이트",
-      "time": "13시간 전",
+      "time": "14시간 전",
       "timestamp": 1775640960.0
     },
     {
       "title": "이란 휴전으로 달러 약세, 파운드화 상승",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqMllZU2tCNzMtZU5vVlptUVBIN0dKMVY5a2JvRGN2bkhNVGZWeDRtTFVWS3pkOGRJZkVFbVFzUUlBdUpIUjlhZzBNV1lLMm5qOEd3Nmg4NlJHQnpWaWJPYzVsZFZBNnc?oc=5",
       "source": "Investing.com 한국어",
-      "time": "13시간 전",
+      "time": "14시간 전",
       "timestamp": 1775640900.0
     },
     {
       "title": "국제유가 90弗대로 16% 급락",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5icnBJZllyYVRtd1NUZWRfczdUcDFvV1NJZktZXzZtTV9QX05hX1ZwalNFSEhTdFMzelM1djBvemFJeTRnZkthMnAxU08yZjVf?oc=5",
       "source": "블루밍비트",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1775638055.0
     },
     {
+      "title": "[0408마감체크] 코스피, 美-이란 휴전에 6% 급등... 5800선 회복 By 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Qd2tBeDUtT1RfbjZTWnZWUnBLeU1ZblRsSk1CeWVyek9PQzMxRDk4dVNLLUdTREtsUlRJLUUxMnlmNnFfR29Ba25JNS1hV1AwTHNNMWt1T2RTaDlYazdoaDlBR3hrb2Y2c1gxT0pfdk8?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "15시간 전",
+      "timestamp": 1775637900.0
+    },
+    {
       "title": "국제유가 90弗대로 16% 급락",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YajlWVVIwblBvcEJhNnZmZ3AtMjJFTXpzenN6eGNLUW04bFdqOVR1YlVDZXBvTlJSaE9HdkNJM2xiMW50VDItYV9acmsycldhQzdsOdIBVEFVX3lxTE9YajlWVVIwblBvcEJhNnZmZ3AtMjJFTXpzenN6eGNLUW04bFdqOVR1YlVDZXBvTlJSaE9HdkNJM2xiMW50VDItYV9acmsycldhQzdsOQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53eWJuVHVfZGpoRi0tdFVlYnBqV0xLbTNUeUtjMzZzVkNEV1BzRWpQWVgybnZlbW41VDJtOGtFd0N4TGdLX3pCZnJXQTNQY1RGRUNwcjhjRW4tZ9IBVEFVX3lxTE9YajlWVVIwblBvcEJhNnZmZ3AtMjJFTXpzenN6eGNLUW04bFdqOVR1YlVDZXBvTlJSaE9HdkNJM2xiMW50VDItYV9acmsycldhQzdsOQ?oc=5",
       "source": "한국경제",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1775636903.0
     },
     {
       "title": "[채권마감] 국고채 전구간 10bp 넘게 급락 ‘중동 휴전소식에 랠리’",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wRVFwU3BSSkdtb1dGTlhMNGNsQkRYeXhMUUZlSUZidmJlOFBIZXBaS1dTSWU4UEtPNGMtcHM3MmF0UGZ2M3pVelFHdWNWbFU?oc=5",
       "source": "v.daum.net",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1775636829.0
-    },
-    {
-      "title": "트럼프, 이란 공격 일시 중단…금값 3주 만에 최고치 반등",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxLTRDdHRLZGZSRWVraTNiZ093UV9iZGJzdTBWN1k5REgwWV8xVzVkSUpyMHRRT19UTi1YZWFUYU5nVGNzSzJVNFRsVDFTaUFqUnRhUnJ6Y2Y2Q1VRdE9aN3o2ekYtUkXSAWtBVV95cUxQZ1JINFZPdWlTUnhxOFE0a1NKMmlZelJQM2hpQVVMTlpmbjZEQS1pbElHY01pRlBNdFQ0Tk9xejhEd0VNSXJ2ZGFPck15d3dER2JCY2JBSmFLa3BYUXB0ckg4bFVweGp3dEdzYw?oc=5",
-      "source": "K뉴스통신",
-      "time": "14시간 전",
-      "timestamp": 1775636620.0
     },
     {
       "title": "이란 휴전 합의 후 선물 급등, 유가 급락 - 시장 움직임 분석",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xMWlDUnlEMzBNTmxsX2NaRUNfb3dSZkQwR3NscjlSRTZ5UElkbUJEZ0o5R3d3MEpZWmVhR2VzYUEzQmJJTjg1bG80cUZrTXVDUDdkcHZpRldYQW85RGxRS01oUGpBSjJsblE?oc=5",
       "source": "Investing.com 한국어",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1775636160.0
     },
     {
       "title": "美·이란 휴전 소식에 환율 '내리고' 코스피 '올랐다'",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1laFJSSGdBOEdZOEVIOW1EVTR5U0FOaE5BUkJQOWtKUDhOM3d1VmFtMDJHT2U5a1RNMlNfc0xRY29hQ3JlbU9uTWlUX1ZmbVVtay0wQU5MeDNvM1Q4Vlh3NVRNZVF5bkZXemFkR2k1bVFfcHA2bG5N0gF3QVVfeXFMTWVoUlJIZ0E4R1k4RUg5bURVNHlTQU5oTkFSQlA5a0pQOE4zd3VWYW0wMkdPZTlrVE0yU19zTFFjb2FDcmVtT25NaVRfVmZtVW1rLTBBTkx4M28zVDhWWHc1VE1lUXluRld6YWRHaTVtUV9wcDZsbk0?oc=5",
       "source": "스트레이트뉴스",
-      "time": "14시간 전",
-      "timestamp": 1775635333.0
-    },
-    {
-      "title": "2주 휴전에 韓시장 안도랠리…주식·원화·채권 트리플 강세",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fLXQxRlp0U2tBZjl3MDFuR21YeXNKLWZWMERFUWhFRFhyLUlUVDd3ZVBjdTY2eUVPMzNHTFZkaVNzaER0YlN4a1ZQSWc1dlc1RmFzem1tNGJ5Zm5qNjZvUndMZDVTejYxVUI4bzhVTHVYdw?oc=5",
-      "source": "KB Think",
       "time": "15시간 전",
-      "timestamp": 1775634458.0
+      "timestamp": 1775635333.0
     },
     {
       "title": "[데일리 브리핑] 2026-04-08 : 주요 경제지표 스케줄 / 기관의 투자의견 / 10년물 미국채 금리동향 / WTI 원유 선물 동향에 대한 분석 노트입니다.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaG5ndmZCd2NXR2p1dmpuQlZSeU5SdG5OSkh3N0R5WDJHSDNndFVER1BiQW85MTBqN0FBUHBZbTVyN2NsZDg0Sm56TEJOWF9ialZMZmQ2aGhwT1BZZlFkbVkyX1hsVGI3LUVrS1FiUzY5N1h5S1NUN1dMS3ptT3Vzbmw2T0E?oc=5",
       "source": "네이버 프리미엄콘텐츠",
-      "time": "15시간 전",
+      "time": "16시간 전",
       "timestamp": 1775633940.0
     },
     {
       "title": "유럽증시, 美·이란 휴전에 급등…국채금리 급락(상보)",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0WkhVS0s1WnJJRGRBamN3UnR5eUVCQ3owOE5aTUhLel9NWEt2cllJRlJXajE5cDQyQUM2LUgxUlZjcHRXci1adFlBbVI0dDFxeENRWWxYc1VpS3V0Yy13UHhDWEZNUHRGV0oxXzJLWlFodw?oc=5",
       "source": "KB Think",
-      "time": "15시간 전",
+      "time": "16시간 전",
       "timestamp": 1775633908.0
     },
     {
       "title": "중동 휴전 효과…환율 33원·유가 90달러대로 급락",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JT2k4TXlrd2NVWlE5bERqWlVHNFMxZzAwUlF6X005SDJSZldfaEVBYWxCVk1oTlpzSEhtcFU5SmFnVFF0bFF2OWRvMlZLaEFLV0hnYjdtc05sN2pSNm43c0VscmZBYTkwM1E3SGt3NWM?oc=5",
       "source": "mt.co.kr",
-      "time": "15시간 전",
+      "time": "16시간 전",
       "timestamp": 1775632436.0
+    },
+    {
+      "title": "韓 금융시장 '폭발'...코스피 '폭등', 유가·환율 '폭락'",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMd2VfVzdNSWNocGNJdkFtUl9DWVhaUW8zSWJ1R0NvZDdKd0ZLdlJOZTFfYTByOXUyUHVGakItWG1tSVJJOWgzODVtZmxwclh4Rng3a1Qtd0xsX2l6WEp3WDhfNGhIcmszbjhhZEx3ONIBc0FVX3lxTE8xZnJoc04ybjNKWHJ2T3praHdjMjB3SkY3RkpxZEdLeFRNNlVUUHc0bS11ek9aTm1SYkxpdFpsVk90U0JGdHdLWHlRcUV0azhvQ2ljN1I4LS1NdnpYQVVhTUdtbDJNZ1RVMy12WktheG9ZeGM?oc=5",
+      "source": "초이스경제",
+      "time": "16시간 전",
+      "timestamp": 1775632394.0
+    },
+    {
+      "title": "미국-이란-이스라엘 일시적 휴전 합의로 유럽 증시 급등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNHQ3azB5ejhvRHRaX0o0eGJmX3V5blhVcm8yZUNLSzBUYXZNMS1pRGgzTFd0eENWaWdBai1Ha1RseEw2OVV1Q0RUX2dHOHRUanlHcFc0ejJ4THAyYVdUd2hRSTNrRFZpSm5Ib0xRLVc?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "16시간 전",
+      "timestamp": 1775632380.0
     },
     {
       "title": "美 국채금리 낙폭 확대…유가 하락에 물가 우려 완화·연준 인하 기대감",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00TjB2Slo3Q1gxRVRwNzUxVFdaQ3MwUG1IUkxJRjRtTlc2NjkxNlI4cndyZ2xtUkpXVk5oTGNQVFl2RUxqQmZxbEk1c1dyWnFtUW1nZ3NOVUJxdjVRMUhUcDhUSzE4bHpmVGZlQ1VFRTJqQQ?oc=5",
       "source": "KB Think",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1775628431.0
     },
     {
@@ -244,113 +321,36 @@
       "title": "[원자재 시황] 미·이란 휴전에 유가 급락…금 보합·곡물 약세",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZUNocjlVY2tqZk5scVZ3M1A0VVVROThuLUtOcjRkZHBYTUZOdm5iQzVJZUtpSi1lbzVCY1dZa3IzSFI5YU5MYzUyb1ZuLU5FbmZCYXUxSmhxNTY5V3Rtd3Y4amUtQ3Uz?oc=5",
       "source": "ebn.co.kr",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1775626860.0
+    },
+    {
+      "title": "[미국주식 브리핑] 이란 협상 2주 휴전… 나스닥 반등, 지금 사야 할 AI·보험주 - 2026.04.07(현지시간)",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVJqTzl2Qm9KY3R0UUlaVGdTQmV3RGZQQjB5MXZkdV90Uk9OQ2kyWjMxMDVpSHJ0V2I5UzJQNUJvMjNPcEFhc0FJQzJndlVfNGZIVFM2RDJVRkJBOW90c2JEQUd2RTN1UkNtem1pNzNUTlB6UEo5Q1dqcDZTNlBVbF9tejRKZVJCcVE?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "time": "18시간 전",
+      "timestamp": 1775625360.0
     },
     {
       "title": "휴전소식에 돌아온 외국인‥코스피·코스닥 '급등'",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XbG9vMEVqek5ycUdaVjRLNHlnTjBnVzkyNGVLMTZJOUowUWI2ZzNHREFLcDBNemhQU3RVY3M0S1MzY0gwWGU5bkdDOURDSWYyQWxpQWdDLVdwMnNIT2lXbmdyRVh3UTZ2ckJEeG9JZGpxcjJNYXNpTNIBeEFVX3lxTE1XbG9vMEVqek5ycUdaVjRLNHlnTjBnVzkyNGVLMTZJOUowUWI2ZzNHREFLcDBNemhQU3RVY3M0S1MzY0gwWGU5bkdDOURDSWYyQWxpQWdDLVdwMnNIT2lXbmdyRVh3UTZ2ckJEeG9JZGpxcjJNYXNpTA?oc=5",
       "source": "MBC 뉴스",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1775624710.0
+    },
+    {
+      "title": "코스피 매수 사이드카 발동…코스피200선물 6%대 급등 By Economic Review",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMVRXR09fcGlNYllaUzBhN0FucVl5Y0p4TVA1SUhVbU5Ka3pEakFCV3FWSmIyRlk0Y1dwdmFWUDlUSWtYRkJ2NC1yU2RzUmdfRll3bi1VeWdlMkR4dWlTUTgwamp1N0p0SFE?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "20시간 전",
+      "timestamp": 1775619960.0
     },
     {
       "title": "유가 폭락: 휴전 이후 전쟁 프리미엄은 정말 사라졌을까?",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOHB4eV93MUdsYURZcHF4ck9oQVNnWHg0VTBTUW5FdnNOVnBaN3VKYUMtWHZQSTV3T2Rjd1NMRlBOcnJyWGdwb3BLU2FxQXlhS2c?oc=5",
       "source": "EBC Financial Group",
-      "time": "19시간 전",
+      "time": "20시간 전",
       "timestamp": 1775619600.0
-    },
-    {
-      "title": "휴전소식에 돌아온 외국인‥코스피·코스닥 '급등'",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEN2ZZenJNak1kWDVSQVNiS3U5eTNrdVl4dGZ6OFJUV21xMkNNbkxBZThaSHRYZ2dUUHI2a2FOM2tlRDRUR1pXdFAxcnFNVUptS0lETGRqOHA1aWVOOHhuRzBBQWhVZEVOU2VRV0NPNFBoU1huZWVNMdIBeEFVX3lxTFBEN2ZZenJNak1kWDVSQVNiS3U5eTNrdVl4dGZ6OFJUV21xMkNNbkxBZThaSHRYZ2dUUHI2a2FOM2tlRDRUR1pXdFAxcnFNVUptS0lETGRqOHA1aWVOOHhuRzBBQWhVZEVOU2VRV0NPNFBoU1huZWVNMQ?oc=5",
-      "source": "MBC 뉴스",
-      "time": "19시간 전",
-      "timestamp": 1775617747.0
-    },
-    {
-      "title": "트럼프 휴전에 금값 반등…\"추세 전환 아닌 포지션 재조정\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0WnBOOHdhUnYwb0FGS2UydkdvRlV0bVI3RlFlaWJtWTc4LVYyalBtaHhoODZYa1pqYTNYOS1XVXpWbGhYamRQVGQ4ckM3dEtFajVKbjFZZFRHYWxEdnM1MUJSNlhvQXVrcU5IZFhHR3RBdkJKQU1qM9IBeEFVX3lxTFB0WnBOOHdhUnYwb0FGS2UydkdvRlV0bVI3RlFlaWJtWTc4LVYyalBtaHhoODZYa1pqYTNYOS1XVXpWbGhYamRQVGQ4ckM3dEtFajVKbjFZZFRHYWxEdnM1MUJSNlhvQXVrcU5IZFhHR3RBdkJKQU1qMw?oc=5",
-      "source": "뉴시스",
-      "time": "20시간 전",
-      "timestamp": 1775615421.0
-    },
-    {
-      "title": "미국-이란 휴전으로 아시아 증시 급등, 일본·한국 5% 이상 상승 By Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xbGNLT2Yyck14X0t2aVlmZjRUM2otV3hkRTc1OFFFSTNfQ19RLWZQQ2VVdUZFMkV6ei1oV2ZsZXRUZXJ0SVFXNkxfc1FsUlRmS2pSLWlMM01zT3VLV3ZXZ2l0NGVEWlVZeWtSR0N1TmU?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "20시간 전",
-      "timestamp": 1775614920.0
-    },
-    {
-      "title": "국제유가 19% 급락 ... 미국-이란 2주 휴전 파장 : 경제",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xbFc3M0VETEQzV1M3WDg3LV9zcmY0OEFyejJUbVZENjdka19CSGVUSzNVdTM1NURmVGl2T1hRbFJZRklEUks5cHNB?oc=5",
-      "source": "재경일보",
-      "time": "20시간 전",
-      "timestamp": 1775613960.0
-    },
-    {
-      "title": "8-4번 핵심 요약: 유가 폭락, 금과 은 가격 급등, 주식 시장은 어떻게 될까?",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYnN6Ni1tN0ZHQjZ1aDNuWkYxSnZZWWpxQ0FuN0ZxX05RZGk2ZWlubk1uamZUNUJITGd2UHZxMWJPMVlaT0V4cmpVR1NoRFpRVERpSHl6bHp4N1g2QlozYzNCM25OS2x1RF9QbEVNZUVsNXRjbTYxQ3RKbWhQbGNCYUVWc1N2V3JNVnQ5R1lLVjE2NHZMa0hYVDBZRE5LRWVBdEFCeQ?oc=5",
-      "source": "Vietnam.vn",
-      "time": "20시간 전",
-      "timestamp": 1775613902.0
-    },
-    {
-      "title": "트럼프 \"공격 중단\" 한마디에 유가 100달러 붕괴…비트코인은 7만달러 '축제'",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OaWQzblVfRzRCV3hEMUFjWmpQcVNsdjU5RkJnWk5KUXFaaGsyODhISzhvZUJSamZvR0h0UHNWamZTU0xvcjQ0c2ZwSTlGLVUtTlow?oc=5",
-      "source": "네이트",
-      "time": "21시간 전",
-      "timestamp": 1775612280.0
-    },
-    {
-      "title": "2주 휴전 소식에 유가 급락…WTI·브렌트 100달러 하회",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qb0NWeUtuTjY2UFlfZDdtc0UxdjhZRGNESzVtQ1dxbk1TY09KSXhsRjlSendOTVJNbzNHNWRmdUh3NG81Z0FNMDdDN2RQSlhzazA0?oc=5",
-      "source": "네이트",
-      "time": "21시간 전",
-      "timestamp": 1775611920.0
-    },
-    {
-      "title": "미국·이란 '2주 휴전'에 국제유가 15% 급락",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UM3V1cGxXbVVFN2t1VTdHUWM3elRtWFV2dXR3b0VwWlhrYU5hWV93ZTRQNXNja3ljX1hXeC1qeHI5VTl4YkZ2a1lwM3pRV3U4TzRwV25Ia1RVQlRRN1VBMEE0czhUUlk2WUlzYzRn?oc=5",
-      "source": "mstoday.co.kr",
-      "time": "21시간 전",
-      "timestamp": 1775611440.0
-    },
-    {
-      "title": "미·이란 휴전 합의에 원·달러 1478원대로 급락",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ONEZ2ZWR5Ukx0MHllRENrZGtIaXhVUjNBRGZMaVBMSFk3ZEhtZkxEck1PRUVhWTBCS0VNb2F4aTN0SlpEVHRnbGoydm5rd2pQQmhn?oc=5",
-      "source": "네이트",
-      "time": "21시간 전",
-      "timestamp": 1775610480.0
-    },
-    {
-      "title": "4월 증시는 주주총회 시즌의 호재를 기대하고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2doU1BlZVB0WlNMSFdjdms1Wi1zaFNvdlR6SlhIR2tFTUdrOG1wSlQ2eFJlNUNKd19HMTlYSmpsQlR1eUhOY0l6N2pxNlF1M3Z5ZDdkd1hCbm8yQm81RWhvTUtCcWNkTzB2VDVIVjVRRE1XRUJGRzVOXzRhVEtCd3dBekdyTVdyX0I4cnd1R2xKN2p2MHc?oc=5",
-      "source": "Vietnam.vn",
-      "time": "21시간 전",
-      "timestamp": 1775610408.0
-    },
-    {
-      "title": "2026년 4월 8일 금융시장 동향",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSNjZ0bWx0MjJFNG1MS3R5N2hSY1I5bTd6aGJKbHEtck9rcmJPV1EzUGxVcklydE9EMzhxWXVBMllvcm9VLU9yN3JmVmFJc05pazdtWlRHekZ5NjQxbkZSZWlpSHU?oc=5",
-      "source": "KB Think",
-      "time": "21시간 전",
-      "timestamp": 1775610191.0
-    },
-    {
-      "title": "트럼프 \"2주 휴전 합의\"…유가 100달러 아래로, 美 지수선물 2%↑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41cTZIT2ZVMW5zTm5qQ0pXTzJJRkNyLWp3ZDBLT3ZSb1dabWVjclpuSmptdU1WUGt6b0Q4dDBJVFdCWTVGM0tOMnVmbUdKTzI0TV9V?oc=5",
-      "source": "네이트",
-      "time": "22시간 전",
-      "timestamp": 1775608860.0
-    },
-    {
-      "title": "미국·이란 '2주 휴전'…국제유가 최대 19% 급락(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMjlabHY0VGp5WTdZUW90UnkzSWVLUW51OWwwa1pMZ29aeF9ORTVjTDI4SElPMWpOSXViTXBaWEZuTnJHRWRxWHpsN0U3MDQ5NUFQejA0dmswWmZGdnBtSNIBYEFVX3lxTFBKMjlabHY0VGp5WTdZUW90UnkzSWVLUW51OWwwa1pMZ29aeF9ORTVjTDI4SElPMWpOSXViTXBaWEZuTnJHRWRxWHpsN0U3MDQ5NUFQejA0dmswWmZGdnBtSA?oc=5",
-      "source": "연합뉴스",
-      "time": "22시간 전",
-      "timestamp": 1775608830.0
     }
   ],
   "total_count": 50
