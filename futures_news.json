@@ -1,117 +1,173 @@
 {
-  "updated_at": "2026-04-13T07:01:19.685610+09:00",
-  "update_time_kr": "2026-04-13 07:01",
+  "updated_at": "2026-04-13T07:55:23.561666+09:00",
+  "update_time_kr": "2026-04-13 07:55",
   "all_news": [
+    {
+      "title": "미국 이란 항구 봉쇄, WTI 8% 폭등-지수선물·비트코인 급락(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xNTA2NkNVdjI1NGRUWGxBWmRPVTdmRUFLSVgtZWVnNlQ5dDJkS0EwRXFjR3FEUmk4c214MjVZNHl5cHZRd05qalN1LUR1Z25jY0JsSGFoNmc4c0F1MFptSA?oc=5",
+      "source": "네이트",
+      "time": "15분 전",
+      "timestamp": 1776033600.0
+    },
+    {
+      "title": "미-이란 협상 결렬, 지수 선물 일제 1% 이상 급락(상보)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYb2tjNzFfMUptQVVhcktxQThpc2loWjJHckozYmRDQ1RvOE5XcHA1d193UXJqWko4MVd6Uld6ek1pdUU4eGtaVFBaTVJGeUpycGVr?oc=5",
+      "source": "네이트",
+      "time": "28분 전",
+      "timestamp": 1776032820.0
+    },
+    {
+      "title": "피델리티 \"이란 종전 불확실성에도 비트코인 급변동 없을 것\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM3h2SndrTkhqN0xxcUYxaktSYnhSUUJISEZYV2lSR21FYThXZTREZ2V0VnpYbG9PeVA3akRPOGEtSVdaN28za0lUWm5ZNm93N1VaZ0RzbGkxamM1MENraHY0aTBzV3J3TllEaXpiV20yTDh3YzNKWVF1M3RGTm05RA?oc=5",
+      "source": "이데일리",
+      "time": "33분 전",
+      "timestamp": 1776032533.0
+    },
+    {
+      "title": "트럼프 '호르무즈 봉쇄' 선언에 다우 선물 400p 급락...금융시장 '패닉'",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE9VWVk2cWdEOG90M0cwUGdyTUFJalRsTjZUTjh3Ulh2dEs0azYycXlmN3lwNmVhRTRoMzNQTHdscjE3bDkwZV95QVRSWUt5c1l1cHR3dkktV2ZydkJNMDlXeExvZU9QNDFVa0w1am05b3FVT2U2ZF92Zm1yTl9TbExwaEtCY1Fh?oc=5",
+      "source": "글로벌이코노믹",
+      "time": "37분 전",
+      "timestamp": 1776032284.0
+    },
+    {
+      "title": "[개장] 뉴욕증시, 종전 협상 앞두고 인플레이션 압박에 혼조…브로드컴 4%↑",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oNWswWURFc3VSc2l4TzZ6N3ZNVllNX1IwYzl6UXJZZlhfbDJjQ3pNNkRySUYzM2pWeHdrMnhXX2xYbDl5Z3FQcVZ3ejdBVFdDYnYyTTJoWm9ycURJNHpyY1JkYXVoRDNIUmFrMnU5b2puQUIwVFQyMw?oc=5",
+      "source": "네이트",
+      "time": "45분 전",
+      "timestamp": 1776031800.0
+    },
+    {
+      "title": "뉴욕증시 3대 지수 혼조…美, 이란 해상 교통 봉쇄-[글로벌 마감 시황]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kZFlYMDhCY2xuR0tmclF2LWtOMlJQVlJnY1JDdUtZZUt5eFJPblFEdE5fQ1JHY0oxXzlia3VfNDdYbjRFd1hnMEl0ME5fWUZKU2hr?oc=5",
+      "source": "네이트",
+      "time": "54분 전",
+      "timestamp": 1776031260.0
+    },
+    {
+      "title": "트럼프, 호르무즈 봉쇄 선언 [굿모닝 글로벌 이슈]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05ZERHRFpBRlhua0JiNUluZ000akl1MzRjdHZuOGwySmhWQlJ6ejNabFU4MzBPa0RTVjRvTDhscHhZZjcyV2h1STRKVUxzUjhyQlBV?oc=5",
+      "source": "네이트",
+      "time": "58분 전",
+      "timestamp": 1776031020.0
+    },
+    {
+      "title": "'환갑' 박중훈, \"첫째 AI 컨설턴트→셋째 UC 졸업\"...입 떡 벌어지는 3남매 스펙 ('미우새')",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFI5dDc2ME5MWkl6R0UxZUZ4SkswZC1Fb0dPVXVIT3pXdjhFdFBrZHpYVGxheWo2ekdWQ0ttUkR1T2t0M2x0R3V5OTVEdnBLaG9mM3ZpWEF3Qnc2T3o0a0FFem5JWW1BYnBqbFBkQzRLelVfbldTbV9KejRSamxFZWhiWFJZc3BOempnM0NsONIBowFBVV95cUxQQ05jOElmYm1RU0U3UWx4d2dTUXhOR2lNOTEwSnMxbnVobWhqdzJkMGVJd0ZTeVFvMG8yVXNQWGlxZTlGeWdETFJvWVM3YWNiSkZOMXNMcUluYm5jUjZsbnlRaDlKaTRiYmVEMzBRUkdFMVpJNFlfZXpDN1I5YS1zaHpNbE94OVUxNmhKZ3EwT0ZTMVNHNDFHQnpLaUtGVDRBbDFj?oc=5",
+      "source": "조선일보",
+      "time": "2시간 전",
+      "timestamp": 1776025140.0
+    },
     {
       "title": "`60세` 박중훈, 자식농사 대성공…삼남매 얼굴·스펙에 감탄 연발 [미우새]",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiUDFSWVRaMGZZYmdKckJmaWU3TXlpT0I5X2RNVE1RQlFzV1JRamNJR1ZXdlUwMzZjRW1DaUFKM0pKZU9kREM1YkF1SkJQV3cyWnMxMnZfd2NiZW44NUhtLUk0OFhiZw?oc=5",
       "source": "mydaily.co.kr",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1776007181.0
     },
     {
       "title": "비트코인, 지정학적 긴장 속 견고한 시장 전망…매수 기회? (+BTC, 피델리티, 주리엔 티머, 지정학적 긴장)",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ib1gycHFob1BIMEhna09yMGJhMG9xMWFDQjBYM0lldDRFUkRjQk5xYTZmZG4wazhYUUdSRDR5OHZBTHR2dWpnQ1d0MjExTEpORjVpNTNadUJnXzhlRDYtSzNzZmNxaUthdS1taA?oc=5",
       "source": "민심뉴스",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1776006371.0
     },
     {
       "title": "'환갑' 박중훈, 생일파티 열었다 \"금 한돈 선물 받아, 기분 좋더라\"('미우새')",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MVWVVdUMteFdEVHBlMkRTNDNVU0tBVnZvQWpLVlFxUGpRSmowbzREamRxNUtvNTlpakhHRGxMSjNDLXZNNjNJWTB1WnZZeEE?oc=5",
       "source": "v.daum.net",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1775998260.0
     },
     {
       "title": "'60세' 박중훈, 환갑 잔치열었다..금 한 돈 선물에 '잇몸만개'[미우새]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjdDF4NzZEVDBDVVFuTFp1N0p4bk43WTdDUy1LWm1fcHF5QUFHLXZKSTU0a3JtYTlzeGFac29hUXg3Mk5Zc0h6cW55THhQNXc?oc=5",
       "source": "v.daum.net",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1775996941.0
     },
     {
       "title": "'60세' 박중훈, 환갑 잔치열었다..금 한 돈 선물에 '잇몸만개'[미우새]",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SSDNvOUhlMmxrS2l1MURzSTdwamxvV1BkdTNGY2VNN3BTa1ZZV2kwcGlqd204ZEpBN0t6VDFiOFNGSTVhR1YtRncxRTlkTmx5blRKaw?oc=5",
       "source": "v.daum.net",
-      "time": "9시간 전",
+      "time": "10시간 전",
       "timestamp": 1775996941.0
     },
     {
-      "title": "[뉴욕환시-주간] 이란 협상 결렬 후 IMF 회의에 모이는 중앙銀 수장들 |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2SEI4OGZaRE42eW02R243UmF1TXVvcVJpd0RraEJ1X0FyLXl4ajNJd0lKcVBqWmJqcC13VV84bDUwMXpoUzY3RDF4cVRsOXM3bHVlaXZvRXR4Q1hhakRwbFdGdUVXZXdMRjR4TEVnMzZ1ZXNa?oc=5",
-      "source": "연합인포맥스",
-      "time": "13시간 전",
-      "timestamp": 1775982552.0
+      "title": "금값 다시 달린다…ETF ‘사자’ 폭증하나",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Kc3hDNmZkWHJ3OXBlV3hNcmphenRYZEJjRWUzVTdEX2xkQXE4Z1M3eHJpNmpOSEpmcFBOdG9FR1VDaW5KUVhQS09Ud0drUQ?oc=5",
+      "source": "dt.co.kr",
+      "time": "14시간 전",
+      "timestamp": 1775981370.0
     },
     {
-      "title": "금값 다시 달린다…ETF ‘사자’ 폭증하나",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBia1Q0eC1zVW9vRXlvUm5EWnc3V0NLUnp0S3ZBN1RjOW9RcmtOTUExYjdybDc3a1RCNm04TW5TTjFORURWZFFJOURnTkdoX2s?oc=5",
-      "source": "v.daum.net",
-      "time": "13시간 전",
-      "timestamp": 1775981460.0
+      "title": "[뉴욕환시-주간] 이란 협상 결렬 후 IMF 회의에 모이는 중앙銀 수장들",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CcTh0N2RzcTN5dUd1MmRyVG1kelRwOVJlSkZFdE1lTkpZVVI4TWU1bUpEREtwOXplTUZ6UmR5cS1xZmhCd0UwN3FFcTdwVWlncFlsMEpMYmJjS19LQkhHZ3E5aF9raHNudllrbkRoWG8tNUQ0UEkw?oc=5",
+      "source": "KB Think",
+      "time": "16시간 전",
+      "timestamp": 1775974968.0
     },
     {
       "title": "바이낸스 리서치, \"코인선물, 월가 89% 예측\"",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GN2RPcGhrS1FpaXVNNDFkWl9fcjBzNnFYSTc0Vk9mVGZQdjJhcmFoei1mMllESUQ4QmI3WlFab0NoSXZERVJLRXhwU3ctYkUyUDI1eHRJbTctNHEwN2NJMncxdDZscnJtTFVrSg?oc=5",
       "source": "한스경제",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1775971915.0
     },
     {
       "title": "'22만원대' 금값, 다시 뛴다…중동 긴장 완화, 더 오를까",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uYWVWMFlNZUJtMnVmSmlRdG9qM3QzYWFxZVJsZXhiRDlTZFZrV1FmTlZwdUxzVUJTMlA2czk5Ul9aejB4M3Z1emFlNHlmUi1VYTZzeEhIN2JzWmZuZ2hPcWFR?oc=5",
       "source": "이코노미스트",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1775966700.0
     },
     {
       "title": "중동 전쟁에도 일본 주식이 회복력을 보이는 이유는?",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zWXp0X3VFcnI5aXEzYW9SaHAxdHFDaklXNVQ1SGxkRG9xZXpwWXYwUFdUbkhzUUx5WTdMM2FQejRFUFhybmtPaW5UbzNWa3NFc2hOVkM1RC00LVRfbnU2V3JGcFd6X0w5RGc?oc=5",
       "source": "Investing.com 한국어",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1775965860.0
     },
     {
       "title": "오늘(4월 12일) 금 가격: 일주일 만에 온스당 510만 VND의 큰 폭 하락.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDZudVNkbUhINVIwNUowVXhXVXhnMjdNTzFYTnE1T2d4dGptQy1TV3l0RGdLVjlNZGJ4bnBiSjB4blVycVp0dGJFUUpUNUpEZmMzLWpjeF9PQzVDU0lUMzJsNWYySUdpVTNtUmJIeVptcjhGMFNKLS1mN2Qxb3RPOV84cnJFeFJYTHIwSUNMWDBvOW8?oc=5",
       "source": "Vietnam.vn",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1775965807.0
     },
     {
       "title": "휴전 소식에 고개 든 귀금속…2분기 금 랠리 재개될까 : 경제",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51ai1fclNLM3lTUENWMndPeUd6TEJoQVVaNkhITnlkNDdIZWNGanlFZTRFcy1OZGlMV3FxWUg0LWNLZHRFLWdLV2V3?oc=5",
       "source": "재경일보",
-      "time": "19시간 전",
+      "time": "20시간 전",
       "timestamp": 1775960160.0
     },
     {
       "title": "다시 金 투자해볼까…휴전 소식에 서서히 고개드는 금값",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zNmRFVHQyeXlqck41aGZkSGc5dDhtbkZPSHdhYjNqcFp4clM4c0otVFh0WWozaGNqekpFXzV2U0tYX1BiNFhMX1lLREJVYlk?oc=5",
       "source": "v.daum.net",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1775958665.0
     },
     {
       "title": "안전자산 귀환? 급락 후 반등한 금값…중동 휴전에 다시 ‘꿈틀’",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oRWRwRko5MGVhczJWNmJvcmpmMXlTVU1tUndYVDBhVk1BZHlZYlZtWmdkRkVOT3l5SmVzR1d6MzRIMTR1QVVVcmg1X0pmZUdPRDhGU1FLdTXSAVRBVV95cUxOM1JfYnNmeFBHLWFlVU9TdGZrSjV5eUoxS2tnVldzZlFfV29ESzJlMDZOQ3FVZFY2RE9ET2ZlVzVNVW5ieWYydjFyb2xudUx0NU04T3g?oc=5",
       "source": "세계일보",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1775958061.0
     },
     {
       "title": "금값 다시 오르나…전쟁 끝나자 반등 신호, 그런데 변수는",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VWXdoaVRjLVVISVYwU1NZMWxRblJQSHY5QkhvRDFwLXhSTV8tY0hvTDBwNmZOWU9Ub2JIY0tDQ1JGZlZLYklXRENDbENydnQwT25R?oc=5",
       "source": "네이트",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1775953500.0
     },
     {
       "title": "휴전 소식에 고개 든 귀금속…2분기 금 랠리 재개될까 : 경제",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uZHIyU3VHTlhFWTlkYjUxd3NJai1JTHNHOU80UkNMN3dqb0xzSloybEZIakxsLV9jNmdHUmd2SHRkbmp1aGROOVF3?oc=5",
       "source": "재경일보",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1775952540.0
     },
     {
@@ -129,10 +185,17 @@
       "timestamp": 1775952000.0
     },
     {
+      "title": "휴전 소식에 고개 든 귀금속…2분기 금 랠리 재개될까",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ZnJGemc5Um4tbjhXcVVBbjAtb01XZVJhWWtId3I3aTBzcDhNd2NyOUNNRkpacVFKQUtvdTQ0SWI4SDlOOGRLZFR6Zlk4ZXBhdVg2cVVtdGhyRUR6VUJJbA?oc=5",
+      "source": "KBC광주방송",
+      "time": "23시간 전",
+      "timestamp": 1775950381.0
+    },
+    {
       "title": "바이낸스 리서치, “주말 암호화폐 퍼프 계약은 잡음이 아닌 신호”라고 밝혀",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjN1eU5hRzFOeEtkdTJqNDNKLURYdDZsd25mLUcwRTBzVE5USUMzRE8tQlNVY01ITGdDNi1VX2VwMkZLb1hucjFFVTc1UFhjVUdCV2NuekpNQURqZ3pjSHdzZVp0REY4d0hGbTFzeUluN2I2Vi1SaVYzRDhjS1RqT1daVDVhTWVqTVhNd09tV24wVXA1QkhQYWpLOXRfMlo2X1oxYmljMjJiSFdpb09zWWdmZw?oc=5",
       "source": "Bitcoin.com News",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1775949526.0
     },
     {
@@ -141,21 +204,7 @@
       "source": "CoinDesk",
       "time": "23시간 전",
       "timestamp": 1775948400.0
-    },
-    {
-      "title": "전쟁 끝나면 다시 상승랠리… 금값 반등 신호 포착",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsUmE1UDFJdW5KbHV6ODg0aU53YmFJeUxMWk1LZFBhTy1Jb1FBQVA1QkxIdXZaTUFXYkhpd09GbUFXWUxQMUVyeHRQQzlQOGpDa21mU1B0Ri0yVjlpS1lZeTNhLXlLRzRhR21OblNDS1JRWmg0Z0Zv0gF3QVVfeXFMUGxSYTVQMUl1bkpsdXo4ODRpTndiYUl5TExaTUtkUGFPLUlvUUFBUDVCTEh1dlpNQVdiSGl3T0ZtQVdZTFAxRXJ4dFBDOVA4akNrbWZTUHRGLTJWOWlLWVl5M2EteUtHNGFHbU5uU0NLUlFaaDRnRm8?oc=5",
-      "source": "핀포인트뉴스",
-      "time": "23시간 전",
-      "timestamp": 1775946684.0
-    },
-    {
-      "title": "휴전 소식에 고개 든 귀금속…2분기 금 랠리 재개될까",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zU3lnd01xQ3V6QzljTVFSWmt4VXV4Yk4tamZuZ0trc0NjamVQSERJVzc4Zll5d29NM0pkSWdXb0hMQ0Mzd29SaUxSanlRSl9QMnNXVUtsenVGWUgwQWdoWNIBYEFVX3lxTE4zU3lnd01xQ3V6QzljTVFSWmt4VXV4Yk4tamZuZ0trc0NjamVQSERJVzc4Zll5d29NM0pkSWdXb0hMQ0Mzd29SaUxSanlRSl9QMnNXVUtsenVGWUgwQWdoWA?oc=5",
-      "source": "연합뉴스",
-      "time": "23시간 전",
-      "timestamp": 1775945101.0
     }
   ],
-  "total_count": 22
+  "total_count": 29
 }
