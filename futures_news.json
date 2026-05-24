@@ -1,217 +1,210 @@
 {
-  "updated_at": "2026-05-24T14:42:50.506155+09:00",
-  "update_time_kr": "2026-05-24 14:42",
+  "updated_at": "2026-05-24T17:15:58.585920+09:00",
+  "update_time_kr": "2026-05-24 17:15",
   "all_news": [
+    {
+      "title": "오늘(5월 24일) 미국 달러 환율: 글로벌 외환 시장에서 미국 달러에 대한 새로운 동향.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQU9YLTVCenF0TlctRjdwS0MzbU5lMl84ckVaeDZvaG1tdW9KcmpzRmJUZFkxb3p3MUk3S055VlJ6R2hEbUJEQW5GME5RNXVjMzhSTFk2d2dUWnBZbG10MVV1WmRhRkdHaWJqekpRMVRYQUxZSEhmTTBLWE9oOC1fMDg3cVNqd3U4bzhabWYyZXl2b0hwcGxXZmVmSkJWX2tJQjhxRmNqRl81YkdFdXppUlBJMWc?oc=5",
+      "source": "Vietnam.vn",
+      "time": "22분 전",
+      "timestamp": 1779609215.0
+    },
+    {
+      "title": "오늘(5월 24일 오후) 금 가격: SJC 금은 온스당 1억 6100만 VND 이상에 거래되고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWNkNFpPZ05CejZsZlRmSWI4N1hfaU4zZV9tLVBPdTE2WHlpUlA5alk4X2VmaWlQNjVUS0pmeVc2SzVlRk5nSC1BaG9oUUtJeHFvZTYyWklydzk5R091YW9uOTZGWUJlNTROY2JHSm1SZGxqLUFPVFpDd3VERmNMamg0ZjJyNEU4RldBTlhoWFNzOXlOWG1EM1p3?oc=5",
+      "source": "Vietnam.vn",
+      "time": "40분 전",
+      "timestamp": 1779608145.0
+    },
+    {
+      "title": "신지, 금 10돈 선물에 \"얼마나 힘들게 일했는지 다 아니까\"…뭉클",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5OExnUGQwWVIyN1NnVlN3N19zOE52SnVkYkNiZmFXSHZLN0VOVVplQkZWbUZWQ09qakdwWTBEOXFQdEVLRHZZc3Z2STdRM29LRHJvWWZscFRTdmVxekhpc0YySjdfQzk0RGFZbms3am9MV3RNaG1tNg?oc=5",
+      "source": "네이트",
+      "time": "2시간 전",
+      "timestamp": 1779603300.0
+    },
+    {
+      "title": "신지, 금 10돈 선물에 \"얼마나 힘들게 일했는지 다 아니까\"… 뭉클",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qbnJDS0c2NGdLNk9uY1M0RlktclF3VGtRWEFUWDhKSXJ6Vk5EYUprc0J2dmlwZUpIOVV0WXoydTBCOWlyWTdiZmhzUWY2RWVwY3ZYaFd5YnTSAVRBVV95cUxPNUtiS0lvVW9XMkZPdTYzNXJLMGpFVHRydHZDU2xrMERvTnlSWTRRdEZSWi1kOXRvODVtcW0zTHhqOXJwWmk5SzRNVERQM2tPMDVGZ3Y?oc=5",
+      "source": "세계일보",
+      "time": "2시간 전",
+      "timestamp": 1779603277.0
+    },
+    {
+      "title": "\"원피스·금목걸이 선물 꿈 꾸고\"…추가로 산 복권 '5억' 당첨 사연",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5laFIwdTA0c0NvVFM0Q2lERXd1V0RySEZkcFpKZ2ZvTzdDMzVzNzBpbG9XVzh4aGI5OV9jM3l5X1NUanQzMzFjRDJlMnFDSHB6V25BaDRTaGl4SHZYeFd4ekVZRDR6N3NqX0Z1M25yWWtrZnU2?oc=5",
+      "source": "아시아경제",
+      "time": "2시간 전",
+      "timestamp": 1779601744.0
+    },
     {
       "title": "비트코인 거래판, ETF 다음은 '이것'...美 증권위, 나스닥 지수 옵션 승인",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93OGw2ZG5HRVdZS2o2SXplTjJNUEhvMWJzZnNTVjBzQ194aG9qRW1LeFZQTGt5U0RocDZyYmlnZ0VfMWsyMHFmZG93?oc=5",
       "source": "코인리더스",
-      "time": "12분 전",
+      "time": "2시간 전",
       "timestamp": 1779600600.0
+    },
+    {
+      "title": "[뉴욕환시-주간] 종전시 유로존 살아날까…미국과 '격차 축소' 지켜봐야 |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HVVNfM3M4Y1BVR3BjelNLdnZvdUlSZmZlX21CcWo4eFZ4REdTN3dBM2FILV9MR3pFZk5fUHlLT1E2Y0NnbzZoZTlBMUc0X1Q0MWtpem9kN3lVWWdPdTFLSEpiUE9tWHhiNXZSWFprczlLc09B?oc=5",
+      "source": "연합인포맥스",
+      "time": "3시간 전",
+      "timestamp": 1779599465.0
     },
     {
       "title": "\"원피스·금목걸이 꿈 꿨는데\"…5억 잭팟 터졌다",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkplZkwxTndxQmpHeHFZNWdreVYtMjc5SU5JS190NGt5cEZ1Q2pudzJmV215YXMtS3hyZkN5bzF6Wk9yM0tLNDJiVHR6X2NWUVJj?oc=5",
       "source": "네이트",
-      "time": "34분 전",
+      "time": "3시간 전",
       "timestamp": 1779599280.0
     },
     {
       "title": "“원피스·금목걸이 꿈 꿨는데”…5억 잭팟 터졌다",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2I4REkzRXBNTzc2UlQtMTY3YUd5X0tNQjBwQ1VhT3pqcURXcUdubkNybEhkd3hYaDk3UFJBTzVNaG1MbmtfQVpwYmwwWU1GZnBoaE9IeDJ3X1QyeERwbTd1Ym5KWm1rdDBBOXNqWS1ZcjV1SGVpdFI4bU1uM1Q5UQ?oc=5",
       "source": "이데일리",
-      "time": "35분 전",
+      "time": "3시간 전",
       "timestamp": 1779599216.0
     },
     {
-      "title": "[뉴욕환시-주간] 종전시 유로존 살아날까…미국과 '격차 축소' 지켜봐야",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkWXlzY3JrTUh1WGcxTGdrdUY3bGViR3lIZHhJTUFNbVN4MEU2RFhOZS0tMlp2WFg3dzFWUzRobmhCWGp4NUh6LWpkbnBYWE9XLTFlYVppUUJ1UDIxbWFUY0h6eWhmZS1QcFpPbUlSVmE?oc=5",
-      "source": "연합인포맥스",
-      "time": "37분 전",
-      "timestamp": 1779599146.0
+      "title": "“원피스·금 목걸이 선물 받는 꿈꿨더니”…추가로 산 즉석복권서 ‘5억 대박’",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TZkQ2YlB1alJ0bTgtbVRsOWVscXowaUxPRWRDNWljblNDVDU4TFVjU3J6N21TTHU2VEtvaURmRkQ3WExRWUhYVkVBeGRFUkQ1emVrbUtmMjJjdlJpX1NMRko5TkI5UdIBZkFVX3lxTE9TZkQ2YlB1alJ0bTgtbVRsOWVscXowaUxPRWRDNWljblNDVDU4TFVjU3J6N21TTHU2VEtvaURmRkQ3WExRWUhYVkVBeGRFUkQ1emVrbUtmMjJjdlJpX1NMRko5TkI5UQ?oc=5",
+      "source": "동아일보",
+      "time": "4시간 전",
+      "timestamp": 1779593140.0
     },
     {
       "title": "\"원피스·금 목걸이 선물 받는 꿈꿨더니\"…추가로 산 즉석복권서 '5억 대박'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IN01PdkN3MEpGYlRSZ3h2aDZQMGJPVkZxTkU4SEtaR1JxazZPQnRzX0txS0JnT3dKUzNrdUZwR19tT3BYYTIxSV9KLUlNMkR5bFZncGJpc3l5elZRcmhuWtIBeEFVX3lxTE4ySUswODRJT1J1X1pIMTFielFOdFRjNGVJLW9rQWladEJzVHE4MWFjdUpBN0R3TnZybFM3TUVZSk16Zlc1MXRfN0tZbTRvalplNVBISU5oZUowdTlGaXFjRnVsc2tic1paSmYwTTVNeUxUQ1dNbzdYbQ?oc=5",
       "source": "뉴시스",
-      "time": "2시간 전",
+      "time": "4시간 전",
       "timestamp": 1779592860.0
     },
     {
       "title": "오늘(5월 24일) 은 가격: 싱가포르 은 거래소의 새로운 동향.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDlmMHQzeDViQ3ZWS18wNlB0dVBXY3RJMEs4dVZYS1BxbXhhUmF5RFJiQXhfNXhrS0liNjRVZkxUOVA1X3lfam9Oemw1Tm5OOWVlVV80V2gwQUU2ZjI4bjdLYjY3OW4yazJPS3FJZ0JBN19LemQ4emVaWGppSVNOOWpsSUh5M01ReklzMHRWb0QwUlM3cFJ6Ug?oc=5",
       "source": "Vietnam.vn",
-      "time": "3시간 전",
+      "time": "6시간 전",
       "timestamp": 1779587398.0
     },
     {
       "title": "오늘(5월 24일) USD/VND 환율: 전반적으로 하락세입니다.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCZ2lfc0MteVVwR3RoVmEyX1JDcUJ3cHFHcVdTaGRsN2p4ZEJXZHYteTdzY29XVnZMbzBLYl9LZGJRS0c0YmJ5S1pNWktFbnhKd1M1TGVXNHRtQzNuNVVzX3czdVF2blNqeHpFTHJXOURVNmloUkFJ?oc=5",
       "source": "Vietnam.vn",
-      "time": "3시간 전",
+      "time": "6시간 전",
       "timestamp": 1779587086.0
     },
     {
       "title": "5월 18일~24일 금 가격: SJC 금 시세가 1억 6200만 VND 아래로 떨어지자 사람들이 저축을 예치하기 위해 몰려들었다.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPal9tcWFyeEhObWlOUmlmSVdaOUFQdVkwLXFmdWZfLXQwamVVeWFpNFItVWgzenFIYVNiWExyZDN4LTM2V0lrVktvaWFmejZhT3lWSVFWRV9heElicDlZb3Z0TThMR0xwN3dUUjJnRDdPcHNaN0E0WFQwb2gtRHc3dzVWRDEtX0dKMUxEUERRMFE?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "6시간 전",
       "timestamp": 1779586970.0
     },
     {
       "title": "5월 24일 환율: 자유 시장에서 미국 달러화 가치가 소폭 하락했습니다.",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZkxhdzNFY0hpazFoUFE5eXBWZmFidnZDQktxUUhnRHF0aTJyZWNWX2owbjk0dzNpWEZueHN0Z1JXclpZdG1LMlRMWGo3VTlLQ0F6NWVIbG9MN1BPU1BaYjE1WENvd2dxcDJ0aEFBSzJJVU9IQlhBY3NuWWZieV8yR1ZlYw?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "7시간 전",
       "timestamp": 1779584542.0
     },
     {
       "title": "환율 1517원 돌파…외국인 자금 이탈에 원화 가치 급락",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGWmFKbjZpY2p4X2R2STI2X1dUSGtJWFh6eVA3Q1IwYW9hUzhTUmtiRk5iR1VaclViRWR0a0Zsd19PdmEyRjdmanEwMnF5bmtUYkRWUUktd3REem5IQnVlYkVCbng?oc=5",
       "source": "ppss.kr",
-      "time": "4시간 전",
+      "time": "7시간 전",
       "timestamp": 1779583870.0
     },
     {
       "title": "주간 금시세(금값) 전망... 최근 금가격에 영향 미치는 주요 요인 3가지",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XNG9rX0NtUi1ucUZyX0s5QzAtYkFEOUV5cUlZeTZkOGJGck0wcDRhYzBRcEo3Ql9SSWM4cmE0Z05LdHR1emZPd2ExOHhTWk1fV1ZWZFpn?oc=5",
       "source": "위키트리",
-      "time": "5시간 전",
+      "time": "7시간 전",
       "timestamp": 1779582660.0
     },
     {
       "title": "[오늘의 금값시세] 2026년 5월 24일 g당 218,126.67원·1돈 817,975원…국제 금 하락",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wTzlGX09wS1lwZW5QU29NYnZFN0hGNEJZQVU2SzZIVGY2X3lzc3dkZUp1dngwQ3ZjMks3WWZmeDZVN2ZCcWxsMFlJaHN6dmJVektXTFBZUUJYa2U2M1dfTFI5ekRiRU1qMXJINg?oc=5",
       "source": "민심뉴스",
-      "time": "5시간 전",
+      "time": "8시간 전",
       "timestamp": 1779580826.0
     },
     {
       "title": "오늘(5월 24일) 금 가격: SJC 금 선물 가격이 온스당 50만 VND 하락했습니다.",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMERtOTZYeGdHQ25CYXpUQjYtWkd6U1hnMnZWNWQwZjU0emJlR3kxU2I4N0tsazZaTjRYSWJIV2tOekpndEU2U2dFMXhnaldTb0RMUmt0NDJGUjUxTzlMZGtIcjdhX1c4akpCVlB4Y0ZHSjJnSThVZ3JSbGdNVkN0UjVBRnBGQQ?oc=5",
       "source": "Vietnam.vn",
-      "time": "6시간 전",
+      "time": "8시간 전",
       "timestamp": 1779578888.0
     },
     {
       "title": "오늘(5월 24일) 미국 달러 환율: 미국 달러는 2주 연속 상승세를 기록하며 한 주를 마감했습니다.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjFBaWNaTHF5b0FyTEVoMVl2WUU4QksxS05ZSnA2ODRIR2RUbEhudWFic0haY2loU1JWWFkwUDFXSzBZRlNkZTB3c3pPMklFY1I0Mk0zcGUzV0VRamkxM3B5X3lSbzluajhfRllWQnFfS2xpSFUtdHZjcXdUNzAyV2JWcllDT09WMUo0aXZ0a2pLZTdTYWVneVBLMA?oc=5",
       "source": "Vietnam.vn",
-      "time": "6시간 전",
+      "time": "8시간 전",
       "timestamp": 1779578167.0
     },
     {
       "title": "2026년 5월 24일 오늘 금 가격은 2주 연속 하락했으며, SJC 금 선물 가격은 온스당 200만 VND 하락했습니다.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNm5QV3RwZzEtb2szZmpsOTJRd0ZSdzRTdHp4eVJwaldOUUV4N1pZTmVJbDFxakIwOC1HcnBfamZOamZqSFRpZ1hnSWlWeWwwS0Vxd1EtM3hMc0J6R2hma2t6TzhWbWVpWmRhREdPVldUQTEyZHhBb0VBVHJ3VElJLXpTVVlYRlhyYVNOVGcyVnNnQTQ3Rm1hNVVZYjF3Y3dUc0Q2RQ?oc=5",
       "source": "Vietnam.vn",
-      "time": "6시간 전",
+      "time": "9시간 전",
       "timestamp": 1779577585.0
     },
     {
       "title": "환율 1520원 돌파 초읽기, 올해만 24차례 1500원선…\"상방 압력 지속\"",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiRE1Jc3BLeEYyTWFTRnl4aGdNeDN4cXZScHJLTXZtYUlrWHBYcU1UajFyaTB6R1lKRWRIbkV4bXAyTlpDNGlqYV9za20tRm1DMUY2ajdLQ2xSQQ?oc=5",
       "source": "뉴스1",
-      "time": "7시간 전",
+      "time": "10시간 전",
       "timestamp": 1779574200.0
     },
     {
       "title": "채권 금리 뛰자 매력 ‘뚝’… 金 ETF서 한 달 새 1200억원 유출 - 조선비즈",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc25LS0VoNW11ajdERllkSUdEbFdGZ1ZqM3dTOTM3anpVVkMwdzNzTFJIZ0ZZNnlIN1VVN0ZmMnFFSkllbFpNQm54ZGRKWXFPdy1SRkUyOGxkenFKaTVKQXF5LW5QZ3BQU1lGNTNzZDRKZ2pXaUNHTXhuWkVYU2lfUGY4RVFkNVAy0gGcAUFVX3lxTE9ZWGVDQVZXTHVOdEFUS2hLTHlyXzJJZWJRS1BwRjBSUUVycmlrYTdNdlhteXh1NkNMSHVLeEdjUXlWYXg1aTZfTHdHWVRZODdfdUlWUXFMVnJpc1VKSXVXQ05uWDE1dHlnajhuTHFRSXd1QVdYMDBtNGRiRWVUYkdNdkRaUEgtMHY0WU5fMWpETDFzVDZqUkdOQjBTSQ?oc=5",
       "source": "Chosunbiz",
-      "time": "8시간 전",
+      "time": "11시간 전",
       "timestamp": 1779570278.0
     },
     {
       "title": "\"예쁜 원피스와 금목걸이 받는 꿈…마음먹고 산 복권 1등 행운\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVGhycjlOc0M1dU56QU1pZXYzVHV1UkZRODIwVWpEMm5pZ2QzVWlqUHdFTXBpZ1dpLWVFWUstVm0xNU1tQmk0cEpZUk5ZQ0swWmNtX3NCQS1hbXlJRjk0M0hNYmZreGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zaUVSWnBVNFRqU1RZcUJEZHEzYWxDb3JNVF95NUc2djdsaFQyUkZmYVd3eXY2VzBCdks1X2hfS2tNMW04bGtYeXRVUndrUXM4UTVhSl9iczVXYWtOYU5Ia0pR?oc=5",
       "source": "뉴스1",
-      "time": "9시간 전",
-      "timestamp": 1779566400.0
-    },
-    {
-      "title": "유로스타 카지노 의 진화: 시대별 변화와 영향 - 초보자도 쉽게 배울 수 있는",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOODllLWpkcHV0S2VfRDktV3RTN1VhcU9KN3drS2ptSmlkSlFvTHg1Y1lVQi1zM3owT21kVXl6b0Vyd1JXbTRyTFVHZVg3NUhfMDJ4SGdlRC1xNldIbXNUWHg1RmlQRTdxa25pT3l4M0s4X216eE9EaWtKVFh0dEtoeWs3WTktUWF2Q2JTRzljRQ?oc=5",
-      "source": "kmrk.ru",
       "time": "12시간 전",
-      "timestamp": 1779554730.0
+      "timestamp": 1779566400.0
     },
     {
       "title": "2026년 5월 24일 현재 금 가격은 최고점에서 계속 하락하고 있으며, 단기 전망도 하향세를 유지하고 있습니다. 세계 최대 금 펀드의 이례적인 움직임은 무엇일까요?",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRk00SlQyWl9ZQkZkVHNhWEhVa3ppQXJjc1BGSzd5ZEplOG9yRDdFdkctd0lPa0w0VnBLLU9IVVZlQXpUYmhrcS13Q3NVTnFBdUYxOTNDUkcxa0lZT0F4Yl9EYi1zZEFCb0RUNnd0VnZUMmpQaks0eXBtRHRyU1RsMjVrdDZDX3gyLWUySm5Udk12WDRsaENTR3JBZ2s0UFlzTGw4ejRqNGp1a3pUVHZYbDhhanhPQU1ISHZsMnRVU0hDTjBsdUdUSnMtam8zS2dSbnQwWXlyalBnTWQ0aXNROFNQR1hyUQ?oc=5",
       "source": "Vietnam.vn",
-      "time": "14시간 전",
+      "time": "17시간 전",
       "timestamp": 1779547551.0
     },
     {
       "title": "금값이 5월 23일 오늘도 급락세를 이어가고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkZsM29YbzkyaE9hanpONURZWER2cFJxUEw1SUNWRDcyN1AwZTd4UUFTbWw5dUZva1NmOWJCNHNqemRRV2dGdjI2cTlfRThaMzZtY0lBNkdyb1NmUXZrWTBGa0lZeFZsbnFvTVlpbkJkb055WnVOVzBDZzBJNC05V2NQVmg?oc=5",
       "source": "Vietnam.vn",
-      "time": "15시간 전",
+      "time": "17시간 전",
       "timestamp": 1779546606.0
     },
     {
       "title": "포모사 하띤은 장기 근속 직원 수백 명에게 감사의 표시로 금을 선물했습니다.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDdTTGJ2WWhkaEd4RHhnanBGS28zNXpSd0ZlQ3lKbkxQMnhpbTFlU2ZzQllJeW42UkpqVnNid1RSMlVTb3J6ZFZzbFpBTDBWZGlyUENPT1FRMjJSN0ZNNXE5YzQzRXhxcDl2dWhiTy1rZW5zMXNmdUl6ZTdTVDA1andnTHp4QmJCS3lsYmU5UW4wN2pYZ2Nn?oc=5",
       "source": "Vietnam.vn",
-      "time": "16시간 전",
+      "time": "19시간 전",
       "timestamp": 1779540660.0
     },
     {
       "title": "뉴욕증시, 중동전쟁 낙관론에 '사상 최고'…25일 '메모리얼 데이' 휴장",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BTm5LN0ZFUW9sYU9KUmNSdVVNNVRfV19EQ2dfd2Rud0NDdmNQdm8tZDlmSmI4UEQ4OFdoZnlKUFRReDc0enBIUm54WDlRVzRCV21GOHpaWHdSTDBTN2Q5V3NaUEw5TFZTSVFIUHdPVdIBc0FVX3lxTE14cDBPVkswSVh0ejhqTG95N0dFUmVIdER6Y3h2dlc0UE5kUXhYMlJoVVdBZUlnOWFNTG5LeWlqX0xsS0ZfMnhvZi1wQVRvSlRRSnlmY0hVeTF6Mld2UmZBc3BTTmVYb2tyc3E1RHJJTU5OeVk?oc=5",
       "source": "뉴스웍스",
-      "time": "20시간 전",
+      "time": "23시간 전",
       "timestamp": 1779526800.0
     },
     {
       "title": "상승 흐름 국제 금값…국내 금시세는?",
       "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPZ1ZrTFpILXFhV2ZHWXYtcVM1N2YyNWxsZnJHWFZyTVRPaXd3NWtUMFliUDc5X3hUMG11ejBydDQwaTRVUXVpR2VQd0JGR2RUckJWS2hNa1AwSzM0ekVYRTJVRlQzWUZwektfN1o5TDEyWG8zeFZqaEZyZXlQTXRYSlNLYlVfMW9FTjJOQWxnUkN3b1Z4TUZ0RFVSbkJpTXRRSHIza3JHQi1KcXZXQTQ4ejk3blZlNDdYcHBmNUVfSW1HMURvb0dfR1hkaENnYkJ6aWdDTDZJc1ZwSTNiVnRMQk9UdGtXRnN1MDJDVjh5blBDOTlUUDZkaWxGSjFsUGZ2Qy1YX3RzdnhheEw4TWZsSFBpUmlUUDhGdzQ5ZjZBZVpRMmd2eW5EQjZRaWt5S21oN0JTSlVnSkFkTW9Oak1naDMzSFVIQ1haaXR0NnVjMzloR3VuLTktalNHZTM4amxLS2Y0T0ZxSjJBRXFrb09Fek53MHg3NV9jLWxzd1pqLWU3Um9kWVZpRTdPcURNVDAwU0hRczdvWHRZaUFfNVZVSk1DMjM4d2NOREZmNk5SS2pkQnNJdWc?oc=5",
       "source": "MSN",
-      "time": "20시간 전",
-      "timestamp": 1779526127.0
-    },
-    {
-      "title": "'제주역도 미래' 김다현 3관왕 번쩍.. 지난해 한 풀었다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiLW9wOFhNTFotZ0VNdG5fWFpHZE9pX3NnTDdmMDlKWDBuaU5JNlp5cU54bkFfR0dhaXd3ZWgzUzI2Tzc4VUl2WW5lbUVpNDBPOHBsTlMzT3V2TmlGbDluNERlaXpFalpv?oc=5",
-      "source": "한라일보",
-      "time": "21시간 전",
-      "timestamp": 1779523445.0
-    },
-    {
-      "title": "美유가 하루에만 12% 급등해 90달러 돌파…원유 공급이 말라간다",
-      "link": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPa3hTSWl0cmRKT3JPUEsyU0ZuRHk4clNQSmZ6VWh5V2wtSkNmRnBnWXpBbmhBZEdxQ1NxdTF0X3hmTU5wWDhqZkdFa1NPSWREWmptdWdnNDNORVltQV8wRnlfazhORDhCckRLZ2hDbFJhYUc3RGQ5eG1ZcERhT0U4MEZwQXZjLUt2WkpUOWtNcG0xaU1lOUpOR09qTjI0Y0lhQ2dnTU5pa0h2U0NvUFpXVkJMQ1NsQkJxQm1sU2FLbldMc2lRLU5neUJIN3Bka1owOXRoQ2t3RU9FcEM5aWJwTzNnX0pEMHVORHVzUG5ubzFMUm9UNkd6XzNZWVJXeFFueG80dTBoRTBWWUtKNU9DMldGeEx3d3BBY3ZSNlNOWFhzenltZnpDaGVmS0hrU0I2QldINVQ2STZIR1BwdlBCSHFUVEJ5LVB5S1F1TEJDckhXaDF1bDZwZmNhaU9oN3BGXzRsaUl4bFVGakY4UWJ5VUx6UDlVVUZRbVpWWWtkcTYwX21GSkNtSXZhQXBfSnExUVBtWVhNVzdlY29oRHJFWGVoMW5Ga1BQSVZ2SmZKOVRTZ0xrWTloX2YzWGFTY0E2NFZIZFZhdWtyUkZQMF9xcUVCYkRCQUNYeGlWSmw5cUlqRDgxQndDMGV5MndTT2pSa2szYlJhSjB0eFhCNUtfU2Q3bFQxOUVMQVMxOWpyWVowRkpJc1gzNzdHb3dGZ0xiVGVFUzFtWFNKQWpsNndNRWtZMjJoZ1JZVXJOYnpCUW5WRnc?oc=5",
-      "source": "MSN",
-      "time": "21시간 전",
-      "timestamp": 1779523194.0
-    },
-    {
-      "title": "'편스토랑' 신지, ♥문원 '금 10돈' 플렉스에 눈시울…\"얼마나 힘들었는지 아니까\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRHM4aUFfaG5Qd2Zhdi1sd1BtVWI4Wk5LNlRiTGZrbEcydEpabjBzckpMek5hWjZPX2Fickg0clZsYXRxajJGZndac29FVEk2S1Fv?oc=5",
-      "source": "네이트",
-      "time": "22시간 전",
-      "timestamp": 1779521700.0
-    },
-    {
-      "title": "오늘(5월 23일) 미국 달러 환율: 미국 달러는 주말을 앞두고 소폭 상승했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkJHdGtIMm13aU51V1FhdUxRR21qekJqazQ3LVBZMEJpczhwZXh5ZEdVTXlLVlhTWTIyM0VBOGtyeTFSZ09wUlVEM1BuOFVqdFNPN0ZkemxTXy1HNTBvTWQ2UVh4ekp1UmoxWXJLTTg2dVhtdlhCOW5LcFdHZFNsU3Q2ekNEMW1FTEE?oc=5",
-      "source": "Vietnam.vn",
-      "time": "22시간 전",
-      "timestamp": 1779520570.0
-    },
-    {
-      "title": "1냥당 1억 9천만 동에 금을 빌린 후 만기일에 1억 6천만 동만 상환한 사실이 드러나 논란이 일고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUxqcmI1V1FQbUxaaXZFRTNEemNRZThnc1FtTkM2MDUxSGFmUjlnVF8wNjY4Y2w2REk0WVAxNm9XSno2endmLXlwQkR5QWc3bkZIbGU4S3lUdk5aRFdRYUx2WWdodVNyZXBtb1pDRjVTVE40UEsyYzFySFFacVVETVBsSGxsd3NVdmJ4bXhhNHFYNi1HeVBab3lHSEVqNlZrVzhvbw?oc=5",
-      "source": "Vietnam.vn",
-      "time": "22시간 전",
-      "timestamp": 1779518723.0
-    },
-    {
-      "title": "‘편스토랑’ 신지, ♥문원 ‘금 10돈’ 선물에 감동",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxSFJIeGhoMk9PTDljVmdrMU1sNGRzNUZSTW1WMXJFaDg0RFk3N0lVUTMzYkp3Sjg3aFc2S3M5ekJ5VVktUnNPbGZpWE84N3M?oc=5",
-      "source": "v.daum.net",
       "time": "23시간 전",
-      "timestamp": 1779516960.0
+      "timestamp": 1779526127.0
     }
   ],
-  "total_count": 30
+  "total_count": 29
 }
