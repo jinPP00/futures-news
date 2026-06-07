@@ -1,210 +1,224 @@
 {
-  "updated_at": "2026-06-08T04:18:04.670128+09:00",
-  "update_time_kr": "2026-06-08 04:18",
+  "updated_at": "2026-06-08T05:39:10.845893+09:00",
+  "update_time_kr": "2026-06-08 05:39",
   "all_news": [
+    {
+      "title": "금리인상 우려→뉴욕증시 급락·비트코인 6만$ 붕괴…조정장 오나",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxTldNOWc4SGRzclhzYmlMd2lfLTZsM3hfNzcyNUw2UU5GY0hxZFJyZ0JieHRCeENiTmg3c000M09fajBnTmZ4NmRuTEhFMEd6VFBB?oc=5",
+      "source": "네이트",
+      "time": "1시간 전",
+      "timestamp": 1780860900.0
+    },
+    {
+      "title": "[속보]미국 증시, 급락 마감…나스닥 4% 넘게 밀려",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0MHhBNFpuMUVEQjh0Q0Y5M1Zaa05DNVFBWExtN1ZJME9IdEhRal9kWHlMQXprZVBLdVU3Zjhod3ktUkFmTTBfRWd0cUQxak1ueDdSeWRCZFozNi05Nm4xWFMycm5GTDFM?oc=5",
+      "source": "CBC뉴스",
+      "time": "1시간 전",
+      "timestamp": 1780859615.0
+    },
     {
       "title": "오늘의 금값시세(6월 8일자) 요동치는 금값 \"조정 중?\" 전망은",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SNDM0dmhON0k0Rk8xTThtSUpqVVFNXzBxQXIyWXZGV0NOb0dlT1ByNkRQSjE4cmN2emdaSEJLTGFSTFI4czRVS25GTnBnaF9NRFRGSVJxZTJtNG9HMGNQWTMtbEpyeGs3cVBTa2N3?oc=5",
       "source": "gukjenews.com",
-      "time": "4시간 전",
+      "time": "5시간 전",
       "timestamp": 1780844520.0
+    },
+    {
+      "title": "미국-이란 전쟁과 소비자물가지수(CPI) 상승에도 불구하고 금과 은 가격이 각각 23%와 44% 하락했다",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSnFhR0xOM0hxODQyU1MtMmdQZmtiQVhqQmlZR0JxZEt3NXhUMEs4cW83RU1tUDZlb1Q5QVZPcTlLbGVDX1p3NVppbWpXUGlRXzlpODAxTXNNemRpdjlsckloUGJrbzdyYXdGdU9wTFdCQTlYWTJ3ZTdCQm1hR0MwMHhBZmVIbU5qRjBSbkowbXNTLVJCamlJOG5DRi1MaXBjVVhxY3U2OFBUWHJ1My1QSWVSeVVTQTlTS3loUW82UTRKWExjLU9SeG1fWEZRd0o0ZGZHWWZBYVA?oc=5",
+      "source": "Bitcoin News",
+      "time": "6시간 전",
+      "timestamp": 1780843015.0
     },
     {
       "title": "오늘(6월 7일) 금 가격이 급락하여 구매자들이 상당한 손실을 입었습니다.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUVvR21OMUtaamRtNmh6NVZveUNaZExQYnZvOV9hSXgzanY3MTJ2eldzT2Z1alVfOUhSVzZKV1dLTkUzVm1iN2Z3UjVROFNfWWdCU3lURGEzbnRsU0ZzRU01UjlnWTQ4R1hSUkxlWXgtNURvRDVsVUhObFcwaXNoeFlpNzBGMzMtVlk0WnZnc1FVNXhaTlE?oc=5",
       "source": "Vietnam.vn",
-      "time": "6시간 전",
+      "time": "7시간 전",
       "timestamp": 1780836811.0
     },
     {
       "title": "주간 전망 | SpaceX, 6월 12일 나스닥 상장 예정; 미국 5월 소비자물가지수(CPI) 발표.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZaXRXYWY1QnRWNWtsQ25wMGh2OUp2eTZ2ZlZxUE1HME90dzNDQWJVdWxhYndvNzZ4U2hDc3B1TUhqejNRQ2c5ZEF6bHkzVWlQRDJKcnIwREFUelp1WHZabVRMRGFyZEFnN2RGOENJZURTUFBKb3hrc3ltVURSbXc?oc=5",
       "source": "PANews",
-      "time": "7시간 전",
+      "time": "8시간 전",
       "timestamp": 1780833892.0
     },
     {
       "title": "“젠슨 황도 못 막나”…‘블랙 먼데이’ 가능성에 투자자 불안 고조",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14OHJka2dSYXNwM2pRSmZMS0xENEF4eTBXZmxZQ2FQaDMxd29Ca1FwRjk5S01MYTNFNkZTZUw1ZUVLVzN1YXVtUTg0QXRYX2VvcFBmX21IbjlsYlF4cEdVVW9ZRDdJRjJMbzFv?oc=5",
       "source": "대한데일리",
-      "time": "10시간 전",
+      "time": "11시간 전",
       "timestamp": 1780822679.0
+    },
+    {
+      "title": "배트맨 토토 구매 가능 게임 을 선택하는 방법: 완벽한 비교 가이드 - 업계 전문가들의 조언",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFByeWxoQmlZcmlFUHFuWG92cEl3RFVmVVhBUHFwYXZybWlPdGFyV2dQc1I5eU80RHNnTHQyNEItTHRjSnJKbDlUYXMwVkU2T0p3Vk9JWFc0eE9wWHpMQnNBRVM2dDIwSDhVNXBOY0hnWmdsY284SE9xejRCa0o2SUJjdy1zYkQ5WmdPUWZLVlYxdWxGUnFUX2oxVTh1WGFHU0FUSWJQUGpTLTh1N1d5X3E0ajRheGM?oc=5",
+      "source": "kmrk.ru",
+      "time": "12시간 전",
+      "timestamp": 1780820389.0
     },
     {
       "title": "[뉴욕환시-주간] 금리 인상 나서는 ECB…'강달러' 이기기 쉽지 않을 듯 |",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFbGxVV3l0bi12MEZLOFJiTHlKemZ0VE81M0dZQWlQNFUzNHMzdjNvQzFBOXdtMllhNFBRQm1FYVJpVGc2Q2ZhbUV0Q3NHY2VIaHBTLTFCVkFtQ0I4RWlHVzJVNHJvZXM0cGFGd1BYcjRpYXdQ?oc=5",
       "source": "연합인포맥스",
-      "time": "13시간 전",
+      "time": "14시간 전",
       "timestamp": 1780812743.0
     },
     {
       "title": "미 반도체 폭락에…코스피 '검은 월요일' 긴장감 고조",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tcHJWbkZaQmFoa1FLU0VRQlo1QWRoSEVfSFpYSXpER1hSS016UWVSN3NKNmR0WXJjS0pzMmdCS2RLR25HVENKMlVLNUlza29ocEU4UFE1WWJWdWUyZ201MTVKN3RpRXRld3JHTQ?oc=5",
       "source": "스페셜경제",
-      "time": "13시간 전",
+      "time": "15시간 전",
       "timestamp": 1780810529.0
     },
     {
       "title": "오늘(6월 7일) 미국 달러 환율: 자유 시장에서 미국 달러는 소폭 상승하여 26,401 VND/USD에 거래되었습니다.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlZsZjUxcnJLNXY1Zm9tMkR0eEZpWjVuUXg4Y2JzbFd3eEpzOUF1RW1fOEJrdFhhRmdWcDRNUnA1WjNXZWhxZXREUzc2M3lxdEM0cVF0bjRWdDBzR1ZMMG9sa2ZPSllyRDdmYjk4ZE5fY3EtaDFBMmZfSUZaNzhFSUw1dm0zdFVzX1d3Z0NPdzBJOUtLWWVaNXpqd1J4LXhiSndDQ3FZdzFXNlZBWk5YY3Vn?oc=5",
       "source": "Vietnam.vn",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1780807653.0
     },
     {
       "title": "금리인상 가능성에 주식·채권·금 동반급락... 트럼프 \"금리 내려야\" / YTN",
       "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxORlNIcXlqQ3owRTJuM19FWUlRMkowMFJRVWlXd1ZiTGFvX2puT2F4dnJzRHJiYllEQ2hZT2d6Q3VRbWhsakVQc0p4cTNmTm5yOUFYakRDbExGR00tZGlFdnc1cmhaWS1WRVRZVFprSVlBRVowU0E5WTYzVEJqSml1Vmo0QnNlcnRSYXJRNWs3aWtZRzRSaWRyWlRCNUVTYWhHdkpWUThEaV9ZNERjNmZyRFJoVDJaNk56ajI2Q3Uzb1JYbUYwVmF4dFl0aURIeEdwRUFvS0lXNHl3d1hKWlhjVjkzQnB5aVBmZlItLWZERlBLREY2T0NzTlNvaV9hd0hHeTZfUzN5QWRZR29feE93VmdhTHBsOGxNQlZab2NrczdjTmI0U2R3bmRoUWVaMHYtMXA5WWtFQi1SY3BtdGFtM3VqaGc1QW5rTnc3cml5Ml9KWmpNeFduSVhiSjdLMGN0Zm9HYkVlVG5tdkNPZjBsWmk3b0VmdlhpU1dDcER0YjM0T3MzU0I4U2x1VXhEeW5KNExYT2xGTVVXYUhtMXA4N3c2NzV1WHVIX1E?oc=5",
       "source": "MSN",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1780802092.0
     },
     {
       "title": "美반도체 쇼크에 삼전닉스 긴장…코스피 '검은 월요일' 오나",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoem9NVWtGRkV6RXkydnp2ZmNZd3pQRXkxbEFDcVhZcGkwWmtTVUgybllORlhDalBZMWhwVTZrVDhkQjdpUzJsM1NrUENmeUZzUzNOVE40OWxmT1BJVGQxZk96V0YzWGlVWjItY1NqMGdFc1I4ZTA1MNIBeEFVX3lxTFBoem9NVWtGRkV6RXkydnp2ZmNZd3pQRXkxbEFDcVhZcGkwWmtTVUgybllORlhDalBZMWhwVTZrVDhkQjdpUzJsM1NrUENmeUZzUzNOVE40OWxmT1BJVGQxZk96V0YzWGlVWjItY1NqMGdFc1I4ZTA1MA?oc=5",
       "source": "뉴시스",
-      "time": "16시간 전",
+      "time": "17시간 전",
       "timestamp": 1780800198.0
+    },
+    {
+      "title": "6월 7일 아침 뉴스: 주식 시장 투자자 계좌 수가 1,300만 개를 돌파하며 새로운 기록을 세웠습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXl1TXhydmFhN1hHZXlpRjlWRlZ1Tk1BRWlOQmt5N3haVjlWQ3MwNTNOWGJ6WC1KRDR2YlFKMWV6RWY1RW5NYVJRRjFyU28wRGZMZHFZcGdLcGNqX2xNbWZFemREMWp3VE1Ec1VSSUhaOFVqNEpOR0taTG9qMEQyTTdiVGcwUWNUNVBMR0NpTEk4Z1RGSWRxYUFBNXl3WGYtLW5rb3Fiaw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "18시간 전",
+      "timestamp": 1780798406.0
     },
     {
       "title": "금 가격은 일주일간의 변동성 이후에도 등락을 반복할 것입니다. 급락 시 매수를 서두르지 마십시오.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONE9JMEVjRWtqdE9uZXhFaUl0ejBDTTJINXdfY25pTTVoTE1QQ0hyOG5IVE5od3NzYjg0ZUNibURadG41YmUyelhpeUpNSERYUGhfQ3h4WERyeWY0aTZwNHlPeHJJWHRqaEI3WDNTZXVwNnJQZkpZXzJsOHV4QVoxTVc1Tlo?oc=5",
       "source": "Vietnam.vn",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1780797769.0
     },
     {
       "title": "고환율에 달러선물 ETF 강세…환노출형 美 ETF도 앞섰다",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzBCVWJnVXAyeFQ0UzBELU5uV1RfY1oxTDVpbHhZcGVfYko3MjBYMTZjLVBfSzEzbi10R3NOcmk1c1ZLR1BxY1FlQlFxOGwyc0RZNVRRaEN0NXhySnBjOXA1NFo4TlNwTWhkajFmR0lJbjR6aURtZW96Tm9NQXR2Ng?oc=5",
       "source": "이데일리",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1780797248.0
     },
     {
       "title": "오늘(6월 7일) USD/VND 환율: 암시장 급등.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUh5Y21VRldROU5MX1UwM29aRGpnTTFFa3hqNE9QT0ZfejkzVjJVaUpiaEZfTVNDZWVIeF80VmhtbjJpdklGV2M1ODZEVXNJSVUwYUY2ZGcwT2V1M2R1RWRqcHBnakVfVjBxSWNFaXFZc0wzQ2R4eDFnNWp0bUJ3QnpVRXRhbzg?oc=5",
       "source": "Vietnam.vn",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1780794817.0
     },
     {
       "title": "주간 금시세(금값) 전망... 가파른 매도세에 추락한 금가격, 반등 가능 요인은",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVUh3VlFNTXdBUDVRUGlPQzctdEhxNE9valNIOFkyX2Fxbmh4SGxLQkE1TXB6blU3ZHhxRHZtdU4zZXlXdkZuVXhmdFNnNDJIOHdOSmVR?oc=5",
       "source": "위키트리",
-      "time": "18시간 전",
+      "time": "20시간 전",
       "timestamp": 1780792680.0
     },
     {
       "title": "6월 7일 금 가격: 전반적으로 급락.",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdnJsbGNSX0FtZDM1TW1jX3p4dHQzazdsZGFRZy02czhfalF3M3JIMlQyUl8xZnU5VW1ST0JyVElNS0lTcUllOWlDSnNmOFBXR1dVSnBVMGVSTm1FQktwRDRyeE91OXg4NFhTeVZ3?oc=5",
       "source": "Vietnam.vn",
-      "time": "18시간 전",
+      "time": "20시간 전",
       "timestamp": 1780792367.0
     },
     {
       "title": "[오늘의 금값시세] 2026년 6월 7일 g당 220,370.17원·1돈 826,388원…국제 금 하락",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQWx3VlY1YnVoemdfOUtQY1hDejVBeG5aN1lLUnVCODlYREZmTlY4cGt1aGJpbEVTZDcyTnh2eGgwdGpVM1pFYjFBN0pnOHpPZ2hENkFsRUl4aEhtb0FUV282MDNMLXVwLTUtMQ?oc=5",
       "source": "민심뉴스",
-      "time": "19시간 전",
+      "time": "20시간 전",
       "timestamp": 1780790430.0
     },
     {
       "title": "오늘(6월 7일) 금 가격: 급락세가 지속되고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuaTN2bFNIZzl0VDdhVWxHczRpZDc5V2FyRU4zNEp0SHJVczlGbVRJWV9WV1JrZDhwMUI0dHBJM2VwWDlwUWVBVmxkeFlLd2xZWVpqYWpsTC1meFZSRWpMQTF4ZURwbU1HUTRGbGp5SDhKU2Q3MlZR?oc=5",
       "source": "Vietnam.vn",
-      "time": "19시간 전",
+      "time": "20시간 전",
       "timestamp": 1780789910.0
     },
     {
-      "title": "\"스페이스X 블랙홀 되나\"…코스피 흔들 변수에 쏠리는 시선 [주간전망]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXYU1RTHpMYmt3Q1VaSnpmLXI3V1BFWlYxVVZVZWsySFQxaEtSTVhTNEVxVUk1VU96QVpLWUU2Ulg2VmNpSDFoTFc5a2o1YTBldThqWEZELTAwZ9IBVEFVX3lxTE9XWGJOMkk5cnp6d3doMW1BSURxeVJIaUZTYWE5VkFLS3RzMnVKS3FVaWQwWDk1Q0dHTkRhWU1hcTVOM3RhNW9Xd0Y4a082TGJUaHZnVA?oc=5",
-      "source": "한국경제",
-      "time": "20시간 전",
-      "timestamp": 1780786805.0
+      "title": "\"스페이스X, S&P 500지수 편입 2028년 이후 가능 전망\"",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hLW1fS1otcVgtak12d2N2aThrUzJFSm9LMDNtalhSTl9yZXd4V3J0UU00eVRWRC1USzNET1I2RVZpRTlQVUZsNmpIZElJTHRVQ29kc0FjTXc?oc=5",
+      "source": "SBSBiz",
+      "time": "21시간 전",
+      "timestamp": 1780788900.0
     },
     {
       "title": "오늘(6월 7일) 미 달러 환율: 미 달러는 이달 첫째 주에 1% 이상 상승했습니다.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjhkZnV2OUZrQ0FyMVp5cUlHZE1KaXZxSEx4VEM2WmlvZURSZHVmcjJoOVR5T0d5NWkwdk82WGFhdzJSNEZGUm9ibTFSTUN1bGJmNWM5UVdxWFlmd20tWEdEdmJhcXg4LXlXeFRZc1JWSzdOV3B0QWNBWG4wMDFHMHplOUUwSS1nQnltMjZMT3UyUkU?oc=5",
       "source": "Vietnam.vn",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1780786565.0
     },
     {
       "title": "미 5월 고용 깜짝 약진에 금리 인상 불안감…시장 요동",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQVUQ0d09lZkpPQV92WVg1WE5pSWU1V3R4aUhXZFQ4TTZfU3RpTGx4c01VSVhxTEhoOU5DdndOcXBlN0JTRXRieDRFaHFBdmxBNUNlMUEyc1VpWkptRjRWM2F3RDhrOVNqdzRKQQ?oc=5",
       "source": "세상을 바꾸는 시민언론 민들레",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1780786500.0
     },
     {
       "title": "오늘(6월 7일) 금 가격: SJC 금 선물 가격이 온스당 1억 5천만 VND로 하락했습니다.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWHZpdUVfb0E2cy1OcG5ncWw4UGZsOGdNeWNxU0VJV05NcUJZYTNNY1JCZHluY1RDRWhoaW14MTFjYnNnVnVLUEhlZUlNYVJfSXp3NElDUXAzYTZodms3c2tYQlpJVHVUelBZQjUtVEt2SWtpZDlpUTBHNGwwVkZQQ0l6c0ZtcnE5d0Zj?oc=5",
       "source": "Vietnam.vn",
-      "time": "20시간 전",
+      "time": "22시간 전",
       "timestamp": 1780784551.0
     },
     {
       "title": "[중동전쟁 100일, 한국 경제 흔들다②] 배럴당 100달러 공포…'유가 쇼크'에 떨고 있는 韓경제",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4b0I4c240ZFRFZkxreTFFQlVMMVRGbk1WLURrNzhndDQ1Szd2bThTOTlBWWZsdS15NllnTFQ3Sl9qTEdoQlA4bEZya0ItTXVOOU1UUlk0c1RSUWdvOXp0NEZQX3BSQ3RFSHfSAW5BVV95cUxQUG84TENXbEthMzhBN0ptbVJ4Z3N2LV9ZUGhLLVBtZ0tfeHNyNVZveXpTXzRYQ0xaeUwxWHV2cjBiblNiU29yWkVJLWtOazc5VnZWcV94elB3NkFEVC1NV3BMOWFqbEd5T1dsWV8zZw?oc=5",
       "source": "뉴시안",
-      "time": "20시간 전",
+      "time": "22시간 전",
       "timestamp": 1780784380.0
     },
     {
       "title": "오늘(6월 7일) 금 가격: SJC, BTMC, DOJI, PNJ 금 가격은 계속 하락할까요?",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWF9zaTA2MUY0WC1hUUNVU2VjUkRzbE45NDFIai1oRU1SUUtBRlJ0MV80aU9ROFozS2lrY0JMaGgxS2Fmbl9nQ2h5WjJqMU9ZcnFkNVRhX2NOaFQxSnpLQ19ENUJvN2dTQXVhVmtaTkQ0bXFabFM1Zy1jUEQxSFYzY0VoS2Q?oc=5",
       "source": "Vietnam.vn",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1780784051.0
-    },
-    {
-      "title": "\"스페이스X, S&P 500지수 편입 2028년 이후 가능 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVJnWWdjb2xabE16OUdvZEp5QjhFZmZTOXBCUU9BZlNwbHM2UUVjTGVzc2Y0SmNvOVlJbS1Md3c5Yk5DaVdhQ1h2ZmhvTWRlWEFVbWx3YzJFLUpGS3BjdHl1U04tT1laMGNyeWpVcWJYT0hFLWdJdzFkNmNtVXpZR3JGdw?oc=5",
-      "source": "YTN",
-      "time": "21시간 전",
-      "timestamp": 1780783200.0
     },
     {
       "title": "[뉴욕증시-주간전망] 물가, 금리 인상 쐐기 박을까…'대어' 스페이스X 상장",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BX1BmVS12eHo1b2lSOTVCT2ZaZHZKQUJRTkt1ZHVxSHpnQU5Ec0p5bFhUdEZPd29lVW5BdHB3b1RsQ0s5SmgtWXg2S1F2YjdJQVU4c1B2SXBmcGY1QTA3bNIBYEFVX3lxTE9BX1BmVS12eHo1b2lSOTVCT2ZaZHZKQUJRTkt1ZHVxSHpnQU5Ec0p5bFhUdEZPd29lVW5BdHB3b1RsQ0s5SmgtWXg2S1F2YjdJQVU4c1B2SXBmcGY1QTA3bA?oc=5",
       "source": "연합뉴스",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1780783200.0
     },
     {
       "title": "오늘(2026년 6월 7일) 미국 달러 환율: 암시장 급등, DXY 지수 100포인트 돌파.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmVtN29JajdDWlFKeVJoZ2ZjRnIwcnlHZ1ZUNWtpOFFicU1IV3U5VzUtc1dST085OXdLQnJqanVHTWUxZzYySi1mQTkxa3E2SHlTY01fQzk1N1pEc3Nnek1CVkpXV2xLVTZWclpZMWtvLUkwbjBOTURFNkZ2MkNldVA0NlZCYm1JNE5kdGdqenhoQmxPWUtz?oc=5",
       "source": "Vietnam.vn",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1780782516.0
     },
     {
       "title": "[주간증시전망] ‘AI 인프라’ 주도 계속될까… 스페이스X 상장 ‘빅이벤트’ - 조선비즈",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcU4xQ1lVV09YT0VBbmluQ2VQbWIxb2NHeTVKVEt1QjdMcmdiUXhfTm9RTkhQLWpNbk55VXFDRFlkbG9rYlBZMDNQR3Q2T2w1bHFKQ3lveDBFeFY0dXpOWF9HLWZITmJ6YURxQ3VnMVNpZER2RTFVMTZvelFkMWx0Smpfb0lqUzVkNjVQTy130gGiAUFVX3lxTFBBTy0yMUdwcndjSmhRZ2cxbWtNV0JfZmV2UWxaS0J2Y0dsVXhLc2pvLWNSbzlGU2dRRUVWSVU0WjVDWnF1SzMtV1FDQTVzaUNaaTVURzFEczNnMmI2T05PbGtnQThIcS1XQ1VPZUtqaHdFWGFRZ2VCM2RaVGRJaVFVNmtnaDE2MUZTTVJZX2QxQlVaMHBYVVNlVVFLYTNfdDEyQQ?oc=5",
       "source": "Chosunbiz",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1780779857.0
     },
     {
       "title": "[주간증시전망] 'AI 인프라' 주도 계속될까…스페이스X 상장 '빅이벤트'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82M2lHNDRZdGpucWQ4X2ItdE85M2dnNk1RR2YxUnlHZkhwblVvM1pvRkpjLVFGbUhNZEZZTjhab2tTaTl3bC1qdnRZbzZnVzlpWDRqMzhFa3oxbDQxUWNqYg?oc=5",
       "source": "네이트",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1780779720.0
-    },
-    {
-      "title": "AMD|Advanced Micro Devices Inc|가격:466.380|Chg%:-56.82",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HXzhaS05uNEJfaHBVUlRRd1hYTDkzckRxNXVQX0lzX0M4VzVPTVA5VmJENVZrd2JPcDBVT1lfaUw4WjVFN1JHN25KdWw3c0ItQ21oQVlyUVRKU0VoelJCVjJNTDltZw?oc=5",
-      "source": "TradingKey",
-      "time": "23시간 전",
-      "timestamp": 1780774666.0
-    },
-    {
-      "title": "\"스페이스X, S&P 500지수 편입 2028년 이후 가능 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByNG5aODc3QmhONFBwUEFpZkRGQ2RzUmFXX0pIR2s4Q2JNZzV0Y1Vfa0hnZDBWcGpqd2pEV3dXZFhyNkpFaUNiYnZtaHh1Sm02OGc?oc=5",
-      "source": "매일경제 마켓",
-      "time": "23시간 전",
-      "timestamp": 1780774137.0
     }
   ],
-  "total_count": 29
+  "total_count": 31
 }
