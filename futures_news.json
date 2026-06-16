@@ -1,356 +1,356 @@
 {
-  "updated_at": "2026-06-16T16:43:47.818890+09:00",
-  "update_time_kr": "2026-06-16 16:43",
+  "updated_at": "2026-06-16T21:44:36.798711+09:00",
+  "update_time_kr": "2026-06-16 21:44",
   "all_news": [
+    {
+      "title": "뉴욕증시 프리뷰, 美·이란 평화 기대에 다우 또 신고점…스페이스X 시총 5위 눈앞",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUFhjRS1xTW1HbndTN0xibms2TkZpTG4xdVhtZ2NPZWRQbFVoNnYxMGlVbDJHbVBjUlZWYXFhY2V2RG5QVko5RnZlX2pmd0FwZ1REVXVGZ3dMSVhM?oc=5",
+      "source": "뉴스핌",
+      "time": "23분 전",
+      "timestamp": 1781612460.0
+    },
+    {
+      "title": "TSX 선물 소폭 상승…미국-이란 평화 협정 세부 내용에 주목",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XTEl5eHJUV0xQQVZ3TVhTVy1ZYllzM2d3eW1PV3lUbGctVl9mdXdpdHJvbGdxQU43bGtidC1FQ3RYdm1NVWJvLU9pWHBWSVZOU0VXRFlSbXdyaEFEUi05ck50dUZlV2xBOVp6UWdycEE?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "56분 전",
+      "timestamp": 1781610480.0
+    },
+    {
+      "title": "아시아 금 가격이 4거래일 연속 상승세를 이어갔으며, 미국 달러 약세가 상승세를 뒷받침했다.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHlNNHJJdVpiaFlkbTRKek10U05PRmJvOEVNT0RNNmhiX2pRVWZqUWU2a1lwZ2lOSFJnVU8tUGJoVVpzbVJIMmpSbGU0ZGFhVFBWaWdLT3p0QzhabnZ2TWNMaE5nUjZPWFhrY3p5WEhwbWgtbUhkdVJNSXZ5NlE3aVQzRmFXc0lENElyb25hQzlqYV8yaVZtV3lhTzhsTkk?oc=5",
+      "source": "Vietnam.vn",
+      "time": "2시간 전",
+      "timestamp": 1781603315.0
+    },
+    {
+      "title": "코스피 2.11% 올라 8726 안착…외인·기관 2.2조 쌍끌이 매수",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOeVJPRE9NUy1DM0lXc25uTVFsTzdfcS1Qd1RPbmVrWUFkWWMta3ZNaWlEcUlvYjQ3MHVoNmtzSjVoSE8tNEloS1NFM2I3OGtYcG8zempBS1JkbzlxVTduZg?oc=5",
+      "source": "더커넥트머니",
+      "time": "3시간 전",
+      "timestamp": 1781602980.0
+    },
+    {
+      "title": "이란 핵 협상 틀 합의로 달러 약세…연준 회의 앞두고 유가 하락에 NZD/USD 상승",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQNXA4UXhWU2NwVnR4WmVBTEZYVTB1ZDFya0lwektsRDdpM0JmUXlxeEFYQlJSd0NtZkJzVTdyaHUzdFREa2lDVzhQOTkyc2NFRlJnNjRZWmstVFBJN25BTnZ0R19XcnprSDItN1FkYjhnQ0RBV2ZXWUVQc0M2UUI2UFlUYXZOUFBMMnZ3RVBqeTlEanBYX1FrRl9HendrRlRDUkVaLVVWejlTN1JPV04wcTZPVTVZQi1MN1N5b1JESHFwNEQzeEdvRTVHb1MxaGVPZ2lZT002cE1tVDN6YnJpMEM1N185Uk1DSm5OZWtERXlJd3FQckpDYUJSS0pDalpQRzBrX1hZOV9YNEZSR0NxbzhNbUNHNTV1cmFacGU5MFA2UlVSV0hwVW55QzFyQ054MkE5NWo2SGRUSld0UTlKdU5RWnJUYXJMZXRqX3pOSVU?oc=5",
+      "source": "VT Markets",
+      "time": "3시간 전",
+      "timestamp": 1781602712.0
+    },
+    {
+      "title": "미·이란 합의로 위험선호 회복…달러 약세·유가 하락 속 금값 4,340달러로 상승",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSnNmdTU4YzFKbDFZWkQwZjMyV0RSMzhXSE5pMmhwV3o2Y3E3R1JZTUgtMUwzTDJhVzZBOXluVm1UUUozVjl4Q1JfdHppOWxFTmc3STM3UGZxRUJnYlVka3hPR1dDaTA0NnJsTkZpWmduYlJjU2UzSExjZGNBbGpPbThWOHZfaG1MWF9CMjE3NHNhV1RtTldNZGNVS29fSUtlZFNQNDhXa2RGUm0tYUFxdUpvVFFRTWk1TGtveUxyTnJ4N19hZjczcW0tbzVHODFod3gzTzl0bUhKRThMYnJaTHlhbTMwUXhpNHUzTWVvbC1aTHV0OWN3NmpubkJaWi0wZlBON1U4WXAwT1NvNmdxUW1uek9WSU9SRTluMzh2b1JBaUxENl9nVnpWejhDcjlsazc0eHV5bTJFbGpCbC1rTmhxTXBPNS1meDRLMXRwam8?oc=5",
+      "source": "VT Markets",
+      "time": "3시간 전",
+      "timestamp": 1781602115.0
+    },
+    {
+      "title": "연준 결정 앞두고 달러 강세에 EUR/USD 하락…ECB 긴축 기대가 유로화 지지",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPX19Td0J5X3p0allMNko0bkVkNjdudDJDZ0doZVgzYm0tZzFWRFZlS0ZtN1RNdHJtNjhBaEFPNnUta1d4d2lyY0MySngxUExhVG5iQTFaVHRpR3pHUFYwM0dmYlA1V3Z6NkZaVUxTWHR5TUxjRlJ4cXJGOUl6VFpMUTBNM2ZBbGFsZVAzZ2tJYURJSnlEZ2dEZkZ3U3JMZU9wcXNtOUlZMVllUWdZNm1BMzZyZXBVVjhVbl9xZFpvUXZBa21DOHBxT2VvbWdPQlpZT204aGVRTVhwRjk1dTBnY3ZVNDlaX2hERHVtY09QZUYtdnNMN1J1ZjdNRi1YQ0R6WXBra29TVUZ4YlRBMExFWVBLM1ZfLWpUVkRGNEg0b1hMeHpWMWdKUU9PazBNNllJRktxVENHMmZ6bmJ3dll3WjhrMzVubUE2MHlsXzlmSjVhZw?oc=5",
+      "source": "VT Markets",
+      "time": "3시간 전",
+      "timestamp": 1781602107.0
+    },
+    {
+      "title": "미·이란 합의에 위험선호 심리 개선…호주달러 강세, 시선은 Fed·RBA로",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQUGNJOXU3bC0yaWFfTmdmaVdGS0ZaNVlFWi0wQmUtbmNkT2RPckptQ2Q1Z2tGTU52eVkwWmxTRF9HRGJIbzFYSUg3ZHg0blJrMmJuVG0yS3g0VUNCV1o5MXJnUkNwS2thUFpRN1VNcENfMS1QZlFSeEVDdVVWVEQxamxLUnhjUTRJMk1UVXA4bFZzanFZeHIzOXk0NlYtTGQzNFpzMnEyU0tTS0tiaklwOXZkRl8zaW5VaU9GbEh4Y1djRmpyN0pMSzlJdGZyWFJ6NThkb2hTbDdHNTI3ZEp4cERDbHRzYVYyZ0FsQ2lXd09icWxVcU01UnZVcG1GM2lLZjh1YVVLVDdOS2ZOSU80b3FuajJnd2lObkZ5ZVBxaDhFM3RYNGtWUjljQ081SU1VTXBCRlRLR2YyaEdEUWxSVGhOcmtQSlQ3Q3k4Z2dSWmlvMG9f?oc=5",
+      "source": "VT Markets",
+      "time": "3시간 전",
+      "timestamp": 1781602098.0
+    },
+    {
+      "title": "6월 16일 오후 금 가격 업데이트: 온스당 1억 5100만 VND 돌파.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0RER1F4ZkFZNEp1X2JTV2NRSm1OOUxZVlhEZENUbUUtazF2NE9OdndQSlNmczB5ZXBLdS1Bb0djV0FXeEtPak5hMDVoM1F0VEtWTVZfSWJpcDNQbVJ4NXJHNktWTUdENEdoOXNseEJqVGF2QTkyMFY5N3Jma0llWVVJMmMwOGhDOGFGVg?oc=5",
+      "source": "Vietnam.vn",
+      "time": "3시간 전",
+      "timestamp": 1781599692.0
+    },
+    {
+      "title": "오늘 미국 증시: 금리 하락과 연준에 대한 긍정적 전망에 힘입어 S&P 500 선물 상승",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFhxYnNxeHZvSGdQdm5LWGdCWUdxNW05S1lfNUdxTEI1akkxWmdNU1pBQmJEVWhUd2I2NE1zNllIOS1YaTh1MWZ2dE5yZDFwRGxOS2hVZjRjdjdTTkpNbnFRZFdtcTVwS1R2dG9zLWFLNWZOR09hUjNrNHliMzFEdlZfVWXSAYoBQVVfeXFMT29aTzVMa3FyYmVUTUlxUU1qMUsxd1dkYXNzTTFvWWdZUmQ0aFllc2Jfc0ZRdzZxZXhMRXhnRVNBX0t4QzA5VmM0YlA0OXBjZWZIanZ6NzZVbnhfTzRoSF9wZk1kMG9DazhQTE1EajFNejlaUXdTR0ZJTEc4OExBUE9rNGotMjY3cXN3?oc=5",
+      "source": "simplywall.st",
+      "time": "4시간 전",
+      "timestamp": 1781598993.0
+    },
+    {
+      "title": "종전에도 힘 못쓰는 금·은·비트코인...“바보야, 문제는 금리야”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kcHh0dFJkNEM1a1dEbnVkWVdCZEFEUWRTbzhFbDlxRVdwRk5UNzNxTVhidUh0SmZKSElpR2NCOW41RldnMlc5NUVUSXVSczZLR0I0Tw?oc=5",
+      "source": "v.daum.net",
+      "time": "4시간 전",
+      "timestamp": 1781597141.0
+    },
+    {
+      "title": "종전에도 힘 못쓰는 금·은·비트코인…\"바보야, 문제는 금리야\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52S25SeVBRUHZScFJWZGg3bkoxdkNaNTVSWTM0Vl8wOWlMbEkwd1BxVmlieF9FVGpWdzloSFFYNzFTVGZESW9hV1Vnc25kM3dnYmZr?oc=5",
+      "source": "네이트",
+      "time": "4시간 전",
+      "timestamp": 1781597100.0
+    },
+    {
+      "title": "금시세 가격 상승세 지속 여부 전망 총정리",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tY09OZHlEdUVaRUxmOXZiUElJQUNPZlZDcGhkNzVhSHV4WHJDbW9BSVJFQllONnpnUlFPZjV1YWpTaERldHdsczhnS0tZbmJnaENrbg?oc=5",
+      "source": "브런치",
+      "time": "5시간 전",
+      "timestamp": 1781595371.0
+    },
     {
       "title": "6월 16일 정오: 금 가격이 5일 연속 상승했다.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnWG92anlRZ1E0WkVROWs0VkdiOE15ZVVOYmNxdmZWSHh1ZWJLX0l4dzNadld2ZlJUYUk3Q0RDNFhNQlpSS0tMRWh6NEg0aVR5em5uZ3Fkc1ltWXZ0UnBwbFRKX2FmenV2dldjcE9pWDlKTnB1bTNlZw?oc=5",
       "source": "Vietnam.vn",
-      "time": "13분 전",
+      "time": "5시간 전",
       "timestamp": 1781595007.0
     },
     {
       "title": "[EBN 데이터센터] 국제 금값 숨고르기...국내 금은 오름세, 은 선물은 급반등",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wNS1SZzhFQ3AzWU1IakhvNGdOTUc2amdJbkVBclRpZXlGR2FNWUZHaHJsRHRKaUo5ZU1GSVlFVmlQMFltak1RQXl1WWVRWnlPSkJBeWhMMnVtaFM2RFlveVpEYjYtVXV6?oc=5",
       "source": "ebn.co.kr",
-      "time": "58분 전",
+      "time": "5시간 전",
+      "timestamp": 1781592300.0
+    },
+    {
+      "title": "20% 폭락에 1500억 던진 개미들…\"지금이 바닥\" 고수의 조언",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTFuaXhERW5yckU0elQ5YVo3bjZJWHNTbndqRDMtX0dCek1ac09BQklIQWRkZ2JpajJCbURMOGFMeFk4NmVEaTBHNlF3N3E2cm1zcTdQd2NNa091ZmlxVnJYY0hwNVZoS2RtOU94U25HSmQtTWVIY25ybVhVcXdaczdaWQ?oc=5",
+      "source": "네이트",
+      "time": "5시간 전",
       "timestamp": 1781592300.0
     },
     {
       "title": "[자막뉴스] 종전 합의에 유가 무너지고 증시 폭주...머스크 또 해냈다",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tQXZsWUhJSzdta1ZSQUlBVmhDTXlMS3RWcndIXzZ6dWxiSFVYZzhvbjM1ZElDbmdRTnhDdUFHaWVQZlg4UWVoWDJTS1NMVkZLMlNlLVg1bjBpMndIeHc?oc=5",
       "source": "YTN",
-      "time": "1시간 전",
+      "time": "6시간 전",
       "timestamp": 1781590680.0
     },
     {
-      "title": "20% 폭락에 1500억 던진 개미들…\"지금이 바닥\" 고수의 조언",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qTVlLdnRVcWJieGlZUmsxcnlYUC1XeXZmZ0NJTGhjSVRQOW1UM09Zai1LcUd5OFhrV2oxejJsUU9sdm5GSzRoc0dSQjdsMkFicWk3SzFpMFY2QdIBVEFVX3lxTE9jaWF3Tlg5UER6YmlnX3FicVozM1VTZldubTJYaWtHUmJwSVVpTHVVQ2pRbUswUFBUSHYwMEd0c2IxNGtvR0thQTItemgzMVFacXk2Sg?oc=5",
-      "source": "한국경제",
-      "time": "1시간 전",
-      "timestamp": 1781589566.0
-    },
-    {
-      "title": "2026년 6월 16일 정오 기준 금 가격(9999): SJC, BTMC, BTMH, DOJI 및 세계 금 가격 목록.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkM0TGV1M0tuTjAyTXNXWmc0eHpXZ2hvU19VbnJGRlZLTVFiWXhSVmNjQlZnMUtFVkNUbEpMelNwd0pjTFFVc19Cbmpudk9sTzctcUdVOXhjYjFUTHBORF9zekdrd2ljWkEyWTROWmRHN1hpNEZadmhGbnBEX3AxbHBJR3BjZktGNFhrUVBTLU9kN0ZUNnEycUN3NVBKWDlFdndnT29kS0lsSWtac2l4MjZn?oc=5",
-      "source": "Vietnam.vn",
-      "time": "2시간 전",
-      "timestamp": 1781586826.0
+      "title": "전쟁에 울던 금값, ‘미·이란 종전’에 반등 기지개 펴나",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkNua2hoOGpCM29pekFKVWowTGlhNHVaY2g0Y3A0dEpxMGwyRzBrTGlNdzgtcFNJcy1pbE9NeXBremdJR1g4NDduU3FsWG43eUE5V21BcWhyYk9nNnQ2RmpZTWJJYU92Sk5pa0JMMVo1cnNFeGZ6U1AtVWdETHlvMlJHa1hwZw?oc=5",
+      "source": "대한경제",
+      "time": "7시간 전",
+      "timestamp": 1781587700.0
     },
     {
       "title": "간략 요약 16-6: Xuan Cau Holdings, 주요 주주로 부상",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREJERWFmaUdfRk8xbUloeFZBeFRVdno0YU05dmVwZ1A0b1Q4NmFLU0FxZGRGakZxWlhWakpnWmdHcTA4QUxJdEdVQkVKOG8xeHZzQ0lXdHF1M1p4eWdxY1MxOWZBRjN3Rzh2TVBVejVQRXgyTFZsMEdON05Ca1paVFVpT2Z2WUxfb09OcGlsb1NOUWRYUWo1TVl6MzNDdw?oc=5",
       "source": "Vietnam.vn",
-      "time": "3시간 전",
+      "time": "8시간 전",
       "timestamp": 1781583976.0
     },
     {
       "title": "[글로벌리포트] 국제유가, 美·이란 종전 협상 타결에 4%대 급락…3개월 만에 최저치",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YN09OOG9pQVhPTHIxMU9FNjQ3bmhpd1RacDZGQUpSbldWd0dlQXpEeHd0SlRzUlROMHBjN0VhQ0JiejFTVFIxZXJESDhXSVhXb2lPc0djMmJNMlFtRDJKNW1MSVZBOVQ1OFJ1SGFR?oc=5",
       "source": "코리아포스트 한글판",
-      "time": "3시간 전",
+      "time": "8시간 전",
       "timestamp": 1781583023.0
     },
     {
-      "title": "오늘(6월 16일)의 미국 달러 환율: 암시장에서 미국 달러는 약 26,410 VND/USD에 거래되고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOazNnVXdIVGRQOWhZeU1VUTNLWjF4SURVT291aDNTOGNRTlpOQUJMY3hwTDV0Qm5HbVQyZndsREM2bkpuRlNWTExOdWY3NjI3Mi1jRUo5a2N0bHpQcUdxNHhTSEpPbExPZU1FeUNjbDFQcTdXMHhNc3hWQV9GTGRhR3pXc0IycG1OYTdMSHFMd0dvd2dxM0lDSDQ3UlJJcWppZFlv?oc=5",
-      "source": "Vietnam.vn",
-      "time": "4시간 전",
-      "timestamp": 1781581280.0
+      "title": "미국-이란 평화, 석유 가격 하락, 금 가격 상승",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZcWxaaENWZG1hNG9ieWtOYWl1UVBZdjBCOTJwa2tZamhPa1gwMnI1NUd6T0JGdEFXS282X3hQNV9yek84VlU00gFCQVVfeXFMTy12NzRjT3B5OV92Ny1oRkNjaXo2ZlJMRXUtVi1WaUI0dWVTZmFzUGhQWWsxRzJkQkpUMFlPWTluRFJn?oc=5",
+      "source": "VOI.id",
+      "time": "9시간 전",
+      "timestamp": 1781581242.0
     },
     {
       "title": "미국의 제조업 활동이 5월에 둔화되었다.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uYlJJeW5rQ2JzUmhTbHozSGY3UGNCZTllS2dKUjM3V0QtU3dnV1RTV2VjYTJ2ZTRZeXRnaEpYWHR2WUxLbnI3cGsxTjJTMWVpeXMzVlpOVDBySW5YMFd5NUlvMnRxV2xEdnc3elI2T1RxcUh4eHFrdkpvNA?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781580998.0
     },
     {
       "title": "유가가 배럴당 80달러 가까이까지 급락했습니다.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVFpyeXlYTzM2dkFjNGladDBnMlJBenlnWTdVOThyTHpqOHQ0OWVEcEFJVXFiTGtSQnBIOXpyZEdyOFplT1BzV0pSY3VBZEFmYS0zYXRtcC1OMWJiOTBWMGhJOVZla0UwaUpVUXFlX2F6Yk1mMHc?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781580821.0
     },
     {
       "title": "2026년 6월 16일 오늘 고무 가격: 상승 추세",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SQnZRczlCX0JvbGkxRVVNN0xHRkVqbkE2RUFiUXM2SjM0VjI1ZEkyZmdWb25aRWVERWUxX3RYVnRtdFFvb296aEd6eVJYZWk5Yi1lLXFsa25YWW1XeDJsQ201U3psWFlCNS1RRXRSNng2VC1kT05B?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781580453.0
     },
     {
       "title": "미·이란 종전 합의에 뉴욕증시 ‘환호’...다우 최고치·나스닥 3%↑",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TMlM4MDVsdVhCekc1aHVTek45Y2ZhUld5SzVnc3g0eFBZRWdmNDhKTGh1NXZzS2hDTEVvY2czVm5kN0NwYUtQVnVONEhOX0E0ZUVTTHFTQndualR6Qk13UGFMeEdVOU0yM2Mw0gFvQVVfeXFMTWR5U2NpeE9iX2hPc0l0U0RTZHpyNmM0UUNCYXRHRTZzUzRsc2xsWG9jeGpJNkhJYWhhOXZmQmdJUkxhRWxZT1lLQk05eXl3QXhkUWhvRE9mdW9iTVozTE54TVc4SGZPWllKWmVIMm9F?oc=5",
       "source": "더퍼블릭",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781579370.0
     },
     {
       "title": "2026년 6월 16일 현재 커피 가격: 상승세가 지속되고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeklSUWFBdmJHS3RoR3JFOUtSckNCc2I5cTdYRVBuREVscVQ2N0swWGNWUEVDenlzTHhNcFdBWEVrRk5STE1LdE9QSzN5LW80R1V1Z1haTDZTTGtQdGN2RDlfNmIwY3dHbzFKSFlILS1yaG16NnJ2Y3Exc1JERkY2ek1n?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781579074.0
-    },
-    {
-      "title": "유가 내리고 주가 최고… 종전협상 타결에 경제 ‘숨통’",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RUnU3clFFeTdmcV9XUW1lMGJFemx1RnZhc3Q1cXNydm9ta2tqaGUtYlhVbVhzMGVPb3lNa1RRRFAzaWdqcC1UZ19ZelhQWEMxdGRHR2VwbTJIRXVBUG00?oc=5",
-      "source": "미주한국일보",
-      "time": "4시간 전",
-      "timestamp": 1781578800.0
     },
     {
       "title": "[김현철의 美증시] 미·이란 극적 평화 합의에 다우 ‘사상 최고치’",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iMWQwdEdOb3luNWhlOThsT3l1WFYzN0NRRk9RMWtDc1BHMGZHaG8xOWJkT2tST1JySHVRVHhFdUl6ekxQaHVPUFZXWEZjQlhHNDNTLXZZYzhjbmY4WlJFblhVX2Rlck9wSTE40gFuQVVfeXFMTU9EcXFFWkJXTkxmOVZXekRyT0RnWC03ZTVGT2VMQUo0QW1fRHF6TlExV2t5bXF3QThKX1YxUGdRVkNUSlhWWl8xeTJEcGFJUG01NzQ4SUlHWFJOLThFWmY4ZFR1S3hqT2FuU3pqRVE?oc=5",
       "source": "공공뉴스",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781578410.0
     },
     {
       "title": "2026년 6월 16일 오늘 금 가격은 매수세의 눈부신 반등에 힘입어 강하게 회복했으며, 금은 정체된 인플레이션에 대한 헤지 수단으로서 지지를 받을 것으로 예상됩니다.",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ0NZT1VGQ1dyakI0bE1HTkpQOUdlUEF3RVpLYXNXeGpJVlo3ZlNSb005QnItUl9UczRFNmh5b3VSamgtaXF5azYxOUxGb2JESnAyZmI0Z1R3bWVZRU1jZGRrZVVoUnpTWFJxX3VTRDdZMktXUk1waGg0enotRnFwLW9VTmE2VmtTWTltWTJNNXpodEM5YThEX3BWQkphNVVrTzZpLWVOc2Y2bHZZT09rckVER294Tk1URXZJSVdtaG5tWGRnVmIybGt0eHZsQWV6QV9IOHBvS3dTemwzQ29OWW93eDVpTHBxcEV1UW1LSFpoZl9VTjA0MzlzV0I?oc=5",
       "source": "Vietnam.vn",
-      "time": "4시간 전",
+      "time": "9시간 전",
       "timestamp": 1781578018.0
-    },
-    {
-      "title": "중동 정세로 인한 변동성 이후 금 가격이 반등하고 있으며, 새로운 압력 요인들이 점차 나타나고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjJLbU9HZ3RqclBXY3BPRjVZRzNrV2NxcjBnOVM0M3lOeF9KaFFfY3dlR2pRbk9rUVQ0WE1wVXF4S0pEcEROZE11cEt2azB0eUNjUjQyaGdpR3NXT2dDOU96aE9qX3dqXzZ4ZU55SmlCX0hXUjFMZ2tQbk5HRTUyT2Z0NXZLRlNlb3RXY2pZYlJSUzdkbHBVLXdLc1JIT0xIOUZSOXZ6cVQ?oc=5",
-      "source": "Vietnam.vn",
-      "time": "5시간 전",
-      "timestamp": 1781577574.0
     },
     {
       "title": "오늘(6월 16일) USD/VND 환율: DXY 지수 급락, 암시장 소폭 상승.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjVfcm42eWZrcjFlcWxVX19LRGdSSVN6dG9xajI0bzJTeWhSSDFhRnhnWmxXNzdYVHFHUkFiMVNrcmVkVmNNVzVvQVFLelhzR3JMUldMak5teF9WXzNVRDZMeHBiTzM0OG1Ibm0wd1RvRllJcUFRZ3JINDlpWGVUX3RRdVRJdUxGSC1aZUJpLXBRQXE5RHlFNDFLNUlsZ1VxUGJN?oc=5",
       "source": "Vietnam.vn",
-      "time": "5시간 전",
+      "time": "10시간 전",
       "timestamp": 1781577087.0
     },
     {
       "title": "6월 16일 오전 금 가격: SJC 금 선물 가격이 온스당 1억 5천만 VND를 돌파했으나 전문가들은 주의를 당부했다.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxmY2p2WlhJblpTLTVYQmhRUnFiNC1qdWRpeDRZNWhTOFliTklzSm1xcFBKNVpreWk3MDB1MmhpbW9VbEk0dDNLMVpYRE9VUGJkb256NUs4V01zUzJ5NF9OZ2RndjlfSTA0M002clF0aEZTNjllOVY0RVpURkNsWDNLaXhiMko4ck1uR0FySlB0bExyTE9CNzNVcy1ZN1lGX0w0Q0FBT0pMNDc0?oc=5",
       "source": "Vietnam.vn",
-      "time": "5시간 전",
+      "time": "10시간 전",
       "timestamp": 1781576713.0
     },
     {
       "title": "가상자산 선물 250배 레버리지 허용?...CFTC \"기존 선물과 같은 규제\"",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93ZjEyZEl1bVd1Q2FJZ1U1bFNFaHpWWEtmSk9hY3VmZllUQ3J1UGxCUlZzYUJ4cDRVYkQ2SGxydFRxdUNqM1RzOGp6VWFrejJSWUZmcXlTSTZmb3J3MGFLZzZkTk9ORmx3bTNMU29leE9sQQ?oc=5",
       "source": "디지털애셋",
-      "time": "5시간 전",
+      "time": "10시간 전",
       "timestamp": 1781576400.0
     },
     {
       "title": "엔비디아는 인공지능 경쟁에 필요한 자금을 조달하기 위해 약 200억 달러 규모의 채권 발행을 준비하고 있다.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUZDRVVPNDVpVzEzTk9KQjZ3cDkzWHA4SlhtcFhxZU9XWHM0NllVNlRMUlYyN1IxSVBEdWowTmhtc1Mwb1VMWE1WWkszVC1TUW1ZX2RnaDJ5OUpxLTVTYk5PV2VvWkw5Z3hiVWVNYk81NU5XQk9NdkRCU1NOQzU4ZnBzVEhkaGk4N0t2OEFsRkwxX1BOWGhkSDc2VGVpWVhNZERhNUlQRjBDYTdyOFNJV0Q3NA?oc=5",
       "source": "Vietnam.vn",
-      "time": "5시간 전",
+      "time": "10시간 전",
       "timestamp": 1781575712.0
     },
     {
       "title": "세계 금 가격이 3거래일 연속 상승했습니다.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWWR5S0NMUkd0NnRJZFVLNnVHd3RsZTBubVNlSGh3bnh0Y3ZKcXJMOHA2N3BYNFh2ZkZrdm9zaUlPb3NxLTg5ZUtPTFY3ZVI5YzJON3RKbDJPTjd3N1hCYTNRN2cteV9CeHh3OUZwYmZncXhp?oc=5",
       "source": "Vietnam.vn",
-      "time": "5시간 전",
+      "time": "10시간 전",
       "timestamp": 1781574781.0
     },
     {
       "title": "6월 16일 금 시세: 금, 은, 보석 회사별 가격표.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVnRUUExqYnJLTm1rWDV4c09RWjljQ080ZlY4OEhpcC1ibVZUdXNtMFVqYzhQcll1NGh3Y05SUTk2VG9aTERWUWZZVFlOZHh1ZkVNN20zOGhRWFE4cWFBZzg1V1NiNXFxSWtUdGZ2b211UV9MNTI5UXpfbjRHdjFUSDF1S1JXaWQ5UV9jWUh3?oc=5",
       "source": "Vietnam.vn",
-      "time": "5시간 전",
+      "time": "10시간 전",
       "timestamp": 1781574500.0
-    },
-    {
-      "title": "미·이란 종전 합의 소식에 국제유가 큰 폭 하락",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yU2JrcjQ2WmhrVjFmTWhnXzZETG91c19Za3pSY3BRUzdzZEhKbXpQR0FJSlYzUWR1a2xIcGhkdDFLM1BWb25lRlU2R2MxV3BZLXZxbE5pQ0JnV0VNZTJvZUlCN0RrR3BIaXc?oc=5",
-      "source": "중기이코노미",
-      "time": "6시간 전",
-      "timestamp": 1781573890.0
     },
     {
       "title": "환율 1510원대 중반 반등…종전 기대에도 숨 고르기",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81ZFphNVFiT3BHenE5dDk4SWstMUN0QnBqYU5pQkxIWlF2T1g5M3BXTHo0TjdPT0tjazFvZENqTjU4V2VPa0w4RVZCaWtSbWhfbkhzckE4aGFqanZTVHc?oc=5",
       "source": "뉴스투데이",
-      "time": "6시간 전",
+      "time": "11시간 전",
       "timestamp": 1781571360.0
+    },
+    {
+      "title": "미·이란 종전 훈풍에 뉴욕증시 상승 마감… 다우지수 사상 최고 달성",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ckdFMFl6WHh5QS1kWXp1WUJOTVFNc0NyTmJYaXRuSFo2ZzR3ZjNPdXY4N0duUHRrUjd6ZmpKTXd2QUhoZzBPMGFxUXdLcThuYXJZbENKZERrOVI2UzFJN3IwbUh1c2xpWUxfNQ?oc=5",
+      "source": "센머니",
+      "time": "12시간 전",
+      "timestamp": 1781570400.0
     },
     {
       "title": "미 이란 종전 합의에 나스닥 3%↑…마이크론 10%·웨스턴디지털 16% 폭등",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2a1pVbWthaTM0YTNVRnpRRl9Ya3JnUTBWMnkxZm96TkpzMUkxUnFPejJLc2tGRUZWUWFVZ2ZpRWRpY05ENFNROHg3NTdqaDFOb3NEU2htdllZY1N3ajBNaWpIUHU3a1YzcXc?oc=5",
       "source": "coxnews.co.kr",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781570323.0
     },
     {
       "title": "스페이스X IPO 최대 수혜자는 하이퍼리퀴드(HYPE)… SPCX 무기한 선물 하루 14억 달러 폭발",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVUZkamNpUkhWajJSbXhKeGRzYzhCdjBDVndzU0ZMUmxCekFsSW05MXdNazNqcGVUZ0JDUWF6SzUwbUdSbzdSY2ZYNmk4UFhMUmVqMlhRNjhQbzViYkROUUp1OE01LWdvRVhUWURTQ0U?oc=5",
       "source": "블록체인투데이",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781570206.0
     },
     {
       "title": "살짝 반등한 금값에 깊어진 고민…지금 팔까, 다시 담을까",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MMGJDS05lZUpQWS0zMnlSdFc1OXRYSXVaX3Rxb2luLXYwQTlURVVSdkUtNnVpcXE3VjU1YXp1YjBzZ0NvX1F5NEFUYU9rdDc4bE1jc2ZUTjhONGZOWHVLVGNR?oc=5",
       "source": "매일신문",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781570013.0
     },
     {
       "title": "[오늘의 금시세] 이란 평화 합의→달러 약세…국내 금값 상승",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vdFROTjlsamt4bUtpemxZcl9KdDJiQkM5MGxmbTJsTFpNQ2ZFeXdoZkNzandyRHZ5dXdwbG1zdmk4N2xPRk9kcnNtQnRZZXpjUkYyRzZDQzMtSmxTME1jRmdaU2o2ejNCeGRiM0x0UTJZZw?oc=5",
       "source": "톱스타뉴스",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781569877.0
     },
     {
       "title": "S&P500 선물, 종전 합의에도 소폭 하락…美 국채금리 혼조",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZZTdEc3BMcjZwVUxROUxlbzlhSFA5Y1lkUHVKWElCQi1hOXdYbWRzX1RzcVRsay04ZDhiZ0VybG5CNWxLRGU5NEVlVGxIelZtUDJpU1hZUTZIWFp3dFZLcDhCUE9RNnJUalNWSFc2NTdJdw?oc=5",
       "source": "KB Think",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781569346.0
     },
     {
       "title": "자유시장에서의 USD/VND 환율이 급격히 하락했습니다.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGZmalJsWDVwR2dQWk8xM3d0SFZoMDZtel84X2NJcWVudHFILTgzWFFBOV81UExIM2lsSHJrTmRob2ZoOHNTc1B5TTFSSjIwU21BYy1FeTRueTRFdHhxTEI4T0pGZk9vbUhpWi0yaEt3TVM5THc?oc=5",
       "source": "Vietnam.vn",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781569088.0
     },
     {
-      "title": "초보자를 위한 주택 - 시장의 부족한 부분을 채워줄 곳.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2YwZ1V3cmVZTGJtMzBjWUFNOG1raktUT09DdFdEN1Bma09nb2htam9YR3NiUFZLQkpKc3p0Q0VjUnJGbjE3cUN1LWtCZEttdkF1NjItbzJMZG1BT3VwRGhocDN6Q0cyQ3dpalN0STBITUlJYlNNXzZtcUNuc0lINg?oc=5",
+      "title": "오늘(6월 16일) 금 가격: 상승세를 이어가고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SHlOc1NFT2JINUVoVzlrZ3lJajNZQmpBTU4yZ3Fvc0ZvVm1DdGwxSDVmRHpUcEJYZHlpSWJZT3hPSlRwTmZLcE9ZSmluaDZVU3VuWkhkbm9ldk51eTdnOHFJeTQwQUVEUEpMZmMxXzhqdw?oc=5",
       "source": "Vietnam.vn",
-      "time": "7시간 전",
-      "timestamp": 1781568622.0
+      "time": "12시간 전",
+      "timestamp": 1781568049.0
     },
     {
       "title": "[오늘의 금값시세] 2026년 6월 16일 g당 211,486.18원·1돈 793,073원…국제 금 상승",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45QnJVcW16ZldaTHpaUC15MnFuZUlFOVlJVUZuVUFPQ0NtWUF4V2ZnOGtnMTJhbktBQkZjR0xNZnNVMjVzYlJPUldZYXBkbkFyemNpbW9qQVpud1FuaWpMNm5OVkFHbGdlOGlFTQ?oc=5",
       "source": "민심뉴스",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781568031.0
     },
     {
       "title": "NDF, 1,512.20/ 1,512.60원…2.75원↑",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HNGlidW1vQkJBTEtfNG1fcHFoNkNjUXJ5eWdYRlY5eVB4TEhaWkh0eGk4MFlOR0FENEd2ZzRFTlBIZ1FhTk15ZjNJYjAyUE1PZGJYYjNyVGllZWRjamRIMkdYTTJOVFo5QTZMcF8xaGE4RWN60gF0QVVfeXFMT0c0aWJ1bW9CQkFMS180bV9wcWg2Q2NRcnl5Z1hGVjl5UHhMSFpaSHR4aTgwWU5HQUQ0R3ZnNEVOUEhnUWFOTXlmM0liMDJQTU9kYlhiM3JUaWVlZGNqZEgyR1hNMk5UWjlBNkxwXzFoYThFY3o?oc=5",
       "source": "연합인포맥스",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781567951.0
     },
     {
       "title": "[뉴욕 브리핑] 美·이란 종전 합의에 다우 사상최고…나스닥 3% 급등",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LU1c4Z281WWxTcUdRUk52Y1EwRXBwcC1WNHo0bFBRZnpvMV9Ib29yN1VzRlNjNEdQcGpZdGdVQk93M045VllwUGN5U09wTkVEalNmVzFR?oc=5",
       "source": "DealSite경제TV",
-      "time": "7시간 전",
+      "time": "12시간 전",
       "timestamp": 1781567759.0
     },
     {
       "title": "[모닝 경제 브리핑] 미·이란 종전 합의에 글로벌 위험자산 동반 급등… WTI 81달러 붕괴·나스닥 3% 폭등",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqWE9YQWJnTjFYYUt4NHJTMGotSzZ6bjJ0VEtzbnM1ejJxbVBBeHFfeWVZUkNzb0x6cXhPQ2dLMmo2blJaY0U1RXZQODJpLXhqS1JYclJUNFY5azVsNkpudkxielVBR1otMjlIcA?oc=5",
       "source": "프리진경제",
-      "time": "8시간 전",
+      "time": "13시간 전",
       "timestamp": 1781566491.0
     },
     {
       "title": "종전 협상 타결에 美 증시 랠리 재개...다우지수 사상 최고 마감, 유가는 3개월래 최저",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zR254NTQxbG9aalVQNnJLdnVuclZXbTE4Vm15dmdQNHZzNWladmRYWWFVSzJmX0ZjS2p0X3ltZDJlaXBHQl9GTXBWNlJnZnhsMG9kZmctaXdMX1NRN0x6RDFyRnBhMEFxenZJeA?oc=5",
       "source": "생생비즈플러스",
-      "time": "8시간 전",
+      "time": "13시간 전",
       "timestamp": 1781566215.0
     },
     {
       "title": "[뉴욕증시 브리핑] 종전 합의에 다우지수 사상 최고…유가 3개월 만에 최저",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04VjdPeWxfNHpZMV9vVGQ0a1pJcEhRSmFyN3RhU0dyQk0yc0hjWThuaVZZUHpoR1JKcFBMdDBmVmtOWU5CRXJqN2EzVTJveG5o?oc=5",
       "source": "블루밍비트",
-      "time": "8시간 전",
+      "time": "13시간 전",
       "timestamp": 1781565556.0
     },
     {
       "title": "[원자재 시황] WTI 80달러선 붕괴 '눈앞'…금·암호화폐 상승",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BaldOaDhMZ0dTX0kySi0xMGNSWFFiVjBuN3g3SzdYY3ViQVdVM2YybUdHRVhjWmFQNG5pNGliZjhlY1RRTVg0YTJGQWF2QnJvOUxRLTIzQkhCaWVSSjJUWFh0TWdYUVhrTjRTRlRzMGhaZTYxMVNLaw?oc=5",
-      "source": "네이트",
-      "time": "8시간 전",
-      "timestamp": 1781565540.0
-    },
-    {
-      "title": "[데일리 머니마켓] 나스닥 3.1% 상승 26,683",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJak11RGYyRUVKTWVwNXQtM0tjbkRGVTZOcTV5YVN3WjBFM1dLMnVZSlNnN2NtaDJZTmFlMG1TMi1idUx5ZVJKZW1xNTB2anNyWXQ5eTNMYVpZaFBKQjQtQ0VUSGlyRFk?oc=5",
-      "source": "빅터뉴스",
-      "time": "8시간 전",
-      "timestamp": 1781564963.0
-    },
-    {
-      "title": "뉴욕금값, 美·이란 종전 합의 소식 전해지며 상승 마감…금 선물 2.66%↑",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5paFRjZDNhU1RRZ1ZFaXBLLWMxSXd3clg5bE5HMTFYOWdzaDFXeUZraUhrY3NlaFc5a05idUdINkZIQUxaRE9TMUlxMDNIcEk?oc=5",
-      "source": "v.daum.net",
-      "time": "8시간 전",
-      "timestamp": 1781564583.0
-    },
-    {
-      "title": "연일 급등한 국제 금값…국내 금시세는?",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9adlFoYU5DazZDN1pKSGtyOEdISVJaSTZ5bWRhZ2RGaVcxUEFYOC1LMTl3RjBFaF95TVloQ2RYcHNrOXR6Q0FPWnlqZUNiVG1Hb3JHbQ?oc=5",
-      "source": "이투데이",
-      "time": "8시간 전",
-      "timestamp": 1781564340.0
-    },
-    {
-      "title": "[오늘의 증시]종전 MOU 서명에 뉴욕 환호…코스피, 다시 '구천피' 향한다",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCM0dzX0FJZldKME1ncHh4TXBXaXZWVHdGMWlnM2pibWxLMEdncHhlUDhPTHpCanZxVTY1XzJNemdYbTBvajBDalVjakJEQ3ZTUnBlaXQyZ3BVV2RQSEZ4R2FMUGFEMkFBRW1kZDRDWUd4ZEZWMjJoQtIBeEFVX3lxTFBCM0dzX0FJZldKME1ncHh4TXBXaXZWVHdGMWlnM2pibWxLMEdncHhlUDhPTHpCanZxVTY1XzJNemdYbTBvajBDalVjakJEQ3ZTUnBlaXQyZ3BVV2RQSEZ4R2FMUGFEMkFBRW1kZDRDWUd4ZEZWMjJoQg?oc=5",
-      "source": "뉴시스",
-      "time": "8시간 전",
-      "timestamp": 1781564154.0
-    },
-    {
-      "title": "미국과 이란 간 긴장 완화 조짐이 보이면서 글로벌 증시는 급등한 반면 유가는 급락했다.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPal9NNzY4d09GNFlVRk9yNGVQdDV0Nzh0TDZJSWVXRVZLN3pVcmdXQ05fX1ktVmp0cEJpNXZ5S0JwRS1idXRCTVRnUkVuUGJxdEQwcWpSXzhOTEpTZWNSSmNLS21LUlI3QXBQdTF5d2lOM3hTY3luZHFYNmhjZ1ZVTlI0YUFQNFBLckc5NHEybktLN3I5b1VDa3prRVd6RGhUYlZPTA?oc=5",
-      "source": "Vietnam.vn",
-      "time": "8시간 전",
-      "timestamp": 1781564113.0
-    },
-    {
-      "title": "[마켓뷰] 종전·美증시 훈풍…코스피, '9천피' 시도 가능성",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMkF0Nk5TOEhCNzc4eWI2aUx6VHhDT0pOenUzOTVRelBUTXgzNGloMFEtMDI1MWZaWjNUVUxiY2hSUTM3Q2dIc281ZjBCdlhtZVhMQV8wcGpBUVZVczV3N9IBYEFVX3lxTE5pMkF0Nk5TOEhCNzc4eWI2aUx6VHhDT0pOenUzOTVRelBUTXgzNGloMFEtMDI1MWZaWjNUVUxiY2hSUTM3Q2dIc281ZjBCdlhtZVhMQV8wcGpBUVZVczV3Nw?oc=5",
-      "source": "연합뉴스",
-      "time": "8시간 전",
-      "timestamp": 1781563746.0
-    },
-    {
-      "title": "오늘(6월 16일) 금 가격: SJC 금 선물 가격이 온스당 1억 5천만 VND를 돌파했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG1GckctRFcxMUZnVVhiM0hpLXJZM3FrQlFDREZSZlpkWkM2bEg3LUx6b3hUWXZqVFZVdVV4WFhYSVY3aDBUb09EaDhySTFzM1Z0QkxrN2xnSDNLeFFiV1VjSVBGaU9kbERJRFpmd0pJbjZvamFrc0VYYi1oczdvMWR6QQ?oc=5",
-      "source": "Vietnam.vn",
-      "time": "9시간 전",
-      "timestamp": 1781563362.0
-    },
-    {
-      "title": "뉴욕증시, 미·이란 종전 합의에 급등…다우 최고치 경신",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CWTVCcFBSUE1sN1ZjVlo3WjlLSW5jUGJudFZ6dnQ3bzdNT0swNTZROHVPbVZVMEpMMFhVdDhYamVfQXRUcGdWM01ZVWVYdGVXRHV6OXpKN0JBZUNhSnpqcENFZDlrejBqZUFMLU84YjLSAXRBVV95cUxNSEtBSm11bm80TGhXQXdfSDNUNExqVC04cEo0UG03bVFRMWpEYUFXTUJhclROY0RZbDJ5Sld6QmlXb3E5TnBLSml4X1pyWHNpSXVlYjk2Ymd0S2cweDJuanlmSkFRQTVBTVFTNk9NVFFOSE5NcA?oc=5",
-      "source": "산경투데이",
-      "time": "9시간 전",
-      "timestamp": 1781563212.0
-    },
-    {
-      "title": "오늘(6월 16일) 금 가격: 미국과 이란 간의 평화 조짐에 힘입어 일주일 만에 최고치를 기록했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmc0Y2dweV9GSXctTUdHdXFTclBvOHp2NDFpYjFWVUM1UGV2LW9EaEM4czZZUXBMYnRSVVpNUFZCTktlSjdlT2xvRzdLV0RMZ2J5RFZydkZ1SnNqRUk3WExrMTY2OU1mV0dFSFRhNzhJMEdpZXhEdDgzbUM2TGE2dVg3U1JRQmtYQmY2ZGs4QkFMV0FMYmRtVG1jV2w3Zw?oc=5",
-      "source": "Vietnam.vn",
-      "time": "9시간 전",
-      "timestamp": 1781562902.0
-    },
-    {
-      "title": "✅6/16(화) 관심종목 & 전략",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3J6YkdBV3BHOGZVZllqNXZYOVliRnZXankyNEpYSDlvMFhSWGh2Nk9XTE1kNFFiM2hyRFRlaXMxdjFLTU5ESnl3cWFxTjhTd19sbGtkbmVNQXA0QlpLZGt6UU5MNjl0ZzJ5VEczelMxcDFpOTRHbWFmU3NvdW8wb3BDZk82T2RGWURz?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "time": "9시간 전",
-      "timestamp": 1781562240.0
-    },
-    {
-      "title": "종전 합의에 뉴욕 증시 급등...스페이스X 공모주 추가 물량 배정",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nWFFGZ3VQX0psYmduZUZQRWttcnU0bWc3QVphMnpTTjRaLWVJMnRBZWo4UUhqOFA0R2YyX3VUNFZ5MTJNUUhhTGlpSjBCa2hrRTJpSE5iOTN2UHBVR2c?oc=5",
-      "source": "YTN",
-      "time": "9시간 전",
-      "timestamp": 1781562000.0
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3M3pnYU10NTVqdGVwNlFIYzZucno0a25uTlNGc01aUXRNQzk2X0Q3aXZ4ODBiMVVSd1pxOHpxOG0zQXoyVWI2OXd3X1Bhd2tMSTN4VEtndlFIazdsZjJjdGM2VFEtdm8w?oc=5",
+      "source": "ebn.co.kr",
+      "time": "13시간 전",
+      "timestamp": 1781565506.0
     }
   ],
   "total_count": 50
