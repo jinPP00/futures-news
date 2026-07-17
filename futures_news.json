@@ -1,6 +1,357 @@
 {
-  "updated_at": "2026-07-18T06:26:35.593379+09:00",
-  "update_time_kr": "2026-07-18 06:26",
-  "all_news": [],
-  "total_count": 0
+  "updated_at": "2026-07-18T07:26:41.945467+09:00",
+  "update_time_kr": "2026-07-18 07:26",
+  "all_news": [
+    {
+      "title": "[뉴욕 금·채권·달러] 중동 긴장에 달러·금 동반 강세…10년물은 하락",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FaDZMb3VWelpyaHhjc2Rsb240NzhzWkY4TEJVWXhBOHp2M25LZkFGUm5RX3VIZGtSVk8xc0xnVkdfR29reHRtQk1saks3MDRBZHJmNnhIbmY?oc=5",
+      "source": "블록미디어",
+      "time": "37분 전",
+      "timestamp": 1784324940.0
+    },
+    {
+      "title": "AI 랠리 흔들리나…반도체주 조정에 나스닥 1.4% 하락",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPbUxObkFkNGg2eklUZXg1UUstX3VzdzJNVzJJQ2VOQlZZRTRGN0YtaUhxQjBlYjJXMV9OSFVHbUhtZDY3N1UyWVE1Wm00MlotME9NbUZIcUhidUVFT0d3?oc=5",
+      "source": "조세일보",
+      "time": "42분 전",
+      "timestamp": 1784324626.0
+    },
+    {
+      "title": "[뉴욕 금가격] 안전 선호 심리에 반사이익…0.6%↑",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZWdXSkJ6MFdvNFRhbWhtODZ6TncxaXlWRGhrWk5hT052WkRVZzM2cHYwQnhOb25HNUJnR3BqdFhILVNYQVN4X3NiWEdxZUF4VEpUV1B5MWNMQktkT2tjcncwZ3hCN3R6cFdOb1Bmb3o?oc=5",
+      "source": "연합인포맥스",
+      "time": "47분 전",
+      "timestamp": 1784324334.0
+    },
+    {
+      "title": "AI 투자 회의론에 반도체주 '베어마켓'…뉴욕증시 일제히 하락[월스트리트in]",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFk1ZnZnQ1U5b0xZRnVNc3lzMkd4YzZCb1Y5ZzJjTU5tSElOMG9HRjhRbzdmUldHblRyRTBoSlBzQVdDWFRvX2wyeXZ3aW15MGloNE9yZTVQRnJCZXo5VzNFUFI4VFVLYzV2NEZ3Y3JzbHF6SktPd3p5UG85cEJLSg?oc=5",
+      "source": "edaily.co.kr",
+      "time": "1시간 전",
+      "timestamp": 1784321386.0
+    },
+    {
+      "title": "[뉴욕증시] AI 피로감·중동 전면전 위기에 나스닥 361p↓",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU3JUbjZXa1NadHY1YXFyZDZhTzhVS0pWbkdBWWJ1MWNxNC0yZHdWclNwV3Iyd2d5bEEtc0ZhUUpwZFM4S3BXWWg4ei1EVEVSR3BER2w0bC1OeXZrTjJfbU85bGg5Y0ZQLWszZGN2Mi1fc1BkUDNBQnZyNW5samNET3dONUhEZnRJ?oc=5",
+      "source": "글로벌이코노믹",
+      "time": "1시간 전",
+      "timestamp": 1784321139.0
+    },
+    {
+      "title": "뉴욕증시, 반도체 약세장 진입 여파에 일제히 하락…3대 지수 주간도 약세",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lZ1BTR2ZQZElVcXc4dTRPcFVRaEZNN1ZxNS1rOVFramVONHI2WFFEcFNCaDNsVXpsOGt4R0NvbVBxN1c5cEkzQTRhZXpoZE16WnRoOF9kX2xlOEdCUW93aw?oc=5",
+      "source": "네이트",
+      "time": "1시간 전",
+      "timestamp": 1784320560.0
+    },
+    {
+      "title": "[뉴욕환시] 달러 약보합…증시 기술주 투매 진정에 '전강후약'",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQWdJZ2o5OXdGNXpGV2txRk91VFBMTlRqdFFlaGg1cUZVbWZtcmgya05TWl9uRzVZXzNNb3lvVTl6RVU1M3dZODYyOWs2N0tRS2hjODRhMjJMZG1VX2FaMXpRQXJGRjVINEwyUXpHb0tkQQ?oc=5",
+      "source": "KB Think",
+      "time": "1시간 전",
+      "timestamp": 1784320262.0
+    },
+    {
+      "title": "[7.18(토) 한국장 전망] 나스닥 -1.4% 낙폭·KORU -2% 하락 압력",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRVUJudlAwLVNTcnZBRGtLNzBXc2xIRG9kRThrZ1VpZ1B3aUl2NUs4TEhaR1dTWXNjT1BZbEZBYTlIZDFzelppZ21CNzdjUEZQRzFvQ05qNEszd3ZwMEJlanA5R1lnMEs5SjBBWWpLeEV3NE9IYnc?oc=5",
+      "source": "주달",
+      "time": "1시간 전",
+      "timestamp": 1784320225.0
+    },
+    {
+      "title": "[뉴욕채권] 단기물 약세 속 혼조…유가 급등 vs 반도체發 증시 약세",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91N2lrX3BTa21QWFhhUE5yUm0tY0NIVlc4ZlJXdkhQQzd3bXhfZ2h3VmppQVRlei1kT0lPYUVtMkhaMmNtRXRQZTZhdkVCT3N1dmlMR2xaRklQZWNWcUlrbmhsUGdudk9WcEIzeE1KWGlaUQ?oc=5",
+      "source": "KB Think",
+      "time": "2시간 전",
+      "timestamp": 1784319425.0
+    },
+    {
+      "title": "[속보]AI 거품론 지속…뉴욕증시 '뚝'·반도체주 '베어마켓' 진입",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFVrWW1rOVBZSlE3ZWxKT3FFU3hwRWk5aFIwajVIYVQtVUpxeG9aVE50WTBqNFppbHR6QXU3SFRLczNxbFV3LTNxb3JNUzZ1cUxaaWNEQy1tWHVUeHdNM2hKWlFjUURhQlZIa2pscUVONDctZTRzdWZDUFBpLVpzbw?oc=5",
+      "source": "edaily.co.kr",
+      "time": "2시간 전",
+      "timestamp": 1784319280.0
+    },
+    {
+      "title": "달러-원, 뉴욕장서 1,480원 중반대 거래 |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxRWtZSW50QjQtV3MtX0lxT0J4UnZobENFYzB6c1M4c2JUaF80STdKWkIxM0x3bTQ3QzFWZU5iWVZjZjhMTmpHNURVaWhzTGxPd09HNm1Wa2EwZWhLeU52cHdsVzNqeEJXbGlTZ1VYNlROSnhM?oc=5",
+      "source": "연합인포맥스",
+      "time": "7시간 전",
+      "timestamp": 1784299360.0
+    },
+    {
+      "title": "미 달러화 강보합…반도체 투매發 안전자산 선호 속 국제유가 상승 |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQd05wUXBvUzFjc1lCOC1hWldsZEVHZlU4ajhkR21yWVpHNzZ1M3QwQlAtN0oxWFJqcVZkTi10andTZkNKNVpUQUhvN0ZiSHZVMmM0VXdnX1FkUXBWVnRJS29aYTVIM1FZQmtweWIzVm5TdzBs?oc=5",
+      "source": "연합인포맥스",
+      "time": "8시간 전",
+      "timestamp": 1784296102.0
+    },
+    {
+      "title": "실업수당 청구 감소에 달러인덱스 강세…유로·파운드, 유로존 물가 지표 앞두고 하락",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOSW5jeWNrcFZFMFA1TThNMXdJSHhRcUhGYW9UenlhQjdCZWxkYy1DZUtUX1FsZURkRDgxQ0lvdS1rOUZZWUU3NUd5LV83NmJjN1ZpOFRJQ3V0WkRONFRwVlN5RU9DY2FhS2VqWjZBNkhmeDl4akxOSzNRTFQ3ODFXckJDWlVBZkNKbkctQUV4Q3daREV1ZzhDakQ4S1pfT05CVjZBUGhodktJcldHS1RlME91ZXRfbk9KSDFDdEFUYnl2dEJ2eFZEUjU5QnptbGNTNDZrTFBwOWItSFdxZW5rNjQxeFZpRWxORWhWTkhsMS1yNTFlOS12LXlzOUNuOW04Zy00cHNKWHgtY3E2bFp1WEJFQWpGdmpGUjEyWExMbi15LWs0Q3JTMGtHZTVVMDRsZl9MYUs1T0swNVpaaV9VWURRSW90c2ppUXphc2s1RE11Q3hMZkRkNkpn?oc=5",
+      "source": "VT Markets",
+      "time": "9시간 전",
+      "timestamp": 1784292386.0
+    },
+    {
+      "title": "도대체 어디까지 떨어져야 속이 시원하냐 [7/17 G브닝]│Global Money Club",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54LWtXbkkwcW1XMHJmZjRhXzRzQTRBY092UGFKcGFNSW5scUVnMzBhUUxORTFxT0lfQTE2V0NWQTlZWUJTVkdNNVI4eFFNVF9xR2NQSVY2bHRCZ28?oc=5",
+      "source": "중앙일보",
+      "time": "9시간 전",
+      "timestamp": 1784292313.0
+    },
+    {
+      "title": "지방 경찰과 도지 금보석 그룹은 공동으로 마을 문화센터 두 곳의 건립을 지원하기 위한 기금을 기부했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDdEOS1nRExLbnNNaXhuRUZYakFfNGxfX21QSXNodmZINFJBbWtTTEdtejg5NHRLSm9QYTBMbFA0WkE5QkJkYU5xdDRMVFFuN0UzUjFoWkdXX1BjUXUzcHFVbFRfTTFQS2ZPUF9uQ3BHUFhHQ2pFcnhwR0c1S2tVaEJFck1IYVI0NDJpZmIzWjZ4eDVQT053TzhxUVdrUGtlRmw4SVdHU0JiYXJKYWh6R0hlcjNpQ19zNTBXbkNvdWlzMTdQWmJhc3RlOA?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1784291541.0
+    },
+    {
+      "title": "뉴욕증시 프리뷰, 반도체주 투매에 나스닥 선물 1.8% 급락...마이크론·샌디스크·넷플릭스↓",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qUWRYYmJrWHhyeE9EcXpTelVmSzZsNGRKN2hiSjA3RHZsdkJBdGx2NklGRmE3N3JvTDNaZEtwZlZFUmJhUG44NnlXTlhISGhlZC05Z0ZFTzNNVXZB?oc=5",
+      "source": "뉴스핌",
+      "time": "10시간 전",
+      "timestamp": 1784291040.0
+    },
+    {
+      "title": "나스닥 선물 1.8% 급락...AI 거품 공포에 반도체 투매",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WVlBMcVBLekY0RXY0UjFmTDh0Z3gxTzNYOUdPdU5ZNjNlczgyR2ZBOGtxRjdmamRRUlFVdXhOTkhUTEZhclVVWVhQNVBuMlJ5a0xBQVRwTms2bHRBQlRZY1hjT3RWRUloVUE?oc=5",
+      "source": "OBC 뉴스",
+      "time": "10시간 전",
+      "timestamp": 1784289717.0
+    },
+    {
+      "title": "AI 전망 우려와 중동 긴장 속 TSX 선물 소폭 하락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wdGFTOWVHOUVSUWxyQnI1TVhUSDBVcWtNaFRndVRfVy1MZGVNSjlqSVJfU01YQXhMMzFfNS0tbGhxakJGNjdVU09qQzBjeGppUTNjSjdDSGM4MDhWMW5pal91UGhmXzkxdmV5anRLNlM?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "10시간 전",
+      "timestamp": 1784288880.0
+    },
+    {
+      "title": "다우 선물, 저항선 5만 2,950 시험대...\"반도체 흔들려도 나 홀로 안정\"",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuSEFnLTc5ZkRlMHM1Q1k5M2hGcTBzVnN4N0RFUGIzZ1hRNG56cU5aYjYzQlFYY01Qb19adU0yVVRvUzItSHB6RnJn?oc=5",
+      "source": "코인리더스",
+      "time": "10시간 전",
+      "timestamp": 1784287800.0
+    },
+    {
+      "title": "[퇴근길 시황] 반도체주 투매 확산…나스닥 선물 1.5% 급락, 비트코인 63K 버티기",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nR1BnUHZzNy1xVzU1UWFHaGpCU0x6R0F1MTBwM1JGVUVIeGhZWF9NVk5zV293UXMzRm5TTjE3WFlpbXhKZ2NoRmkwVktrX0cxb2JsSEUtQy0?oc=5",
+      "source": "블록미디어",
+      "time": "11시간 전",
+      "timestamp": 1784287320.0
+    },
+    {
+      "title": "금 선물 분석",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lMDhXWTdUSHlDR01iMV9nTlpqWkhtZ0JsM0FQZ2ZETTgzOENGcjBSeTc4cWJmVEVVN3VzUEVOeERCc3BsZGVOTDdxb051dFhHOVFzWHd4ZXM0RWRZVk10TGR4OEM?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "11시간 전",
+      "timestamp": 1784286940.0
+    },
+    {
+      "title": "뉴욕증시｜AI ‘돈 먹는 하마’ 경고…나스닥 선물 2% 급락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hSzZJV2ZQUmNXb2dDWjhWUDZUU2FKVE5MTGpQOEdreGR6cUUwaEpPOGp1T29VYmlHRHNEMTdjV19pQmFJZ1Boa2JCYU9rTVdIX0dBS0ZmVXpuR1BpeUszQjVPOXoxZnVMX0E?oc=5",
+      "source": "OBC 뉴스",
+      "time": "11시간 전",
+      "timestamp": 1784286851.0
+    },
+    {
+      "title": "2026년 7월 17일 오후 금 가격: 재판매 가격은 온스당 1억 4230만 VND에서 1억 4410만 VND 사이입니다.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkhhcnEzQ1BHR2wwWENIZGpfQkdDZWE3Yi1Ca0xQdlpIa1dRcW84SkZPNm5mdURsV2FydlJ6NWFoUGpITWlkREZlT0NDcERYVGVfb0ZyMlFYTXBDQklibmV3angxTExGTWFOY0NUQVJYM0RhQzRVMEk1b2JxRlVlX2V2c3hmakoxcDhVY1E5X1BEZmJ0SWRxMV9iNmg4T0dSR2kxVU1n?oc=5",
+      "source": "Vietnam.vn",
+      "time": "12시간 전",
+      "timestamp": 1784283929.0
+    },
+    {
+      "title": "2026년 7월 17일 오후 금 가격: SJC 금 가격, 9999 순금 반지 가격 및 금요일 세계 금 가격.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjBOMDU5MHRmNS1DMkp5ams5UV84WVV1WDY4b2JpRUxnTkFnYmlva2J5ZHRyN0xUTldGa2U0czR5RHBJdF9RSTNPbmRaQkFIWUFfQnNleXZIQzRhM0VfUHQ4SmxpSkctZkpUYzRxMXpTTE1fbjBLbXc5YzJYX1pOZDMyQW4xeDdtNjltRU81LWtnWkt6NDBSd2VKNTB0TEk4LXVqSw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "12시간 전",
+      "timestamp": 1784280498.0
+    },
+    {
+      "title": "2026년 7월 17일 오후 4시 금 가격: 금요일 기준 순도 9999의 금, 반지 및 세계 각국의 금 가격.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1BCNlBaNkQxakFCNnRwYTFfVWxBd1BpZXMyNTg2eWstTVNvZkh6QjJxMDUxMFJMZVF4eEE3TC10d3ZhOGZvanVhaFVDTDhiV0p2U1I5UTBiTld6YXdDZVkwcjJUU3E0ckF3bUNmUFpKeFIybmZXTjROMkZUMlViVkJDTFV0YWtTZUlRc3FEczZRc2wxV2REMUFCU1pwTEoyYVE?oc=5",
+      "source": "Vietnam.vn",
+      "time": "13시간 전",
+      "timestamp": 1784279644.0
+    },
+    {
+      "title": "람동성 인민위원회 부의장인 티에우 홍 푹이 공덕이 있는 사람들을 방문하여 선물을 증정했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWg1a2JpSkVscFl0RDBoSjhZN0FTN3JPeEQ5U292M2JtRHJZZWNLZ3BUY00tX0hZVm5leGpVdWpTc3FDTHdFbmpILVhGZDBsX2NCWVo4T3kwbzJhNGhNQXZKeWxXQkhCMHd4YVlRWkpIVFc2eDFqRWZwNmJFMy13Z2t6cXktNU1HTEZDTDhFcllTbVBMbDZ4ZW8wMVVfN3lGOXc?oc=5",
+      "source": "Vietnam.vn",
+      "time": "14시간 전",
+      "timestamp": 1784275457.0
+    },
+    {
+      "title": "Vietconduit IMC 강철 전선관 - UL 1242 표준 품질을 통해 확고한 입지를 구축하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTBTeGpEMEhDcUFDOWVEMU8ydlFZR1FidVRvdHBkdmg3eFhGeURpODRtTGlzUE5YSjdZVDJNNTdnSXRIQXBiejBYdjU2dW1IbExLeXZWQ1U5T2IzTHJZd3BGRWJBNy16dXNoUERZeGNnbEJWOTJkSUR0b19YMXlLdmxXUFVZbkRZZWRkU2JnY3FCdEVIRmJmdjZ0UU5hT3lRN28tQ1JXTQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "14시간 전",
+      "timestamp": 1784273974.0
+    },
+    {
+      "title": "오늘의 금값시세(7월 17일) 순금·18K·14K 모두 하락",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44V1FCVjQ3MWlET1BIU2dHUVdNR05sU2dEX2dHNUVweWNFRUoyeEpqVXA3Z0lSakU2ZGhNZllNalVLWVBpTkp3ejZSb2p1QVNiNFNSVXg1RmV0SXQ1UDlhUzJHZWVUQQ?oc=5",
+      "source": "비건뉴스",
+      "time": "15시간 전",
+      "timestamp": 1784272299.0
+    },
+    {
+      "title": "[외환-마감] 부진한 휴일 거래 속 엔화 소폭 하락에 연동",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91M2JtSnI2UWtNa2RySkNqc2FGWVgtUWdJOS1POUFJWmVGTXJFOUd5b0tXbGxrLUl5SDFOWkstRF8wdVFlMDhaV2NvNHJpSTVMZUZHTE1wUnBxT1BYanJBdVY4cTNMTjZ6RlZ6OE80T2ptQQ?oc=5",
+      "source": "KB Think",
+      "time": "15시간 전",
+      "timestamp": 1784271839.0
+    },
+    {
+      "title": "[7.17(금) 한국장 마감] 동반 하락 (코스피 -6.37%, 코스닥 -4.53%)",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WLXdMLUtrNzV4UVp4TXBXQmJzWjhESXVHelpqZWVqSkVhbVpHanlQSXVIOXFBd3lpWEdwZGlPcmN1Tlg0TDVoYm4xdW9GamVUemV0NzdZczNhTHQ4YnpxSzR6dlA4SUVRNFJ6bC14aEppM0lfaUE?oc=5",
+      "source": "주달",
+      "time": "15시간 전",
+      "timestamp": 1784271629.0
+    },
+    {
+      "title": "레꽝남 시 인민위원회 부위원장이 농선구와 두이쑤옌구를 방문하여 공덕 있는 사람들에게 선물을 전달했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUS15RFN6eWpsdURtYjlBVmdWM3B1MnpuYnBSbkp5YWVWX2pzNmRXbnhsUG11Umh1T0gyT2Y5Zjl1UHpNM29jNWZnWnhXYWZVTEtQSTM3bmdYRFBTT3dZQnhtcWx4RjNjZVFoemh5UFh0bXlKTTljSmRHRHNndmlrMFhoODV0cjg3Wl9ITW8yaUVxME9haE15RlZBeUFQNjhJN3dscUtUNGtlazU4MTlTSndsTzZKMngyNm5iSg?oc=5",
+      "source": "Vietnam.vn",
+      "time": "15시간 전",
+      "timestamp": 1784271434.0
+    },
+    {
+      "title": "비트코인 6.3만달러 하회…美, 이란 추가공습·트럼프 대중 발언",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KVDIzQ2JBLTVfSWNPT0QwS0JiZldndUtYdTRtclhaT0dkc3lVME1NdXFyRTZ3OHFPUFZoODY2T0Vla0RBMXZpOGIyOEhuRm1J?oc=5",
+      "source": "이코노미블록",
+      "time": "15시간 전",
+      "timestamp": 1784271240.0
+    },
+    {
+      "title": "금 가격이 안정세를 유지하면서 해당 지역 주민들은 자산 축적을 우선시하고 있다 - 까오방 온라인 신문.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1VuLXZsQzBvQl9oZG81Y2ctUFNKQUZfSklYUVp1MVh6QnZsRi1zaEt1MlRPMDRsUDdkMFJ1Qks5MFQ0eGk3MnAxU05DNDROMXlvNzlZdmFRc0daTDRFdHd3bkxyZXVuRVdIS0RzQjlmVHRXNktqNThTNGxDbXRxSDU1Wk5kdlhEdWhLQzF5WWJuckoweGVNRUh5U0d1bWttbXJGTVlIcWNNUUlIVTE1VlhVcTJmRzQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "16시간 전",
+      "timestamp": 1784268497.0
+    },
+    {
+      "title": "안전자산도 못 버텼다…국내 금값 장중 20만원 깨졌다",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPRExxN0dXMkpKdTc0X3JpMHIwd2pKX3ZEXzJPX3NhNEdkb2NMbWpZdXhrY1JfbUowU0lkZW1pQlNUdmFneGN0UTJkbXg4RGpFMnA2b2NIUHFSNTJQQnpIQW1ZN1B6ZWhwZFVvZ2s1ZWpJd1AtcnlUYXNueTBFaF9MYzlqcm5tdVZkQmFtU2t5NGVuVndnSnpqbTRmeENaZUdlQkVST2F5RTJhSWFQd2pZNEY0S2ZXdTQ0NmtlN2tkcVp5VnNIZXFxV0lybHFfbldiVWd1Qkx4aGYwcTZkbTNWUXg0V2ZwZmdkcnNPWEFaMXJhU21MeFpiWFZsZDVpTWEyZ2Q2OVdNRS16ZFAzdDNKMEp2aGRWSnZObVVPQVdTU2ZyMFRtSEZlS1daNlplekQ0VGZSNWJ2SDB1dlJ3TFMtMXV3dEI3M3R0TDY0aFFsYkw5bjdZOTdqa3FheW1nNWpSaHVOVUFWOG4wZUdEVEkxT2Uxd3U3WTd0TGNObS1MQ0lCTGZ0eWlGMV85VzhydTVGdVdqUlZhOU5hSURpLTNHU294M3A0aXk1TVVRcw?oc=5",
+      "source": "MSN",
+      "time": "16시간 전",
+      "timestamp": 1784266996.0
+    },
+    {
+      "title": "한국이 3년여 만에 처음으로 금리를 인상했다.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1bVo5YXNIM2VEbVdmQnRDekwzazZiU0VVSm9NSndSQ0NqOEtHbDgzSGFXeFllMkhzOE01NUE1RlJSZGJJM1puNWU2VjhsTHBWT0NPWlBNbHB1cmlGWkZTYlljUWxUazFpSHJpNFZIUTEtU0FRMDlxUktacHQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "16시간 전",
+      "timestamp": 1784266830.0
+    },
+    {
+      "title": "유가가 급등하고 금과 은이 매도세에 빠졌다.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNVJiUmlUbHhPeDZMRzdxYzNHeW5GSG96YVlPTURCNE9XaVZnOHpxYThUV3J3Uy1zSEI3d0ZYTURNaUtNaUpvTzRFbXVjbGdabVROQlViblpvWjJSZjZBVzlXUzgzbXNfaVZsRVkzUDQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "16시간 전",
+      "timestamp": 1784266371.0
+    },
+    {
+      "title": "2026년 7월 17일 오후 금 시세: 금 1냥의 최고 거래가는 1466만 VND/냥입니다.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZU91aHI4cEFxRXBPRndscVVEOXplRnoyNGpULVZETlNWSzdsUEhBbTBGMEFFZkprcHdYellyc0g5V1Q0SFQ4SW9JOXF1RUIzS2lQU1llQnYtY0R3U2gwMU9xRlQyTHB0UjhFQnFqMWtIazVuWER1a3F4WGtUeU9NYTY4SG9sSXhBRHJSd3NVRHlPdmtVNmVYd0t4eUx0WHZ3eEgwVmxvQTlLcXk1bHVn?oc=5",
+      "source": "Vietnam.vn",
+      "time": "17시간 전",
+      "timestamp": 1784265789.0
+    },
+    {
+      "title": "국제유가, 차익실현에 하락…WTI 0.82%↓ 브렌트유 0.85%↓",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02MlZpTGxmX2RBZWl4ZUljVUR1UnlsdzRxdTB5VlRkSlNnY0J2dG1IMXlSVzhzZkg2VDNPNWZVYnRpdlhpZGZzeXU3OThaOTFUT1ByYWc5REJZcDVNZzRKbEpvanloRVlBaUpxQQ?oc=5",
+      "source": "스페셜경제",
+      "time": "17시간 전",
+      "timestamp": 1784263967.0
+    },
+    {
+      "title": "오늘(7월 17일) 미국 달러 환율: 미국 경제 지표 호조에 힘입어 미국 달러가 소폭 회복세를 보였습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkl0aG5TVU00X3JOVEdSRFdmbVhyYnVBSWtWeVhPMHBPWFpLd3BUXzJZMGY0aGVDbW02TmRQaTBOeFluSnRMXzF4WkFCM2FUT3hITlJwSXJ0M0QwMU1pZkowcjUxbEdRWmZWN1lEeURfdUhUMk9tY1FHdjRCdnl1Vkd2cm82aktLanVObWhvZEdvTUxVTmFkRGdlNEdlMUFqVll3VE9n?oc=5",
+      "source": "Vietnam.vn",
+      "time": "17시간 전",
+      "timestamp": 1784263109.0
+    },
+    {
+      "title": "[도쿄환시] 달러-엔, 소폭 상승…구두개입 영향 미미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HRGVCVlp1OTV0NXd3a2FMU1cyZ0RXVjNxRk1jODA3enlkZm5iVzFrNnRZU3hUMXR5UTdKRUVzTUJyUWZiZklBbjNBdU9JZTVHMkhySHhvODk2ZW5BNmNSUmxIZHdlTVBLMmthV0N1SDB4QQ?oc=5",
+      "source": "KB Think",
+      "time": "17시간 전",
+      "timestamp": 1784262984.0
+    },
+    {
+      "title": "베트남 사람들은 매년 미국산 사과를 먹는 데 수천만 달러를 씁니다.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1RWT3RIcmpkdEJ3SklyYS1zTXVUalh4NmhpS2diU3gyX0QxQWtrNHlCM0NJUkVpOGI0MlhzV3NoUnkyMFRXYmxPamdHa1RXdk91cFdvOW94MVFncFIyckZPN19IMWxXWDVNTUtMSFJnNE1vZm1BYUhqMXlraVRhVUFURFVSTDNPM2c?oc=5",
+      "source": "Vietnam.vn",
+      "time": "18시간 전",
+      "timestamp": 1784260276.0
+    },
+    {
+      "title": "은 가격이 전반적으로 하락하여 kg당 100만 VND 이상 저렴해졌습니다.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGlBTHNRUUt6a1J3czZxTVpoYWc3SXpNSFBtR3R6anhIbjZwS2JYbnZ4N1gtMWNXNV8xX3JpQUtwRnVleTdnTG1qeWJ4Z3JQMzJyUEpHWDhLVGRGdVhLWW5DbDNValB3NldsWUc3WnliTXU2bkJOZm5maUFkR0RBZw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "18시간 전",
+      "timestamp": 1784259582.0
+    },
+    {
+      "title": "2026년 7월 17일 오전 금 가격: 이틀 연속 하락세, 온스당 최대 520만 VND의 차이 발생.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUdjMmZTOEhVSFYybGM1c2J1UUs1eElFS1JJV2NTYTJqUkhuT1VIa1duak1Od2JfV2IxcUIxWHlTeklOTGF5V3lpX3VLYVZrYjFHVXEwallfa21LNEdfYnZrMEZqN1N0M1I4SXZMODhXd2l5ZWtzTFFnaTFtWEdSM0hHZEw4bEZVb2R6WHZ0aDNUMVRKRVNLUnJHOHRUcEw0aXIzLTJWQVRBQQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "19시간 전",
+      "timestamp": 1784258112.0
+    },
+    {
+      "title": "이란 공습으로 연준 금리 우려 고조…금, 주간 손실 예상",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzbFF0ZE54WWhydTNRWWZoNm9vQ0g3ZTlxLVRGOHl4dzBJTkJXNkV1QURvdy0tUW5XbzlOTnppRXhCU1VkMFlSdU9XR1lvbnpZMWV6UjJSVlhGLUktT0NzS0VRRm5GeURaS0FERm1pNA?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "19시간 전",
+      "timestamp": 1784256900.0
+    },
+    {
+      "title": "오늘(7월 17일)의 미국 달러 환율: 미국 경제 지표가 미국 달러를 뒷받침하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEl3SjM3b1UyZlFueUQtc25WRlZOX2l4NmQ1a3JRTlN6YWNGUExNcXBjN1ZRRFRyY0ZSa1J5VU5mQkdhSFlpZ1lHMzZEd0JGMDY3Q2dhQkVGNXJ6M3pPRDZkc1NNM1ZFZW12R3BGc0dXZU5QWl9wMW5XUUh6eE1weEZhTHdjQ0dnUUhEbnF3T1RpQXJZT3hTVXJiOEtzcTQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "19시간 전",
+      "timestamp": 1784256094.0
+    },
+    {
+      "title": "7월 17일 금 시세: 금, 은, 보석 회사별 가격표.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0RNYThjYUdiOGRsMWVTRFM1ek1RZ3BROHNneXdNWjZXSVEwOW1zV3laSUw0LUhaY1FmMlFXdVhpTDllTG92dGpVQ1BlSjFtU190dzEzRTJqcXNwbG1ZUk0xRi12Znk5WDZncVlTajZzaEV1T29jQzNLVk9YTngtU0hkUGtCaXg4a3VCa1d3?oc=5",
+      "source": "Vietnam.vn",
+      "time": "20시간 전",
+      "timestamp": 1784255037.0
+    },
+    {
+      "title": "솔 가든과 하이퐁 엘리트층의 세대 간 부의 축적 추세.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUswdk9lTTVKMmpoZlFXUndxbFVMdE9sZUgtVkxKS0dvQ2d6cnhFTjEwX2F0YnRMRmlNUVNyQ3pYWjJoVkM0SUhtZGFSQlZWQTV4QllqamxxYnEtd3o2dXo4OUNfRS04cUsyLW1lY2xBSm5Pd1lwdVA3XzB1MkM4dlcxa0MxNzVraEJNTlc2TUtvaU04QVFXS2JpWQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "20시간 전",
+      "timestamp": 1784254003.0
+    },
+    {
+      "title": "2026년 7월 17일 오전 9시 24분 업데이트: 금 가격은 150만~160만 VND 하락했고, BTMC SJC는 20만 VND 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEI3d0tzOFYtSHlvYzJvZmpqckZDQjBNY1pOOEpGaDVGTlBYM1pNVE5XdG4zUEFQWWVRVVBSX2xPR1RmRHpBOGlmRlJCNkJQVzAtZllGNGY2QkluQXFzVWd1TnFCd3ZDME9lVExfQVdBVUp2Vmp1Mkg2Nmp3ZnJ5anJ3VExUaFZjcWhuMV9yRjB5R3BvSE4zdUplcUJqRVY0Z3pQUXEtYnRLUHJUeUNEYlRwdXM5Mlk?oc=5",
+      "source": "Vietnam.vn",
+      "time": "20시간 전",
+      "timestamp": 1784253600.0
+    },
+    {
+      "title": "호실적에도 매도, 확전에도 유가 하락 … 반도체·유가 흔든 '선반영 장세'",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWEwMFRQY25VVXp5SllSZ1RocE5QYlRWT1VGQ1F0Q2s1aWdNbkZsZXp4dk9CRjNqX3pDT0xZYnJiOVdqSkdjbnRVN2ZHQVpQYktuM2lsaE1EOVdKVUlEY01FVS1LamN2UDc0ZHJWYUtyS1BQSEg0d3dIb0JadDhKM9IBgAFBVV95cUxNMWEwMFRQY25VVXp5SllSZ1RocE5QYlRWT1VGQ1F0Q2s1aWdNbkZsZXp4dk9CRjNqX3pDT0xZYnJiOVdqSkdjbnRVN2ZHQVpQYktuM2lsaE1EOVdKVUlEY01FVS1LamN2UDc0ZHJWYUtyS1BQSEg0d3dIb0JadDhKMw?oc=5",
+      "source": "뉴데일리",
+      "time": "20시간 전",
+      "timestamp": 1784252584.0
+    },
+    {
+      "title": "금리인상 전망 꺾였다, 반도체 랠리… SK하닉 ADR 27% 급등 [뉴욕마감]",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNa0ZTMzhra0NMNHk1RG85aTh3OFVySTJhSWc3TWhIVHo3Zk1CXzVtd0ZoVVF5ejM5RHhoM3NXUEdlSXNmVTY2cURtcXVwQ0hvNTRvYXo5emI2SHlRdnk0VDhIMzhSdkxrVWR0RU02aVktVVl6MnlGNEtqT0x4RDJ1Z3BYX2I1RkVLUVZYQTFaSEYzeWFlVndDS09vSFlySGs3NTZWQlktcGFYbXVkNHVUbHhaS29Xd1UzM1hHazNWZ0VlM00wSHhSQkVwaVBQamc1SWlmZl8wRTc0RTRUZzNPSnNneHplRzNjallzeEh4WUdBMm8zaVdwZm01c19fcUNiVTlHXzZfOGxlT3JzV01IV0owUEQ1S05Zdi1IVHkydHN6WEVNWHluU0syaXoxQ1M1THQ1UV91aFUxZmFoV3AyQXhoWlZHUXN4UTc5Q096cEtpMWFURWZNVUhvQ2o2Ql9WSG4ySDgxUjh2TWhnTHl1ZHZadGZNV25yZ01NbHdJOXNlV3l2alpyY004eXl5UQ?oc=5",
+      "source": "MSN",
+      "time": "21시간 전",
+      "timestamp": 1784251493.0
+    }
+  ],
+  "total_count": 50
 }
