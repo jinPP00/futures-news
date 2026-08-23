@@ -1,357 +1,336 @@
 {
-  "updated_at": "2026-08-23T11:12:12.473009+09:00",
-  "update_time_kr": "2026-08-23 11:12",
+  "updated_at": "2026-08-23T12:15:41.529771+09:00",
+  "update_time_kr": "2026-08-23 12:15",
   "all_news": [
+    {
+      "title": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5",
+      "source": "조선일보",
+      "time": "51분 전",
+      "timestamp": 1787451840.0
+    },
+    {
+      "title": "[이번주 환율] 한 달 반 만에 170원 급락…달러·원 어디까지 내릴까",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iUlhRT3pXamk5cGVuSnh3Q3cxNUwtTVg3RHJ4bEI5ODFjVC1VdVBiZDBPZ3hZOS1SVFFuR2hpU3hoZFpEc21kajZaSC11LWJyQ052bWhib3hfT2Z4SHJJNzdFc3R5SG1WNnVUcV9fMkRfZw?oc=5",
+      "source": "오피니언뉴스",
+      "time": "58분 전",
+      "timestamp": 1787451432.0
+    },
     {
       "title": "지지부진 장세 속 화장품·금·바이오 ETF '쑥'…역대급 호실적 등 영향",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoenI5Y2VkZFcwd3RoYmIzMGx3X1RKMjNCdXlOREhuT1I2ZWlhcFNHcy1zYjh5VGNYcUNXWVljVWRLc1NXM1BGMU00OF9xdEREODZ3?oc=5",
       "source": "네이트",
-      "time": "12분 전",
+      "time": "1시간 전",
       "timestamp": 1787450400.0
     },
     {
       "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5",
       "source": "경향신문",
-      "time": "23분 전",
+      "time": "1시간 전",
       "timestamp": 1787449740.0
     },
     {
       "title": "환율 하락에 달러예금 역대최대 골드바 판매액 이달 들어 3배로",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OWG92TmVUc2hkaGhXalQ3NldVbEFZZVhWdURuc3phQURrV1R6UUJNZFpwNlFMUXU0SHlDRzVJS1RMbEsxTTBvREtNU3AzbEd4ZFFFamhKcTJwQzJMZ2phdnE3c3FkN3lzaFpleA?oc=5",
       "source": "중소기업신문",
-      "time": "52분 전",
+      "time": "1시간 전",
       "timestamp": 1787447968.0
     },
     {
       "title": "UBS \"금값 12개월 내 5400달러 도달 전망…미국 부채·달러 약세 영향\"",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FVHhNcHFWeG1vNG4zb1NwbVpNUjl2Ym43TDM0UTdqOXNHU250VUJTX2luN2d3cURyV2tYRjRXQzBVc2FXRHhWQV9jX3VWVzV4NjdvdEhYQUg?oc=5",
       "source": "블록미디어",
-      "time": "53분 전",
+      "time": "1시간 전",
       "timestamp": 1787447940.0
     },
     {
       "title": "금값 3개월 만에 최고…금·은 ETF 수익률 상위권",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42cXhJMWxESG1OTWcxYjd4bC1lQ05lT0NLdWVya0VBQWlmMnpKSWlGOTBJMmpBOW1sU2pNVUl4UXI1SENHMlo3N29naks4V1dtWm5KVlhCdUJoYnlQbzh4ZGV2ZzFHNS1sd2UyMHl5N2g?oc=5",
       "source": "시장경제신문",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1787446800.0
     },
     {
       "title": "“주식 대신 달러·금”…롤러코스피에 은행 자금 대이동",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ROFdBakZQTFJudFVPZlNCdzhDUkFrekd5czktdW5NU1hYTFdsNjZyQVZCaXJiX0NCRVNSR2tsSVZvbTNRTEpLU0JCeDNBX1k?oc=5",
       "source": "v.daum.net",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1787446720.0
     },
     {
       "title": "금값이 오늘(2026년 8월 23일) 급등하여 SJC 금 선물 가격이 온스당 360만 VND 상승했습니다.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU05QZktYVnI1OGlSeER2YldudllwdWotRHJTbXR0NWVnVmpzaEVMRUFQcmlETnh0WmpmdC0zWHIydnllVU1UeDNwR3Q1Y2tuMjhJanZZNUQ0RGwtdHptajc5eUwweld3MmJjYVdqc2JFTVZ3aktyNTU4SkE1a1IwT3MxUHFLTVRPMjFIRlNETi1hUmRrd2JkTmxRV20?oc=5",
       "source": "Vietnam.vn",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1787445424.0
     },
     {
       "title": "“편의점서 3100만원 로봇 산다고?”…포켓몬·골드바까지 추석선물 ‘별천지’",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBORDVnN01naC1kR2haYmhhNzR3RmFMRGwweXY5MEpKNTk4SV9Va2VZd1ZvUEllZjF6QU94MlU3R252eThmZlFiN0VhZ0ZKZTk0MExLdnRuNktSM0ZaSVlIbEdHSmpQSzN1Sk5B0gFUQVVfeXFMTXpLemhXLXpLMHdqT0ZnZUN2dHhyN2ZxR0VERExWSlpFQ3BvMUxhS3RRX2hEX3B6RlpNM0xoTy02dF9NaWJpRWpkU2ZWQkpYa0tKSnZV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mTXd4bk9MSnVrSUpvUnpEREhramNTbGE0RmNHY0lQLW9VbnBiSThHUUJiNEpnNld4NVVYT3ZNT1lVSjBrQ0RwbjRBZlJZMlgx?oc=5",
       "source": "세계일보",
-      "time": "1시간 전",
+      "time": "2시간 전",
       "timestamp": 1787444400.0
     },
     {
       "title": "코스닥이 끌어올린 8월…화장품·금·바이오 ETF로 옮겨간 '순환매'",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Uc0FWXzY2bEo2YnFnOXJydFk3MFFXY1hIWVdadXlGZUJDZ2lNQkpoakJIUUZ4WDhOZ3NBak91Vm1YbmxFT3FEY25tYWFWeDFGWlNEOENLVVNSWVVpbzdjcF9CMVNlYlBmWU5MOV83dGdVdDMzVERN0gF3QVVfeXFMT1RzQVZfNjZsSjZicWc5cnJ0WTcwUVdjWEhZV1p1eUZlQkNnaU1CSmhqQkhRRnhYOE5nc0FqT3VWbVhubEVPcURjbm1hYVZ4MUZaU0Q4Q0tVU1JZVWlvN2NwX0IxU2ViUGZZTkw5Xzd0Z1V0MzNURE0?oc=5",
       "source": "핀포인트뉴스",
-      "time": "1시간 전",
+      "time": "3시간 전",
       "timestamp": 1787444066.0
     },
     {
       "title": "[금값시세] 금시세 상승",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeWhCWnJ1VXBteFQ3eG1Qc0NjYkJoam5lck9VTVg3SUcxT0MwWDU4RWVuR21ib1U0NmNoUWM5c1U4WTdFalp0QXN0SzNlY3pfNUtDZzhDV0RmOXhtSnpNZ1pCcDAyVkxmRFFrZQ?oc=5",
       "source": "게임톡",
-      "time": "2시간 전",
-      "timestamp": 1787443320.0
-    },
-    {
-      "title": "\"추석 한달여 남았는데 벌써 77% 할인\"…'얼리버드 전쟁' 시작",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QRVBiZDhwYUg3aG0xQ0pRM2E2dVItc0R5MmxickFvdExBRXlWc1pvZ3pmU2pDTVJqNnBiMzdQWmY1eWE5YnpfcTl3SzlYZm0yZUw0?oc=5",
-      "source": "네이트",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1787443320.0
     },
     {
       "title": "[오늘의 금값시세] 2026년 8월 23일 g당 200,056.86원·1돈 750,213원…국제 금 상승",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51QWRwUFk3Q0UydWNHV2dza01YMEhPVmxDOGVWU2g2aTVNY3RlejFUOVJSSUxMYVQ3RTFFd1Jwd1NFbDNVVV8yUEtzdGR0Q2VwWVh4bXF3U3hWbF8wckxnUVZpOUJtN0RyUUpLdA?oc=5",
       "source": "민심뉴스",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1787443233.0
+    },
+    {
+      "title": "“추석 한달여 남았는데 벌써 77% 할인”…‘얼리버드 전쟁’ 시작",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lU1p0ejJDSi0xS3h3V3c2NmtQSF9jRk5aV3FNSWd6d0c1MUt0dTFwZHNpX1RmS3JUeEV5eVJwNlFuZXBXUDZWU2VBTWNQZEtwNlZSemEzbjg?oc=5",
+      "source": "세계일보",
+      "time": "3시간 전",
+      "timestamp": 1787443200.0
     },
     {
       "title": "오늘(8월 23일) 미국 달러 환율: 미국 달러는 지난주 상당한 압력을 받았습니다.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5fUy1FeFV2a0o2V1ViR1F0dTV6OHM4QXcxMXJBajFiZ2hoLV84OTFwdndBSWMtOEJmLTVielFBSjhXX1g2MkdicHZpb0R6b2VGek9xNVNwTVNlTXhQLXZOQ2p0WkNPU090dWQweXBQVFhmd0Z1X0VXZldDSDNXb1MwbVdjcHk3RXJKYlIxQXQ4eG82OU9tYjd3?oc=5",
       "source": "Vietnam.vn",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1787441953.0
-    },
-    {
-      "title": "[마켓IN브리핑]ETF 16억달러유입···비트코인 상승",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0ZGp0YVZkdEFIT0ZfcV95ZV9JTVZGMEcwcG5DejJmM1QwbGN4WkVtRm5Ld29FOXJSaEo1dzFCQTNiMENoQVgxTzliYVJDSE1DQ25OQUlaZUhsZ2J5Rmg4cmo3RkZQR1hXWDlISGdBZ9IBb0FVX3lxTFB0ZGp0YVZkdEFIT0ZfcV95ZV9JTVZGMEcwcG5DejJmM1QwbGN4WkVtRm5Ld29FOXJSaEo1dzFCQTNiMENoQVgxTzliYVJDSE1DQ25OQUlaZUhsZ2J5Rmg4cmo3RkZQR1hXWDlISGdBZw?oc=5",
-      "source": "한스경제",
-      "time": "2시간 전",
-      "timestamp": 1787441128.0
     },
     {
       "title": "“추석 선물로 로봇에 헬로키티 키링까지?”",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwSmFrU0lUd2JlQmhBZ2ZxZkVtV2w0UXhHT1BaS0tTUU1TOVZ6aC1oOXE1RzNpdTFSYU9oU25wMzBpUHQwSl9YMHpSVjBVYVM1bFRjeTVVUng?oc=5",
       "source": "세계일보",
-      "time": "2시간 전",
+      "time": "3시간 전",
       "timestamp": 1787440800.0
     },
     {
       "title": "\"포켓몬부터 골드바·로봇까지\"…편의점업계, 추석선물 ‘취향·프리미엄’ 정조준",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSEJfdTVVcmU2dFkxTjRDellNOGtPcXo4V3AxdGtrZ2hFNm8xcXF0em9JZG1qZXdtcktkRUlyNG1ZYVhnYTQ0QUZjNWNhS1JJNDE3SFpIQkxydXA3Z3dJX3JmUXhQSVB6cUE?oc=5",
       "source": "청년일보",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1787439601.0
     },
     {
       "title": "달러 약세에 금값 3개월 최고…은도 70달러 돌파",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWlLd1NKbmR0aDZUamN4ZVU2WVJuUmtJYTJXdXpiYUh5dF9xWllzWU55RVY5X1BWdEVLSkU4R0J6SjIzVmx0ejVFcHRGeXhGUzBGcXc5b3JFWUpGUDNueElNT09Wc0pqdGpnMGE4cWlTMGFGSlpWNzhCdTNRR2MzbWtZaWhUUzFq?oc=5",
       "source": "글로벌이코노믹",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1787438886.0
     },
     {
       "title": "1년 만에 1,300원대 찍은 환율…＂쌀 때 사두자＂ 우르르 몰렸다",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vY1NEQWtMamtKVjd0SzFWZ2lfY29ucnZ2NTRPeXpZZHp1Q2pLSldJOGxzWkQzd3JxeWFaenBLYmY1SjFFcXFWS1dsNVBScmd2RTRTQjhWT2w3RVA2b3BRTnJKZU5mU3pDUDdDOEp3X1NZQXhsd3pJ?oc=5",
       "source": "한국경제TV",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1787438340.0
     },
     {
       "title": "고금리에도 빛나는 金… 금ETF 수익률도 ‘쑥’",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01NnFSbC02MUhaczJLRjNRaTJaVUNpLXJYVUNzTHNEUm1LRUZyVG1QZk1oTHZiWjhrRUxyb0RfZjViTm5GTkNwYndUZWhLNUpjSTc0QzQ2THdsZ3ZIaldvb2dxb3hENTRUYzJ3NzNaV2RKREZF0gF0QVVfeXFMTTU2cVJsLTYxSFpzMktGM1FpMlpVQ2ktclhVQ3NMc0RSbUtFRnJUbVBmTWhMdmJaOGtFTHJvRF9mNWJObkZOQ3Bid1RlaEs1SmNJNzRDNDZMd2xndkhqV29vZ3FveEQ1NFRjMnc3M1pXZEpERkU?oc=5",
       "source": "IT조선",
-      "time": "3시간 전",
+      "time": "4시간 전",
       "timestamp": 1787437027.0
     },
     {
       "title": "[뉴욕증시-주간전망] '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ib1lRS3VGNGxTbnZHdThabjNucUhpSWZHd2pSYTF1dGZla00zb3d3eGZzZXl3WFhYdjZLdkdkLTN1MWllZ2tNU3psMjY1MldnTVE?oc=5",
       "source": "매일경제 마켓",
-      "time": "4시간 전",
+      "time": "5시간 전",
       "timestamp": 1787436000.0
     },
     {
       "title": "지지부진 장세에 오히려 '웃었다'…화장품·금·바이오 ETF '쑥'",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hc1R6TndLNWhLcXI5dS1uQ0dLMTliNndnTVNUUWxHakk4RC1YUktuOUFUV25UME5UN2s1WVpEb3lVSHMzc1V5d19mWjMtOHJhdFJZTmFNNTRnd3E3RmpPcdIBYEFVX3lxTE5hc1R6TndLNWhLcXI5dS1uQ0dLMTliNndnTVNUUWxHakk4RC1YUktuOUFUV25UME5UN2s1WVpEb3lVSHMzc1V5d19mWjMtOHJhdFJZTmFNNTRnd3E3RmpPcQ?oc=5",
       "source": "연합뉴스",
-      "time": "4시간 전",
+      "time": "5시간 전",
       "timestamp": 1787433600.0
     },
     {
       "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41LW5CR0hKYm1scnZtVUVhSXcxTnNhRVVGUnNGRTFsLVRUYmE5THRPa2FaMWg0Q3dNT0tQOUlybi1Cd2JCY0lZWlBYLTlRODAwMy1kVGszTmRHWVnSAWBBVV95cUxPdWdobWRYZldldld3SkdBd3RiOGdPWERVc2ZhZGg5TWRTaHZiQjh1aW5rZE9MZnhJSXhCR09qVnlzS0RlQ19MeElGdnhibEJEdlMxQWhFTnluQVFDTmY5aEk?oc=5",
       "source": "연합뉴스",
-      "time": "5시간 전",
+      "time": "6시간 전",
       "timestamp": 1787432444.0
     },
     {
       "title": "오늘(8월 23일) 금 가격: SJC 금 가격은 주말에도 불구하고 상승세를 이어가고 있습니다.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWo1RGN0eVBjOUE3Qk95SFdNTUZZNWdxbVBRSUdNSUFmemJ1LUU5MmJSVUswZ2toa2VGV0ZETkQ0THlSSno3TGozUGNnRGVURDhkRHRQT3ozYXhYWG5OV20wMFRtMzRkQTZYVkdicEMxV1FxdFQ1Z1hmdTZoTzUtOV9TdEdpSWFrU2FQbV85c2ozZlB2OXMw?oc=5",
       "source": "Vietnam.vn",
-      "time": "5시간 전",
+      "time": "6시간 전",
       "timestamp": 1787432297.0
     },
     {
       "title": "예금·달러·금 쌓고 주식투자는 '신중'…달라진 은행 자금 흐름",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4waFpudTlNYVJMNm83VFhZanZjOXJqUjU4YnFRM1cwUnpoYkFvaldqYlVEN3RVcks0SFFabldabnZod05wTERZQkxERzRPWUFFX1FWaTVBb1ZKdV9VMFlLaQ?oc=5",
       "source": "연합뉴스",
-      "time": "5시간 전",
+      "time": "6시간 전",
       "timestamp": 1787432220.0
     },
     {
       "title": "금 가격은 오늘(8월 22일) 마감하면서 여전히 매우 강한 상승세를 보였습니다.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0xmM1lKWDlnWjNtdEVIOVhhRGx6dmt5Qjdpam1tSUZURWpJVmxqc20yNVY2N0hCeHZ0SF9GdC0yeEJVM0lrOE9hSllQaU91VUlmWXJlNW1pYUNKMGVqeEVROVl0RFd1N2xiV1locDBRLTBhTU9lYXRYSkRVUkhINQ?oc=5",
       "source": "Vietnam.vn",
-      "time": "7시간 전",
+      "time": "8시간 전",
       "timestamp": 1787423275.0
     },
     {
       "title": "서학개미, '삼전닉스' 담은 美ETF 1000억 넘게 샀다",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVOEw0MHNLazA2MlQ0bjF1YWxVV1FJbnUyZjRTaUFqRU85UndDVnh6dEFITDRLbVIwdGlieGdrYzNJUDg0elAycl9Rd3YyU0d4eGtn?oc=5",
       "source": "네이트",
-      "time": "13시간 전",
+      "time": "14시간 전",
       "timestamp": 1787403780.0
     },
     {
       "title": "2026년, 2027년, 2028~2030년 및 향후 금 가격 예측 및 전망",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3lZSWRWXzltM1lNOTV4VE5CM25qbTBzODEzRkt0dXNLWEJWMVo3WGNkc25oSXdhMGJUY1dlQUVCaDZ3YnV2TFI0dW9GbThtWEY3RzFfZExLN25kU05PcHF4NGNfNHBJOVRXQmEzcTJaWVFKZFVFeTljU1RLRHhiNUVWVDhtZ1JBYUNybg?oc=5",
       "source": "LiteFinance",
-      "time": "14시간 전",
+      "time": "15시간 전",
       "timestamp": 1787398591.0
     },
     {
       "title": "[김남현의 채권썰] 시장 충격은 기준금리 동결시 더 클 듯",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HdE9yc3dpRDZ4UVJMOFY1UUlZOVBWQnRDMHJQYVZxWmdVcjI2emJoS3pESVBWX3BjZ3dXc2RZOF81Zm9nQVlZa3dKMHNyOFBCcno0?oc=5",
       "source": "네이트",
-      "time": "15시간 전",
+      "time": "16시간 전",
       "timestamp": 1787396280.0
     },
     {
       "title": "2026년 8월 22일 오후 금 시세: SJC 금 시세, 9999 순금 반지 시세 및 토요일 세계 금 시세.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0JXOXFpMm5MTDVIazNseExncTJ0NGpkNzlwOTZyUzgxenNwWFZkcU9sMXZKX0dKVXlzaTRtbFFDeEF4OE9qYk9CZnAwTWFBZUc0bm9ZWlJIdnM5LVJnaHhOR0Z4UXMwdXh0ZlRXNUVTU3hhVjdLTDRoaVRWUHhkMnpaUFhuVDY4VFhzTWFrNDVhRXdtQWloQkRWY1FvSzh3R3FabFJoLVl1a1k?oc=5",
       "source": "Vietnam.vn",
-      "time": "15시간 전",
+      "time": "16시간 전",
       "timestamp": 1787394025.0
     },
     {
       "title": "세계 금 가격이 3주 연속 상승했다.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pMmUwYU1FS3FCWi1sTGY0dmNQYVRqTVNmZGRxbUpvMW03UmQwTmlacWlGVy16WHgxTVk0aFVmMzRmc1FoV1ZWYm94azdPb1pMUHhzeUZJM1JVd2JNYk1HRDc4U2NmbEQwZjZBWEs4RlhfRFVCXzU0SXNR?oc=5",
       "source": "Vietnam.vn",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1787389786.0
     },
     {
       "title": "美 국채금리 방어 나선 베선트…월가 \"달러가 가장 큰 피해자\" : 경제",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtUllsd0NsVWhwNTBDSUg4bTkyQXd3cXdLLVdJMHhWWVRUR3cyalkzS1dJQ3pWYzQySXNEQ1pMTXhJTlR4LWVaek1R?oc=5",
       "source": "재경일보",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1787387400.0
     },
     {
       "title": "금·비트코인만 오르고 달러는 약세…베센트의 역설",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzaThfU0l4SngzYmZ1Ukd4VzBQaDlVMl9pV2UyZmJPeXhDeUllWnBvUXg1WFIwNVROeWZsdmJudW9sTGgzYmw3cEFYTlpqT0FTSzYzUA?oc=5",
       "source": "매일경제",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1787387227.0
     },
     {
       "title": "2026년 8월 21일 오후 금 시세: SJC 9999 순금, BTMC 금반지, SJC, DOJI",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXJsbDVLanQ2UlZScTRRZnItWnZRUzMzWkxHZHZLdlRlc2RycVFUcTFUcmNJOXdxYWtMay1lTGptQmVxQlM0SjNoQ3RlWkNuZnVXc1cyb201SUZfZGpkRFBqWkdQbU0weVdSMVBmM0ZxQ29jbkVZZUFNdzQzaE5ENHQ3OGpiaW1va25wcXVxUlBCZw?oc=5",
       "source": "Vietnam.vn",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1787386765.0
     },
     {
       "title": "美증시, 주간 하락 속 반등 성공…다음주 잭슨홀·PCE·엔비디아 주목 : 금융",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Kb3FlWGhMTUpWRmNMWG5CU094eUdKcDJ3eVBkczNUU1RxZ3RxczBERXpsc2lualJsNTA5SlV5SGF3NjFlOEc0cWVR?oc=5",
       "source": "재경일보",
-      "time": "17시간 전",
+      "time": "18시간 전",
       "timestamp": 1787386740.0
     },
     {
       "title": "[추석선물 특집] 추석 선물도 ‘취향 소비’…산지직송부터 와규·뷰티·디자인 협업까지",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YR3RvUWxsYTE5dGZubHRoSmJfWndOR2J0NXp4enFmd3ZOcnMtSzFpSUNPOHBGWWNxQk5YQTR3TlZmd3o4RmZJdGxwaWM2Y0xmSHJfdnBObFdYUTFHSktVRlZzbndiMG1UeTZkS2N3?oc=5",
       "source": "코리아포스트 한글판",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1787386011.0
     },
     {
       "title": "세계 금값이 4,600달러를 돌파했습니다.",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ad3poZFE0Q1QwMkoyZzZDUTFWSWZKRlRNc3Y3enNaa3pVMjBsdzFHMmZGcTRUeF95a0JkTDJEM2VnM1hmYlBaRTF2S0c3eUh1RlVZVmotdkljcmlOcGFfemR4VkFFWDJHcXc?oc=5",
       "source": "Vietnam.vn",
-      "time": "18시간 전",
+      "time": "19시간 전",
       "timestamp": 1787385398.0
     },
     {
       "title": "오늘(8월 22일) 미국 달러 환율: 기준 환율은 25,600 VND/USD를 기록했습니다.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYklSeElkanItNzA5QjAtMFZicmRhM0xzVGIyaWxKd1plRWYzc2RmWTVwNy12Rk5CQVR1MWJfbGYtQVl1UlpkMko3djkyWFAyNFJCWVJ4UjV2X203X1YyOTdGaTVxS2xSRW1LbERRNTdCMHNOZnFmRXZiX3gwMmc0NXk0SWFXd3pHZ1lNS1FhNXo0UWh4RHc?oc=5",
       "source": "Vietnam.vn",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1787378977.0
     },
     {
       "title": "금 가격 상승, 전문가들은 4,800달러까지 상승할 수 있다고 예측",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUpfWWdmTGthMjNQeV9CMGxuTURiZndlZHJqMUI1S0RuenJ3VnA0TXhFenhGQjZ1WWpCNGZpUm9Ia1o0ZGZkT2hwREdYdHNQaWNMNE9fOVI2LWJGcEVGcUY4eElYQUQwalBudnRLRko5UFhhS1F3MnZmTVctNGRxZFRtdlRFVXRoQ2xfa3hrV216NmoxZ244enpoZjB1M3JFRVE?oc=5",
       "source": "Laodong.vn",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1787378770.0
     },
     {
       "title": "오늘(8월 22일) 금 시세: 바오틴민쩌우산 금반지 1냥은 얼마입니까?",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWpFbWU5eFJBNUMtLVI4bHZxOW81ZFc2Z1ZYVWdxX0RUOUZIeGR5ZUVWTzRNbm1jckpaQl9udlFEelRXYjJ3UUtxS1hhWWNTSGdrVDdHbjRQbXlTd2VIZkYySjdrdWxoZ1YtaEhFR3VMUV9OcWtOc1hsUkFmSDNHdVJYel84dnQxSXJ1RVEyYURZZEhTY1BWZk9mRFY?oc=5",
       "source": "Vietnam.vn",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1787378602.0
     },
     {
       "title": "\"금 대신 샀더니\"…한 달 만에 30% 넘게 오르자 개미들 '들썩' [이수의 ETF줌인]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41YllDMzFJUEI0S0RRODNtQVZhV0g0OEo2X2gxTW1DWXVPWW5zR0htQ1NyYklWNWJocmQxVFFIRXhleWV3emhqa2pzZG14UHA3OEYxcWpKbUlPdw?oc=5",
       "source": "한국경제",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1787378402.0
     },
     {
       "title": "롤러코스터 금 값 …다시 뛰는 금 살까? 말까?",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ja090XzItV1A5Wkh6QkRvU1RYSlMtNHV4VUVlN1A1S1RLaU9BeGhlTmdVQmkzQm5KSVhlVXByeHUxMXZ1eFpicFpWdFVnS3BNbFNWRHB4aDlFSWdMZGhfYVlpS3dncXhBS1pYMg?oc=5",
       "source": "센머니",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1787377320.0
     },
     {
       "title": "2026년 8월 22일 정오 현재 금 가격(9999): SJC, BTMC, BTMH, DOJI 및 세계 금 가격.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUhVZ1d2TkNrUVQ1MWxNZTRLVEphbFdVSEJ4QXdVTGdScEk2RG9lV2dTa3dRVjlRWWFPb1RqczFqdWRSWjhzTU9hZHhKYmVqbHlKSW5Wc1NHOVhuOUtCYnh6THlvN25TNERJRkwtWHRRTG9pUVg2cGh5Y0dTZjlYSkJ6Vk4yV1pCMEh4U2h4X3hjNnV4LXhXNDdzTVd2UTA?oc=5",
       "source": "Vietnam.vn",
-      "time": "20시간 전",
+      "time": "21시간 전",
       "timestamp": 1787376689.0
+    },
+    {
+      "title": "2026년 8월 22일 오늘 금 가격: SJC 금 가격은 온스당 60만 VND 상승했으며, 일부 업체는 최대 150만 VND까지 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXNYVFdzdVRQaVBNcUtxek9pR2JVcnFFRTA3UXQxWXpIUnhYbnN6bjU0dmJhZm95VVY4SzRhbndwVjV3Z0FqcE5CTW1HdE5UUlNZQl9qM0JYOHVXN00yVk5ZTEJodk9QMS1HREpZWm9Yc1gybXk5OXp2UkFZc25mMVhlV2tvUEMtMzJ3UEhKWmxEVGJlZjhPVGhqTEwyNTVhM09wbzVRWDVGOXc?oc=5",
+      "source": "Vietnam.vn",
+      "time": "21시간 전",
+      "timestamp": 1787376367.0
     },
     {
       "title": "오늘(8월 22일) 금 가격: 세계 금 가격이 3개월여 만에 최고치를 경신했고, 국내 가격도 상승세인가?",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmQyZlJ6M21JMXo4Q0VmMWprUXFnTDNlWlpIdmlsdDZKRzVEaV9LaklRbWFwSmJUT0RBSmFaUnlVU2pfcGVlbHY2a0xaSi1waU1kYkRWQk5oVjhwNUNVVTFWVnBVTTdNVnFULXVqY3pxdlhPVHRJMnJ3QWRLWUlSNlFGeXFsZEZOSFEwSDBqU2Q5dFRvU2dITTdlZHd3XzA?oc=5",
       "source": "Vietnam.vn",
-      "time": "21시간 전",
+      "time": "22시간 전",
       "timestamp": 1787372444.0
     },
     {
       "title": "전문가, 다음 주 금 가격 예측",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFpLNXlnVnZhX0pzNmYxekstX21vUVFkMjVkTGpCVTZublZPN3lGNlJ5MG9jRVdjUVJrLUJDcGdINjc4YUFIaWxHa0lPaWJXRGdHOUdJSnVkME1La01sSDhTVE95bmJVRzV3OXFxaXdFTXhXQ1JBaXo5MHQ2UzBkb0J1V0ctWjJNdnA5VVJPbkE?oc=5",
       "source": "Laodong.vn",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1787370747.0
     },
     {
       "title": "[금값시세] 금시세 상승",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qemZ5LTVpbndEelVQc2dkNDI5M2NpRkpiUFBzRHFxZmVEM0J5ZF9mYW1tM01KOTYxU0piSXJBV3Q3dExTSlB2VmxYN0NwRmE2MTh1ZjVUbm5PeTdxM1pTM2NWeG1iMUFfUTlHag?oc=5",
       "source": "게임톡",
-      "time": "22시간 전",
+      "time": "23시간 전",
       "timestamp": 1787368729.0
-    },
-    {
-      "title": "2026년 8월 22일 오늘 금 가격: 금 가격이 다시 상승세를 보이며 SJC 금 가격이 온스당 60만 VND 올랐습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmUxTDRVcmIwYURSRGhkd1d6NkFhQkMwLVcta3lPLU50MDMtR3c0RmtSY3VURHlXMkpRVWlySGd1Z1BxVXV0U295NzZIUUNuSHBzTjNiZlVyV1AwV1FOSXhnV1VMdnFabXlqdVFGVnh2NXI4em1yRlVBZ1hLM2djMlpPSWRrVS1lX1MyZEJfNFgwczhkeXhiaXJfVEpQcFQ5R0E?oc=5",
-      "source": "Vietnam.vn",
-      "time": "23시간 전",
-      "timestamp": 1787368049.0
-    },
-    {
-      "title": "“남편이 금 50돈 사준대요”…금은방 찾은 여성, 보이스피싱 수거책",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWUQ1VkJDdG9jT01rNWF0OWNUelpQU2Y0TkhBYVlQNlp5SHNOSDFYWjJZV3dqT0o3dVlwbmN0dmotSUlfcVVUTFZLSmpUdXY1MkowYjM0Q25OY200d2wtSmtFQi1tMV9QUWRFVw?oc=5",
-      "source": "센머니",
-      "time": "23시간 전",
-      "timestamp": 1787367300.0
-    },
-    {
-      "title": "오늘(8월 22일) 금 가격: SJC 금 선물 가격이 온스당 1억 4800만 VND까지 오를 수 있을까?",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkhHWnpFY0YwT2F2eklJdHJkeGM0VHBONE5MLVVwMFRVQkNLZzc0LWlPdjhTa1ZTYUVoSXdLMVFmQWJaNVJ1b3lRdXRVLXMtcTJzN1o5dmhUTC0xZVB0dkFjNlY0NUlHa1RyZHd5WUZjMC1seWFQc19rblBmUUh0QnlGWWVkMGphejlOUA?oc=5",
-      "source": "Vietnam.vn",
-      "time": "23시간 전",
-      "timestamp": 1787366915.0
-    },
-    {
-      "title": "삼전닉스 반등하자 서학개미 움직였다…한주간 라운드힐 ETF 1천억 사들여",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44OWVxcGhuZHNyYzVOMUtMREpiNEtpekZyRUxYU0lxeXhfY2VocUZhM244SVZSSUpnaTlLWDlWaHVMazNSeURVYVh1TGdzdw?oc=5",
-      "source": "전자신문",
-      "time": "23시간 전",
-      "timestamp": 1787366400.0
-    },
-    {
-      "title": "비트코인 8만달러 코앞 … 美 국채 불안 속 사흘째 급등",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUJBVEFXYll1VlhhbFdKNlhxV0RoZlpkUEtEXzdXT29OdFFZVlNiWENMVGp3Ul9hamFpakVISWlObzhDakF1WExXS2c0UE4xZHNBMDdNQ1NFSll4eUN6RUJrOEtCM1MwWGlhbGw5SUVUUkJMRHlETjZpQ0ZoRUl3M9IBgAFBVV95cUxQcUJBVEFXYll1VlhhbFdKNlhxV0RoZlpkUEtEXzdXT29OdFFZVlNiWENMVGp3Ul9hamFpakVISWlObzhDakF1WExXS2c0UE4xZHNBMDdNQ1NFSll4eUN6RUJrOEtCM1MwWGlhbGw5SUVUUkJMRHlETjZpQ0ZoRUl3Mw?oc=5",
-      "source": "뉴데일리",
-      "time": "23시간 전",
-      "timestamp": 1787366146.0
     }
   ],
-  "total_count": 50
+  "total_count": 47
 }
