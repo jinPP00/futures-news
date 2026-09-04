@@ -1,6 +1,357 @@
 {
-  "updated_at": "2026-09-05T00:24:16.201505+09:00",
-  "update_time_kr": "2026-09-05 00:24",
-  "all_news": [],
-  "total_count": 0
+  "updated_at": "2026-09-05T03:32:29.107500+09:00",
+  "update_time_kr": "2026-09-05 03:32",
+  "all_news": [
+    {
+      "title": "[뉴욕 금가격] 美 고용 예상 대폭 상회에 1.5% 하락",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EN2Q4eVg5Y0U0VUFwWDRHV0Npdjh1dHRHV3U0NWRTLXFVdjQ3eTJIZDNEWEhNUGlzZFluRjJ5Z0poOEIwaERQS3dwR19JRmNPOVN0YS00Yno3X2hYTm56eXp6MUZERjRma3JoSUtPRlBOUQ?oc=5",
+      "source": "KB Think",
+      "time": "34분 전",
+      "timestamp": 1788544683.0
+    },
+    {
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.23%↓",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FOUVxekwtalhVXzRjeWdMZ1ExMzRIT3ZSLUF1UG9EYmhhQjVHb0QtWlhib3RIMUVhX3AtNTA4OUhBM3Ryd3dOOWFaZmxHWW14?oc=5",
+      "source": "bloomingbit.io",
+      "time": "1시간 전",
+      "timestamp": 1788541216.0
+    },
+    {
+      "title": "57억5000만달러, 초단기 국채 ETF로 이동",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDVUowcXFsMzN6S0xhejIyMDA1a0R2eVRwc3JNZnZ3bDFOY3N6akwwLTNuUVczOE1rVG51ZWtWbUEzTGhxXzN2S0xFRGI2WDBzX0dpRkx6MNIBXEFVX3lxTE9XY2VxWDRFanZOOE9acDd6OW1rSFJRU0o5SkM0SVRoM2JsTHRuYXlRZzJkd3Fnel8tVTJ0dE9uQ0lHN1RJQUItQ1Z3RDctME5hT0FVc3pSU2lkRnI0?oc=5",
+      "source": "tokenpost.kr",
+      "time": "2시간 전",
+      "timestamp": 1788538627.0
+    },
+    {
+      "title": "캐나다 채권 수익률, 부진한 고용 지표에 금리 인하 기대 높아지며 하락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbDJVcXRld2MyaTdXU056Q1pjaWoxM0c2djZGeFVsOG95eXZrVmpwank3WXJ1YUVWSHUtVDZEMU5oWUdRTXEzVTRJVW4waTRjQUVuV0dTUlRjMXg4bTdaTG94NjcyMjhYTUE?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "2시간 전",
+      "timestamp": 1788537120.0
+    },
+    {
+      "title": "미 8월 고용 16만2000명 증가, 선물 혼조",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhS0JpbUdVVlBWb1diX25hdWZLU3I0MUlTQXlzcUdDNkUxVVNyMXhpdVdkSDVoQjNvUUJaSjFjWWlfMmpMdFNhdk1YaC1KSXdMdFFXZ0VwaU3SAV5BVV95cUxPWm9wLXdBLUJOWFUtbG5lWlBRdDc3WG1wT1hFXzVVYU9KTEk2THNmRHhKdTM5ZlREaG5wOVE0aWdYMm5JOV9yTUliYUk5REVEN3g3UlZmN0NVYjVuR1JB?oc=5",
+      "source": "tokenpost.kr",
+      "time": "2시간 전",
+      "timestamp": 1788536327.0
+    },
+    {
+      "title": "BTC·금 상관 6년 고점, 달러 불안이 묶었다",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5INU9pLU1xczFfUEJZVnVCaS1QY0x3TW4zTGFSZTdnMkRZZWJkYmZfYk43NS03TllGai0yMGxTV1ZlRUtBUVZjZllIZmEtcGxYYTNyQTMxbE5wOFlqYVVta29sLW9nQdIBZkFVX3lxTE5INU9pLU1xczFfUEJZVnVCaS1QY0x3TW4zTGFSZTdnMkRZZWJkYmZfYk43NS03TllGai0yMGxTV1ZlRUtBUVZjZllIZmEtcGxYYTNyQTMxbE5wOFlqYVVta29sLW9nQQ?oc=5",
+      "source": "tokenpost.kr",
+      "time": "3시간 전",
+      "timestamp": 1788535365.0
+    },
+    {
+      "title": "테더골드 31억5000만달러, 금 토큰 거래 확대",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjWXNtelhCbDl2cmc4VUM3TkxaZFNXZE9QUzhKY1hhb2FfVDF2Nk5Sd0c2cWsxQmthQkV1aHFCYnlDcFN5a0tWSVhBX1U5Zlp1OWc5S081QmhhcEF4ZG5PN1RZNnRBd9IBZkFVX3lxTFBjWXNtelhCbDl2cmc4VUM3TkxaZFNXZE9QUzhKY1hhb2FfVDF2Nk5Sd0c2cWsxQmthQkV1aHFCYnlDcFN5a0tWSVhBX1U5Zlp1OWc5S081QmhhcEF4ZG5PN1RZNnRBdw?oc=5",
+      "source": "tokenpost.kr",
+      "time": "3시간 전",
+      "timestamp": 1788535274.0
+    },
+    {
+      "title": "2026년, 2027년, 2028~2030년 및 향후 금 가격 예측 및 전망",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3lZSWRWXzltM1lNOTV4VE5CM25qbTBzODEzRkt0dXNLWEJWMVo3WGNkc25oSXdhMGJUY1dlQUVCaDZ3YnV2TFI0dW9GbThtWEY3RzFfZExLN25kU05PcHF4NGNfNHBJOVRXQmEzcTJaWVFKZFVFeTljU1RLRHhiNUVWVDhtZ1JBYUNybg?oc=5",
+      "source": "LiteFinance",
+      "time": "3시간 전",
+      "timestamp": 1788534723.0
+    },
+    {
+      "title": "[美특징주]금 선물 하락에 금광주 등 동반 약세",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXcxQXEwVHFtMG1fVDJOV2NfT01pcHVVQmtINHViTXBtcEtqUHBFSWdMbGdESEZhUHRYOUNOQjAwLVVEb29RY25CUzZscmI0R1NfOG9iY0hPM1NrdG5WOG9GMnVOV2NERUNmWERJQ2JJYk42TzlRVVRuYmdGV0NwaA?oc=5",
+      "source": "edaily.co.kr",
+      "time": "3시간 전",
+      "timestamp": 1788534348.0
+    },
+    {
+      "title": "오늘의 금값시세(9월 5일자) 금값 \"금리 인상 기대감\"",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00RjM5dWJGcDNNWmNMUU5lZWVoWjhzTHZkNGpsdHpxS29XRmRPTm9ZdXctcnpXaW8wRmltRmlTNVhiWERFZDU2RHNPc0Q5T0ZJZm8yUEZOR2NnODRhdnJOaFhleEowdXZLNC1MM3FB?oc=5",
+      "source": "gukjenews.com",
+      "time": "3시간 전",
+      "timestamp": 1788534180.0
+    },
+    {
+      "title": "암호화폐 시장의 금 열풍, 토큰화 금은 왜 다시 주목받나",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42YnBrUUxrbmxhdlBNWGt6cUJZVzV1cVV5QUhhZEp3UWRackE0WTA4dVFjRHhxZFdRdlYyeG12Rms1RFh3UElNQmxQWWhXSEloNGZfcHk3LS1mbXltc1Z5TFFsYTRrbjNfMWlZTlFNTVYxVlU?oc=5",
+      "source": "디지털투데이",
+      "time": "3시간 전",
+      "timestamp": 1788534120.0
+    },
+    {
+      "title": "트럼프, 연준에 금리 인하 촉구…무역흑자국과 거래 중단 위협",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuRnJBQ2xROFEtTmZQdTIzZHdwLXdOZnZVYUE4SlFMSmNkT0JrYVBVWXByQVdsMVBYZHBtWXlMNjVUdUdqRVJ0Vk9EYU82OTJDZUNoZ0xDQklrcEotV0xjRGFudXkyUmgyaHc?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "3시간 전",
+      "timestamp": 1788533400.0
+    },
+    {
+      "title": "연준 긴축 공포 재발…달러·금리 솟구치자 증시 털썩",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLZFpIWnlqYUpVZ0dleWozcTFLRjB5aFBZcHd4U0xoUV9GLXlVOEd1Sm9kRDFGUDRNV3g0a09ZS1VybF9GVkRHaThrOHMzS2ZkUUdQR3Q5SFg?oc=5",
+      "source": "블록미디어",
+      "time": "4시간 전",
+      "timestamp": 1788531180.0
+    },
+    {
+      "title": "달러인덱스 99선 회복, 미 고용 앞두고 강세",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WajNoekhia243aWIyblAzUDJZby1CQ2kzeVhuQVhyVUwzVDBacjU4ZXA3dzRBLTJyZllNWkl5NmRETnl4ZUdKWWNyZ0RldnVXVkw2R1RPVXU3ZlEz0gFcQVVfeXFMT1ZqM2h6SGJrbjdpYjJuUDNQMllvLUJDaTN5WG5BWHJVTDNUMFpyNThlcDd3NEEtMnJmWU1aSXk2ZEROeXhlR0pZY3JnRGV2dVdWTDZHVE9VdTdmUTM?oc=5",
+      "source": "tokenpost.kr",
+      "time": "4시간 전",
+      "timestamp": 1788529839.0
+    },
+    {
+      "title": "“떨어질 만큼 떨어졌다”…금리 발작에 美국채 쓸어담는 채권개미 [투자360]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX3VPTW1RNm5pVFk4RzdjRHVLcFN4c0VHQVVaVWxWUDhueW1UYk14a0pab3VTemtLdW04WWNvNi1OVWNVcEtSUlhXZXgzUWs?oc=5",
+      "source": "v.daum.net",
+      "time": "4시간 전",
+      "timestamp": 1788529331.0
+    },
+    {
+      "title": "美 국채, 고용 서프라이즈에 '베어 플랫'…2년물 금리 5.90bp↑",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LU09iTnUzNHVBM3Z3a3NJMWVKRnBSeTR3UGk5b2dVZUoweGlOdF9ONXJhVnZKVTF6RGxsaDFGRlk1eUtVUUdGelM1SmRnQ1kzZG8yeEE4TzMxbTRiQmttbW13OTl6UzJQUzNPMnVpcEpLdw?oc=5",
+      "source": "KB Think",
+      "time": "4시간 전",
+      "timestamp": 1788528966.0
+    },
+    {
+      "title": "금 가격은 오늘(9월 4일) 전반적으로 급등하며 마감했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWZfMndnSXRIdWE3ajAyMzNFTlRNUV9iY0dLSW1XV3NqUEMwTnpTbjRndXZUR21rZERrOTRabTR5WTNSOVlnZW9XX3V5Q01GTlFUQ3BBR1pPM2dxamVfMUR1SE9Kem95Z3hrYlNNTlVObWFmdjhSVjB4UnY1NU5SVzVR?oc=5",
+      "source": "Vietnam.vn",
+      "time": "5시간 전",
+      "timestamp": 1788528196.0
+    },
+    {
+      "title": "나스닥 다우 선물 지수 혼조세...8월 고용 '예상치 상회'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83c0F5U2pZS2ZFTGo3Z0V4M3hYamdhVTBoejBybkE2Qk1sMG1vU2swSlM1RlhCVFBFWl9kUW5VQUNpMl8yOGFOUkNRTE9hclNVVVRzZFZ2SzBLZnpZV29nZ25hNEdxMkk1RzVYbzZn?oc=5",
+      "source": "gukjenews.com",
+      "time": "5시간 전",
+      "timestamp": 1788527109.0
+    },
+    {
+      "title": "뉴욕증시 프리뷰, 주가 선물 '금리 향방 가를' 8월 고용 발표 앞두고 혼조세",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aUtzTDJBUzBXbGczOV9mX2RQNE1aQ0dpZ1NmZzZrTGdObXktV3B4QWFoa2Myd0UxOUFOeGZ6Mzc1aUM1WWE2OXRWd2ZYZ1RlYWNhSTBlQXpRM1BUczZfalRKNUtacWZLQmhwQ0c3YkVtbm5IRExKQQ?oc=5",
+      "source": "네이트",
+      "time": "6시간 전",
+      "timestamp": 1788523320.0
+    },
+    {
+      "title": "엔화 강세에 원화도 상승…원·달러 환율 14개월 만에 장중 1340원대",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96SEViOElYeFlrV2VGZmFXQXBsQ0c4SC1NcFVQNmhUcjBBQmdGNXZ4SmpsVzA0dFdOeUQ3Q1g0aWVaWnRWcDN3dElxTDNyWDlSekJ6SzFmdHFRY0RWd1lmbm0zV1A?oc=5",
+      "source": "베타뉴스",
+      "time": "7시간 전",
+      "timestamp": 1788520984.0
+    },
+    {
+      "title": "오늘 미국 증시: 투자자들이 고용 보고서에 주목하는 가운데 S&P 500 선물 소폭 상승",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDJ4R0J4ajNFU3lDa0hRMk5fQ21mMm9qTEtCbFFJbmZuUDNmSlY5X3hHOThxQmxvWGV1QjRlQnVyNGhzOWhUdE9DZms2VEliMHgweGpUMGUyNDZxRWFfQ2ROLU9xV01MT0JtVWotb1R6OS1BTllzZllXVzRPRmFDMDYyUdIBiAFBVV95cUxNZGpOSjN6VEk2ZGViNWxxWXBGM0RKZmtyeEhQYS04S0JUOUZ6ejdmaFdkNEQ0WURneU5HZzdYTHNtZ1hYWjZTRnRpWlN6cFBWdElfSThoZ0I5QnJ2ZW1NQ3VRQTFfeDZxcTEwV1RjMlBrMkItVk1EWXJWeUcwWTRYV1Y2NjJFMVVB?oc=5",
+      "source": "simplywall.st",
+      "time": "7시간 전",
+      "timestamp": 1788520594.0
+    },
+    {
+      "title": "폴리마켓, 무기한선물 67개 열고 미국 차단",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NMVVDck1uVlptNmthazdZdjkxRFBybTM0Z3BXUXktMTJwc1R1RmFsSF9BVE96WUpJSlB1MFZ1YkRzT0h3TDdaYk5Fa2RrMWlWVTVHdnlMb04xSTliOFBYU09uelpTQdIBZkFVX3lxTE5NMVVDck1uVlptNmthazdZdjkxRFBybTM0Z3BXUXktMTJwc1R1RmFsSF9BVE96WUpJSlB1MFZ1YkRzT0h3TDdaYk5Fa2RrMWlWVTVHdnlMb04xSTliOFBYU09uelpTQQ?oc=5",
+      "source": "tokenpost.kr",
+      "time": "8시간 전",
+      "timestamp": 1788516913.0
+    },
+    {
+      "title": "암호화폐의 골드러시: 토큰화된 금이 다시 인기 자산으로 떠오른 이유는 무엇일까요?",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclV5QWtzb1lJZkhsdktYQUFYczIzQlJtRVUwY0Nxa2ZLQjBCWjI1dUdKaTQ5OVlVeFZ4SF8xelNyRlYtd0syLVhRVktpMUF1eENnRDJBN19xN09EbHNSYmhwRzBqMERsN3pzcXdwUmktRVJmRmVBWEt2Sy05Qmx1S29STnh0TWtoYnA4ZXFCbmJXZFBNRkVKcnppZ1o?oc=5",
+      "source": "Cryptopolitan",
+      "time": "8시간 전",
+      "timestamp": 1788515302.0
+    },
+    {
+      "title": "[뉴욕증시 26일] S&P500·나스닥, 메모리주 급등에 최고치 마감",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR25qdExFWHJRTk1vWnNVbm1jNVNrSHpSdThGdm5ObGtTOVQyam5XdVhiVkdUc041cU5DSFRmMXlubnU3UTdEazU5amk0WW5pMVc5UmdzbThQa3hLY3V6ZjVMUWZaT05uMVNxMDljbk1kTTdEWk5sQ0hsU2Z5YlFuakRRazdnTjNNWE1VejA0Vl9QdWMwZEtxRnF5LTYzNWY0TGt6cUZMb0hRRXFwczZnOXZqVXRLdnJRT04zMTdzbW8ydFU?oc=5",
+      "source": "미주조선일보",
+      "time": "9시간 전",
+      "timestamp": 1788513242.0
+    },
+    {
+      "title": "고용 강세가 최대 위험…회사채 발행 급증, 장기금리 부담 계속될 듯[오미주] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZE8zNEJ4UzRJbGtvWDk5NXJhTmwxLWQ2YlVxQmpnNWRiOUdLeVV6Rmgyc2lzTTM1WFFJVTRwWU5rLUFuako3NmhiUlFCOUFhVHptUVk4Y25Ec2ZrNnV4MGFrdklGVHZrd2M1cFhB0gFuQVVfeXFMUGVkTzM0QnhTNElsa29YOTk1cmFObDEtZDZiVXFCamc1ZGI5R0t5VXpGaDJzaXNNMzVYUUlVNHBZTmstQW5qSjc2aGJSUUI5QWFUem1RWThjbkRzZms2dXgwYWt2SUZUdmt3YzVwWEE?oc=5",
+      "source": "머니투데이",
+      "time": "9시간 전",
+      "timestamp": 1788512700.0
+    },
+    {
+      "title": "2026년 9월 4일 오후 금 시세: 금괴 및 금반지 최신 가격표.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkhRYXU1dXpQQWVLQy1HWDZFOFI0YnRYb3FqeVJvUlo0eWp0b0dfWC1RM2xzX2xPRDBsYUs1UTNIQzkxU0ZULVFlM2VfV2swSGFqVEFNQWwzVDk4ZWFIYl9JbjVzMjdCWm9XY1RYMndNYlVWWU5Pbkh6LVBTQTdyZ2lKM0hvQW5YamhHWUZYSE5JQzl5Y0dj?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1788512521.0
+    },
+    {
+      "title": "원/달러 환율 1340원대 급락…엔화 강세 동조에 1년2개월 만에 최저",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbEFLbk1zZ05Zc0NkYlU0ZWZGZHoxUFlCUElIbUFoTFdQc1M5clJIWEpfby0wbUpQSUFRNEMtVk0wNFhhNFYxTTZsUC1BZlI5VE1SXzdrS2pycVZ0MDVSOWNQenY5Y0JWcm1BNlpjQQ?oc=5",
+      "source": "newsquest.co.kr",
+      "time": "9시간 전",
+      "timestamp": 1788512272.0
+    },
+    {
+      "title": "2026년 9월 4일 오후 금 시세: 금괴, 순도 9999의 금반지, 그리고 국제 금 시세표.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTXR3VjdvY3hvTWhyOTd4VFM1TkVhLXpGc0dNTjZRMTBWTkhxNHBCUGs5ZERzeEphQXFjckQ2WF9xbGVBbFhKOG5tbnhDSGN0U1B2eFplZXN3Z3NkRUlxOTdzLVJjNWJ4YWVOYncxNmtQa3lTM09TVm9lRnU1WGZLSlM0MU92ZlJ0WVhJMTFBSU5LYXBWcGVYYVJlZWdfWndKN212RmtwYw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1788511679.0
+    },
+    {
+      "title": "국제 금값 하루 만에 125달러 급등…다시 온스당 4500달러 돌파",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYcEhxeU9yTEo5Ry1TSFc2V2pCdS1qY0lWTGFfT21rNUZLOW5hbHRoaGRKMi1iQlB1Zm9RRXdPYjUzb011MG5vaEpQNHhJR2hVYmtxUXNHZTQ2YzBtWTA0azJ0VlAwMEw2TnVn?oc=5",
+      "source": "충청메트로",
+      "time": "10시간 전",
+      "timestamp": 1788510294.0
+    },
+    {
+      "title": "엔화 강세에 환율 14개월 만에 장중 1,340원대로 하락",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81UzROXzFaRlhTWDZGRjZzLTRTMFdVS3EwSG4xbWpTTjk1SmxjMDRTODJHNGxnZUpxcDZGTzVROGRieDEtdjZub3FTOEVLaXRtRkk5bmcwd0ZueTMyd25vWHhXUnVtTVdjYXc?oc=5",
+      "source": "금융소비자뉴스",
+      "time": "10시간 전",
+      "timestamp": 1788509640.0
+    },
+    {
+      "title": "엔화 강세에 원화도 강세… 원/달러 환율 14개월 만에 장중 1340원대",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1La1dKSjV6a1NXcGF3VkkyYUFxRU9aNmhiR3dUNlBwVXNQNHZaSjl2Q1Y2SjVjZXdkUHo1YVp0WTQxVVJlRzcyeGZ0bzhIc1I3bXg3Umh5dzJVNk5HYnk3Zks3djl6dUx1aEE?oc=5",
+      "source": "천지일보",
+      "time": "10시간 전",
+      "timestamp": 1788509503.0
+    },
+    {
+      "title": "[외환-마감] 쏟아진 오퍼에 '弱달러·마 셀'까지…1,340원대서 연저점 경신",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwS2EwRDNOUVBMQVNGeWx2X1RSaElTYVc4djg2S3c1dWhETnFQSDdyX3A0QlJMSklpZmwtSHBWazgzUlFqa0ZpQUdUT1dUMFpBOVRpMmd3NVZwWS12dFRFWll2N1dVMG1RcldKNk5HZXpJUQ?oc=5",
+      "source": "KB Think",
+      "time": "10시간 전",
+      "timestamp": 1788508398.0
+    },
+    {
+      "title": "원·달러 환율 장중 1340원대…1년 2개월 만에 최저",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sdXpXaXZUdWV2bW1ZTzNWbXJoRUplQ3VWUHBFU1dhaUxkSV9yaXczSFlEeUtfU0NFLUZINmJEZHdyZVpySUNFc1MzTXlMQU9JRVZ1OVlLaDhYUlNSSkUtbEFtVmJqaUJ30gFsQVVfeXFMT2lucjJNMFk4WW03bFJIWkJDbVRNbU11NXMtTlVjNXlxTjNxcUxhWTZVOVV1RWRYQjgzbzRQYXVkYkZuSkttSFlscVFFWXpCek1vODhFdlowS3Q1TmxaMDNOQ1BQVE9McmNqYTdD?oc=5",
+      "source": "직썰",
+      "time": "11시간 전",
+      "timestamp": 1788506999.0
+    },
+    {
+      "title": "투모로우 토토 의 역사와 발전: 과거에서 현재까지 - 전문가의 관점에서",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOajJ3cDlZQ0FPcHAxWVlHeFZiakQwTEZZTVRxNW9USUc0YS03Z24xVS1LdVptY2dxNm80WVdHWXZKMF9Xdm1keHg3MUE5RDlYaWt4LXdFN0Zid1dzc2ZVOWg2LWxCekRDblJCckZuTkdJNFVrSDlYZU9NNy15YlZpa1gwUEs4bkgzZ1lrX1lERnBNb2M1ZUZtTVFzRWt1ZkFZcHBmdXdWb1huLTRBQnZxYXNOcERQa0JKY1VRTHl3MUNXOUlfM0JWcnU0NzlzVGQ4OXdvdUtmWkpvM3J6X3FVaDJqbWk?oc=5",
+      "source": "Histoire pour tous",
+      "time": "11시간 전",
+      "timestamp": 1788505035.0
+    },
+    {
+      "title": "엔화 강세에…원/달러 환율 14개월 만에 장중 1,340원대로",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGV2RGRk5lRW44bW95VTBlV3dFRkNiUTBHNjNyTEtyVHdKVktPOWlBZERPaDFVS21yY3NhTHBJazMwN3dTV1ROODFERUFaa2RhOXNnd2NPN1RnS0HSAWBBVV95cUxNb3F4TUsxZFduLUNPdDFWSkdLN2gwRGtST25JejdjVHZKeVR0RHFsa1RJN0FWbkdfcjR5cHk1SjlNcXBEdHZ6cUkwZ3RiaXY2b1duekQwdkpVdWxVZ2ZGZzE?oc=5",
+      "source": "연합뉴스",
+      "time": "11시간 전",
+      "timestamp": 1788504965.0
+    },
+    {
+      "title": "소지섭은 '미담 화수분'…금 선물 이어 '자백' 스태프에게 '행운의 2달러+손편지' [홈즈]",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YRWpkb0daREJlZ3RrMUxHUVFjTnBxWEpwd0h0elNVVXpfTmhJUHZlYkFOOXU3bXRDUTZJUUNXbWZRWEdPRVM0aDhPNGVhenFsVDRLdw?oc=5",
+      "source": "v.daum.net",
+      "time": "11시간 전",
+      "timestamp": 1788503640.0
+    },
+    {
+      "title": "소지섭은 `미담 화수분`…금 선물 이어 `자백` 스태프에게 `행운의 2달러+손편지` [홈즈]",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mV0ktdG1WNmVnV194cjF3NkxXSnoyNUZBYV90VzFobXI1S2ZRRlBJcEw2N3hSN0RCbWUtdm5LaWJqenh6YjJJRTV3ZWJWQUpnbHg2djVLMEtsMmNXNlVWVXE5OEpOZw?oc=5",
+      "source": "마이데일리",
+      "time": "11시간 전",
+      "timestamp": 1788503580.0
+    },
+    {
+      "title": "[The Numbers] 예측에 레버리지를 얹었다…폴리마켓, 최대 20배 레버리지 무기한 선물 서비스 출시",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44ekY1SlZnM1pCMVJYMjRCOEdTeDk4QU5lMXRmV3hKWVJFVjZ3VkZsTzBjRFdNalNKTTBHOHZScjN0aThobnRXcWdLbFpXNE9nYkhTZ1RiYkwxQUk2NG56NA?oc=5",
+      "source": "뉴스스페이스",
+      "time": "12시간 전",
+      "timestamp": 1788503434.0
+    },
+    {
+      "title": "[이슈] 중동 긴장에 국제유가 혼조...WTI 4거래일 연속 올라 91.30달러",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OVzBZMDcwelZRR1dZTm03THZ4c1RHZ19TTjBWd3ZTNTB2WExmNzdPRi05aXhxZUxjanNUcTVOcEFVak1tTW1XT3laMldHX0ZyT0kzaklhUXdLbUdHUW1vOXhYZnZBTXFYSzc3d1930gFyQVVfeXFMTWpNcjl2OUVuRHNuVFlyTnR3NVdtQ3NERGY2Z056VGZkRnpmR09xcW1HQVNydUo2Tnc1aUtBeFlMMzJma2dwTzdzRGFacEhjTDczc0lUdS1XWk8zX2I0Mm1pd2wwNkVDbHdSVG5TdkRkNERB?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "time": "12시간 전",
+      "timestamp": 1788500837.0
+    },
+    {
+      "title": "[뉴욕증시 17일] 연준 금리인상 전망에 주식·채권 동반하락",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEtXNzJUOVRuNkxERml5YXlFeWdDaTZpblhJR3ZuSl8tc0xQcTdIajRvOXFUVFppaGhSMEFaYTdVdngzNldwV0NibjBybHYzMDhleTR1cnE1R183dEYzZkVCeV9qQ3hTRW9jeFVaZllWcERWVHZJQ29veHJuVXRqRDJqU2lxZ0RadXpLR0cxaUJ5U0pINXc5UEJ0TEZFS2hjQlllRGN3MUJsQkNZdDlLdlFrY1lGaURJVkREazlIeWRUaVo0QzBjTnVR?oc=5",
+      "source": "미주조선일보",
+      "time": "12시간 전",
+      "timestamp": 1788500542.0
+    },
+    {
+      "title": "달러-원, 엔화 추가 강세 기대 속에 또 연저점…1,350원대 초반으로(상보)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5za0htdUNuQVJSenVHQmpQR1A4QkVQaEYxaDItVWN3eHB2Z3RTN0lFUlBmTjRTX2NvVHhxcG1pUTRON0pMdWFqSHVUQlZOUVZYLW90aXV5bHAwRF84ckt1NmJQOWNvRnprb1B0VjZaaHlFQQ?oc=5",
+      "source": "KB Think",
+      "time": "13시간 전",
+      "timestamp": 1788498908.0
+    },
+    {
+      "title": "국제 금 가격 급등, 온스당 4,500달러 선에 근접",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbE1GTmVFaVpNTm5JbVNvcTk4eFNNOTBxNHc5RjhUQ05VSl9HM1E2ZF9CU2lrVWpzWkxlTXp6SzIzdHljZ2RoeWowMVloOEJWUWlRYjlaRlZLRFU5Z2NoeGxuX2t0ZmFTMHd6WHZzMGRfTmxYdXBYWGRtWmhiWk93dV9zTjBTTVh6enZfOGxNVE44LUJ0b3Q3Z0NGRk5nNnpaTF94Tg?oc=5",
+      "source": "Laodong.vn",
+      "time": "13시간 전",
+      "timestamp": 1788497744.0
+    },
+    {
+      "title": "9월 4일 금 가격: 세계 금 가격과 SJC 금괴 가격이 급등했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHllQWI3YnFRRHh2eUtyMTRuMEZzUngyU1dmNlZiT3NGUG8zMngyM1pPbHZXSDA2elRJTWRIN2xaSlRVaEtwVFhYcEFzamhyTFV6MnBHZlZ3dGdOWnIzTWFxaEVocTEwTDVUYk1uUDZoNGhQT2hUMUpXU1JENGYzUGRHNUc1c21YeE1qeEN4RXBySDQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "13시간 전",
+      "timestamp": 1788497021.0
+    },
+    {
+      "title": "폴리마켓, 24시간 파생상품 거래 뛰어든다…원유까지 영역 확장",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vTVJGejVrMmVIMEZwWmZ4MGVVSTlDVklBRF9LNGNOdXJFV0ppSGFsMUpSOXZhWktsOUp1T0NMSGZrRWV6cTdPbzROMTJLdldyZG9Z?oc=5",
+      "source": "네이트",
+      "time": "13시간 전",
+      "timestamp": 1788496685.0
+    },
+    {
+      "title": "원클럽벳 창업자를 위한 투자 재테크 필수 포인트",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUJSVEN1R2xGVnA0OGlqb0hVMFBvd2pTb3lQaHM5d0VFcXd3ek9na1dwSi03M1QzM21EdTRlYXVsZXFrRDlScGpIR1hBZk5VbkgtUHNQd21hdDlsSDZXdExlZFR1TlhNenRHNlNXTzFQQVZVYWFMS19mSWlLRVZKeWxnc3Jubkx0US1JMjVkTnVMc05KSVMzajRHUHU4NTlBbVF0VE1VSXI3VXFtRTd4dTRic1dvSG1MdlJMTHdB?oc=5",
+      "source": "Histoire pour tous",
+      "time": "15시간 전",
+      "timestamp": 1788491641.0
+    },
+    {
+      "title": "오늘(9월 4일) 미국 달러 환율: 중앙환율은 25,615 VND/USD로 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHp3S1plMjlBM2pKNG1MODRSeVBJX3JENkJMdGNhTURRbjNHczUzdkptekNaRTdoSUlKM05jbEg3YUFnZF9URU9pUllxS29NYVRvZFBrazEtTnhwZUFhMHEwTjlqOU1hTUR0bERwSlRZOHhzdWw0SWZJMVRkWlJXVHpQS2FPcDVPWGtYS3RFTENzM2FY?oc=5",
+      "source": "Vietnam.vn",
+      "time": "15시간 전",
+      "timestamp": 1788491132.0
+    },
+    {
+      "title": "coov 블록 체인 원리 : 학습 전략과 자원 - 최신 트렌드",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnc0Ql8ydlV4Y1UtNTJKa21ZZng2RnBfVFhrUmhTQnNjRnBqdGZWRmpnU3BoeUVlRnRoVDhES2xfOXRBTFZyVDVjdUxtRVNaYWRNNldPSG9nWGtPNW1vRC1DTUhldnREQWI0RkNicC1DQmxCcGR5LTdjd0I4YnI3Y3ZnaG1ZQmd6MkotLWVSMG5DQ3BJemtsN3dLUldxbnFUTDRTS2ZWYzRFX05pcmc?oc=5",
+      "source": "Histoire pour tous",
+      "time": "15시간 전",
+      "timestamp": 1788490848.0
+    },
+    {
+      "title": "소지섭, 또 미담 터졌다…스태프 300명에 금 선물하더니→'행운의 2달러'까지 선물 ('홈즈')",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtYTNBRkIyQ3BNc1U4Q3hTZ0YzU0JfMDQ5M25EM1hoQ1pMRnI5emx5eG1qNm1CSng5eDcwZ0p1V1NFUWV6aE1YUXczSQ?oc=5",
+      "source": "v.daum.net",
+      "time": "15시간 전",
+      "timestamp": 1788490668.0
+    },
+    {
+      "title": "금 가격은 2026년 9월 4일 오늘도 상승세를 이어가며 SJC 금 선물 가격은 냥당 70만 VND 올랐습니다.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkUxNE9aQ1FDelE4N1hNbkZyT3hOamM3UVlaUUFZeGxZa3hZLUhuTmxEM3laY2dZanRoMl9zcElSeVdhVXhHU0VBOURGT0RhN0ZDaFcxVXpyWTA3YjhUMTBKdDIwLVJNZVMxamdxUG84dlA0NUlDWk1RVGhCMHB5a3dTYU9Fci1YMXkwQzJFM0IwbjhtYkFTZ2QtbUt5S3M?oc=5",
+      "source": "Vietnam.vn",
+      "time": "15시간 전",
+      "timestamp": 1788489560.0
+    },
+    {
+      "title": "장초반...한국 · 일본 · 호주증시 '상승', 엔화환율 '하락'",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ReHVRU0Z0c0pNUmlFbVpRd21YOTlGNlBVMGJSUVY0bnB5YWVsNk96UVJGclNpZVllcmtpSEtzT3NfbUZwY3FZODVRSUlEbEF6bUp5ZUd5Ujl6QnlSYnVadzMzbXJuZFdGSHpoY1MtUm1EUzTSAXNBVV95cUxOUXh1UVNGdHNKTVJpRW1aUXdtWDk5RjZQVTBiUlFWNG5weWFlbDZPelFSRnJTaWVZZXJraUhLc09zX21GcGNxWTg1UUlJRGxBem1KeWVHeVI5ekJ5UmJ1WnczM21ybmRXRkh6aGNTLVJtRFM0?oc=5",
+      "source": "초이스경제",
+      "time": "16시간 전",
+      "timestamp": 1788487899.0
+    }
+  ],
+  "total_count": 50
 }
