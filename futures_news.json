@@ -1,356 +1,356 @@
 {
-  "updated_at": "2026-09-18T08:02:30.834219+09:00",
-  "update_time_kr": "2026-09-18 08:02",
+  "updated_at": "2026-09-18T10:17:15.210813+09:00",
+  "update_time_kr": "2026-09-18 10:17",
   "all_news": [
+    {
+      "title": "[글로벌 마켓 리포트 9월 18일]",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoSzRwNTFqNkM4d3JRZTdyTWhpNjNkV1ZaU1Z2cXYySWJrWkozR2wxa2JlMHpyUEM4alVNRkstenlRV1hjS3VNNGJoLS1YZEI0Q1l6VU0yWmlmdVgw?oc=5",
+      "source": "뉴스핌",
+      "time": "12분 전",
+      "timestamp": 1789693500.0
+    },
+    {
+      "title": "금(금값, 금시세) 9월 18일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IWjFEMkZNWkxDRXJZWFdXbldkWlgwOV9JNVJKZWdXNzhYdEpDY1dOVUMyM1lEOGp6MU1NUjU3THZZSDkyRVU2VjcyWFpBYW1Ybkh6RENvUE5qcTFMRFp3LVJIWlE4NG10?oc=5",
+      "source": "CBC뉴스",
+      "time": "25분 전",
+      "timestamp": 1789692697.0
+    },
+    {
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5",
+      "source": "YTN",
+      "time": "31분 전",
+      "timestamp": 1789692360.0
+    },
+    {
+      "title": "JP모건 \"비트코인, 금보다 상승 여력 더 클 수 있어\"",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZZG5Ob3pBT2tWOGNwbWVOYVByM3c5Y3BuWk9EQUh5RXJwbURMWTdxcWdJY0J4cnRxUjNWVlp5eVRoa044d0hERmtXX05lZGRfMGN1QWgxcTFpRWdvNDI2VS1wSTlhbEU0YWxHRS1XaHlhZw?oc=5",
+      "source": "디지털애셋",
+      "time": "47분 전",
+      "timestamp": 1789691400.0
+    },
+    {
+      "title": "연준 금리 인상에도 비트코인 ‘버텼다’…1억500만원선 유지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnMVRHdFBlb3I1R0owSUVJRFo3Y0xkS1dtZXRZM0l1UmtKdTQ1YThLc1Y5VUlyQi1YQjJQbUVNalZkVFB3N0NMMzhWQkFmYXZnNmFjcnNRMTJEeUJCN1RZU3paUnpRZnluZUhBMQ?oc=5",
+      "source": "speconomy.com",
+      "time": "48분 전",
+      "timestamp": 1789691317.0
+    },
+    {
+      "title": "S&P500 선물, 연준 금리 인상 후 숨 고르기…美 국채금리↑",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52V0lSenR6VHVqenBGdWl2aFVQclFVOEI5aXltYkV5MENpTU1wVnlNYlFLT2lTWWtBekdudks3LXM5Sy1FS2o4VGNyaTBfNXNaWWJsMThOeldUMU9Da2JUQnZlYjc1STAwQWh2VGc0dW9TZw?oc=5",
+      "source": "KB Think",
+      "time": "49분 전",
+      "timestamp": 1789691288.0
+    },
+    {
+      "title": "유가 하락과 미국 달러 약세에 힘입어 금 가격이 2% 이상 상승했다.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3k0QVJXZHRRTThRbHptR3pXdnYwQ1l1WHBpeGtRdWNWSDV6elBaR01TcVliMkk0a2J0ZDNXY0dDWDRuMXlia2JoM3pveWhvd0lWcUFhLUF0N2hKZUNqd09HMnFGMGctelNza2JVNU5VUzRrTUN0RC12Vjhhdk1mV3h1b2E4STVlRDZhclNvRQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "49분 전",
+      "timestamp": 1789691260.0
+    },
+    {
+      "title": "FOMC 충격 하루 만에 이겨냈다…코스피, 2%대 상승",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsRi10djk5VDc3aEtVWHZSWnYxUjlxYXJteXdkYWFMNTd2SzE2bUMyckY3WGNhR3BvU1VxdUhseTRQbE5VMlJ0eTEyWTZBU2o4aDlOdEtfcFJWajdW?oc=5",
+      "source": "supple.kr",
+      "time": "55분 전",
+      "timestamp": 1789690912.0
+    },
+    {
+      "title": "미 국채금리·유가 하락에 달러·원 1380원대 초반…BOJ 결정 주목",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZQWRpQnZEMDlwWGdKTEJUdUoxUlZRQXB5Ty1Fb0NScDhKNjVncUhlY1h4dlBSS2ZuQ1NBQWFWMG9TZHBnZVlzM1hYVHpWVFA2cUE0SGY1MkVZQVHSAWBBVV95cUxQMGo2NERsamgwRWZsQ2NwRUVGaV9XV1NFdkZYcEVHRENiRWRTWXdJTGI0SkM1NFRNb3hjRnVPWThlMzdham5Renk1VF85cldiSVBwcFFGdDMyaXg4dEF1bkU?oc=5",
+      "source": "뉴스1",
+      "time": "56분 전",
+      "timestamp": 1789690855.0
+    },
+    {
+      "title": "국채선물 강세 출발…美국채 강세·도비시 BOJ 기대",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BZDlpRFJ5WWN2Ukd4Wkg2azR2VndCWWF5a2RLeG1WaUlxZDg3OUp2VS1qWDUtTzI5UHF1Y013SDZFdnozQ0lCWlh6SmZNVElfZFdvWVVkWmRrbFNKaVlObUhWZEVPTmlTMW5BX1hVV0tjZw?oc=5",
+      "source": "KB Think",
+      "time": "1시간 전",
+      "timestamp": 1789690201.0
+    },
+    {
+      "title": "금 시세 업데이트, 2026년 9월 18일 오전: SJC 9999 플레인 링, BTMC, DOJI 푸꾸이, 금요일.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1BmZHl2YWJ3NlBydXdZdWNLeVVEeHJGcDhQRHVZanFueGRHT0FtWjRxanVpd2J0bUxMY20wbTJVaEtvWDh5cGJoUkVyLWVvR3VTSHQtaHFreVE0M0V3Y0FzUFJWS25CVmROSFlvRWZfTVRkR2JCRVpKZjF3dVBHRHhUUFllYUE4ZG9LTFJKdU9qTkR6VFRoMGU3Y1NkMnVsOVFtejFB?oc=5",
+      "source": "Vietnam.vn",
+      "time": "1시간 전",
+      "timestamp": 1789689172.0
+    },
+    {
+      "title": "오늘(9월 18일) 금 가격: 달러화 약세와 유가 하락에 힘입어 2% 이상 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1hVNUh0SFZvOTI1enQ4aHV2Nl9CQVRjM0FGZHJWcVllUnFxbENfaHM4dVpJNlQzWGNWcnU2aEFjejBOUmtyd3VlaUpISFYwempKdzktSmREeGtWRTloOW5IT21SNWxoYzJPUjY4dWdhbmhVa1E1SllvLUwwZ1RjZktIcWg5SmVzLVFudXRyRXk?oc=5",
+      "source": "Vietnam.vn",
+      "time": "1시간 전",
+      "timestamp": 1789688822.0
+    },
+    {
+      "title": "[마켓 프리뷰] 美 증시 훈풍에 코스피 상승 출발 전망…반도체주 강세",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMnM2YWx4eWlEX0VNc2Q2WXM1ZjlZdzNIRnd6SEVPejBVdWdfSHBpcFQ2bkNMSkpvcU42MDc2bG1aZHMxcUdFenNtcF9ldDZUX200RzZlZmRTUdIBWEFVX3lxTFA3WHIzbERPVkJpUGFta1prM3lwMEFVZk9laWx6ZW0wOHdxMDBXQmVJaDhmZloyMXlVSklrMnV2bGNtaUN5bGhtVmVoT242UWkzci1RSXFWcHk?oc=5",
+      "source": "아주경제",
+      "time": "1시간 전",
+      "timestamp": 1789688786.0
+    },
+    {
+      "title": "2026년 9월 18일 오늘 금 가격: 급등세, 국내 시장은 새로운 상승 동력을 기다리고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeXBMT2tNMXduZzdlZnBORUlfX0hKSGhKY0lpLWswVU1EQnZXM3dGZmNSdWdEaHFyMjdxODNJZmNrX01icnhQQlFhNkFoOW42OWVaN2ZueVl2bzRwUHI5YUZnSEhIQ1hINDE0dk1tQ1k3S0tkZGlVMDk5T2tYY3JtdFI1U1QzQWZRMzFOaHFiMUFCXzhkOFFCb1NLYw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "1시간 전",
+      "timestamp": 1789688561.0
+    },
+    {
+      "title": "美 반도체주 급반등 ‘훈풍’…코스피 상승세 이어갈까 [투자360]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbG02eDhQZ3dveWcwNnYtbl9vQWNad0ZuVDJMX0tUV2IyNkhLME5FTHNmV2g5MldyMEE5bWtVTHVFQlppajBueEpMYXlCMHdvZ0d5S0F3?oc=5",
+      "source": "헤럴드경제",
+      "time": "1시간 전",
+      "timestamp": 1789688213.0
+    },
+    {
+      "title": "오늘(9월 18일) 금 가격: 국내 가격은 하락하고, 국제 가격은 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1RMamNlbjZvSVFLWDhLWTBjdmJWbGJfTWxpRE5yZ0JLZWM0REgwXy1sQnBTaTdobXNabjBkSDJLaEhvSzdtX3dicDhkamhWN2JmYUEtQVJtMUVpZ2FONTdkYXg0bldIVEtJMGhjcUhfajlXcnhMb21zeVVSMUh4QmZ2Zw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "1시간 전",
+      "timestamp": 1789688213.0
+    },
+    {
+      "title": "[해외시황] 뉴욕증시, 금리 부담 완화·기술株 강세에 '반등'…나스닥 1.69%↑",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoLXRCTG4tb1RLdlIzZ0lfU0ZrQWk4dVBoQS1tVVJrWUNaTWRjdWw4Mzg1SHdDTTkxYkxaZG1qTk1pRFIzYUNNcE4yQ2c2NUYzdE9HNG95bWREVjJHSEVoZg?oc=5",
+      "source": "프라임경제",
+      "time": "1시간 전",
+      "timestamp": 1789688180.0
+    },
+    {
+      "title": "[원자재 시황] 금리인상 충격 벗어난 시장…유가도 하락",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MSllKdUpCZWJhOHY3UFJlS1gzSm9pVC03dUs0b1lpY2NGdG15eFZ4VFA1NFBYRzhTeVRjMUZhdkZOSkdqMjVqWjJuSFN3T0RpbEtBYjFVRWFzUFRJVDdlNzhSMzMtbTl2?oc=5",
+      "source": "ebn.co.kr",
+      "time": "1시간 전",
+      "timestamp": 1789687641.0
+    },
+    {
+      "title": "오늘(9월 18일) 미 달러 환율: 미 달러는 강한 상승세 후 조정을 겪었습니다.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHlyRDMweFNXMGlrMnltbHIzYWRUMmtET3JhWVN2SzRPdUtmM1Jxbk1QZ0ZCSkktQm1UNXB0MTVabnc1cXBPajJReVY5R3gxTndBbFFtTlNWYkp2Mm5LVXJZXzBlRVBLR3BVUVlrR1E5ZXkzbFdIU3NlSmE2ZmJNQzRFbjY3alZzYjR5TnAwOA?oc=5",
+      "source": "Vietnam.vn",
+      "time": "1시간 전",
+      "timestamp": 1789687634.0
+    },
+    {
+      "title": "[마켓뷰] 美증시 긴축 소화하며 반등…코스피도 이어받을까",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sRWQwREQ2NGY0WmZ4TjR0UHo2amFJWk9sWnRsYUNLZkdqbjRVQWRmY29ScFdZYVJhMWtKWDhiamRFMHR6YW5FZ2tJT3gwWFlLTGc?oc=5",
+      "source": "매일경제 마켓",
+      "time": "2시간 전",
+      "timestamp": 1789686393.0
+    },
+    {
+      "title": "[모닝 리포트] \"금리 안정·반도체 반등…증시 강세 전망\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pakR0bDVoY1dJU1NKZ29HR216UWt5bFVxT0pfbWIxTlVCdVYyal85Sjdha2tZOFQ3UjdnZDJVeFBjWTB0andJS0FGVHZnVUIyc1p1bzVvN25OUVZq?oc=5",
+      "source": "뉴스핌",
+      "time": "2시간 전",
+      "timestamp": 1789686300.0
+    },
+    {
+      "title": "美금리·유가 동반 하락…1380원대 환율, 오늘은 BOJ 변수[외환 브리핑]",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHRNakpsODhaeG5PWjgzRXJBT2oxaXBSSEFWb3psVmhhVlA2RDBkYjBFOV9NVHZ5cDZpVmtfUjhRWFRuak9GZGFSTmRUcUhYdGpUTl9HUWpMUDljRzNtY0x5Y1Y1RUlQR3J5dHFYb1hqTkRpQlJKRk5Udk5Pek9Xeg?oc=5",
+      "source": "edaily.co.kr",
+      "time": "2시간 전",
+      "timestamp": 1789686179.0
+    },
+    {
+      "title": "[오늘의 증시]美증시 긴축 충격 버틴 코스피, 반등 나서나",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zLWpSNHVXdUdmMVdXcVMyRW1yZ0FZSWs2Z1BBOXhlWVVZcGhXd1lNbXBJWGk4ZjE2VDhMMmhSb3lfOU5paTZvbmZyclFxTGdYdlFteDlFbHNQdTU4OFR6X9IBeEFVX3lxTE9yWWJWQklxdGFpZnJZOTdwN3pCbW1yNEhNdkJ0ZVRfaGVEWjJGNWFKRkxFQ1RhcjJOQUI3OXZtRzM0cmRVQ1hpLUFDdXdIakNEc3E1OFp3YXhyOW92bmJhZkw5V1g1TTdoQnhoWENpY3I3QUxPQWxfbg?oc=5",
+      "source": "뉴시스",
+      "time": "2시간 전",
+      "timestamp": 1789685976.0
+    },
+    {
+      "title": "금리 인상 충격 딛고 뉴욕증시 반등…국내 증시도 상승 출발 전망[굿모닝 증시]",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vSFFDbXRaSnE0djBlSURiWGRDWVU5Q1ZsM3JwazE2TGNMWnptQU9fUWVkNHpfNkJuN21IbHV6RTkwRUY4SWx4YXNhU3M0amlwQ2xEbkpZazZCMDFjamdYNWN3?oc=5",
+      "source": "아시아경제",
+      "time": "2시간 전",
+      "timestamp": 1789685880.0
+    },
     {
       "title": "[0918개장체크] 美 증시, 연준 금리 인상 불확실성 해소 및 인플레이션 대응 안도감",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdmlxcWZSa1VrT1FtdzU4VVhrUWVHTm50anlCWXE5azJWODdiU1pjZ1dZSWwwOF9lVzdoTlprQjdLRHBoZlp4VWJmR3dFVEc3MGt0MDRGZFdYcDBSaVp6NmVaZ1JINTZnYzdrQ0xQa01EV09LeUE?oc=5",
       "source": "인포스탁데일리",
-      "time": "5분 전",
+      "time": "2시간 전",
       "timestamp": 1789685830.0
+    },
+    {
+      "title": "뉴욕금값, 유가 하락·美 국채금리 약세에 상승…0.3%↑",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uaVBnSzhySWxCSFJIT2FPblVTVk5oRUxyTFB0ZjZqc2JFdHhJbW4yX2hTLUpqTjhZUG14M3A1dHRad2FUWDNOMnVORHZlNWFzYU5OSUl4b2dpUGZGYjFCazBnNld5S1Brcjg3MTlKWUZPclA0?oc=5",
+      "source": "이투데이",
+      "time": "2시간 전",
+      "timestamp": 1789685700.0
     },
     {
       "title": "반등한 국제 금값…국내 금시세는?",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81VVZVQW1wRTktWnB5SVlnSmFzRzBsYlRicy1CVl9Zb1hSa09XQlpfbmFkQVBuZnRzU0dfcDE5bjNwaHd6RkhqMDV1WURBNVF6Q0dsTQ?oc=5",
       "source": "이투데이",
-      "time": "9분 전",
+      "time": "2시간 전",
       "timestamp": 1789685580.0
+    },
+    {
+      "title": "불확실성 해소로 미 증시 4일만에 반등",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xTjRhS3Z4WmR6NEhaQkZtbHZaeVdWQXhOU2JyeXZaWjBKZDJFbU5iRWZaaVlEQkUxTFIxcW1CMEtTT1dFUi1tMDBYVDZHU0VVaUR6clJTaGZRMXpfcUJ6U3FGb0YtYTFsVENsaw?oc=5",
+      "source": "KB Think",
+      "time": "2시간 전",
+      "timestamp": 1789685540.0
+    },
+    {
+      "title": "월가, 하루 만에 ‘안도 랠리’···국채금리·유가 동반 하락에 나스닥 1.69%↑",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JLWhncjQwbnhaT1pDSWw5azk5ZFJDODB1TGZwSVo0dTIwSi1CQzRKeElqNG5WQmVTVHFldm5uLWI2ZjdXbnhrOVlOcUFieGJVT0k4Mk9pS2thZTBsTE1ZbWo3VWhxek5DV1BRZA?oc=5",
+      "source": "스마트비즈",
+      "time": "2시간 전",
+      "timestamp": 1789685233.0
     },
     {
       "title": "[오늘의 글로벌마켓] 뉴욕증시, 미 국채금리 안정에 상승세...나스닥 1.7%↑",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHamJXSElhQVFsc2R5R0piVnA2blNTbnVwbzlPc2tLT2Z2bVlrWjdWUEMySTdXRWY2ZnRIYTdlYnBsSzhjQ3ZBM1NWTmQzLW9CTjJDRHNMSGVHcUFqQjVHRTctRnBFTGNZbm1VV256bzE?oc=5",
       "source": "오피니언뉴스",
-      "time": "20분 전",
+      "time": "2시간 전",
       "timestamp": 1789684939.0
+    },
+    {
+      "title": "[오늘의 외환분석] BOJ와 엔화의 시간…1,380원 상단 시험",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JQnI5NTJXMndvQjZaVVVYQlJuX3VkRFkyQXF1eTdzLTJvWDMzczRubWhhTC1KVFRIY2owZ0Iwb2w2cF9ZOGlxeUEyaEVkbmJTeWxreGt6bFowZ2xJZ19fYXVwbWpkY1Y3ZTVQejdua2xtUQ?oc=5",
+      "source": "KB Think",
+      "time": "2시간 전",
+      "timestamp": 1789684811.0
     },
     {
       "title": "[뉴욕 마켓 브리핑](18일)",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ZWk1dGw5ZWQyZlROd1Jnd0dtYkVPSlpFS2tVb1RkOHVfODEtakplOU9BMmN3eEFYY2hvMlZJQTZ3bWp6eEFtd3lPU2ttMUJEVE95YlhCYjNnOGpkQUJwWHJlUWpTbW1OOTh3Rmtta0xaZw?oc=5",
       "source": "KB Think",
-      "time": "27분 전",
+      "time": "2시간 전",
       "timestamp": 1789684474.0
     },
     {
       "title": "2026년 9월 18일 오늘의 금 가격: 금괴, 순도 9999의 금반지 및 국제 금 시세표.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSElIVXcxNTRFekdMd1dKT2VJR3BFTVQ1UnZ1eEx3RktOQWVYUV9ZSnJDcHREV3dGakZHUm9qRE02cTRnREk2azNNdklMSkhFOXBBWHZJdEdjVFcyenpPQXpPS0s4WXE1UjVYSkFPVWZQOWdBWFE2aEppOXZfcmhaSnFYclEtWjVrTWdyTFVRZ1gyY3BjUDU3OENqRzlHbU53MHRrUU9B?oc=5",
       "source": "Vietnam.vn",
-      "time": "44분 전",
+      "time": "2시간 전",
       "timestamp": 1789683503.0
     },
     {
       "title": "[뉴욕증시 마감] 연준 금리인상 충격 딛고 반등…나스닥 1.69%↑",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zYmxjTjdaQ0xCVnFRYTJMZDZYNUJxcTU0cUowTW4taVFpUWVIRkdERUtTRGZydWlaQlctSWlUa1k0RldWUVdWT0RNRDJrbGRMRDMzbGhEcG42QdIBWEFVX3lxTE9YelU1ME5rTDQ3SGxzdmNnclhIeVYyS3dwV1F4TnJQMTJ6UWFrRWVOZWFBYVdLaFBlWnRrYXExQzROYmlxamJuczRmLWk0Rlk0eXVoMmhqQ3o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YelU1ME5rTDQ3SGxzdmNnclhIeVYyS3dwV1F4TnJQMTJ6UWFrRWVOZWFBYVdLaFBlWnRrYXExQzROYmlxamJuczRmLWk0Rlk0eXVoMmhqQ3rSAVhBVV95cUxPWHpVNTBOa0w0N0hsc3ZjZ3JYSHlWMkt3cFdReE5yUDEyelFha0VlTmVhQWFXS2hQZVp0a2FxMUM0TmJpcWpibnM0Zi1pNEZZNHl1aDJoakN6?oc=5",
       "source": "아주경제",
-      "time": "1시간 전",
+      "time": "3시간 전",
       "timestamp": 1789682392.0
     },
     {
       "title": "국제유가, 사우디 원유공급 차질 일부 완화에 이틀연속 하락-WTI 배럴당 101달러대⋯국제금값, 달러약세 등에 반등-온스당 4390달러대",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92WURmUUlEb05GX0dHS3h3Mk9QcExvdkpJNlhKa19TX3ZQWEdnenlPaWtyaHcyUExVcG9BZkRWTGdieVNhZVlBY0xRLUxobHRrUHZSUTgxYmExdms1ZDZ0OWRnTE1haUQ3cjRuYkFEWQ?oc=5",
       "source": "이코노뉴스",
-      "time": "1시간 전",
+      "time": "3시간 전",
       "timestamp": 1789681754.0
-    },
-    {
-      "title": "2026년 9월 18일 오전 금 시세 업데이트: SJC 9999 플레인 링 BTMC DOJI 푸꾸이",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEYtcnNXU2g4cWJDd05Jc1NaY2NkQlF0dmp0WEluMGkwZUVYWnAzY1pWN3BZZ3BrejU1UlA3a1RkZjZFeFJSUW1kUW9ucjBYVjdTc2lUX3FUZURQRTBrVEJOVHBjSTFxNW5KTGJwUlJ5WW9pNEVMQlRoaTRuOVgwVnpFYll1d1oteHhER3FSd0ZtUG5oTUJpTEFrNA?oc=5",
-      "source": "Vietnam.vn",
-      "time": "1시간 전",
-      "timestamp": 1789681349.0
     },
     {
       "title": "뉴욕증시, 금리인상 여파 소화하며 반등…나스닥 1.7%↑(종합)",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DNHVkRFZpNGpKaEl6WWJLQ045MnFYTDJXakZRMHU3YWN3Qm1nZzVfc3piSld0c1NvUTdMdnpyUkNkckJhWWItUExoQ0hlTy1JdnZVQWpIa3kzeGxQ?oc=5",
       "source": "supple.kr",
-      "time": "1시간 전",
+      "time": "3시간 전",
       "timestamp": 1789681037.0
     },
     {
       "title": "연준 금리 인상 충격 하루 만에 끝났다…나스닥 1.69% '불기둥'",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuZ3YyV2dJRnNNVlV3a3hMOXpEV3diLVpXNEtpaEozcFdOQ0FtSUk5cnM3cjdoUkt4RXZVTVN5YThmc253aEkzWGwzSGs2b2hXN2Y0RWtzTmhGWjB6QXFjRTVkbF94U04tRXNjY2ljazBtYlnSAXdBVV95cUxPcmtFQnJzdU1EMDZSV3MyTlZqd0FJczBVeE1vcVkwZGJ2bU1FLS05Q2NoOGJXU0EtMUp2eWZiOHp0cmxuT29nTUhBTVNUOTduTjRWcklwRm52MTZjcU1LR0Ewc2t0TklmcFpyZDROUlFUN3I2Q2tRQQ?oc=5",
       "source": "핀포인트뉴스",
-      "time": "1시간 전",
+      "time": "3시간 전",
       "timestamp": 1789680881.0
+    },
+    {
+      "title": "[외환] 트럼프 '이란 전멸' 위협에 1,380원대 회복…BOJ 대기",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81OEp6ZTNaX05DaDVhRmd5UXVLYy1HZXRUU1dZTUgwWVFtd3l1ejN2NHNJYm9jNGw5WGE2Sk9KdXdwMllaOExlbElDdVc3U1JNODRyN21uYjNseEl5dEVkQWltNjZQbDBWbFRsb1lrVUFMQQ?oc=5",
+      "source": "KB Think",
+      "time": "3시간 전",
+      "timestamp": 1789680442.0
     },
     {
       "title": "뉴욕증시, 연준 금리 인상 충격 되돌리며 상승…나스닥 1.7%↑",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03ZnJ0bkN4bVNYQjlFN3VaenZFVUROMHYzbDZFTXBLMUpRLVhZbE03cXlFWkJaMkxyS3pKQnQySXZ4elBPQ2RRT3Z4N1BZOHF6?oc=5",
       "source": "이코노미블록",
-      "time": "1시간 전",
+      "time": "3시간 전",
       "timestamp": 1789679940.0
+    },
+    {
+      "title": "미국 국채 수익률 유가 하락에 동반 하락",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjcDJkX3BmLUJhalBZTkhKdkh0OHRiLXFoV2JaYTI0eDQ0Qm9hN2Fqbkk2YTFqTTAxLWhBSllMUmV5cWVSSUoxSVZnSFB2OUROU2tPcE5OdDhhQXh4N2RPZmdXSWxKX3Q2QzRDeXpxQWE?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "4시간 전",
+      "timestamp": 1789679640.0
+    },
+    {
+      "title": "[뉴욕마켓워치] 생각해보니 불확실성 해소 같다…주식·채권↑달러↓",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hMnR3bk50dS1ONFZjQlNzak03SG5EZThLUU1EaWdDaVI3Qmp1STgxSXJQeFNaUEU3dUFHa0lTMnF5ZmtvZXJzX2hUQ2tXZTROYS1nei1tbHFPUi1aWllicURDbzNnMVk1THNDX2ZSN04zUQ?oc=5",
+      "source": "KB Think",
+      "time": "4시간 전",
+      "timestamp": 1789679613.0
     },
     {
       "title": "국채선물, BOE발 英·美 국채 강세에 동조…10년물 39틱↑",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wdDl0eFgtYzNMdGJVZGU2QUVBVWlLYS1iTndLMmZ0UUlmdVdRQlVEN1lGd1pPM0RDREl6UGRXcERVVWR4Y2RCMWVYWXFlcW5nSi1JNlI4cWJvUkc0WklTRnd2OHo0VkNxSmdfZVBzaTVZQQ?oc=5",
       "source": "KB Think",
-      "time": "1시간 전",
+      "time": "4시간 전",
       "timestamp": 1789679491.0
+    },
+    {
+      "title": "[뉴욕마감]나스닥 1.69%↑…유가·국채금리 하락에 반등",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJc2w0ekNoM0NNZDVUd3dtaFZoTm1CQlVZbUY1OE9SQ3BVS05tcWJrTE5iVXhVYU9VVXkxZzJnVDVSb2ktekpITzhXVkQ2THdUU00yWHJ1elotVUE0UUlUeEk5dDJXTVdKbnh4StIBbEFVX3lxTFBJc2w0ekNoM0NNZDVUd3dtaFZoTm1CQlVZbUY1OE9SQ3BVS05tcWJrTE5iVXhVYU9VVXkxZzJnVDVSb2ktekpITzhXVkQ2THdUU00yWHJ1elotVUE0UUlUeEk5dDJXTVdKbnh4Sg?oc=5",
+      "source": "뉴스1",
+      "time": "4시간 전",
+      "timestamp": 1789678202.0
+    },
+    {
+      "title": "게임을 분류할 때 볼 토토 출석체크 진행 특징",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1F6NThoQktuMlAwMEI0VnVRSDZ3cnRQTzVuSVc1RHhlTGkwd2VKNTlIQnVRTGM1Xzd6VGp6RmtvODhoWnY2dEpkaHFZZElEQ3ozTlA2Q0JFb2hud3ptc3NNRXh3WTJFN2dkUXZPZDR3N3Q4a0NvaGxRUExoTWRybjFoOExFQlNYVjZUNHZCLU9oX3Bmc0lVNHJ4dWZfaEdMdTFHSHRJNUM4NjE4Z3FYVUJPaFNtVHNDcXA0?oc=5",
+      "source": "Histoire pour tous",
+      "time": "4시간 전",
+      "timestamp": 1789676495.0
     },
     {
       "title": "[뉴욕채권] 불 플랫…유가 하락 속 '장기물 매각 폐지' 英 길트 랠리",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHUWJlano3Y0RubUg3MVVUckMwLWUwdFAtT1Jpdld2RnNqNHBXOXdNRnE0Yk9fTDNCVzhaYlNDbTlObnJiV0lLVnJUNnN4Y2laV0tncHkxN1YyaFN4VlJrdDdEMkl4WUtEVlFCcTRKN2xxdw?oc=5",
       "source": "KB Think",
-      "time": "2시간 전",
+      "time": "5시간 전",
       "timestamp": 1789675520.0
     },
     {
       "title": "[금/유가] 공급 차질 우려 완화에 유가 하락…금값은 반등",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVC1EdVZpcTFIMnlONFNaR094dmdFbmFoa2YzeWVUM1Y2RXc5c3dCSkc1NnFFaFdPaWpEV2ZtWlRHZEhDZ1Zjdng0dm9rVVRxb3RBNEEtTERFRTgy?oc=5",
       "source": "뉴스핌",
-      "time": "3시간 전",
+      "time": "5시간 전",
       "timestamp": 1789674840.0
+    },
+    {
+      "title": "사우디 송유관 재가동 전망… 한숨 돌린 국제유가",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PcnJtenpZUW1lcjR3eE9jZnZITUNVVHBQS0t0d0xzMC1RV2lFYk1Pa2M3NHRNT0VZa29INlFndl93RU1EVEVmV0JaOFBwME94WXlmaE54Y09OVm9Z?oc=5",
+      "source": "supple.kr",
+      "time": "7시간 전",
+      "timestamp": 1789668000.0
     },
     {
       "title": "[뉴욕 금가격] 유가 하락에 소폭 강세 |",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZT2tDZ25CY3hCM085dm44Z3h0RTdqN1JseV9oOVg4Q3lpb01rM0YwekxjMWJlRDVRcl8yQ0FtVWhDbVU3RlVEbkhNQ2ZQdFB2RDZGM2xTX0xoWmsweXJLMUNod25UYjNRcVhvWFloc2JCUUdl?oc=5",
-      "source": "연합인포맥스",
-      "time": "5시간 전",
+      "source": "news.einfomax.co.kr",
+      "time": "7시간 전",
       "timestamp": 1789665736.0
     },
     {
-      "title": "카페 토토 먹튀 재접속 후 확인해야 할 진행 상태",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ENjBRUmU4TFBsandSWXZlS2l2RmlOWU9OZkFxVDIwT0xLZm13OThLbTZVYTlyak82S2dRNG5vZUVHdWxvSl85WUdyUHJEeEMxT0d6U240NmNiVmRaWDhfMVh2VXpBT1ZBWW9aTWFjUQ?oc=5",
+      "title": "램카드 슬롯 전체 화면 지원 여부와 사용법",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1dpQ2xvUGNxUE51QS1VaXhlVDB5ZVVxcEZRZzB4ZjVBTy1wNDhIdEJ0cVlua0s2bDN5NDlLTUhsX0daRDBUSXpxWDFWdktFOFBCZlVLT3Axb3RXUFRwVFhwZDBhX2ExdlFRbXluUGxTSVVIbTZkN0IxSHF4UFkyX2xleEhNNzU1VnpLWWNPT1AyOEJvdGZEWHFxVENBRVFlTlY0SmF3T3JSQmUx?oc=5",
       "source": "Histoire pour tous",
-      "time": "6시간 전",
-      "timestamp": 1789662586.0
+      "time": "9시간 전",
+      "timestamp": 1789660525.0
     },
     {
       "title": "오늘의 금값시세(9월 18일자) 금값 상승세 \"국채금리 지속 여부\"",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00MW5oWWh5VkNmSmZwUFFTU05oZ0xmbDVFUFgxdVg0N09GeVcwYWk4MUhEaW5XdDVUMnRiNkFQTW5xcGNoQVVaVWRUR1NLejdCY3VTZTRJbVdKRDl3a0M1Zm5wTGVGbTBqNVJQQ3Vn?oc=5",
       "source": "gukjenews.com",
-      "time": "7시간 전",
+      "time": "10시간 전",
       "timestamp": 1789657920.0
-    },
-    {
-      "title": "\"금리보다 유가\"…美 증시 하루만에 급반등, 나스닥 1.6%↑",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnTUFGNlBqWmxhS3UtQ2dfNFpyZHpadWRYZVBMUnJTUTkxeGsxWG5MQ1hWS2NlY0tjSUhzTVJqcmdNLXlGQUtJSEp3Y0ltRHl6SlEwSGh4dlpNUQ?oc=5",
-      "source": "한국경제",
-      "time": "8시간 전",
-      "timestamp": 1789656316.0
-    },
-    {
-      "title": "금 선물이 현물가를 상회하여 거래되는 것은 정말 강세장 신호일까?",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUJQalZmUWh4OHUySDNrVGJNeXNLbk9XYkhNcWZxLW9VT3N2RVdRemJDVGZrOXgxWVQ3M3pQWExsNE02dlMtaEJrUW03MkFWSUxoVktQUHhqN1pXNWcxVmp2SFZSZ3Y4UlluXzV0UndkZ2hpc0RObEUtYlhYTnJpc252c2hTNUt0LUFJR2lndWFrZFl1Sm83bGlUdFJJREJ2ZkhOeWZfSEpvbmZCX24tS2VyYnRFTFJv?oc=5",
-      "source": "TradingKey",
-      "time": "8시간 전",
-      "timestamp": 1789655252.0
-    },
-    {
-      "title": "오늘(9월 17일) 금 가격은 하락과 상승이 뒤섞인 특이한 모습을 보이고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0RtcVRORl9reHNrUTdkclY2WWxtaEFxWGM5akY4Q1VIVjlycEZsOFhQclczVl9mc3B1RTFYM05TSlhiUG0yRURLT2pCbDN4eDJ4SGVlZFBaWUtuckFZQkNwZGZoN3BqQkVjWUtpeXd0QTM3X3g0Mm14a0VOQ2JfWkpyclI2UmR0ZmhEX0hR?oc=5",
-      "source": "Vietnam.vn",
-      "time": "8시간 전",
-      "timestamp": 1789653785.0
-    },
-    {
-      "title": "17일 장 초반 나스닥 선물 1.1% 상승…브렌트유 전날 대비 3% 하락",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DNXBJQVEtTTZyekhxWUdoOEdBbHFPX1UxYm0wODhZMHQxODQ2WFE5OExqUjdJU1BnNFFQWE82b2Vna0s5Q2NJcDJsUkQwQmo0Y3NMZll3?oc=5",
-      "source": "토큰포스트",
-      "time": "9시간 전",
-      "timestamp": 1789653749.0
-    },
-    {
-      "title": "나스닥 장중 1.57% 상승…다우·S&P500 동반 오름세",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sdTJSd0x4d2VsTWg4T2lWdE9PU1ZJb0hFZmFDNnV4OWZVMVRVelRFRVl6aDF6UXNldmc2Mkdud0QtdDFJbUNSZHBFQmE2NXRPb2U2NDN3?oc=5",
-      "source": "토큰포스트",
-      "time": "9시간 전",
-      "timestamp": 1789652010.0
-    },
-    {
-      "title": "뉴욕증시 프리뷰, 연준 첫 금리 인상 충격 하루 만에 되돌렸다…다우 선물 600P 급등",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zZ0NUZ1QyN3RPSkhtLW4zZFI2U2tpX1R2WmYzTmpyYlJJOGQtZG0tLTZTdkdSRVZpcWFfOVZnblZUejVOVW9VaWxROXVCVzU4bllnS3FwaXdXNTl4?oc=5",
-      "source": "뉴스핌",
-      "time": "10시간 전",
-      "timestamp": 1789649640.0
-    },
-    {
-      "title": "나스닥 다우 선물 지수 상승세...연준 금리인상에도 반등",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QLTR4c2ZrbXdXbUlnRUN2QTJBNGRGaXY1em5kOWp2b3RrVkdUdUpTd2J4ek5UbG9mRlJLdVZDM1NCV3BkcHdNdU1sakNZaXJSU3d1U0xlUm9PTnlORk0xdWJheVEyTUd4Mnk1NjJB?oc=5",
-      "source": "gukjenews.com",
-      "time": "10시간 전",
-      "timestamp": 1789649383.0
-    },
-    {
-      "title": "금리 올렸는데 오히려 좋아 [9/17 G브닝]｜Global Money Club",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZzdPcnNBeXVLX3VzTndyQmJnUHYtSVJwYXZ1T1l1dGQ2aXpPdHNqNWNWUWpJODFHSmhHeWkxYkxDeTNOQmUzcWFjOWhmNU5XZUZkVUNzbGdkZjg?oc=5",
-      "source": "중앙일보",
-      "time": "10시간 전",
-      "timestamp": 1789647799.0
-    },
-    {
-      "title": "뉴욕 선물 금, 온스당 4400달러 돌파",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tWXE2SmZ4WXpZRjduUzAtS3B0ekR3d2NjRXY0djRWYkVleWJmN2xzdW1QRGxlNmMwb3NIdXBfalVYNmZuUHRFejlHYlp6YXpNeVd5TzZ2Y1o?oc=5",
-      "source": "토큰포스트",
-      "time": "10시간 전",
-      "timestamp": 1789647743.0
-    },
-    {
-      "title": "연준의 인플레이션 대응 의지에 TSX 선물 상승",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VSC1ldXozSF9raHFiY1l5LVFBb1JLZDFGZWh1R0pEUXZKOEVCYkJ1TkZCOXhtUEhTQVRvay1BRkRCZnhKbHltdWdtY3FzenROc3ZJOE5scVI0YWxRQW5MbExITTNLSUJKc3A4SXQtMFY?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "10시간 전",
-      "timestamp": 1789646640.0
-    },
-    {
-      "title": "2026년 9월 17일 오후 현재 금 시세: SJC 금, DOJI 금, 순도 9999 금반지 및 국제 금 시세.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHQ5U1pIckR2bDVUODl1Qi1JMkhGZ1J0RThNUjFrdEVRSWI5NzZlckxhTnVFS3I4ZnUtWElCZXBtQ2NhWnNMbmplNnhIVFprN2V1THlDWmVia2doS05SOWd2Tk44NjNiR25YVzFSWlk2UGk1TXlSZGFsVTlUMDNSVTI4cnVMLXVjOVRVZ0JodlE3ZDN3cUZDbW80S0hQd29iT29MTEg4UWlRdEE?oc=5",
-      "source": "Vietnam.vn",
-      "time": "11시간 전",
-      "timestamp": 1789646441.0
-    },
-    {
-      "title": "2026년 9월 17일 오후 금 시세: 금괴, 순도 9999의 금반지, 그리고 국제 금 시세표.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEpKY0RsdXhGVGpFWHk1LVhlc0RzaUFheUpNSEtBQnhfcm5kcTFSa2c0aXpsTGdTdGF3OFFGWDI0M2JKQ2h2b1R2NWc1b3dXVWF4VEZQNW9UMEpDYkdrU1FjZEFoeEx0U0NiSVR3YmlNS2pWdENlRGh5dGMwR1hYUzJQVU10M3hIcmViRk9PWVNVM1ZIM0FadnB0ODZSWllUbXpOLVROcGU?oc=5",
-      "source": "Vietnam.vn",
-      "time": "11시간 전",
-      "timestamp": 1789645570.0
-    },
-    {
-      "title": "비트코인(BTC)의 연방준비제도(Fed) 이후 가격 반등은 2022년 약세장 시작을 연상시킨다: 크립토 데일리",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRldaNHZQQjRIcmpyNnpGcG44ZlRpdUVIWTZScmFpeDNxWUJidnlkYjl0dnZkUlhRV05NbEkyYnFfaUdnUi13X0xuYmhybEJwRkQ2dW1DdUZCam85QnVfZy1NcEF6SDRBZ19hXzZUdk9aOW9OVF8xVkpLdjhEb1pLYXNxWEdLMmM0eEg4LWVHM2FFYlJvcVVLNHJHMGIyVGJieGoyc091eFBOUjd5aFNxcEJ4aXFQZw?oc=5",
-      "source": "CoinDesk",
-      "time": "11시간 전",
-      "timestamp": 1789644442.0
-    },
-    {
-      "title": "제너랙, 네비우스 급등, BCB 뱅코프 급락: 개장 전 주요 변동 종목",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ic2dnaUJrNWNxVmxvY2VxdE9xZnFFcGR0M1M5T0g2Sl9zUjFzMzJtZXVKRXVVSzVMZVdHMFcxZWkzcDc2bUx1Nkx0ZU8wd05hb0RDdnczZU42VG01dlZFRC1ic2x1eTNLWTh0UmdMang?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "11시간 전",
-      "timestamp": 1789644300.0
-    },
-    {
-      "title": "비트코인 76K로 상승, 연준 금리인상에도 뉴욕증시 반등",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wTnpMdlo4c19YNW1oMFk4d1BHNjZEZmRhLWxkbjA3ajhva0ZUZlUtOEd6NlhPVnNFUkoyNGhmZmdDQ3p2N1lNQTBYSUxVUmNMVDhWUXFOT1c?oc=5",
-      "source": "blockmedia.co.kr",
-      "time": "11시간 전",
-      "timestamp": 1789644180.0
-    },
-    {
-      "title": "단순한 구성인지 따져보는 도박 불면증 선택 기준",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkNURG1JRHpGQi1CdHEwZzlKYzNpTzJyTkRqU3F0Yld1OHJ2TUk3YkZUY0p3R0d4azlzRHhJYVdQeXpVWXNuZVNYeUVmVzduSWhyM09TWWZMS0VHR0d3bElaWlhkbGRQbzVSN3lhUWY1MUFhZExFMDZ2LXc2SXFEeGdYQ3FEVThXRGlHQ3c0VGY2QWhsQks0a0taWl9VcmhjbHBOck5QanAxQjNQVEc3UWo2MVFhTk9WQnJHcmJn?oc=5",
-      "source": "Histoire pour tous",
-      "time": "11시간 전",
-      "timestamp": 1789643946.0
-    },
-    {
-      "title": "연준 추가 금리인상 신호에도 \"주식시장 랠리 지속\"…나스닥100%↑",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNkgwbk5FVWN2dUEwTEI0MHIzRGlUdjdMTVRqWDI0YVhWVXZRb3Atb0JLQzlfNmxPLVJmV181aDhycTVWRTRLOHBuOUg3WmJ1WUEyVFBZOTg0cWVJTVA5TTkydlpRVTRib1VkMHQyd1RVWXhqcTk4QnRQNjhpMFpTMA?oc=5",
-      "source": "edaily.co.kr",
-      "time": "12시간 전",
-      "timestamp": 1789642356.0
-    },
-    {
-      "title": "비트코인 옵션 비중 절반 근접…만기형 선물 감소",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4enY0OUpoQ0xVZVRPOHNmejU1X1BFNXV5YTBla2NTYXJ6VWdyS19RMU9fUHJHakc3Q1JacEZ6LXVyZVJ0LThxNGI0bWJwTEZycGwwN3M4R2dBU1AwOGhDTg?oc=5",
-      "source": "토큰포스트",
-      "time": "12시간 전",
-      "timestamp": 1789641521.0
-    },
-    {
-      "title": "세계 금 가격 상승세",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlZlbVdlcGR2VGFMMnBjS1k4RkFFR05ITDlVTjRCbFE1UldHMDdMMVZjQUdYQ2FiQllJWk5rdEVPSGlyMjY4cG5PTEUyR3hiTm94OFBjZVJ5ckJtTXpWdWNLWjhnUjUwYWkxcExzYWc5WFpkVE5xTEplbjJ3U2kyMA?oc=5",
-      "source": "Laodong.vn",
-      "time": "12시간 전",
-      "timestamp": 1789641266.0
-    },
-    {
-      "title": "9월 17일 금 가격: 세계 금 가격은 반전하여 1% 하락한 반면, 국내 금 가격은 급등했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkNlTVlRZjkyMXdERGZzZ2ZSZ3diUWlocFRXZkowSDEtWlQ2RnJfUGlreVAySy03dVFxLWFtd3RhdERaWHFmTy1VYmRfQkJkSllBQ29VU09tZ3AzaWR1XzQ2YzhKQnFFZm9PczRPVHNtT2oyeS00LS05cE10UVZSYXFhR0xOb2U1TEZITWVqWlFPZHI1VjMtYlJWNWFLZ0Uz?oc=5",
-      "source": "Vietnam.vn",
-      "time": "12시간 전",
-      "timestamp": 1789641078.0
-    },
-    {
-      "title": "STARPRIME(스타프라임), AM/PM 픽싱과 XAU24/7로 분화하는 금 시장 수요에 대응",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVk5scHJUQjB6c3dPbU9PcEdHMTRqWEdUZ05aV0djVlMtTnFuZ0l3LWpOZ2hDZFJ0SnpkNXVpWk1PdzRrRnZoWElPamFLWndpM0JIZkFHVlVUaC0tYlFGdA?oc=5",
-      "source": "뉴시스",
-      "time": "12시간 전",
-      "timestamp": 1789640468.0
-    },
-    {
-      "title": "[코인 시황] 연준 금리 인상에도 비트코인 7.6만달러로 반등...지캐시 10% 급등",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RWEFTZ1FqdnJJUVdsc1NzVGhqdXhkYi1uVEhUVzhhcFZBTHlYbWtERjhETFZibGRkU3A5UXg0SjVBenFKWGlKVUw0T3Rjemd4VGFJM2s5SUZSZ2JD?oc=5",
-      "source": "뉴스핌",
-      "time": "12시간 전",
-      "timestamp": 1789640400.0
-    },
-    {
-      "title": "로딩 중 표시를 이해하는 교토 카지노 접속 안내",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1BDX1ZhQjhLb1ZWUUdPSTVtUGgwT045N21JbzZOc0Z1WXY1MWJaX0FSai1kdXV0MzJhVEw0WVZOSGhkanhybnBha3RHTEhIQTlkMTJPUGhNM242ZU43UVZVazNIY21SN0dpc1I4RWJSY1pFWm1ROWFIdWFLNHhtWGs4Sm85U3d1clJGWkNlOHhlclJIcjhTNlYtbjN1UXplVWFXME5UdWxUNFlwQS1zVA?oc=5",
-      "source": "Histoire pour tous",
-      "time": "13시간 전",
-      "timestamp": 1789639039.0
-    },
-    {
-      "title": "Fed 금리 인상 압력에도 불구하고 금값 급등",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGhNWmwxQU1yMFU4Rk51ZnZOR3hLaFNOUUp4TFlSWlEyR04zWjJWWlpsZzhNQTdoN2EyNVhoOXNGazVVdmJSRGhCTFVPLUZxa01fNGdJLVJYQU5GVm9CaFg1MmtSUnRZOHNoV0dNNkdrTW5ILUlLS3BsbGp0MVlXWFJPWWJZTWNwZ093ZkVuR0g5YmV2ZTBKdmVJeU9pUnp1STF5YnBiNXN5RzZQ?oc=5",
-      "source": "Laodong.vn",
-      "time": "13시간 전",
-      "timestamp": 1789638963.0
-    },
-    {
-      "title": "[외환-마감] 美 FOMC 후 결제 몰리자 1,380원대로…'네고·엔화 강세'에 상단 제한 |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CTDVOV1B2cnMtR3FTNWg3YnVubllPUzBBVXBZbThQMjdVenNMR3UzRXMzaE1aSk5Cb0w0Tk5WWlROeVhwZDZiRGRsZUFWVWplcTlVel9oamVqMlFPYjFTb2NoemJBekVRSG4xdW9yc3gwLWJW?oc=5",
-      "source": "연합인포맥스",
-      "time": "13시간 전",
-      "timestamp": 1789637713.0
-    },
-    {
-      "title": "오늘(9월 17일) 미국 달러 환율: 미국 달러가 강하게 반등했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWE5nR2dBQTZRUllURHltVXRtdFFuY2JxSnJuRjRLWS1saXpCWExYU1N3cVBCdXJrRUU2RFRyZVJreDhsVHA1dDhLZVFPdWNtNXZrWmp6cl9HN2M4eDRFUWlJTktEZjdmNEEtOElON1NhWkt5ZmNJZTIxaVZsY0RqeThjVQ?oc=5",
-      "source": "Vietnam.vn",
-      "time": "13시간 전",
-      "timestamp": 1789636210.0
-    },
-    {
-      "title": "배당선 방식인지 확인하는 바카라 거울 구조 안내",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHRGc20zVTk0X3F5VEVfdzFrc2hBNXltcUxDR2kxc3NSLXJBZTlSQzZZdkIzX2FjY1A3V3pqMVVDNlVnb2RVckhmQkNEWXRabVd0dzU3U3hPWHBTLXhBUGpzd1Iza29hdGJlZFNId1J1X3R0OXNLMkY0TG5wTHczQldyVzlJQTFvZDBveDlqU1g3b2E3eU03RFI0amN6cGtaVnlBNXVqX0plMGVHUWlMVkpYSjlOZGlyV2J2Y1dlRQ?oc=5",
-      "source": "Histoire pour tous",
-      "time": "14시간 전",
-      "timestamp": 1789633909.0
-    },
-    {
-      "title": "금·원유·주식 거래 열기, FOMC 이후에도 이어질까?…멕시벤처스 분석",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1palY1UngyTFF5U2RuWjVReHdFT3h6TV9ZWWRKdzJLREZuX0xFNkROVDJocXpxRUxZMDFOY08zdW5RT0syQjlSZk5IVWxqUUxzam9WNnJUWm4?oc=5",
-      "source": "토큰포스트",
-      "time": "14시간 전",
-      "timestamp": 1789633306.0
-    },
-    {
-      "title": "9월 17일 오전 국제 금융 및 통화 시장의 동향입니다.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUZoZ04xRmFWQkIwVTJaaVQxUGQyMTlsOGJyNTc2LW03c0I5Ty1zQzZOajluOS1BWDVtal9md1FDZkppWnNQSlFOdzdCckVBQ29VQXc0ejhKeFdmQmxuYUc4d25pckk2cl9TdzBkUUJ4Ri1vaW5xcmhPT0VQTzlHQkt4OW11UU1rZHc?oc=5",
-      "source": "Vietnam.vn",
-      "time": "15시간 전",
-      "timestamp": 1789631693.0
-    },
-    {
-      "title": "연준, 금리 인상 후 매파적 전환; 잉글랜드은행 회의 임박 – 시장 움직임은?",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40SjlyNVlfY1ZScmhuYWlFMFMwY3dtbmhLZlJBcW5YNHdsRmlGeXhldVVmZmhyZnhLLUVRNDZyWU1Jd1pULTBKNnRvUzVVX25HMWdibXdteFlRR3A3ZUlEcG5Sa1RNR0Uydmc?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "15시간 전",
-      "timestamp": 1789631460.0
-    },
-    {
-      "title": "연준 금리 인상·영란은행 동결에 글로벌 채권 금리 하락",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1seVNJNVFfUURUckVhbURfQTF0V0U4eXRGUmt2V0NIVTJhNTFSQW12cE8tbXZqbi15cXBWMmZsMHJPbGl1bjh0bTRHb2pqVmViNnplYzgtUW5FSVhPVVZMZmVFUFl3OEU?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "15시간 전",
-      "timestamp": 1789631340.0
-    },
-    {
-      "title": "[뉴욕증시 23일] AI·반도체주 매도세에 나스닥 2.2% ↓",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWJNc2szYlZocXkydmcyanNMX1pFZFZ6R2ZMNVMtd3B1ODZDN3pnRlF4LTdRdGRHVHl1TUxQYlVSWTdaTll0R3h1VTNvbHVvQ1VIbjZVbndNb0Y5UVpLMWpEbzdSeTdBMWtIUUpDeTBZdW8tUnI4UDgzaVZzZjdBUzdodjN4a3Nuam04cXNnVm0yb0RoVFZTZ3E2LWhhdw?oc=5",
-      "source": "미주조선일보",
-      "time": "15시간 전",
-      "timestamp": 1789630895.0
-    },
-    {
-      "title": "[뉴욕증시 8일] 이란과의 긴장 재고조로 혼조",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjlwTnRMaGhldnlGV0hXUUtRNFJuTHZKQjNoTGxmVFFTTGpPUEdkdGthODNPNHRmaWdraGJrcVFSOVk5anNrNzNGV3Q3dS0yZVdPR3hNTzRZenBNWE5OQmlncFQ0akVYZmF5OEw3aU1CTTBtMVF2eUpfMHhsZjBSLUdTaWRCUTlxbkFMd1MxcTdnbm1YaV9JT0FnbUtPQQ?oc=5",
-      "source": "미주조선일보",
-      "time": "15시간 전",
-      "timestamp": 1789630802.0
     }
   ],
   "total_count": 50
