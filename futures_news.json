@@ -1,6 +1,357 @@
 {
-  "updated_at": "2026-09-23T02:26:02.982695+09:00",
-  "update_time_kr": "2026-09-23 02:26",
-  "all_news": [],
-  "total_count": 0
+  "updated_at": "2026-09-23T05:26:37.437980+09:00",
+  "update_time_kr": "2026-09-23 05:26",
+  "all_news": [
+    {
+      "title": "금 선물이 현물가를 상회하여 거래되는 것은 정말 강세장 신호일까?",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUJQalZmUWh4OHUySDNrVGJNeXNLbk9XYkhNcWZxLW9VT3N2RVdRemJDVGZrOXgxWVQ3M3pQWExsNE02dlMtaEJrUW03MkFWSUxoVktQUHhqN1pXNWcxVmp2SFZSZ3Y4UlluXzV0UndkZ2hpc0RObEUtYlhYTnJpc252c2hTNUt0LUFJR2lndWFrZFl1Sm83bGlUdFJJREJ2ZkhOeWZfSEpvbmZCX24tS2VyYnRFTFJv?oc=5",
+      "source": "TradingKey",
+      "time": "7분 전",
+      "timestamp": 1790108335.0
+    },
+    {
+      "title": "[뉴욕증시 마감] 미·이란 외교 타결 기대 유가 하락…나스닥 장중 사상 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnSmMtZm9hR3BsOW53Wkg5RjA5d2ZwMHltX3VnejAxNTZPUjU1ZnFUc09wb0pqZTRINmI0Z3d0RXkzVmVtamRJbHJ0aWF5RU9WQkdGcWFJZVQ?oc=5",
+      "source": "블록미디어",
+      "time": "13분 전",
+      "timestamp": 1790107994.0
+    },
+    {
+      "title": "금리 인상 압박 속 미 국채 수익률 상승",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZVm1zZEF0SXNZMDIwOTFPaHdYYVJEMkQ2ckdHdVQ1alg1bE9McUFrYkNxcGhSZTBsTUl4OWhuSnNwVmtZZUd6WUJTdUJBdmIzRGdaV2RwVzJFRWxRVUx6ZDRWOW9INWlRWHVrYnFJY2NxaEZMY0Nz?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "2시간 전",
+      "timestamp": 1790100240.0
+    },
+    {
+      "title": "나스닥 장중 사상 최고…AI 랠리 지속, 오늘 코스피는 외국인 반도체 수급 주목",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRG0zaTBxVVFSc21SU3RmRllHWE5LUmd3Y19rdWNPdGhITjFUdmhuc2h0aGMtMjg2UE9IT0Q2aktLbWE0VUgwNjJIV2JUX1pHeHJmUDZUem5lRWxRWlZQYndqeVg3TzVR?oc=5",
+      "source": "녹색경제신문",
+      "time": "3시간 전",
+      "timestamp": 1790096912.0
+    },
+    {
+      "title": "[9.23(수) 미장 0시] - 유가 급락·금융 약세 속 방어섹터로 순환매",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMaGRxY25zcXRDaDVvdHJTSmdRRzNRSUVqWlpsWXRsSkJLVGZZclBlWVJPaGV4VWgzSUhfdG95ckFKcFFQdDBwWWcwX0xFbVVXaGxPTFBYVktSY3BybW9QbURjR0pBZEtGSXJ6SXdvSzhfMmdzYzIxUg?oc=5",
+      "source": "주달",
+      "time": "5시간 전",
+      "timestamp": 1790089245.0
+    },
+    {
+      "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZXphejJCaDR4WFBKTERRQS1TUDNVT1lJc2dhYk1DRE96RGY3WFNXWmplejJuYXk1YUgyaDFyN0VoOTFHTm9fR25xT0VJbmQ0TUlXXzNKajNMZw?oc=5",
+      "source": "한국경제",
+      "time": "6시간 전",
+      "timestamp": 1790086130.0
+    },
+    {
+      "title": "유가 하락에 미국 선물 보합…트럼프 유엔 연설 주목",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sSDlZdXItYmtERGxqaS1CcUN4ajRHSnZFZUd1bTk0R3BrcmRlMWpNMEhiOGNuWHlVSlZGWnh1V1RqMFcydTMxRjMzSEZNOVFFeHJJc0JGRUlscW1vUUw2N3U5RTVFME9VQ01yWHRkLUVORkphZlo1VkxRS0k?oc=5",
+      "source": "Traders Union",
+      "time": "6시간 전",
+      "timestamp": 1790083790.0
+    },
+    {
+      "title": "금값이 폭락해 SJC 금 선물 가격이 170만 VND 하락했는데, 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aURvMHFDNzhUTEtrR0Y4OS02ODZBX3c1VVlNMjJHSDNIYzU1TnZrWEhKeFNOSjlvVWlYSVl1ZG1HN1NpWjZ6bjFENllGRWkyWGlFNjRoSXRneHF0STZ5UDM5S1dsMEtXNGtJMUNwbEN4MGVtTkNSN2tweHVzZw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "8시간 전",
+      "timestamp": 1790076656.0
+    },
+    {
+      "title": "2026년 9월 22일 오후 금 시세: BTMC, DOJI, BTMH, SJC 순금 반지(9999) 및 국제 금 시세.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVJQdTNITk1BZGV1YkFZcUlVd0RwUzUyX0dWcGdqdVY0X1ZVZ21SQkZaa3FpQTRabTJnV0FfdWY2OUpNUXR4VnhEdW83a2VqT0hMUDY2c3BBejR0cjlYZmtTdHZiRGRBVy1IN05wR3NDTzk5U1JHMFp4c3JvQ0xHcWEwbVQwRDZyY3hrWDdVRlU0MGlGUm9FalJDQlhVLWxmUHFyWVYzRVY4SGM?oc=5",
+      "source": "Vietnam.vn",
+      "time": "8시간 전",
+      "timestamp": 1790076579.0
+    },
+    {
+      "title": "“5%대 금리에 증시 무너질까?”…60년 데이터 뜯어보니 의외의 결과 [김태홍의 투자 포트폴리오]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTEUwajZSaUtvWlpzZVhLcy1zc2hQZExqS2FZcWg5Qmw2NW5ZLVpDVDAyVnlQWWVXQk15N3JORHFyR0xGWmhTdTVHU3h4UUtIcWc?oc=5",
+      "source": "매일경제 마켓",
+      "time": "10시간 전",
+      "timestamp": 1790072470.0
+    },
+    {
+      "title": "2026년 9월 22일 오후 금 시세: 푸꾸이 BTMC, 도지 및 국제 시장의 금괴, 금반지(순도 9999) 가격표.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3BOX0dRclNibFZ0THhhdURyWXQ5U0ZvSzJWWmNsNFNDZ1BEQy12a2pRbDlCSXV3X21LQXNNU0hwamY3OHpYSU1NbVZOTWdOMDRmWWhvWWx4d2pJWFJvVEtLb1Nvd2Z6THlTamh5ODBhNUpKTTJvYjZQYkh3bkhLTUVnTWwxQ1htcHI3NTBhQ3BWNExONjRKVmJLbVkyYmxEWEU2am5Ucjk2eVRlTGtmNHFJOA?oc=5",
+      "source": "Vietnam.vn",
+      "time": "11시간 전",
+      "timestamp": 1790068046.0
+    },
+    {
+      "title": "추석 앞두고 '달러 매도·중동 대화 기대'에 원·달러 환율, 이틀 연속 급락...다시 1350원대로",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WUllYZVlqTERUN2Ixb2cyVmY4Tm5OMzJpQmZiZUdBQkduWFk2RFo0OVVyempmQzFod2xveFUxOW52RThTNkxRRFM3QUEzWVhEbUdQaU5hNzZkemVFeC1Kc3V4QWY?oc=5",
+      "source": "베타뉴스",
+      "time": "11시간 전",
+      "timestamp": 1790067939.0
+    },
+    {
+      "title": "세계 금 가격 압박, 투자 자금 신중해져",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUC1NSDZWY0tzT1ZTOEZXR2cxQjNmNXZPMWpVZkF3U2Npc0ktSW1BbGZTSEJUdkkwQTNkWmIzeXdRaVF3UkRRUXVKallTSFFrU1BuTm9BcE8zQkJmWDJRdXYtaUVvRmUzYmhHUGJCTWFLbGFXNEp5aE9KMmRRcjlVQ0RtX0VHU3Jrem5iUnNwRkVJczQ5blVYcXZ4aFkwT19HRURDMUU2ZmpzVndOUG8zOTBXeHk?oc=5",
+      "source": "Laodong.vn",
+      "time": "11시간 전",
+      "timestamp": 1790066896.0
+    },
+    {
+      "title": "금감원 \"원자재 ETP 변동성 확대…레버리지·괴리율 손실 주의\"",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSnFTaG9oejdUWVNYWmxUalgyaDcxUmRIQmdSbUVyR0w4U21DM3RzVUU2dTVscjVSWE94RnNvLWRMbmZBbFN6LXZ0a1g1dFkyYldmZlhyOWF1NGVHVy1tNWRkNWJyRVFuYlRwbTlnZzRBWnYxbTlMX2tfS2hrX29aRHMyV2ltUlJQ?oc=5",
+      "source": "글로벌이코노믹",
+      "time": "12시간 전",
+      "timestamp": 1790065567.0
+    },
+    {
+      "title": "이틀째 급락 원·달러 환율 1350원대로…미국-이란 대화 재개 기대감 겹쳐",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByQ3phTm9jTUk4QVFaMW1uVV80cFkxdmtONjhwUkpWOS1CTmtSLXJCV1NBSEFfRmZub3pwSDV0MU5tTkF1eXFMZDVvWF9IYUNiT1k2MVVaX3ladkNoRFNNb3NNTTkzRF9S?oc=5",
+      "source": "강원도민일보",
+      "time": "12시간 전",
+      "timestamp": 1790064423.0
+    },
+    {
+      "title": "유가 하락·UN 외교, 국채수익률 곡선 평탄화 요인",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xTE9GVGhSRkh6MHJ0Y1R5eFViM3Nwb3QwWVlrWnZrRWZVeHQ3Tl9aSlNrUkFKYTh4Ym1nUlBvWDRTOTVVS3MtMzNpYmZQaHlocnd0VGdLQ1ZjUUZJN0lzZnprd1Bid1k?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "12시간 전",
+      "timestamp": 1790064240.0
+    },
+    {
+      "title": "원·달러 환율 22.8원 급락…다시 1350원대로",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02T0RweFZOejExNE1tcnY5QU5uakY5QnlIUDJ5ZHE1bVk5ZzhqRld4MGdUMDhrSjYwZWdaWm1xTE5GVHNVaGE0N0dYUUlGd01pR19JVGVrbkZ0TjZhUWRBbEl5RVdHZw?oc=5",
+      "source": "싱글리스트",
+      "time": "12시간 전",
+      "timestamp": 1790064045.0
+    },
+    {
+      "title": "[투자 노하우] 나스닥 사상 최고치 경신…뉴욕증시 일제히 상승",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbFBYUkhWUy10VTVtVWxPZUdSOHB3UzRFd3l3ZS03SDNVMlotVEE0QkxwbmwtS3NMOFFjZkxzQ3BWc2JpUGVfZUI1eUtNUjVKVnlvbQ?oc=5",
+      "source": "v.daum.net",
+      "time": "12시간 전",
+      "timestamp": 1790063900.0
+    },
+    {
+      "title": "포커칩 파는곳 오프라인 : 학습 전략과 자원 - 최신 트렌드",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYzJ2WVY4bGhjRnp6b0xDekhrN0ozeHY1WUNwSHZ4bUYzSzdwVGdaOC1iV25SR1ZFTGNTUTY2MDR2ZGJyV0hid2RRTGVwaGcxdUp6Z1BZLW9uTFJ2QTRibHdHN3JMMVJWWHdzVThnTGg5U2M2bUtXUXV3MWhNUE5ZRXZzeFJLWVVlU0VSdzBLMVBmOVhVbEJUTWFyN3oyVm5COWV3LTFLallnMGFTdjV2OXRYT09ER2dsSzJ6UTFMOEZzNGc4TUh2bXNsQlZyeEJuNVZqWV9EcUlTVlpkQ2FpcXBMYzgyUEhsOE1KalltZ3d0RFp0TEQ0OWR1c3BwSVJMTjFVbkxReEVTTU0?oc=5",
+      "source": "Histoire pour tous",
+      "time": "12시간 전",
+      "timestamp": 1790063860.0
+    },
+    {
+      "title": "금·원유 변동성 확대에 ETP 괴리율 '경고등'…금감원, 투자유의 당부",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHaEtjbHBxbWRZaFM3bjdSYzNpczEyczd6VTRWTHA3T2FLZF9zaWoxWGt0RmhjWEpEc1pVZUxHUUVlV3FtbUNXOHFWMUlpbXdCWlduWW4yQUF4c2xVSHJURDFVOGR2WjNIbEE?oc=5",
+      "source": "금융소비자뉴스",
+      "time": "12시간 전",
+      "timestamp": 1790063388.0
+    },
+    {
+      "title": "원/달러 환율 1350원대 급락…추석 앞둔 수출기업 달러매도 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuQU5TR3diUUZoTlpkQjNfMFNCcE41MGdxd05yb3pBaEpTS0hGZGpRNURHM3VfSnpCN3d6YzNDYWJNT0tqazBENVZPZ296Mlc4SjRlSXdqcllfVFNyODhBVzRKMUhSZGdVT0FYZDJGZXnSAXBBVV95cUxQbkFOU0d3YlFGaE5aZEIzXzBTQnBONTBncXdOcm96QWhKU0tIRmRqUTVERzN1X0p6Qjd3emMzQ2FiTU9LamswRDVWT2dvejJXOEo0ZUl3anJZX1RTcjg4QVc0SjFIUmRnVU9BWGQyRmV5?oc=5",
+      "source": "머니투데이",
+      "time": "12시간 전",
+      "timestamp": 1790062924.0
+    },
+    {
+      "title": "[뉴욕증시 6일] 종전 낙관론에 주가 강세...유가는 100달러 아래로",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEhnSTNCV2R0NEk2cGZrblFCNTZPNVJ0S0hkZkMwLTZpOGNyaU93ek9DNXRNTWhqUkItUmpKc29TcTdjMXF4c0l5akVyUGpfbTJ0eThZd2c5cktnTEg2eVppZGFVbDFNTjlvYTdRNF9jcnZDZTBhVFIwaHdCSWNtN1BWb0syLW16RFRXZlFRTXM1U3p0UmpoTWE0bEpPeWpKQnZvMjJqTGV6Sm5ia3BheWE0NU9FMjA?oc=5",
+      "source": "미주조선일보",
+      "time": "12시간 전",
+      "timestamp": 1790062095.0
+    },
+    {
+      "title": "환율 이틀 연속 급락해 1,350원대로…달러매도·중동대화 기대",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03bXZ1N1QtRlRYTGpJTFpManpIMFdwcWs5QnBaaXZnUmpFYWE5NV9MejVCNVhQRWc5TzEwVUk3MzN6OXRGY09YbTNyZ0JLd0J6VHc?oc=5",
+      "source": "매일경제 마켓",
+      "time": "13시간 전",
+      "timestamp": 1790061806.0
+    },
+    {
+      "title": "[뉴욕증시 8일] 이란과의 긴장 재고조로 혼조",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQy1iUzUwUDFmcm1ScXJRT3BKVTcweFF0ZEJMZjhHRkJBMHVhRlFTVVJBcnZ2eEVDbnZGZGNHQ0FYZHRrcVhmTmZGRlIxeExfMXVKd0dVU01DelY0TkJyN2hIcjNTNFYwdUhuZTc1R1lVMFZzeU5xSzF1YndsenQxSTFnd043WmVpOXJhd2xhXzE1UlJ5UHZBdzdWWlNTaHBzUS1qSDBGSVZDbVFQS0s3MWlVa3ZaX1pLek9taklSZEh5N0JjY3JQNjJWaTI3VTA?oc=5",
+      "source": "미주조선일보",
+      "time": "13시간 전",
+      "timestamp": 1790061358.0
+    },
+    {
+      "title": "[뉴욕증시 4일] 반도체 매도에 혼조마감",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcU9IZUZ5cnJ2RkhXTzIzNlJlMVE3aTN0TDFXSGJUWlRwTHZ3aU42YjR3RTN4RVhvYmhONmxXdGlTZ01rUVhPYlRtMnU2MXlfYWNNbnM4dVNrd3ZveFFweFlXLWVNOEhwdFRGdXRhSkdGcTJHTWhXUDdwWFM3RTBmYVJJc294QzVRdUdFb280blFsVjFFb283UHNSWDM3WWlWMnJ3cnZickJpZGhw?oc=5",
+      "source": "미주조선일보",
+      "time": "13시간 전",
+      "timestamp": 1790061246.0
+    },
+    {
+      "title": "9월 22일 금 가격: 미국 달러 강세로 세계 금 가격이 하락했고, 국내 금 가격도 떨어졌습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmhvQncwd295anZnT3lSSGQ1ZmZiTVNRX2F5U3UwdzhlZENxcG1hS1ZoNFBKcWpPMEVjaHRQbDJiaXRzREdmWDE5ZDd1UHpTQUNnWkRLM0FRWGo1WnoxTlY1SjN6UmtjSi05VnItVkg3OVJvdm53LVQwbkwwZkxWbEVVTTMybDRFcTFrckNMRlNaaHE3LThlMm1rSWZTX0FBYjdGTC1DZWNKZw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "13시간 전",
+      "timestamp": 1790060749.0
+    },
+    {
+      "title": "원·달러 환율, 위험선호 회복에 1350원대로 급락",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVSUVtaFdhLUc5TEhEblVTenJOWkhSMzdCNzdEeHhOT05FeGdfTXl5WWhIYWVtQXl2VndrTG5ISTBtQTJ1QWI1ZDh1eURZVTR6TnJrRHlNY3BIVDhtT3hGSXdsdlNpNUNF0gFsQVVfeXFMT1JLZjAzZlhzNUctV2trRjBxbDlwS0daV2xWdU9rZXRvajZWM1U2a0IwOTd6QkxYemluYmhtOXU4VFFzTjJhUzJpN2RMbl9LMkpSd3F0ZGg3UGQ0Y3J4WE0tM21Oek9DT2loV011?oc=5",
+      "source": "ziksir.com",
+      "time": "13시간 전",
+      "timestamp": 1790060490.0
+    },
+    {
+      "title": "[환율마감] 원·달러 22.8원 급락 ‘2개월보름만 최대낙폭’, 추석전 물량공세",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHNERMaXFmcTk4Nmd5SUNCdjRQUDFOcmdiWHhUaDM4dk1OLVpWVUV6ZkJTTVpEOFlRelZmNkM5RVRaeUFoRGhCcWlfNFJ6dUc1Yk5teA?oc=5",
+      "source": "이투데이",
+      "time": "13시간 전",
+      "timestamp": 1790060280.0
+    },
+    {
+      "title": "금감원 원자재 가격 변동 커져 '원자재 ETP 투자 주의'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Vdm9YWEgzUE9DOWxiSHJ0RmZjQ3cxc18zZmlhWTgtQnlkazBISktod3BUTElCTkdtT2xNZ2g0OEVmQ1FkdGFFS2R3TWpRNU4zYmxMOHYxWmtjU1ktTXMxZmJmSTdBOWFVNmlEOEV3?oc=5",
+      "source": "세이프머니",
+      "time": "13시간 전",
+      "timestamp": 1790059866.0
+    },
+    {
+      "title": "[EBN 데이터센터] 국제 금값 장중 약세...국내 금시세도 18만원대로 밀려",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBS05McmNnWVJqdHRUdERtTEJTWjVKc1o4VXNMcWozMkhMVXhXZFRnaHR4cTVHbVZaWkwtbEJIbUdNTkkzVGJVdVRkSnVKVVR5dUhvRTV0cnZDMk16aHNrcXFDY285Nnd0?oc=5",
+      "source": "ebn.co.kr",
+      "time": "13시간 전",
+      "timestamp": 1790059500.0
+    },
+    {
+      "title": "[뉴욕증시 27일]3대지수 동시 최고치 마감…올해 들어 처음",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0k0Rml0ZzRlRml5SU8wTndKVTlHb2htc2NWRmgtMGdHY3I2Y1pPclIyZlA5X1pQQWxjVVlBY2RDcTVaMnNpTFJ6Q2N6c2FFZHB2ZE0xaUVZbjBVWHc5UTg0d1Exd0lZTllidklsN0wzSVE0amdzNm02WDNqY25rWFB5ZHFWQjlKNVNBdm1xa21ydUdPaVc2RVh4QjF1X00?oc=5",
+      "source": "미주조선일보",
+      "time": "13시간 전",
+      "timestamp": 1790059307.0
+    },
+    {
+      "title": "[뉴욕증시 주간전망(11~15일)] 잭슨홀 미팅 재료인 물가지표 주목",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREFWZnloR09YSjhlcy1hWkIwTV84dExVY2VrWmlIZUp6eUI2Q3ljLVhVZGJ4MmlvT3VnTmlUWFo3cUgtd2hfbjA2Rk5YWWdmVV9JSERvYlNWRGVQUWlLNE0weklRUXAzSEZVYlJDTWpEZmNISlQ2SDhBZkZjNmtoV2YtbzVzbFBTalNwQmdKRWVhRFFtRTJpbWI1dEhWcVViN3JyaDNDTzFvV05QWVUwQ1hYRVRjelJwTGJEWGFnTmxNbDI1c1lkZTNUR1NFV19NUUMtVnBiVmtwVmk3OVE?oc=5",
+      "source": "미주조선일보",
+      "time": "13시간 전",
+      "timestamp": 1790058664.0
+    },
+    {
+      "title": "플레이가 멈춘 것처럼 보일 때, 파워볼 양방 상태 표시",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXJIU3V2MU1kUEdjVE55N2ZxUUlscV9QRUJYNXNhYnVkbF9XQjBqZVdKcTFCYjREemNWdG5WeTY5NThGT0Q4NV9oRlJpV0FkYVdmSFNEMTd5U2xTTmZmX0dNUFZjVFFQNThidDZhV25sRTZOQXdIbzVJQWlLVXV3eG5pc2RUQzE5SlJudGRZWFdUNHhRYURmVzBOZnhPWDNMVW0zX2pfdnFiUXpid0tWWDF4ZVN1M19hVlE?oc=5",
+      "source": "Calgary Roughnecks",
+      "time": "14시간 전",
+      "timestamp": 1790057535.0
+    },
+    {
+      "title": "[뉴욕증시 5일] 유가하락에 실적호조…S&P500·. 나스닥지수 또 최고치",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORzFVSUo5cnVEbFNUNmZJaUl3blRxc2EtM1U5UEJJRlBxcXExZElEWEtlSXlWVllOZVd0NnBHbDFSeFkwLVlVRWZ0NG9IMWNQRW0yYlZ4eE5wMFlISXpRWE5fMGR5RDFsclVqZTUyTGZsSmM3elZMa1BXdUJHZ0s0WEszamMzNDBVZGRMSlVGQURtY2YyMGZHNDMyTjh1U3Q3aTRHZzAySm52Zjlo?oc=5",
+      "source": "미주조선일보",
+      "time": "14시간 전",
+      "timestamp": 1790057036.0
+    },
+    {
+      "title": "[뉴욕증시 24일] 기술주 약세에 나스닥·S&P↓",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmRfVDJRQkZfYzBfZ3BSZWxCWkxsVUVCYkwyRkZaelJ1d3VaRW1oeUk4NFVGT1lUbHkyWHFxUjJfVkdfQVJCMU1GODY0R3BCaHdRNlU4MUVIR1pCNVFlVzdtNldVckhFOGtuNU5kSmhpRy0yclZqbjZOdkpVUG1CYmRoZm0zWFBuUU9ha29RVGRac3l3clU1UWdKUmJIMWJfVHAxaDU5ODVoSl82NVVWZTBLWmhPcE1NcDFHNlRlMVZtZXFQWG9vcHR3?oc=5",
+      "source": "미주조선일보",
+      "time": "14시간 전",
+      "timestamp": 1790056954.0
+    },
+    {
+      "title": "[뉴욕증시 24일] 기술주 약세에 나스닥·S&P↓",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSFdIZ0RJWUI0Ql94RThFQjdWZmhFRzBMSlc4d3hGT0hoSm1KRmNQU3BpbF83ZHBxZzRMeFU2SEJyVHhEUVlyUzA0SU5XUmtkYmdfY0k3eTE2TklUcS0tZk8yMXZ3U0xlY2dCNGE0MG5NY1dyS01qSWdlanNCaGsyUFRVT1Y3dkdjQWpSTng3REpNdjkxN19VV2dVZ2JwLVE1enNfRmlYbHpvenhoTDh1Wkd4TnRHTWhJdHIzVWoyN2NsUk5hN0FVMnhKeWE4cWlTWmw5RmZn?oc=5",
+      "source": "미주조선일보",
+      "time": "14시간 전",
+      "timestamp": 1790056606.0
+    },
+    {
+      "title": "[뉴욕증시 7일] 금리인하 정책 차질 전망에 주가지수 급락",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUJibDVLdVhaTnptamZLd25hU2tTaEZtQ0V1UHFhNlljd04yTTE0UlhLS051THdaeTE5ZjRKazBuclduZ2swb0NkbUw0c0FnNzdqMzBZbzFmMUpXY1lpb1dJcnFEclVKS2FKX2FYM0ZXQ1ZfdUtHLTU5ODVkdHFHQV9nVU0xbWZwYmlHdEtBcndQT25Nb1F0eUNqVzdYNFdsWWRkQWpFcktZMWE0?oc=5",
+      "source": "미주조선일보",
+      "time": "14시간 전",
+      "timestamp": 1790055861.0
+    },
+    {
+      "title": "[뉴욕증시 14일] 국채금리·유가 상승에 AI 속도조절론까지 악재만…",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzQUdPNlJQcjdFbmNHc3FGVWNiblRjM2ZSX3NIaDRfWFhocFBCYU1Hbjc4Sy1xdlVMZ1ZsMy00SlVlYmx5clpIV3dLSms5aUhMeUxqeVdER2l5Q3MwMHFrbHZGbE1QNlFEc1Z3N0hFTWxHaWNtVzVkVzlYRUQxdmc?oc=5",
+      "source": "미주조선일보",
+      "time": "14시간 전",
+      "timestamp": 1790055834.0
+    },
+    {
+      "title": "오늘 금시세(금값) 폭락... 금가격이 지정학 리스크에도 추락한 이유는",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrQkdOZWI0ZldwYk9pc05ha1ZtbHFKRnpOZ0p5SThRS01QMXllWVNCWUNQaGlicDJ5YTVrQVB4UndWODF0cWpaQWxIVjJKVW5hRWc5NDlB?oc=5",
+      "source": "wikitree.co.kr",
+      "time": "15시간 전",
+      "timestamp": 1790054640.0
+    },
+    {
+      "title": "[뉴욕증시 6일] 공포심리 완화 속 아쉬운 반등",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV054LVFVcEJobzMwa05nQno2OEJrZm5kTlZPVW44VDZDODk3c1JldFFzdUdlUncwTl9KaExlS2FBdjVKZG1oOFo4d29DalpCYjFWVlFaU0ZJaHpWbnpmal8tcW1WWF9jWEItdklvQjM3a3RLVkJpMDd3RGcwOTNnRzRwS1NCbXAwVWZjSGtMbDQzcnkzZkl3NUZTS25CeGpFVFpuc0RoUjdyczlrVTVnbXUzUTVnLVEyT1E?oc=5",
+      "source": "미주조선일보",
+      "time": "15시간 전",
+      "timestamp": 1790053774.0
+    },
+    {
+      "title": "오늘(9월 22일) 미국 달러 환율: 미국 달러 암시장은 장기간 잠잠한 상태를 유지하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzRYZ05ORWtQcm15aFQ0NzltM2RHUVczYnJldV9RakhSNVFDd1hmZS11MXBQeVNGMWlrdXQ3ZnNQY1dnZGI0NnR3SVdGQmdWS2txYzl2eUROb0wyVHFzYllZNzNueERjbGw0V2NlejJSa3Z6YVk1eTNsWC0xZDlMTTJJOVA0YkNRa3I3LTI2WGtneFE?oc=5",
+      "source": "Vietnam.vn",
+      "time": "16시간 전",
+      "timestamp": 1790050494.0
+    },
+    {
+      "title": "미국·이란 전쟁에 들썩이는 원자재 가격… 변동성에 베팅한 ETF 투자자들",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ubURBSkMxdy1uWTJhVmVnd3ZSbGdyMnp2R0hZbHRJZjBTU1E1eHZPSlBETDZjSVF0RmNMR1hQWm13alczSmZZQTdQUmZhdXl2QjRfR1p6X2tfVmlRUEZMLVo1Q2taTFMwNUZpQ1BYM3lCMEHSAXNBVV95cUxPbm1EQUpDMXctblkyYVZlZ3d2UmxncjJ6dkdIWWx0SWYwU1NRNXh2T0pQREw2Y0lRdEZjTEdYUFptd2pXM0pmWUE3UFJmYXV5dkI0X0dael9rX1ZpUVBGTC1aNUNrWkxTMDVGaUNQWDN5QjBB?oc=5",
+      "source": "한국일보",
+      "time": "16시간 전",
+      "timestamp": 1790050440.0
+    },
+    {
+      "title": "국제 금 가격 회복세 둔화, 시장 새로운 버팀목 모색",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0x5VG1TejY5YXNkaXdOSUJuV0xnZEtHWXlFbzYtVERxMjQ0a2htYnNldDFlbmd2Tk5EcVMtWkY1QWFwLUJNRnpYdzkxVUF4QVZic0JvWWJBWEZUQXlYc3FzQjI0YnhhVDZOcThvVkRiNGhNVDIzck5yOEl6Rm1ZdUl4SjBpZ0JOWlN4bHN3NGlNaDdOWUhFTGVldjF5RDdHYm1wN0ZySDZjN0paMGdv?oc=5",
+      "source": "Laodong.vn",
+      "time": "16시간 전",
+      "timestamp": 1790050241.0
+    },
+    {
+      "title": "WGC, 조정 후 중요한 금 가격 수준 지적",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXFfbEE5N1dsNy02Y1JrbUZaODF6bVFRcnhJWFdKdmxfM0JzeWtvdHViN091TmJIRnpuSXJaRGs2MmRPUkw2dmhQZzM3RUd5bWJtaHMtUzRSUjNIcU1rSG5lcW9NbFJ2SnJTRlpoY2RTWHl2eFRCaFdWZDUzdWoteWl6U3I4bV9fQzNCNEg3N1JEQ3doc2NiZXFkWm9ST1dqVUkwVGZn?oc=5",
+      "source": "Laodong.vn",
+      "time": "16시간 전",
+      "timestamp": 1790049212.0
+    },
+    {
+      "title": "금·원유 변동성 확대에 ETP 괴리율 '경고등'…금감원, 투자유의 당부",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QWGd3ZnVXVmlZRkp1QjZCQll6Rk9keEpXVEpreXpEbDJmVjh1b0xBS0pBOF84OEl3UDNjVlFkb3Q5OHdheGNRZGR5cmdUTktxVUpzQWZJT1lFMWpVbWk1NHg5aDk1NjMzVG16R3UzTHRadU3SAXNBVV95cUxOUFhnd2Z1V1ZpWUZKdUI2QkJZekZPZHhKV1RKa3l6RGwyZlY4dW9MQUtKQThfODhJd1AzY1ZRZG90OTh3YXhjUWRkeXJnVE5LcVVKc0FmSU9ZRTFqVW1pNTR4OWg5NTYzM1Rtekd1M0x0WnVN?oc=5",
+      "source": "뉴스웍스",
+      "time": "17시간 전",
+      "timestamp": 1790047086.0
+    },
+    {
+      "title": "세계 금값이 하락했다.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZnE2U2h5NzZDYWpNLWpncVhTcF93WXVlUWRjR3lDZGVIMDF2RjRGTVVVbV9SbjhJQTZpZTg0M1VackwwWEJJczRIXzFFeDZkQ2ZLUk8zZkw0cU9S?oc=5",
+      "source": "Vietnam.vn",
+      "time": "17시간 전",
+      "timestamp": 1790046621.0
+    },
+    {
+      "title": "호르무즈 봉쇄에 치솟는 국제유가…배럴당 90달러 돌파",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3NIdUcwd0hDVGhXUW9oaUV0emhhb0p4ZG9Qdzl1TmlNLV9XZDJnd3J2WTdsUGlvTzl2OXVMYUhIN3laZFVaRXNMZmUwdTROSkRTWHNSSzZrd1RaMks0cFpOSXJHSzFyOXFnRks3bWRfekNnaUsxZEFReDZIOFBmc1ZxODRqVE5xbTZYOHA0TWJhNGRDcDlibzNJZGdjSVIwQzJBZw?oc=5",
+      "source": "미주조선일보",
+      "time": "17시간 전",
+      "timestamp": 1790046515.0
+    },
+    {
+      "title": "유가 출렁이는데 원유 ETP 88% 레버리지·인버스…금감원 “투자 주의해야” - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRy1oaGJ3MngxcDBwbUFCV0FONGRRYl9iUVpTUDZTSk9uWE9TdWstT0w1MFVGX184d2xTQXZPdC1XSGhyRkh0c3pMSEpTNzJxeEJhYV9HUGF6ZEJOVWF5cmJ6QWgxX21UNzlKLW5sNU1jYm1BTzVSUE5CSENHWWJ2c1loZHVxdnVf0gGcAUFVX3lxTFBOdmdpREFjTG1hMlhYN3VqWTNZN1NGY3pCa0FzMUV6SXNfclJaZE1oQjR5Ul84emp4dzl0dTNHck5xNTFjV2trT29xel9pXzBWRHB1VktmYjNtWF9kY1Eza0U3Qk9YRDRkQUZYRldPQkxFSzRMWVZGTHNrLVlKYzhUYWMxVVRuRTlvY2VJa2pGZENiMGRqd2VLaXllcA?oc=5",
+      "source": "Chosunbiz",
+      "time": "17시간 전",
+      "timestamp": 1790046288.0
+    },
+    {
+      "title": "원유 두 배 뛰더니 40% 폭락…원자재 ETP ‘손실 경보’",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pQzdtai1mbDBKOTRCUWtBTlNubjVxM1NoNEdlTE5JaUI0WlN2ek5qRGgyXzRfU3c2QXhTXzc5dG9RMGdCeFBVZG9aR1hzMkVQWTFBY1hYZnVQRjFfclRB?oc=5",
+      "source": "조세일보",
+      "time": "17시간 전",
+      "timestamp": 1790046202.0
+    },
+    {
+      "title": "중동 불안에 원자재 ETP도 롤러코스터…금감원, ‘투자 주의보’ 발령",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTA2UmxkTmdYMDNMVFM1OVV5VHljRGdsNk1DSGprUlV2dzUwNlhPT2JPZ2FiTDY2R0t2OHZZSF9maGhGMUlnaXByWGxFcC1PVG0wbFZXd2o5SmZxX1lveWhKck96Q1dZWjNBY1IxaTduclJQYVVVUFJtV0FsQmMybA?oc=5",
+      "source": "edaily.co.kr",
+      "time": "17시간 전",
+      "timestamp": 1790046007.0
+    }
+  ],
+  "total_count": 50
 }
