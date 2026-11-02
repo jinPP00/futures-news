@@ -1,356 +1,356 @@
 {
-  "updated_at": "2026-11-02T15:07:18.548037+09:00",
-  "update_time_kr": "2026-11-02 15:07",
+  "updated_at": "2026-11-03T00:57:18.834506+09:00",
+  "update_time_kr": "2026-11-03 00:57",
   "all_news": [
     {
-      "title": "美 '인텔 쇼크'발 '검은 월요일' 없었다…코스피, 급락 출발 뒤 반등",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BeGZ0eEg1bU9ISDdBSjY0SkdZbTJ6NEpNYXNwZExrVVlqeXNTcldMN1BBVUlDVVZOREJQZHMtQzVQY1dnTGZhcXR1STNIWldPZkh0c1dzNVdNR21DWUNXd2RSRUMzQkpDa1E?oc=5",
-      "source": "금융소비자뉴스",
-      "time": "14분 전",
-      "timestamp": 1793598756.0
+      "title": "美나스닥 반등·유가 6% 급락…코스피 2.24% 상승에도 외국인 '삼전닉스' 수급 엇갈려",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04QnNvRGhiczQwM0NYLVpHVXJJaHA3clVnNG9qWVhhXzJ3UWp5dFZ0Z1pEOUc4VzRXR1VTWlpVZ1BTZGI4MUZFbmRTby1qUTY1akw1OUxiS2VaUlhYU3ZiQmpUY2pqaEhz?oc=5",
+      "source": "녹색경제신문",
+      "time": "53분 전",
+      "timestamp": 1793631815.0
+    },
+    {
+      "title": "[11.3(화) 미장 0시] - 유가 급락·금리 하락에 소재·소비 순환매 부각",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qVkRILXF4SXNYS0hReEdLeTRsR1NmanFZeGlSQlZpY05jcDdPMkRsRWREOHZGa1NnUHJlbHl4aUR2NkREQmU2M3pubjlOMndoM1VBbml0MWNZRkNWQTNIb2UzTEFKUVp1aWd1c1NfS0Z1YWk2M1E?oc=5",
+      "source": "주달",
+      "time": "56분 전",
+      "timestamp": 1793631652.0
+    },
+    {
+      "title": "\"이란 최고지도자, 정부 협상 승인\"…비트코인 7만8000달러 회복",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rN0VqREdKampfZ2RHWGdYWjBXeUZHWG5CQmFvZDZBcjZvWGpvbTFvRlB3bEwwY2hqelFnMHYybW0yU3dpOVNuQmdkb2M2OHRY?oc=5",
+      "source": "블루밍비트",
+      "time": "2시간 전",
+      "timestamp": 1793627332.0
+    },
+    {
+      "title": "다우존스, 나스닥, S&P 500 주간 전망: 미국 중간선거와 실적 발표가 시장 시험대",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtREIwQUV6N1VsT0tBeW54S2o1ajg0SzdoaGNzY05vQ3NZMHpIczN6N3pld0lsb29lY0dZZENUMEUwZ3JVM3BJR1hWZjhWRXFFQnN5UjBJUUk0Z2s2YkhBSzBVUU9aa3VYUFhTNm02V28?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "2시간 전",
+      "timestamp": 1793627100.0
+    },
+    {
+      "title": "뉴욕증시 프리뷰, 주가 선물 상승...AI 기술주 반등·유가 급락에 투자심리 회복",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GWlI4NXQ3TVBWZjJ2MlJWNV9JbDRBR0lLVENkdzJsUGpRNnlqaWVUclN1Z09BMzhDcWd0NlpGQzlsRDNGR1d3djgtbUNpd0dEeTdXb2NHeVc4Tk9M?oc=5",
+      "source": "뉴스핌",
+      "time": "2시간 전",
+      "timestamp": 1793625120.0
+    },
+    {
+      "title": "원유 가격 하락이 금 시장 회복에 동력을 제공하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGdRVGUzR0V5VGVQVHFSZWRJbjFrTkkwS09XZ3U5NFp0enN0X0d0a2xTQjRhTWhsRXpxTzJZYlpOVWRVQ1p6b0NNWmxCN0Z3NDl0amUyYmI3X3JQeVdxYjRLd0V4UmJPUHhDWXlhcGI1Z29WMGhnYU9FVGFNQ2F1dW14THp4Q3N1UVNZZkExVms?oc=5",
+      "source": "Vietnam.vn",
+      "time": "3시간 전",
+      "timestamp": 1793620863.0
+    },
+    {
+      "title": "미국 뉴욕증시 전망, 나스닥 선물 0.8% 상승…AI 기술주 반등·국제유가 급락에 주목",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNdWc1Ul9Hd0RGaERrZG9rTC1mUFBsOFVRWGF5MXJiV3N3VXJRYW1UcGcwczQwM2Y4NGhjVEhFQW9WQWo4WHRmbUU4bVpLdGI2UThzMHFHOVp2VTBncksycWlGMm9Wd2U5SlhZVXhLLWNQdw?oc=5",
+      "source": "톱스타뉴스",
+      "time": "4시간 전",
+      "timestamp": 1793620087.0
+    },
+    {
+      "title": "“미국 주식 겁나서 못하겠어요”…서학개미 돈 7조, 국장 아닌 美국채로",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02eGFXQ2NVeGFvbE1BR3lLYnBycWpzRXFBV3JuWGFmclpXaFBCQzEwZUVVZlBVSG0yYkhuaXhmajg0R0l0SWZBMjNfZ0R4bTBHSGc?oc=5",
+      "source": "매일경제",
+      "time": "4시간 전",
+      "timestamp": 1793619307.0
+    },
+    {
+      "title": "11월 2일 금 가격: 급락 후 세계 금 가격이 반등했으며, SJC 금 가격은 크게 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkZSQjdnN3UxckNrVHdFSExqS3NQYnRrd01kUW4yZm5XdEl2aENKdnlQVnNRS2V3d0VKVFN2aFd5NmE1cDlrWk5Ka0Y3NnZkbk1SU2RsaF9sVTlVTGlEcFdmekJ1T05jSHNjc1dxczl6QU1BZExiaXFxUUxvQ3NVQ3FuVmpDVXZjVmpyZlhFOVlhc0Qxd2ZXb3l4eHJhZS1FUmh5d0h3QzQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "5시간 전",
+      "timestamp": 1793616995.0
+    },
+    {
+      "title": "해외 거래소 미국주식 무기한 선물 수익에 내년부터 11% 과세 방침",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oSkxyakVBX2E4akwtSTR5YW1FWHh6OVBsdVQyMmFFM3kyaUU1cnhCUW5NR09BdmJYdW9venBUeXFSS3h5SmszZ0pTeTg?oc=5",
+      "source": "이코노미블록",
+      "time": "5시간 전",
+      "timestamp": 1793616840.0
+    },
+    {
+      "title": "원·달러 환율 1,340원대 급등…외국인 자금 이탈에 원화 약세",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkT1ljZDNPS0pCUWF2bHp2cFJjR2Zjb0V6U1ZqX0dGM3R4RV9YY1lyVlRhV1lubEVoZk85VFMtRkpWYlQ1aTVSTUw1RnN5Zk45MUhud1E0YWZ4VjNEVHZ4NC1sMkFTaFhfWWlkY3B0V09pbFBC0gF0QVVfeXFMUGRPWWNkM09LSkJRYXZsenZwUmNHZmNvRXpTVmpfR0YzdHhFX1hjWXJWVGFXWW5sRWhmTzlUUy1GSlZiVDVpNVJNTDVGc3lmTjkxSG53UTRhZnhWM0RUdng0LWwyQVNoWF9ZaWRjcHRXT2lsUEI?oc=5",
+      "source": "산경투데이",
+      "time": "5시간 전",
+      "timestamp": 1793614550.0
+    },
+    {
+      "title": "원·달러 환율 9.5원 급등, 1343.8원 마감…코스피 반등에도 원화 약세",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CMlYwYjREczhjV3gwMXlvaDNHMmh4c00tekxremYtckZEWDRtRnBucVNTVUVOZ2w4WW1SOUJkc29heGV6dHVya0p5MmhKZTBVZ2tEWVVfbDJqVXFyaVprcFQzVlc?oc=5",
+      "source": "베타뉴스",
+      "time": "6시간 전",
+      "timestamp": 1793611678.0
+    },
+    {
+      "title": "금 가격 반전 상승, 회복 전망 여전히 예측 불가",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamxvLXFPc3FndHhZeEp1SVFxMUdwWm52c2pqQ24ybmFKSUpsdmFkaERwQnFYdjVPQUJjSXVkZEx3Yy1MN3ZzLVlWZnpoc0FNa0tkNnRKWld1bDROSXl2clVoSWhrMk94YldaTmhpZUg0ODQzNTV5SUV5eWJCb2dRdV80dENienpNZlNjaENRb1FmWGs0S0U4NHpwNXFISDJoWVE4TG0xa2I?oc=5",
+      "source": "Laodong.vn",
+      "time": "7시간 전",
+      "timestamp": 1793609128.0
+    },
+    {
+      "title": "불안한 증시에 안전자산 꽂힌 서학개미…美국채 '폭풍 쇼핑'",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDU3k4ekZ6bnFyVzVnNGJtWU9aQ3U4TXpPYTdXTUxIY19waWpoSzVvbkJ5OVN0emJJcEd0Sld3QXpvUDEycmc5VGFzSjhIc1k4Unc?oc=5",
+      "source": "매일경제 마켓",
+      "time": "7시간 전",
+      "timestamp": 1793608703.0
+    },
+    {
+      "title": "“이제 바닥 찍었나?”…삼전닉스 급반등에도 안심 못하는 이유 [머니+]",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3YVlBS1VqM0VvLVJXLUptaEFpOGZhU2pTVWx6VW52cUZnRWN5NHZVeU5wUHV0dFZHU0dnVDh4YWxTaUZpN193UW9aNHRPNWdmT1hsUnI4MWdrUUs0NjZZUmM4RQ?oc=5",
+      "source": "에너지경제신문",
+      "time": "8시간 전",
+      "timestamp": 1793605502.0
+    },
+    {
+      "title": "오늘(11월 2일) 국내 금 시세: SJC 금 선물 가격이 회복세를 보이며 온스당 100만 VND 상승했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGdBVG5ZR3pNVnZIY1lpNkpYaUhoY3ltQUhBcUFIOW02dkFOVm1EU0oydklHcDVfS21xNzZJaktWdXZWcW5BcDZKeHR2TU1Jc3NoalRYWWprX2w0c2UzOW1mVTd5dDlUM29KTXNkX3U4NmM2Sjg4cExEWWg1Q29KOGRGVThXcWZRMHdhU2lXZWJUd1RpY0VqVFhLOENRREVKMDhF?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1793601973.0
+    },
+    {
+      "title": "은과 밀 가격이 급락하면서 MXV 지수는 두 달여 만에 최저 수준으로 떨어졌다.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczI5SW5MamlFZlBNdGh1Q2hnVTFRR3c1ejhWWTd0cXBoaVFnX3dXUnZBN3lrRmZsTlFGem1MdmJ5WUwwVVpYeUs3UFcxSmcxWHVjV2hORzc0VUR3a2dzS0ItcVdMUS1EQXNtd0RlMXphWFVLRUZudFNwRXJaOG5od2s2cDZITDUwZjZKeg?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1793601564.0
+    },
+    {
+      "title": "유가가 1% 이상 하락했고, OPEC+는 12월 생산 할당량을 유지했다.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1FvdW8wNGRSMmZ3ODJjNEtjNlpmRFFxdWtyM0dCZWgxTDZGMmd3S1kzYklIOFpQS2Z2UW4zTlBZVjNrSXBRemE1UHNUeW1CcUwyREpWZERDSjRqQ29CZXR5RWtIYWc5azZ6SWhJSDBlYjlQQTBRbGtyZGd4VWJGSVBrUWZ6Q1QtN3Q4V1FUNF9kbTQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1793600826.0
+    },
+    {
+      "title": "MXV 지수가 2개월 만에 최저치를 기록하며 시장이 급락세로 돌아섰습니다.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rTVo4QVZXUXFIYUcxT1BjR2tfWS1VQ01McFlmVDhLV2RWVGZuQjFrU1RLRl85RExlQXJfTEdFclRaMmx3TDc3RUx5T2RqLTkwZ2tYeVZMU2IwRDlXZ2d1RXcwaUlGbFljNjEwMlZuUm5QeHM3bWJTWklpcw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "9시간 전",
+      "timestamp": 1793600558.0
     },
     {
       "title": "금 가격, 급락세 이후 회복, 4,000달러 선이 시험대가 되다",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEZ3Vk1UcEN2VXdjUUI1aDBlZGxCRkRDdHFfZ2QyMkI0a3dNUTU1clVVTWlKWTZqRU9HSGxQR2xZZjJFRmJGQ2tuTXFSMXZBMUFjWGwyOV9BbFNWVFM4WElORHRyaE5yVURZZUYwaENwSy1ORXBMajRpaEtKbnRyTmV3YjRCeklMRTduM3phQ29sLUtrUndDMnZsRllEWUVoUFFhbTM4Mmp4NGsta0wxMEY0cVc?oc=5",
       "source": "Laodong.vn",
-      "time": "17분 전",
+      "time": "10시간 전",
       "timestamp": 1793598586.0
     },
     {
       "title": "오늘 금시세(금값) 급락세인데... 사설 금가격은 폭등한 이유",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qd3hlazVJVjRvc05HQk1MNE5NaWFGTFN2elRWaTJaQ05SdWl3Z1BfUVVqVWhTVERIN185OU1UM3kwMWVzYTM4OENhckxUUklRX21MelFR?oc=5",
       "source": "위키트리",
-      "time": "34분 전",
+      "time": "10시간 전",
       "timestamp": 1793597580.0
-    },
-    {
-      "title": "[환율 전망] 위험회피의 물결을 거꾸로 거슬러 오르는 원화",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YRUJ3T1JwdGp0VHdSQ3ltU2YzWF9VTTBCT1hIQXpNZlh4QzJIMnA3bEp4VThSYnlxeFVRaFhFQThQb3VucmN3UDhFZi0wMU1VcXZoeVZ6Z01DTDhjZ2JrUQ?oc=5",
-      "source": "KB Think",
-      "time": "36분 전",
-      "timestamp": 1793597453.0
-    },
-    {
-      "title": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pNHJheUFxZTdibXEzcHQxN2tlUTllNTZGTDdiUGMtTUxzY3F1bkdqSGJ0bXFxZFVuSFJRd0FCUmFWMFNCMUR5NzFpbFREekJFM3c?oc=5",
-      "source": "네이버페이 머니스토리",
-      "time": "52분 전",
-      "timestamp": 1793596499.0
     },
     {
       "title": "유가가 하락세로 돌아서면서 공급 압박이 일시적으로 완화되었습니다.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjFZdlkyVlVlYm5zMFVUd2wyZXlrWWUxMmc3RmN6ZExNQTY0RHZpWDYyZDUteWxzU2pHTVpLT2g2NjhEcjdVSlV1MzFfSzN4SUxWVldieEx3eDB1UDJmaWRHeXpoSXlodUxnZTRwSzhGNkgyVnVQLVVzazliVzFfLVdhOW4?oc=5",
       "source": "Vietnam.vn",
-      "time": "1시간 전",
+      "time": "11시간 전",
       "timestamp": 1793594013.0
-    },
-    {
-      "title": "하나은행 ‘하나원큐’서 골드바 구매·선물하기 서비스 출시",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LVFNTcklfR0VybWNOSk12TnliaXRQRHpmd2FHcVVZTmJxTmMxTEtUeFFRQXFOUHFzak5ZWkNWbzNxQURpWGV2UEhSMFBrQXo3VGl3UkZjQXhiTXJZSGNQRlZiMFhGMWt4M1E?oc=5",
-      "source": "뉴스티앤티",
-      "time": "1시간 전",
-      "timestamp": 1793593650.0
     },
     {
       "title": "\"골드바도 카톡 선물처럼?\" 하나은행, 모바일 금 선물 서비스 선보여",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RTY4RE1Vc3lRNjMtRUFRS1B4MVpKdGVJZVVWUDB4cFhVbTJ0alpuZ2IwRGRlUHo0Nk00cktEWkQxZW9iZjVhTkFNQ21aMWxhS2ZEcHBqNklWUWh1eW1Dbi1vWW5MazA?oc=5",
       "source": "지이코노미",
-      "time": "1시간 전",
+      "time": "11시간 전",
       "timestamp": 1793593099.0
-    },
-    {
-      "title": "하나은행, 하나원큐서 골드바 구매·선물 서비스…영업점 방문 한 번으로 실물 수령",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PM1NnNEJxNVRCNzZqUmdYcC1QZWh2bV81VlR0Qy12SXJsN0lRemNiMmQ0R25ZOXM3LVcwbHZLWC1NOEFxUkIybmw3aGVZYzUzZlFjdFk0Tm5pdlV5azg1NEx6SUR4NjdmVnZQZQ?oc=5",
-      "source": "나눔경제뉴스",
-      "time": "2시간 전",
-      "timestamp": 1793592104.0
-    },
-    {
-      "title": "[오전 시황] 샘표·피앤에스로보틱스 상한가…조선주 7%대↑",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xbGxiUFVuekxDdW14X09oVHNrbWdZb3oyeXVxNl90WWRmODV6WERHMWIxVXZrbGtJY0tQS2NORGE4Q0w0cFMtWmFvRlZBXzRvQnhSd3Ztd3lzUEVUaDlzdXA1WklFaVhfaXc?oc=5",
-      "source": "중기이코노미",
-      "time": "2시간 전",
-      "timestamp": 1793589703.0
     },
     {
       "title": "금 선물 5주간 195억달러(약 26조원) 매도…'기타'·비보고 95%",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xS0N6WU1UM0lVRGlZdWZ2TnluN0tQRWdBeGhlZE1qWVRpZXBiRjkweXhyN2dPeHU3SjNHY1hXa01aV1RFa1gya2V6cHVJMmFHVm1YaG04ZG10VTNH0gFcQVVfeXFMTjFLQ3pZTVQzSVVEaVl1ZnZOeW43S1BFZ0F4aGVkTWpZVGllcGJGOTB5eHI3Z094dTdKM0djWFdrTVpXVEVrWDJrZXpwdUkyYUdWbVhobThkbXRVM0c?oc=5",
       "source": "토큰포스트",
-      "time": "2시간 전",
+      "time": "12시간 전",
       "timestamp": 1793589250.0
     },
     {
       "title": "브렌트 원유(UKOIL) 종목이 11월2일에 급락했습니다. 주의깊게 지켜봐야 할 핵심 요인을 살펴보세요",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUswa0tab19GRnFGSTBOS1I1eEdQNzV0am9IMTlIWGFFNTRCSVQ2ZkJwb25aeTY1YW5hNWw5SFJRVGJKMVVnRFJtMHdWMDRkUmR3bUtCZXB6UFJmVjZpNko1V3FVdUlieWNDel9naVBkMmdRU2d6cnN4ODlZZkxKNVo4VjQ1VHVBRmpYcjVMM0o?oc=5",
       "source": "TradingKey",
-      "time": "3시간 전",
+      "time": "12시간 전",
       "timestamp": 1793588465.0
     },
     {
       "title": "오늘(11월 2일) 미국 달러 환율: 시중 은행의 미국 달러 환율이 소폭 상승세를 보이고 있습니다. 미국 달러에 투자해야 할까요?",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV25xa25UVXhoc3hkZUZzR3F1dm52WVZiaVRHQWJBQWlTWVpwV3VNUE03SThDbWkxbGVoc1lYY3pibUxYVS1DM1oxd1VyX3BKcmJBYXZ5NmdBNDVZM0RfQUE2LUFtamk5NXBJOFRMbGNDUWtXdUZ0UkJvbmtsNWt6eE9SVlN2UWlqeHNtdjNZRUN1Q3VKR0puWFJQbFl1TnR1LXpPQ3FfTm40RjZtSU5Gd0NqcktjS0FpRWR5Tm9JNFdheEE?oc=5",
       "source": "Vietnam.vn",
-      "time": "3시간 전",
+      "time": "13시간 전",
       "timestamp": 1793587837.0
-    },
-    {
-      "title": "美 기술주 급락에 코스피 부담…AI 투자 우려에 5700 사수전 예상 By EBN",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUjh2MERrWjB4NDN0WDJ2Zl9MMnJKXzd0THZBUGIzSWVMbzUzWGhRRFB5THlLMUptak1ON2hVMkI4TkpsTWZIMV81cG9CczJGX2hPXzZXOXV1amV3MDVBSU01VVhYa0haOFFjN1dHRGk?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "3시간 전",
-      "timestamp": 1793587200.0
     },
     {
       "title": "S&P500 선물, 기술주 매도세 후 반등…美 국채금리↑ |",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sbTNsSVEyZWhVYXlWTHJfbEVTcG9wX0pES1FBTmFTNmtxR3laQ1ZmRjRta1JaQlVCSV82Ykg3TmlkTFExc3hDOWFLSEd1VnBvSGd5N3RQeUtqaWxPYm1kblBtSjlKaHhDbmFaQm9MNVpTYjNL?oc=5",
       "source": "연합인포맥스",
-      "time": "3시간 전",
+      "time": "13시간 전",
       "timestamp": 1793586983.0
-    },
-    {
-      "title": "[온체인 주식선물] 현대차, 정규장 종가보다 0.71% 웃돈",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYWHFpU29sQzY0RUZCS1RVREh6SkFJZEFLOVExR0l5QmlMMTdTa2VIQ3laZmlFRzBJZ2FoNXRBV1dERmFLbm1fMUxyMW5aVjBfT0FGakhGdk95SnFvNEHSAV5BVV95cUxQWFhxaVNvbEM2NEVGQktUVURIekpBSWRBSzlRMUdJeUJpTDE3U2tlSEN5WmZpRUcwSWdhaDV0QVdXREZhS25tXzFMcjFuWlYwX09BRmpIRnZPeUpxbzRB?oc=5",
-      "source": "토큰포스트",
-      "time": "3시간 전",
-      "timestamp": 1793586801.0
-    },
-    {
-      "title": "40년 월가 베테랑도 ‘절레절레’… “이렇게 많은 변동성 한번에 닥친 건 처음”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hYWlMbkJTaWRETFhieUZBNXRFcmFkVEp2LVBpRE5fTi1iaFBoNXJqb0xDOG5HRmdpOGx3ZnBPd2I3QmRQQUItUHd6bkdzOTZFcG9HQWRmdUU?oc=5",
-      "source": "블록미디어",
-      "time": "3시간 전",
-      "timestamp": 1793586636.0
     },
     {
       "title": "\"금 한 돈도 앱으로 구매\"...하나은행, 골드바 구매·선물 서비스",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsUGpuajFIbnh1ZGo2NDE2WDA0YXNyMTZRRS1xdUlHUmxjM2RGeGNSZS1uNzFqWkxFZWJMa2JlclUydnZIV2R1aFE1dkx3MzZkMWJCbDdLd2dzdw?oc=5",
       "source": "파이낸셜뉴스",
-      "time": "3시간 전",
+      "time": "13시간 전",
       "timestamp": 1793586107.0
-    },
-    {
-      "title": "하나은행 모바일앱에서 골드바 구매·선물하기 서비스 제공",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rRjJweVV0RDhmcHhPVW11US1GdkMyWHJLeldUNWRVQXNneXVxX1lrcnFoZFFNeVlNX2N6SW9SZ1BDYmVrZnZocng3MEpYRjJxVmdiWk9R?oc=5",
-      "source": "헤럴드경제",
-      "time": "4시간 전",
-      "timestamp": 1793584338.0
     },
     {
       "title": "[뉴욕 주간 프리뷰] AI 의구심 커진 美 증시…중간선거·실적·고용 '슈퍼위크'",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rU2NEb2ZkZ2Q2amNhZWFLRzduNERWVEtqckM4aG1EYmxHWWFBaUNLWWI4UXF4WXNraHdJZWFwN21MSDFoQjNzbE5CZlQtNGM0X3lxQjZKSkhVblZa?oc=5",
       "source": "뉴스핌",
-      "time": "4시간 전",
+      "time": "14시간 전",
       "timestamp": 1793584020.0
-    },
-    {
-      "title": "하나은행, 모바일 앱서 골드바 구매·선물 서비스 시행",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PWEVwenRmU1NTeUgzc2tuWjduS016ay02V0ZoR2I0RERCd0U1ME1MZmp1ekdjcjB1blBZd05MWWNfcnlVdUx0aThQTEFIOHBxQXJWNnYtNnoxX2Q1VFNPaWRiM1JsSE10Njk2VHZZUQ?oc=5",
-      "source": "뉴스퀘스트",
-      "time": "4시간 전",
-      "timestamp": 1793583823.0
     },
     {
       "title": "원달러 환율 1330원대 상승…국제유가는 하락",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYkFRLU0xSzk5RVppTnNnaVIxNGVlQmZHOEc5d0lKb0RJaWJtT2F3ZDBSdTN2SVlJRWZQMUVQcnRmU2hWaWRuWGVHLUZFbGV2bGpFWi00RjRfQ3UyLTRaRk9pNzhpa2hOZFE?oc=5",
       "source": "중기이코노미",
-      "time": "4시간 전",
+      "time": "14시간 전",
       "timestamp": 1793583378.0
     },
     {
-      "title": "하나은행, 모바일로 골드바 구매·선물 서비스 시행",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UckVBejhFdWp0SEt6RzZrNGw2TUg0dF9kMTExTHEwOHlIU2Z2OEcwV3ZrNy11MTQ3aUx1U1RQS0wwRm5XazVyRGxiTGpadDlZY1hfRENiWGdCS2lySUYyb25HRU9jU3lhU0RNMVViQQ?oc=5",
-      "source": "조세일보",
-      "time": "4시간 전",
-      "timestamp": 1793582937.0
+      "title": "국제유가, 美 중간선거 앞두고 하락…호르무즈 해협 긴장에도 외교적 해결 기대",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PVG9BQV9vbnJNcmNlcUlyUG4weGtvcEVZNnZ4X1ZyTVlMSE8zOWVERW1HanhJMzVlRlZjLWowLVJhWE50UXBSdEJTVnBTRUU3?oc=5",
+      "source": "블루밍비트",
+      "time": "14시간 전",
+      "timestamp": 1793582081.0
     },
     {
-      "title": "미국 중간선거·애플·팔란티어 실적 발표… ＇슈퍼 위크＇ 돌입 - 와우넷 오늘장전략",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NVDBoRVZFeTZlZnk5ZFZzMC1XQWFqTU1ZTG1Fa3BoMVFfS09MVGw5V1hZbXJJbDloS3hTMnJTWThZSERnT0VOSWwyeV9qMC1sYVAzNHZDMXBEVnJuLUlmV3hfbVFjQmJuZmNldEMzYi1TWE91T3lr?oc=5",
-      "source": "한국경제TV",
-      "time": "4시간 전",
-      "timestamp": 1793582160.0
-    },
-    {
-      "title": "2026년 11월 2일 오늘 금 가격: 세계 금 가격은 주 초 급등했지만, SJC 금 가격은 안정세를 유지했습니다.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmdBc1NNdXRESWtjMFgyR3hCQ0VHd1lRYTNmcEhfMlpUNWlxUDNXYnBuQ19sdHVkRk5VX3lBSC16ck9HMWp2NVh1d1Y5MmhUYUUyUEUtZ3BSQ1JOTTQzUjFEcWkxZkR2cmFBejFGSTYxNXI3bm9ManBkbHFfMTZjMEJHcy1xaldJZFVBTGRvVTN4bVhSVjRRTWNfMHU?oc=5",
-      "source": "Vietnam.vn",
-      "time": "4시간 전",
-      "timestamp": 1793582056.0
-    },
-    {
-      "title": "저가 매수세 유입에 금값 $3,900 반등, 이란 리스크 지속",
+      "title": "금값, 10월 급락 후 저가 매수세 유입에 3,900달러 회복",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53Unc3UXhJLVA4LTF4RHMzRnJOUl9GRG9rc0RYODcwRHlnUHJycDBSdE5uYUw5aEdRQkJKbDZaQU43VWw0QUpKci1RaGJCbUNTVFIzNGVVVzVaekFSYlNxX1pHMUtJRWpBTU9ubS15QQ?oc=5",
       "source": "Investing.com 한국어",
-      "time": "5시간 전",
+      "time": "14시간 전",
       "timestamp": 1793581500.0
     },
     {
-      "title": "성남문화재단, 12월 16일 '선물: 바흐 소사이어티' 공연",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UVUtLLUgtRXhOTTA5Q2FDWWxPSmFFY0p3TTg3emUtV2xvQjY1SWpXRUZ2cjNqOVhZay1XU3FfSTcycW80SmdFb29iZUtFUE1vUjNXZllIWWxYeEllQzc1LThHbHo?oc=5",
-      "source": "매일일보",
-      "time": "5시간 전",
-      "timestamp": 1793581357.0
+      "title": "인텔 쇼크에 나스닥 2.86%↓…코스피 낙폭 만회",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Vk9IamdlV19zdEhrbmVUYkM3RnNGczBnQkdxMzktWGlVUlI0bkN4YVNUdlFLak5wSmZQcUI5b1pzTE1nU3l3MVdxck1aVzl2eHdja1RtSXB1bF9vV2lKUnRhRGZJVlJRbGZVONIBcEFVX3lxTE5vTVJ4QXlSMkF0ZXA4VEM0NzVxNXBibmdtN2RCOUFFMm9WNUt4S3BGWGlIRlRZNWQyWHB3X1hyU3Ytdk9zV2tsazhESktrYmF2V1BlaUtsbi1ON2pfbXpEWnM0N05tRUZQZ2tweEVqX2I?oc=5",
+      "source": "엠에스투데이",
+      "time": "14시간 전",
+      "timestamp": 1793581344.0
     },
     {
       "title": "하나은행, 앱에서 골드바 구매·선물 서비스 시작",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mcGh3bUp4R082eTB0anRjX3JjemU0bUJzY3NkMU1ac240Qkc2VHFkYldveWhRWFFhRm5KYmpZbVZtSnRLbjNNRTR5RTAxUHlCSlZ5Wjg1UXBzUEtQRWt3UGpHSjB1em85eXVueHhCck12MGvSAXdBVV95cUxNZW9ZZFpjVFlDSzJrWFJRRFJIeHpxMTJwdF92LTk3LWdhaWx4dE55TFVNalk3X1BqdklDNEgtQlZhV3VKOENUZTJmV0NFRmg0aWNGTHpKV25TaXhBOFZicTE5eWdmMGRPeXp4MTFMOGdrbElsRUdGMA?oc=5",
       "source": "뉴스프리존",
-      "time": "5시간 전",
+      "time": "14시간 전",
       "timestamp": 1793581323.0
     },
     {
       "title": "국제유가, 미·이란 협상 기대감에 1%대 하락 출발…美 주가지수 선물은 반등",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01ZWhMend4bmZuSVU3SVhDUGJYNlVRWGQ5QzBwWnFTZVpXcVdLSWJ0U2g4WWNnNGFBZHFXMm00NTdzcXRKTHVfMThJWG9penhmUWRfa2dmcEfSAVhBVV95cUxNNWVoTHp3eG5mbklVN0lYQ1BiWDZVUVhkOUMwcFpxU2VaV3FXS0lidFNoOFljZzRhQWRxVzJtNDU3c3F0Skx1XzE4SVhvaXp4ZlFkX2tnZnBH?oc=5",
       "source": "아주경제",
-      "time": "5시간 전",
+      "time": "14시간 전",
       "timestamp": 1793581045.0
-    },
-    {
-      "title": "미국 지수 선물 1일 거래 0.2~0.4% 상승…중간선거·고용 발표 예정",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNm9kdWY1aTlfbW10SWE1Qk9DVjhNR1l0Q1R1N1N2bERQWEF0ZHc3ZHFVTVVuOHVydHV5R0NYV1dCZXpmU081OXExWU9XbWdsX2ZKMVVR0gFbQVVfeXFMT01wU3JKM1Ztb2VNNmpzUXh2X1RUbGRYb1VXMU1DelFnR2RhVy1RTFR0X29ZMW9KSDBjbFo5M1kxQ2FKNTdWVFE4d0p5emRsNng4djVHcEpRb2t2VQ?oc=5",
-      "source": "토큰포스트",
-      "time": "5시간 전",
-      "timestamp": 1793580990.0
-    },
-    {
-      "title": "하나은행, 모바일로 골드바 사고 선물한다…하나원큐서 서비스 출시",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BOWNzN1JsZlBsckw5UGw2R3VuQzBLa1VuMklCTGtIVGViV29JVDNNeEV2ZmtWaElGcTdXeTVoRXdEQ3BIWGJSRTRRcnJBOFdtU052V2dyWXM1RUFKMWhOTWRyNmQtYzlqdW9jcDJOWllyVks0LWlXaUZaM2o?oc=5",
-      "source": "비욘드포스트",
-      "time": "5시간 전",
-      "timestamp": 1793580786.0
     },
     {
       "title": "[뉴욕증시 금주 전망] AI 투자 불안 속 중간선거·고용 시험대…애플 실적도 주목",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVm4xOXBiTkNrNjNER2dkTWZ4RUExemQ3aURiVEFuMWVxcVppVGtaMTQ2Q3ZzRk93cU90ZU5uenh4U3czei1pZ2c0dXZCLTNkUE4ycGx1d0tvdHhxR2I0MDJ1QURSYkV4UlplYg?oc=5",
       "source": "굿모닝경제",
-      "time": "5시간 전",
+      "time": "15시간 전",
       "timestamp": 1793580679.0
-    },
-    {
-      "title": "환율, 1330원대 초반 지속…외인 역송금·수출업체 네고 공방",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBScEQ3V0x5RlhsbUo2MTQxVHRvMW9ZamdRc0RJU0k0N0JnbktHeGstRDc4M0owRjFabm1jbDJjRlZvb3JQdDRXbXNyLW1CRzVmLUw4LURhc2XSAVhBVV95cUxQUnBEN1dMeUZYbG1KNjE0MVR0bzFvWWpnUXNESVNJNDdCZ25LR3hrLUQ3ODNKMEYxWm5tY2wyY0ZWb29yUHQ0V21zci1tQkc1Zi1MOC1EYXNl?oc=5",
-      "source": "아주경제",
-      "time": "5시간 전",
-      "timestamp": 1793580106.0
-    },
-    {
-      "title": "하나은행, '골드바 선물·구매하기' 모바일로 확대",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YRlpwMDU1ZFBTTkJwbjJtOGVrbUY2enRJZTNDazNmZFdPeVNCQnphOWljNkFRSWd6YmlQR3Rucjg2a0M2R3o5U19Ydmh2WWo4Q0JYcmhFWWx6RHhmZkRwLTV3UFRETWU3NkhyQjQxN3pJZw?oc=5",
-      "source": "중앙이코노미뉴스",
-      "time": "5시간 전",
-      "timestamp": 1793579888.0
-    },
-    {
-      "title": "인텔 쇼크에 반도체주 급락···코스피 5650선 하락 출발",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZ2x1cWEtNUUwcnN1RjVyMDZCYlJibkwtTkxOZ1k3NENsX0gzQmZKYmtqdnExRXdiNHFMNDV0UnFYNXdhNGJKTmlZZHhSYmVqODBXdk9PMThvNW5UdzQ3UU12eER3NXFiMmY0cA?oc=5",
-      "source": "스마트비즈",
-      "time": "5시간 전",
-      "timestamp": 1793579742.0
     },
     {
       "title": "S&P500 선물, 기술주 매도세 후 반등…美 국채금리↑",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORm1wQnpMaWQyc3Vyanh4ZTlieldMSjRYdlU2dWxLMzRjeVRreF9FdXlpUS1EeWFLTGNwTmxxM1ppWmtoSWZYSHlkYTQ1NnNveUI2dFBXeE9ZWk1aNjJQQXlWX0tCejVFV0FHTWxKNXZ6UQ?oc=5",
       "source": "KB Think",
-      "time": "5시간 전",
+      "time": "15시간 전",
       "timestamp": 1793579475.0
-    },
-    {
-      "title": "10월 급락 후 미 증시 선물 소폭 상승…실적·선거에 주목",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xUDdkaDk3Q2lWbzNrV2JDcWRpRkZSREN4SFRBUHVZSmtUTVJlaXc1UU5wY2c0Mm01X09hSlI4SFE2T3VJdlQ1MXQ3dno3Um92cW5IRHNfSjZDR1d0a3BDTU9nVDBQWUVES2czd2RFS2Y?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "5시간 전",
-      "timestamp": 1793579460.0
     },
     {
       "title": "[원자재 시황] 유가불안에 AI 회의론까지…자산시장 동반 급락",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SWnRqV205X1JRSDF2RmFzclotMU93VmozNWVsbl9qUkRHbk9wMVFuSHdrNnBLLURhbDVFcEYySF8zRjQ4MlkyTENodTFhVkMtUnlGR0EwclVWeXhzcmFoaE9FUzlzSE9r?oc=5",
       "source": "www.ebn.co.kr",
-      "time": "5시간 전",
+      "time": "15시간 전",
       "timestamp": 1793579222.0
     },
     {
       "title": "금값 하락세에…하나은행, 앱으로 골드바 구매·선물",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xOUV4OHQzT3ZJZ2dnN3R0aEZyb21iejUzb0MwajBfaUpZMjBLT2RBY3lWandOZndPemdBTmI0YVlhbVR1VUt2RXVTWTEzRmx4VzNyM3JzZzNCSE45TzBIYzJLU0c?oc=5",
       "source": "디지털데일리",
-      "time": "5시간 전",
+      "time": "15시간 전",
       "timestamp": 1793579213.0
     },
     {
       "title": "[오늘 금시세] 금 한돈 62만7713원으로 하락…국제 금값 3900달러 붕괴, 추가 하락할까",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rUHNsLW5GSnpPZEhnUkRUX0JBWUJHM2dTNkQyZlhETXN6N0ZqOXhYZG54STNGbUFmWDhBTm5tY0pYV2hrcXNGaGR0UDFTdlZNNUF3Y1ItU2NZUGJjRU80UnU2NGc3N0wtalVkTmtqUjEzdw?oc=5",
       "source": "톱스타뉴스",
-      "time": "5시간 전",
+      "time": "15시간 전",
       "timestamp": 1793579099.0
-    },
-    {
-      "title": "\"골드바도 '모바일 선물하기' 시대\"…하나은행, 하나원큐 서비스 확대",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGV2Z4Zzk2cHhhSFVnN19PbXlXSF8wcGFkbjJETEpYOGtHcEhKVXNlRlNYX1paNFJtX3FlTVVFdEhnc0s4M1Z3aXBtVjNUUF8wbDJUYzhjclN1dFJGX0Vna0Y0YzRZQQ?oc=5",
-      "source": "열린뉴스통신",
-      "time": "5시간 전",
-      "timestamp": 1793579004.0
     },
     {
       "title": "[뉴욕 마켓 브리핑](2일)",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MOHY2MW04d24yVGtFLVFJMVRNYjA1RWJGaGdvbTJ0eVVWT25zcjE3dkYyM3g0Rml3T09WM3A2RUtzbllucHlwai1kNGRmLUs1b2N4N29jMFJwSGh5WmV1blBCSnhNZW92MElrRVFnN2ZoS0N00gF0QVVfeXFMT0w4djYxbTh3bjJUa0UtUUkxVE1iMDVFYkZoZ29tMnR5VVZPbnNyMTd2RjIzeDRGaXdPT1YzcDZFS3NuWW5weXBqLWQ0ZGYtSzVvY3g3b2MwUnBIaHlaZXVuUEJKeE1lb3YwSWtFUWc3ZmhLQ3Q?oc=5",
       "source": "연합인포맥스",
-      "time": "5시간 전",
+      "time": "15시간 전",
       "timestamp": 1793578626.0
-    },
-    {
-      "title": "기술주 삭풍에 코스피 1%대 하락 출발…美선물 반등에 낙폭 제한",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VSkN4cVE3Z0FfT28wd2Y3d2VwOHhjaDFYaGdGbXQ4bDlnR3FVYk1BQzIwcWh5MHlMNUU3Qm5YZWFMbG9oUFI1ZTBnRW0wbXhiQzQxMFNGRlR6dEg0cllubl9OMV90YW1WeC1iVW50Vlo?oc=5",
-      "source": "연합인포맥스",
-      "time": "5시간 전",
-      "timestamp": 1793578560.0
     },
     {
       "title": "하나은행 앱에서 골드바 산다…모바일로 금 선물까지",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vTWhrbGp6QlRsZDFIemMtRmVYR01CcXQ5aDhoQ2ZxTFBTdkJiOW13UmQ5ZExoQkNIWmdSNmlHTG9JUzIyNzAzZUt0dVJaUnd0NnpBWnBkUTdKaWVkR2laaEFMNXA0WG9Yd25RaklqRQ?oc=5",
       "source": "뉴스퀘스트",
-      "time": "6시간 전",
+      "time": "15시간 전",
       "timestamp": 1793577955.0
     },
     {
-      "title": "[오늘의 금값시세] 2026년 11월 2일 g당 171,020.0원·1돈 641,325원…국제 금 하락",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vWk9BRkxQQTZXYlpBZUU4V3Nlb095d0daLWY2NnRIRlJDOHEwLTRyNWhmT3RvU2t6UW5BcFlVLVppMm9LdjQ4a19zNXdkRzhOZkN6SEI3aHk3bmZvZzNILWFjV21LTVdXRnlFTQ?oc=5",
-      "source": "민심뉴스",
-      "time": "6시간 전",
-      "timestamp": 1793577642.0
+      "title": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNkEtbDFWNW9XdkpvSDFGUDFfY0pzcHRqd3UzNEVwRFZWN3VlcWZLUjh3di1YYms4cFhoUmxFZ0lpOW41cmp6VlVWQ3UyZzFZM2xFMGlxMUs?oc=5",
+      "source": "네이버페이 머니스토리",
+      "time": "15시간 전",
+      "timestamp": 1793577604.0
     },
     {
       "title": "세계 금 가격이 온스당 3,900달러 선을 다시 돌파했습니다.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NUpseVBWN3hyQml6TW90MjF3eGUzLXBxV0drV29RTzF6c0NRblp5d3hBcFpVb3ZBaWotallMM2I4aDZGR2tkNExPSndPQlpxejd1Y19CZmtIRFJqQ2ZleUhvLUwydTV6VlBGZkFuMzlTbHpqcUlN?oc=5",
       "source": "Vietnam.vn",
-      "time": "6시간 전",
+      "time": "15시간 전",
       "timestamp": 1793577600.0
     },
     {
       "title": "뉴욕증시 선물 소폭 상승…AI주 불안 속 중간선거·고용지표 주시",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LVXZEWmFvdWpCeXJTUmJ2SVdfSXVVTEVEVnRhQ2dqN0NNSnZhbXc3SEs2QUNiUTFoam53dExISjIxcjMzUGxhb1JfcXlJZFRRSExyS01FZ2Y?oc=5",
       "source": "뉴스1",
-      "time": "6시간 전",
+      "time": "16시간 전",
       "timestamp": 1793577309.0
-    },
-    {
-      "title": "비철 시황 - 유가 상승과 기술주 투매에 하락",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OYUxJYVh5bmQ5MnA1OVJZZHNVZ1pFSWV4M2JZcUR1LXFLUkZBQnJ6RXNmT2wwYkN0Sm9SN3hyeHJVUzZBYkRZV3MzQ2Jnc1Vmb0JubkgxY2FVX0w5bDh2Mw?oc=5",
-      "source": "Investing.com 한국어",
-      "time": "6시간 전",
-      "timestamp": 1793576820.0
     },
     {
       "title": "지수 선물 시황 - 연이은 AI 악재에 지수 주요 이평선 이탈",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wenkzdXplV1I4bUc0N3Q1N0M0UTFHdnVOMndaaEJoV0lObEZVbzZjZGF6T2VMVk4xSFZrUlQtcUZLOVc5MHFNWWRkN2ZtTms0LVF2YzF0dmU2R2Z4NVlKYQ?oc=5",
       "source": "Investing.com 한국어",
-      "time": "6시간 전",
+      "time": "16시간 전",
       "timestamp": 1793576700.0
     },
     {
-      "title": "하나은행, 하나원큐에서 '골드바 선물·구매하기' 서비스 실시",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMFZRcTFGZkN3NjR2TmVQTFlDOUdkbzJmcnMxbzM4TUwzM1FCWW9hMy1DUGpKMlI5SlV2aTNtZm9ZSWtZbTdHMG9uVk50dWZXMzhKYm5FVkFUeEp1R1ZUQQ?oc=5",
-      "source": "라온신문",
-      "time": "6시간 전",
-      "timestamp": 1793576418.0
+      "title": "오늘(11월 2일) 금 가격: 글로벌 금 가격 하락, SJC 금 가격 급락.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDNRTjlIUUpGS3g5NnBOU2VBcGFLZy05MVlIS0FBZE1ZVXNGYklwXzVoQkpWUUlMQUluSFlNeFZKRVZBQzJzcTZmajFrNmxJc3hxeHdyYXhzN1lRNklFQlhnNG1NYXdwLUJlTGE4czZURE83SjJaQWF2UzNmcDA4a1RieE82QW0weHNET2lLNA?oc=5",
+      "source": "Vietnam.vn",
+      "time": "16시간 전",
+      "timestamp": 1793575757.0
+    },
+    {
+      "title": "오늘(11월 2일) 미 달러 환율: 미 달러는 이번 주에도 상승세를 유지할 것으로 예상됩니다.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0dmTlNCMm5OcHIwRGJHMTJNRWxCTEZfWThsbHFsdmR1cjEyUzQ1N2JrU0pVSzREWVNQeWFBc2tYOWRCVFV5bUdTMkFWc3BGRHZzU2VTeDhjQVUydFpyNFV6QURoallsdTFBNDc2X2d0N1E5U3o3TE0yVF9SOVF4aG1XczlBbE1yRng5ZjliR1dPdDVDUjVQSXhSaEZKRXhlbFFJ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "16시간 전",
+      "timestamp": 1793575757.0
+    },
+    {
+      "title": "[환율 전망] 위험회피의 물결을 거꾸로 거슬러 오르는 원화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YRUJ3T1JwdGp0VHdSQ3ltU2YzWF9VTTBCT1hIQXpNZlh4QzJIMnA3bEp4VThSYnlxeFVRaFhFQThQb3VucmN3UDhFZi0wMU1VcXZoeVZ6Z01DTDhjZ2JrUQ?oc=5",
+      "source": "KB Think",
+      "time": "16시간 전",
+      "timestamp": 1793574928.0
+    },
+    {
+      "title": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40MlpoXzdXOW13YWJXZkk5b3hqa0NxbDNEYUFRMHJnUkRKWGdrRXZXVWxzTWV6RWt1S2gxUzUyaG1FeDduQm1xUXFhYXl2dDNrb2Niak5DTEZ2RTFuUUQ1QtIBYEFVX3lxTE40MlpoXzdXOW13YWJXZkk5b3hqa0NxbDNEYUFRMHJnUkRKWGdrRXZXVWxzTWV6RWt1S2gxUzUyaG1FeDduQm1xUXFhYXl2dDNrb2Niak5DTEZ2RTFuUUQ1Qg?oc=5",
+      "source": "연합뉴스",
+      "time": "16시간 전",
+      "timestamp": 1793574320.0
     }
   ],
   "total_count": 50
