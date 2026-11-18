@@ -1,6 +1,357 @@
 {
-  "updated_at": "2026-11-18T05:12:38.575605+09:00",
-  "update_time_kr": "2026-11-18 05:12",
-  "all_news": [],
-  "total_count": 0
+  "updated_at": "2026-11-18T11:25:40.220616+09:00",
+  "update_time_kr": "2026-11-18 11:25",
+  "all_news": [
+    {
+      "title": "세계 금 가격은 회복 촉매제를 기다리며 계속 하락하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWFlUGhKQ0Nsd2QtUVp1TXYxSzRsTnpHT1VDclpSZm9XWEozdXZORFhlSVpkdHU4UDJXMk5LeDlNNVNkM1MwUDQ3Mkg1ODduY1ZVX2FoX2lzdmdPSXZhbE9pdmV5OFQzWmNJVjA3YS1CQ21HUE01WFJBakZfV29hbWRMeENldw?oc=5",
+      "source": "Vietnam.vn",
+      "time": "57분 전",
+      "timestamp": 1794965291.0
+    },
+    {
+      "title": "나스닥100 선물, 엔비디아 호실적에 반등…美 국채금리↑",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hQzFzZEpoeFd3Q1QxbnN0YllidWFaY05vdVZ0VlpBTkZpeHBSaGxzeVlHWlNzcDZrdTNPQVllRnZqSlZEbnU5Y1lSSHpiX2pKRUUtZ2s2cGxycE1NUmVzSHNGM2pFRFRBbGo4VE9nZlhVZw?oc=5",
+      "source": "KB Think",
+      "time": "1시간 전",
+      "timestamp": 1794964799.0
+    },
+    {
+      "title": "금, 연준 매파 발언에 $3,800 근접 하락",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISE9UcXpnSFQzck5MTlVEdk5Rcm1ZWU81NHNmeW84elJfVTdmOE00dG5ueHN0UnRxRFNNOE5sSTQ0OGhWU2p3R1FOdUVGN1lwSWZpaDF4RTFXZFBJcEJTa2lNc3RwNy1xNzllVTM3Yw?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "1시간 전",
+      "timestamp": 1794964260.0
+    },
+    {
+      "title": "[뉴욕 증시] 3대 지수 일제히 하락 마감…나스닥 4일째 ↓",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQUpkOXUyTVctS2ZjMEpiU2ZrNUxCREk3YzJ3dlVRUlZNUFB4RVB6MlpkdUNTSDJnV1dMbHU1SURYdWY1Z2pQVUhFTzFlSkN5TUs0S1pPQWVuNTdpWDNQUTJEVVR3S3VYdVJtRWtfTjM4dw?oc=5",
+      "source": "한양경제",
+      "time": "1시간 전",
+      "timestamp": 1794962852.0
+    },
+    {
+      "title": "달러 6거래일 만에 약세…환율, 네고 물량에 1330원대 초반",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VNklyTy1TSUdlNHl2V0VpcVZlZmRvSFlpVkJWaUw0VkY4UkcwcnFqZUFIRWhZOV94cXlieW9Ga0ZWcXBpNmhtSjBVd1M2U2R3aFBaUXlkRTbSAVhBVV95cUxNVTZJck8tU0lHZTR5dldFaXFWZWZkb0hZaVZCVmlMNFZGOFJHMHJxamVBSEVoWTlfeHF5YnlvRmtGVnFwaTZobUowVXdTNlNkd2hQWlF5ZEU2?oc=5",
+      "source": "아주경제",
+      "time": "1시간 전",
+      "timestamp": 1794962125.0
+    },
+    {
+      "title": "금 가격이 1년 만에 최저치에서 회복하는 데 어려움을 겪고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWJ1SFlRYXQ5Y3phUjF3T0tZWVhCQWZXZnBkb3hwbl9oUUZCdmMtcVNsWWN5ZDZST0h3clFoR0pmenllVDY4WGNEb09RX0dwNWlMYnpmNUpiajZvSTFKRE9lRzBHWFZnVXZGcklreGJKUnlhS0JrVk9vb0F3a3ljOXZnbW4?oc=5",
+      "source": "Vietnam.vn",
+      "time": "1시간 전",
+      "timestamp": 1794962070.0
+    },
+    {
+      "title": "뉴욕증시, 기술주 약세에 나흘째 뒷걸음...S&P500 7월 이후 최저",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdFBDRG9ZdGlpc3BlSXE1c3RoNFFiSms0UWZyQWl3Nkx0NjRsSWM0b2drVFBNbmgwWklvM0xVSF92c2VmYTJTdFExWWhqWkRodWZDMVhlX0NuOXgyeGhRV1NtZ0Y3UjhEbGo4amFTQdIBb0FVX3lxTFBwdFBDRG9ZdGlpc3BlSXE1c3RoNFFiSms0UWZyQWl3Nkx0NjRsSWM0b2drVFBNbmgwWklvM0xVSF92c2VmYTJTdFExWWhqWkRodWZDMVhlX0NuOXgyeGhRV1NtZ0Y3UjhEbGo4amFTQQ?oc=5",
+      "source": "더퍼블릭",
+      "time": "1시간 전",
+      "timestamp": 1794961918.0
+    },
+    {
+      "title": "[뉴욕 마켓 브리핑](18일)",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2VXZDNlNJeXM4NnBKaF9wWjZOY2drWGdiTEpfdXNGbUw2eXUycHRPMXNPekt6MUtDTGVwWTh2SmQ5dTI2S2RGemp2REdSQmhyb2Z3WV9pZnFLc01BZkNkcVRUYXdyVHA3TzBjMmNsclU4aWtV0gF0QVVfeXFMUDZVdkM2U0l5czg2cEpoX3BaNk5jZ2tYZ2JMSl91c0ZtTDZ5dTJwdE8xc096S3oxS0NMZXBZOHZKZDl1MjZLZEZ6anZER1JCaHJvZndZX2lmcUtzTUFmQ2RxVFRhd3JUcDdPMGMyY2xyVThpa1U?oc=5",
+      "source": "연합인포맥스",
+      "time": "2시간 전",
+      "timestamp": 1794960814.0
+    },
+    {
+      "title": "[오늘의 금값시세] 2026년 11월 18일 g당 168,200.0원·1돈 630,750원…국제 금 보합",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvcWdVZjBqTWVNbUdvTkxmVTZrZnU2LV9vSE1NcjAyNmpLdmFXMkNrTTQzVXEwWFA0N01lbGdjdlc3bGxEWlJPcTYyQlJfQS1OWjFmLUxFN3B2WFFMUk5HNkVZZzl0cm9vaEQwaVVB?oc=5",
+      "source": "민심뉴스",
+      "time": "2시간 전",
+      "timestamp": 1794960035.0
+    },
+    {
+      "title": "뉴욕증시,엔비디아 실적 경계감에 일제 하락…나스닥 0.74%↓",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YYWtOdGxGakx0dHFCUHBfeDlSZlN0elJfWVBsUGgzRVVfb25QVmlueHc5S1JkYm5CR0lqd2lHZ0xCNjE5V0tLOHo1TnNLQlA0b05LOFVOWUQ1V2VSODVhTHRRUmIwRDlWSWhWYQ?oc=5",
+      "source": "스페셜경제",
+      "time": "2시간 전",
+      "timestamp": 1794959627.0
+    },
+    {
+      "title": "[모닝 경제 브리핑] 강한 소매판매 · 연준 매파 발언에 뉴욕증시 하락 마감…엔비디아 '어닝 서프라이즈'로 시간외 반등 중",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iRi13dFVoR2RxSmNzWlc1TmJ4czFjZ2g0dDZnR1NOSEhSMkY4WTY2UEljWnlEU05GeDNIdloxbkhRS25uSmNnNnA5S3lDNVlidEN5UHl3TlZKdFhxbkdRdTB0eFR2anhqUnNfVg?oc=5",
+      "source": "프리진경제",
+      "time": "3시간 전",
+      "timestamp": 1794957922.0
+    },
+    {
+      "title": "국제금값, 美 장기금리 하락에 반등⋯금 선물 0.3%↑",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCWTE2UkJJd3ZRMWJvdVVfWVg5cUlXVE1Fc1N2ZGNXWEU4T3hSQzZidDNPSVJaVF9ud0o3SFA1OEFSdk1LSHBUZmJJSzdmYmt2WklFVw?oc=5",
+      "source": "이투데이",
+      "time": "3시간 전",
+      "timestamp": 1794957840.0
+    },
+    {
+      "title": "美 증시, 엔비디아 불안에 3대 지수 급락···중동 충돌에 유가 상승",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zTE9EcWNhSWx1TTVWTHI2SDE5TDd2aElNUEJmUU15QzEySlVZM1ZQcmZ4TG5rNkxPaDJBcDExX0VIWjdMbGlRNWxJOHZHRHR2QlZ4elZxQ2ItWm9GSXF6dElsbk9Cck1FY2xReA?oc=5",
+      "source": "스마트비즈",
+      "time": "3시간 전",
+      "timestamp": 1794956735.0
+    },
+    {
+      "title": "오늘(11월 18일) 미국 달러 환율: 미국 경제 지표가 엇갈린 결과로 발표된 후 미국 달러 가치가 하락했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVAwaDROb3ZBVVgxMVVpcWFhZ3RkcnlRWlhJVGFTejJ2MEJtVFl2RnduSEMwWWtBS3BfdERQdjhTeHdRbjRwYWhLZEpxUWNaZnFVVU5YTnZfX1NQY3NLTGtLUkVLbXZBWlhlWVZzR3NsUElUZmVYZlQzWmh6ZGM5YXVIVV9zOC13MlhiQWJaamxKV3UxbWxiNzJEY3FUYTUtQ0lIMVFn?oc=5",
+      "source": "Vietnam.vn",
+      "time": "3시간 전",
+      "timestamp": 1794956342.0
+    },
+    {
+      "title": "최저치 맴도는 국제 금값…국내 금시세는?",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wS2ZhMVNJRFd1MXlFUTdiZ3dzWHZWOXJHS0k0a0hhaVN2NkltVnRhMXA5djMwUmFsTzNKRXlOcDNPVm9hemYyT1BuY2FvdGx6ekZBbw?oc=5",
+      "source": "이투데이",
+      "time": "3시간 전",
+      "timestamp": 1794955920.0
+    },
+    {
+      "title": "뉴욕증시, 엔비디아 경계·NSA 통신망 장애에 하락 마감",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RTW5sQjJLbXBfRGMzak85dm8tTll2emQ3d3ZubUFXcFBSOU1ESlJJRGZKLS14Vmpjb0NGVVVucEZGZl9rNWVDSmxzbUdvWHhFX3dUOHIyNGJXRlpOUjRVS0dxenBvdVBYME5v0gFvQVVfeXFMT0x0RXhrQm5yaWNmX2Q3VktpeEZrZXZ5ampTZFJERVk0U0RKSEJkeWk2cUFDeDdjQWhZd3ktQ05vOWx5bXdBQTJ4eF9BUnZib09GNXltZVJ4T0M1amdHMkNpNTRselpHenp1eHBaRC1R?oc=5",
+      "source": "글로벌E",
+      "time": "3시간 전",
+      "timestamp": 1794955332.0
+    },
+    {
+      "title": "오늘(11월 18일) 금 가격: 지속적인 하락세로 1년 만에 최저치를 경신하지 못하고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG9sTDFqbHhhYjVseFdKdHgyaVVtUnNOLUN5VWRIU180SlZNdDBGVWR3YTM5MGt1S1dBZnJmVjNod3M3MlRQOWxhT2VkY1ZhTXp0WkluelRyRDg5UG5ydFhKLWlZVmJqYXR1Mkw5YTFHSXNzNUxEOVhtV2drRTAtX1VhbW1GWTdhdHQ0c2ZsUGZYUWc5Smc?oc=5",
+      "source": "Vietnam.vn",
+      "time": "3시간 전",
+      "timestamp": 1794955274.0
+    },
+    {
+      "title": "[글로벗 마켓시황] '기밀 통신망 장애' 투자 위축…3거래일째 약세",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VSEFaTjFoLTZyR0k3NS1oT09mZTlKR3ktRzFGclhVb0xzQlpIR015bDVOM1lIdWNmajVXLVBQY2pkTURsOU1CTTVyODIyNDR0WU56cUYwRERJS3B5V2VOMlZkektDeXB6dDJ3?oc=5",
+      "source": "m.news.sbs.co.kr",
+      "time": "3시간 전",
+      "timestamp": 1794955207.0
+    },
+    {
+      "title": "[오늘의 증시]엔비디아, 호실적에 시간외 2% 반등…코스피 5000선 회복할까",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUlYtNGNPQ0FUbU9zb3ZHeUhhUGlUUXRLMFF0eU5lVjhGbFdOeDQ0cUN6emtZU095bUpweXlDZElUSHVadHRTdTlEblFvX0NqQjF5aEFRX3B1Q202aDdlaFZFWEszZTJTV09rV0xrUkFOLWxkUEVPctIBeEFVX3lxTE5nUlYtNGNPQ0FUbU9zb3ZHeUhhUGlUUXRLMFF0eU5lVjhGbFdOeDQ0cUN6emtZU095bUpweXlDZElUSHVadHRTdTlEblFvX0NqQjF5aEFRX3B1Q202aDdlaFZFWEszZTJTV09rV0xrUkFOLWxkUEVPcg?oc=5",
+      "source": "뉴시스",
+      "time": "3시간 전",
+      "timestamp": 1794955104.0
+    },
+    {
+      "title": "[뉴욕 마켓 브리핑](18일)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Qb0QwTmQxa1prU2FVRmJWbVQ3REh3N1B2SGRIVUJVWXVHR1FFc0dDbnFULXZ4ZjhPTVUzbG1fNkhhajdKX2Rhb1RwN3JPV19LMG5GcGttTzhNMHBzTTZyRUZad0IwdURXYnJzVEFobEdtZw?oc=5",
+      "source": "KB Think",
+      "time": "4시간 전",
+      "timestamp": 1794953371.0
+    },
+    {
+      "title": "미국증시 다우 846포인트 급락…엔비디아 실적 불안에 금융주까지 매도 확산",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNW9DNk5ocnhpdUJJZm5iOEhGZEVlQWhTNzVsb0duZXZUeS1jUUhyYnA0b3RGay1WLVB5Rkdmd2J2amJRMGV2b2RVa3BUdzZoLWZRNzJ1ZHllVjhaUXNVM3pNUlhkT0ZsYzJnZnRGSjg1Zw?oc=5",
+      "source": "톱스타뉴스",
+      "time": "4시간 전",
+      "timestamp": 1794953208.0
+    },
+    {
+      "title": "국채선물, 美 국채 강세 속 혼조…10년물 14틱↑",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4VDdDYVF1UmtnWl9hRUZhcVZGYldrOC1pV21uOXd1b0Z5d1MybW1mUkpLZjVWelVvV05YUjhPU3NnUGdETkxjd2pwNmZnNlZfT0poNjNxY1VFajM5aThuZU1WMFc2X2l4UDBKdFZyOUNsUQ?oc=5",
+      "source": "KB Think",
+      "time": "4시간 전",
+      "timestamp": 1794953026.0
+    },
+    {
+      "title": "엔비디아에 떤 美증시…장 끝나자 실적에 안도[월스트리트in]",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbmVzeWl5a2NZTE4wWFRScnZ3c05QYzhNRmFjd21Bd3NJckZQb3dlTlQ2cTNkSmo5Zl84X2JhVWVyUmE5ODhKT1dBdy1WZW1SRW5zOTM3WWRGVkJQSlI3ZzI4aFVUN1lRX2lBOFRYSV9rMFRtN2swTmMzWUF4SHZkTg?oc=5",
+      "source": "이데일리",
+      "time": "4시간 전",
+      "timestamp": 1794952995.0
+    },
+    {
+      "title": "[굿모닝 美 증시] 엔비디아 매출 ‘1158억 달러’…뉴욕증시 3대 지수는 하락",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lNjNjQ3FVenlOdTJTU2RVQXF6LXhEekoyYlhianFlQ0FTclFESkYxZ2JqbzJITm1NdVZSUVBOTnROb2FFOXhna1hzSGR4Y1pYSmRLbHRDS21YYm5US2lRWjJ2a2pTc3FzSEEzaV9n?oc=5",
+      "source": "아시아투데이",
+      "time": "4시간 전",
+      "timestamp": 1794952834.0
+    },
+    {
+      "title": "[뉴욕증시 마감] 엔비디아 실적 앞두고 일제히 하락…다우 1.64%↓",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SYnpEOF9BbHJUNHRfZ0puRTB5VVZQbmZPbWlWQkZLdldfYzJzWHBqS0taM2dxY3VOOXFnYndqM3hEYnVjbkNYLWtVWlFsWTJjcGFULVJ4SmbSAVhBVV95cUxNUmJ6RDhfQWxyVDR0X2dKbkUweVVWUG5mT21pVkJGS3ZXX2Myc1hwaktLWjNncWN1TjlxZ2J3ajN4RGJ1Y25DWC1rVVpRbFkyY3BhVC1SeEpm?oc=5",
+      "source": "아주경제",
+      "time": "4시간 전",
+      "timestamp": 1794952802.0
+    },
+    {
+      "title": "뉴욕증시 일제히 하락.. AI주 혼란 속 SK하이닉스 ADR은 꿈틀 > 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02a0l1TG1xY3dXb01aMWpJdTgxT2JmdlNFUUNPOWtQSGliVzlDeS1IckhwclZZZ3VfUnRvYnpvckUybVYzS1owbVZGWGhBbzI0bkFzRFdNNzZERXdtcmFvaHM5NFhwcVFiejVIbg?oc=5",
+      "source": "지데일리",
+      "time": "4시간 전",
+      "timestamp": 1794952500.0
+    },
+    {
+      "title": "뉴욕증시, 엔비디아 실적 경계감에 하락 마감…나스닥 0.74%↓",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1COXFlWlpaVGwzODdkcEY1WVVlWjJLZUs3eUVBTjVTZTUtRnltR3NRUVhXbGZoMU1JTUgxWlRzNHViMlV2cGF4QTVOZnVnZTNLWXhGTzZJYXJLakhJOVVfRU53cGs2V3Zhbl82bHJnNXZaQ21YaHBpMdIBeEFVX3lxTE1COXFlWlpaVGwzODdkcEY1WVVlWjJLZUs3eUVBTjVTZTUtRnltR3NRUVhXbGZoMU1JTUgxWlRzNHViMlV2cGF4QTVOZnVnZTNLWXhGTzZJYXJLakhJOVVfRU53cGs2V3Zhbl82bHJnNXZaQ21YaHBpMQ?oc=5",
+      "source": "뉴시스",
+      "time": "4시간 전",
+      "timestamp": 1794951324.0
+    },
+    {
+      "title": "뉴욕증시, 하락세로 마감…나스닥 0.74%↓",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJVGh1T3J4LS1nZ09YRGVmb3NXWS15NmJQdWdSc0ZkQjU4S1M2OXFqSDBBTkZtdUJfdEREMTRRbzRIYnA4MW9rN1lOdnhZNmI3?oc=5",
+      "source": "블루밍비트",
+      "time": "5시간 전",
+      "timestamp": 1794949521.0
+    },
+    {
+      "title": "[뉴욕채권] 이틀째 불 스팁…소비 호조發 약세 압력 증시 하락에 되돌림",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sbnpjbjd2RFJKTHdsdFVuUnFsUzEyUjhQd1JXN3prekZZV0ZEbTB5V0FZa0c0bVJBdWhOMkN2bk5hSFp4VklfanpPMGxlUlVWOTUxYUptRGhkMmE3WlVkVi1ZZVVkRXA4Q0h4MXg5WWJGdw?oc=5",
+      "source": "KB Think",
+      "time": "5시간 전",
+      "timestamp": 1794948737.0
+    },
+    {
+      "title": "[뉴욕 금가격] 증시 하락에 긴축 우려 완화…0.5% 상승 |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjTFpKY0pJMTFueERBSXJJRzBNajBDdEZiWUpERlFpY1pzSU1UQlNyT2VoeG9vQURSN2kyd2tkUEdwNmwxRktscmoxa054cUlwZmhwRm5ZYXpCcDdKTWpYUGFnNzF6cWtwZkFER1VKVzYwcEdL?oc=5",
+      "source": "연합인포맥스",
+      "time": "7시간 전",
+      "timestamp": 1794941040.0
+    },
+    {
+      "title": "원자재 값 상승·하락에 베팅… 금·은·구리 선물 ETN 6종 상장",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEhsQmx2WlIzUlFhZjBCRVdUMXVpVTlGT2JRNVA2RG1HWXZ4a0RjaDZBZWo1RkdMLTJ5d0pIOGlMSEFNRzc3N3ZvY2xMR1otcVhLM0ZxWGRycVdkaFNNVkhsV2ZScGZJNFdLbS1JTDI5a1R6V0g0N1FRRDEtdnZOV1B3QnUxWTRKbEVVWFBR?oc=5",
+      "source": "조선일보",
+      "time": "10시간 전",
+      "timestamp": 1794929820.0
+    },
+    {
+      "title": "미국증시 전망, 나스닥 2.49% 급락 뒤 반등 시도…엔비디아 실적·10년물 금리 5.14%가 변수",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xYnJoX1lMMXNYdGJHOFBPa1p0LUVuT3VIR1dsMk9YX2FHTTdVWHdpVHBKc25uZlBtVUN2WmZ5bFZRRTRnMkx1bWpxTmVMaGFVaXFNUVNIcGUyN2o2c3VXZ1lUS0ZNSTlZak1ITVl3d0NFZw?oc=5",
+      "source": "톱스타뉴스",
+      "time": "12시간 전",
+      "timestamp": 1794924278.0
+    },
+    {
+      "title": "뉴욕증시 프리뷰, 미 주가지수 선물 혼조…엔비디아 실적·앤스로픽 IPO 앞두고 기술주 반등",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWdjTUFnRFlndVdNaklFLTRmVWt0ZDU5dG45SnNzRlZXZlV5blBrV01yaW5pV3VrX0JtNWpUVmp2a014VjhUc0ZMYUR5Y2JLU1pDSUxCUG9Ia2JO?oc=5",
+      "source": "뉴스핌",
+      "time": "12시간 전",
+      "timestamp": 1794922140.0
+    },
+    {
+      "title": "그르브트, 예측 가능한 펀딩 구조로 상품 무기한 계약 출시",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtdzRBU0xzUjRpSkVWQVBSblVpek5JRnkwdVZ4SUZ6d203b09PTTJzeWZ1U09SRlFhS1l0VXVQc1NHcnNCQ0xCV1AzZjlhRUlOVTVYY0ZGVUY1NnFZRFRMV2YxOVNxOEtES1NjbWFn?oc=5",
+      "source": "민심뉴스",
+      "time": "13시간 전",
+      "timestamp": 1794921606.0
+    },
+    {
+      "title": "Grvt, 보다 예측 가능한 펀딩 구조를 갖춘 상품 무기한 계약 출시",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGU4dEZwaDJBa3EzbEFtWVpPa1ZJY2JuTHRYemZXXzd3Z2VyVS0wc1MxdXVUcllQSkdTT1NfZHBPUFVDbWNJcGtCSEpQeURPR3BNOVJpRnhHQUtELTBYdjNYcTY3MUEwZml0YWlaUE5YbldFZlR6VUotaXBNR2EtMHdIU3dSb01YVE1vd2p5cTgxSHJyWG5KVGxySUxxRG1KYlZwX252VXUxaHJ1V3M5RFVFQTF5SUloNWRyOFU2MXExQVZZWGRsY01zenJfR0YtZXF3U3cxVjM?oc=5",
+      "source": "CoinDesk",
+      "time": "13시간 전",
+      "timestamp": 1794920400.0
+    },
+    {
+      "title": "금 선물 3862.80달러로 0.25% 반등…전날 장중 3830달러까지 밀렸다",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RTzRONVZ2dHlYdHY3a0JFbHFsZVN0VzRqUXN1a0dfZkFzdy1wSUdlT0ZWZFlfck1vdklMMm9lU2VaZmo1SGh6bndPYVNXQlg5MTd1X1d2RVFJODNI0gFcQVVfeXFMT1FPNE41VnZ0eVh0djdrQkVscWxlU3RXNGpRc3VrR19mQXN3LXBJR2VPRlZkWV9yTW92SUwyb2VTZVpmajVIaHpud09hU1dCWDkxN3VfV3ZFUUk4M0g?oc=5",
+      "source": "토큰포스트",
+      "time": "14시간 전",
+      "timestamp": 1794918336.0
+    },
+    {
+      "title": "통조림 회사보다 싸진 이 회사의 실적발표 [11/17 G브닝]｜Global Money Club",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nZ0JqUUl1WDY2c3ZOcUM5RERnSVYzNVRxSTNFTUJWQzFLQ3lSQ0t5OE1zdTMwVk04VUQxeXVhOTBxS1JndE5DQjhLSTBCZzM4THdyRENlN2xFNHc?oc=5",
+      "source": "중앙일보",
+      "time": "14시간 전",
+      "timestamp": 1794917697.0
+    },
+    {
+      "title": "Nvidia 실적 발표 앞두고 Huang 퇴진 후폭풍…시장 움직이는 주요 변수",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53Zkp2eEVHZHpLVEJCYURzdnJnU0kwenROOUNKYmxrNDN0aXluMHVLZ0loeDBGWUdoNHJHVVctSTd1RmxCTmdRX0FUbk44TEMyZDBhODY0M1FFVTlobHQyb2ZpRkF6UW5BVVE?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "17시간 전",
+      "timestamp": 1794906420.0
+    },
+    {
+      "title": "미 국채 수익률, 한 달 만의 최고치 부근서 숨 고르기",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84al9SMnBqUFR3ZVc1NXJZa0JhWGJPWFl6RXlOU0R6VHpTSld6Y1FpVFNEcVNMdE5RTGdXZWIzY0UtWFc0ZE5Od0tIT1NZWG5qaGZqZVpncm1EZG5VUkN6SkFabzJMOUE?oc=5",
+      "source": "Investing.com 한국어",
+      "time": "17시간 전",
+      "timestamp": 1794906000.0
+    },
+    {
+      "title": "삼성증권, 금·은·구리 선물 ETN 6종 상장…상승·하락 양방향 투자",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iai1yVG1mbjZBRWFOcklyUzE2dVAtMml5YlFOWmdSRmJYZUMwWlJMUl9qUmhFMnhEcExQVno5U3ZWa1hZWE9jeGtmUEM4UQ?oc=5",
+      "source": "www.dt.co.kr",
+      "time": "17시간 전",
+      "timestamp": 1794905812.0
+    },
+    {
+      "title": "마이크로 금, 은, 구리 상품 업데이트 - 2026년 11월",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1lGWkNfN0NSeUtBdEFyMWZMUVZUMDY2WlhqSjdaZGhxMjhNc0VUWEhJODQxUS1sajl3djN6Y3I5eUJtZTM4ZVVWTlM1MEZPb0twTFI5T2RNQkFqclZLc09zSzBQdkhmMHVJcEkxT0tkODVZTjBEZ3B6OFJSUEwyQlFHa0NkdEsxNUZzWjRzUHhGUkpEcEpkZnFFdWQ3OVJlLXhQMDZJWkN5NW5WNUZVcmlSY0xHYkhTTndCOVVoMmNVTzA?oc=5",
+      "source": "CME Group",
+      "time": "17시간 전",
+      "timestamp": 1794904779.0
+    },
+    {
+      "title": "금 가격 역전 상승, 달러화 계속 압박",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3k2LVp3YkFQNV96Um1tcVlabEpzandjamdZY3ZFcGlTTFJDMFlwM19PbDd0SGdWNGRSTEFaSUJuWHdHVTVZT1RNZkNQNWU5RWZ1U0h4WGJUX0NsNHIxVVZMWkpTV0ZCMWh3dGxOMjc1NWJDM2xxUm1EWFFfcFp2TmNhU1R5MWxRc2ZzcDZNanZ3WHVORkIwSW03OGFwd1R6V1BwN2NqMHN3UQ?oc=5",
+      "source": "Laodong.vn",
+      "time": "17시간 전",
+      "timestamp": 1794904689.0
+    },
+    {
+      "title": "은값 60% ,금값 30% 폭락에 \"비명\"··· 금·은 ETF 수익률도 '비상'",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50UndJV0NqYXB5dlNhaXJaekx6dVdvQXdnMF9XVUFGcjZKdnNCR2xXRnN4SEY2ZGZYUWxpNEZrY0hqQUxMWDVfT3RScUk0Vm92Z1FSY3hsRXFST0FkdEF2QXEyVmxBc0lENGNzVFI3M1Jtc3Q1ZEVFVFlB0gF6QVVfeXFMTnRSd0lXQ2phcHl2U2Fpclp6THp1V29Bd2cwX1dVQUZyNkp2c0JHbFdGc3hIRjZkZlhRbGk0RmtjSGpBTExYNV9PdFJxSTRWb3ZnUVJjeGxFcVJPQWR0QXZBcTJWbEFzSUQ0Y3NUUjczUm1zdDVkRUVUWUE?oc=5",
+      "source": "그린포스트코리아",
+      "time": "18시간 전",
+      "timestamp": 1794902580.0
+    },
+    {
+      "title": "SJC 금 가격은 소폭 하락한 반면, 중앙환율은 13동 급등했다.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY29aTmtORVV2QlRibkRxRVVXanhRNHprMXowS2hRdWtPT3Nfc3lBemZHWm13NE5CR25DSDNhS21ieU9BeHhJNTJtMDJMUHYzWm5SR1JSa0ItQU5yWTZIZHBTY3VOWks3elBWa19qT3BuR0FYbHVOQkxPYXRyLXRjQUd3X19wNTB2dUU5VzU0MA?oc=5",
+      "source": "Vietnam.vn",
+      "time": "18시간 전",
+      "timestamp": 1794900477.0
+    },
+    {
+      "title": "코스피 5000선 붕괴···외국인 1.4조 '매도 폭탄', 반도체주 직격탄",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4takhuVmRKdzRCZHVkaFB4OEYtQmFReURLOXBfSHhral8wYVNnUHVBR1dKZTRFRlNlSk1QVEZHMHU5S2lyMFVhejM0N29VR0xGRldjUGVBdzFNNC0xSEVmdjEyRGJnVFJ5THplLQ?oc=5",
+      "source": "스마트비즈",
+      "time": "19시간 전",
+      "timestamp": 1794900079.0
+    },
+    {
+      "title": "투자 심리 악화에…원·달러, 2.5원 오른 1338.2원 마감",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpTXlPLTVWWWJWbWE4MEtWZlp1MzhGb2VNU0NZX3Q3b3lUdXdEclpxQ1kzYnlZeGpfOHJUOTJYSk80T0RuOE1OTVVGNWVpTkNZc3J6Z0Q0S0wyTlE2ZHhGdFlWQ3p3VVRvWlduT0w0SFpMTGczWDNIZ9IBeEFVX3lxTFBpTXlPLTVWWWJWbWE4MEtWZlp1MzhGb2VNU0NZX3Q3b3lUdXdEclpxQ1kzYnlZeGpfOHJUOTJYSk80T0RuOE1OTVVGNWVpTkNZc3J6Z0Q0S0wyTlE2ZHhGdFlWQ3p3VVRvWlduT0w0SFpMTGczWDNIZw?oc=5",
+      "source": "뉴시스",
+      "time": "19시간 전",
+      "timestamp": 1794897857.0
+    },
+    {
+      "title": "오늘 금가격(금값), 드디어 6거래일 만에 반등... 금시세 상승 이끈 겹호재",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSWFzUWJ0aHNEZEpDYTg0YVJ4b0QxbDl0aGxCNGdhTWtaOVdtdmdycExpZnZZc1RmdXJ3NFNpaElFSFdKTlNydWhjQ2lEbXQ2MHROVW9WaUt3WlhRazdiYkkzRFZRU3o0NGE0YU9vaTBSTHJQRWtDNDlSTzNUVldiUWZCTmlvS0RQT3dpRGgxRUNtUTdvLXh3Nm5ZLVBCSTdjQjk1eE93?oc=5",
+      "source": "위키트리",
+      "time": "21시간 전",
+      "timestamp": 1794893040.0
+    },
+    {
+      "title": "세계 금 가격이 급락 후 소폭 상승했다.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRFpwaFJKSVY2MWViWDJ3cDhwRUx4ZGtYVXlrUWpRc0JsYkotWnlfZS1HckloTXFBQ1JGS01YV1BmMWdRek04eERZandkZ2ZjNXd6ZGM5UTZGYm9tTzlGSEt2VjdyZTl5dEI1Tm5HRGZOdHdqcWQtY1ZxTQ?oc=5",
+      "source": "Vietnam.vn",
+      "time": "21시간 전",
+      "timestamp": 1794892412.0
+    },
+    {
+      "title": "11월 17일 금 가격: 강세인 달러화로 인해 세계 금 가격이 1년여 만에 최저치를 기록했고, 국내 금 가격은 하락했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmlvaVh2anVWa080QnJoVElFSEZYRDVOSnhLb0FCS3pCSHJVeUU2a29LS2Nmd19fbVAxXzlyb3JxTjBKbnoxV2JFeDRLXzc2dFhJTkJXWmt4ckY1SDhsSWc4WlMyaEhKTHdMQVIzX01PaVNDNXN6dFk1eUszYlA0UTNNeWJqSWZWT19hblJROGVzd2VqV0U0M0RZMFBMNVBTRFRMUk1aN2o0aUVuRDZJR1M0RWJTLTBs?oc=5",
+      "source": "Vietnam.vn",
+      "time": "21시간 전",
+      "timestamp": 1794891988.0
+    },
+    {
+      "title": "오늘(11월 17일) 금 시세: 세계 금 시세는 온스당 1억 2천만 VND에 해당하며, SJC 금 시세는 온스당 1억 3천720만 VND로 하락했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0RKX1J2dUZHMjlhb2UwT29aLWN2OXFBczlwVkdmVTB1WEhWYlVVZEEzS0dnWlp4NkR6V0Y0Z3RrVjNMcWVPcHNjM1VkRkt3YWhIbTBmQjllTFN4WkxRRGZNeGdKT2lIRmxZdDFrTS1MWFhQZlBYWWlQeVFhNzFybGJLZWNRNS1ra2pkUENSekpYeXUwZ2lLdGVJLU5pVUx0eERVSDV0dnVVaUdvMTBYTXBpODZ2VzNQN0E?oc=5",
+      "source": "Vietnam.vn",
+      "time": "21시간 전",
+      "timestamp": 1794891200.0
+    }
+  ],
+  "total_count": 50
 }
